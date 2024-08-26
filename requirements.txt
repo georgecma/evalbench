@@ -8,7 +8,7 @@ pymysql
 sqlalchemy
 pyaml_env
 pyarrow
-protobuf==4.25.3
+protobuf
 absl-py
 tabulate
 grpcio

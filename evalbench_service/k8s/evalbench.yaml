@@ -1,0 +1,45 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: evalbench-namespace
+  name: evalbench-eval-server-deploy
+  labels:
+    app: evalbench-eval-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: evalbench-eval-server
+  template:
+    metadata:
+      labels:
+        app: evalbench-eval-server
+    spec:
+      serviceAccountName: evalbench-ksa
+      containers:
+      - image: us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:latest
+        env:
+        - name: EVAL_DB_PASSWORD
+          value: pantheon
+        imagePullPolicy: Always
+        name: evalbench-eval
+        # go/gke-shipshape
+        securityContext:
+          allowPrivilegeEscalation: false
+          capabilities:
+            drop:
+            - ALL
+          readOnlyRootFilesystem: true
+          runAsUser: 65532
+          runAsGroup: 65532
+          seccompProfile:
+            type: RuntimeDefault
+        ports:
+        - protocol: TCP
+          containerPort: 50051
+        volumeMounts:
+        - mountPath: /tmp
+          name: tmp-volume
+      volumes:
+      - name: tmp-volume
+        emptyDir: {}
