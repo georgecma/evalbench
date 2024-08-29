@@ -5,15 +5,16 @@ package cloud_databases_nl2sql_eval_sqlgen_proto;
 option java_multiple_files = true;
 
 message EvalRequest {
-  string id = 1;
-  string query_type = 2;
-  string database = 3;
-  string nl_prompt = 4;
-  repeated string dialects = 5;
-  string golden_sql = 6;
-  string eval_query = 7;
-  string setup_sql = 8;
-  string cleanup_sql = 9;
-  repeated string tags = 10;
+  string session_id = 1;
+  string id = 2;
+  string query_type = 3;
+  string database = 4;
+  string nl_prompt = 5;
+  repeated string dialects = 6;
+  string golden_sql = 7;
+  string eval_query = 8;
+  string setup_sql = 9;
+  string cleanup_sql = 10;
+  repeated string tags = 11;
 }
 

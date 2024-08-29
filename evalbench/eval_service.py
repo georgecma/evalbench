@@ -4,12 +4,12 @@ from collections.abc import AsyncIterator
 
 from absl import flags
 from absl import logging
-import datetime
-import urllib.request
-
+from typing import Awaitable, Callable, Optional
+import contextvars
+import yaml
 import grpc
-
 from util.config import load_yaml_config, config_to_df
+from util.sessionmgr import SesssionManager
 from dataset.dataset import load_json, load_dataset_from_json
 from dataset import evalinput
 import generators.models as models
@@ -19,7 +19,7 @@ import reporting.report as report
 import reporting.bqstore as bqstore
 import reporting.analyzer as analyzer
 import databases
-import json
+
 
 import eval_request_pb2
 import eval_response_pb2
@@ -31,12 +31,39 @@ _experiment_config = flags.DEFINE_string(
     "Path to the eval execution configuration file.",
 )
 
+SESSSIONMANAGER = SesssionManager()
+
+rpc_id_var = contextvars.ContextVar("rpc_id", default="default")
+
+class SessionManagerInterceptor(grpc.aio.ServerInterceptor):
+    def __init__(self, tag: str, rpc_id: Optional[str] = None) -> None:
+        self.tag = tag
+        self.rpc_id = rpc_id
+
+    async def intercept_service(
+        self,
+        continuation: Callable[
+            [grpc.HandlerCallDetails], Awaitable[grpc.RpcMethodHandler]
+        ],
+        handler_call_details: grpc.HandlerCallDetails,
+    ) -> grpc.RpcMethodHandler:
+        if rpc_id_var.get() == "default":
+            _metadata = dict(handler_call_details.invocation_metadata)
+            rpc_id_var.set(self.decorate(_metadata["client-rpc-id"]))
+            SESSSIONMANAGER.create_session(rpc_id_var.get())
+        else:
+            rpc_id_var.set(self.decorate(rpc_id_var.get()))
+        return await continuation(handler_call_details)
+
+    def decorate(self, rpc_id: str):
+        return f"{self.tag}-{rpc_id}"
 
 class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
     """A gRPC servicer that handles EvalService requests."""
 
     def __init__(self) -> None:
         super().__init__()
+
         logging.info("EvalBench v1.0.0")
 
         self.experiment_config = load_yaml_config(_experiment_config.value)
@@ -105,4 +132,28 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         )
         summary_scores_df["job_id"] = job_id
         summary_scores_df["run_time"] = run_time
+        return eval_response_pb2.EvalResponse(response=f"ack")
+
+    async def Ping(
+        self,
+        request: eval_request_pb2.EvalRequest,
+        context: grpc.ServicerContext,
+    ) -> eval_response_pb2.EvalResponse:
+        return eval_response_pb2.EvalResponse(response=f"ack")
+
+    async def Connect(
+        self,
+        request,
+        context,
+    ) -> eval_response_pb2.EvalResponse:
+        return eval_response_pb2.EvalResponse(response=f"ack")
+
+    async def EvalConfig(
+        self,
+        request,
+        context,
+    ) -> eval_response_pb2.EvalResponse:
+        config = yaml.safe_load(request.yaml_config.decode("utf-8"))
+        session = SESSSIONMANAGER.get_session(rpc_id_var.get())
+        session["config"] = config
         return eval_response_pb2.EvalResponse(response=f"ack")

@@ -2,6 +2,8 @@ edition = "2023";
 
 package cloud_databases_nl2sql_eval_sqlgen_proto;
 
+import "eval_config.proto";
+import "eval_connect.proto";
 import "eval_request.proto";
 import "eval_response.proto";
 
@@ -9,7 +11,12 @@ option java_multiple_files = true;
 
 service EvalService {
   // Ping.
-  rpc Ping(stream EvalRequest) returns (EvalResponse) {
+  rpc Ping(EvalRequest) returns (EvalResponse) {
+    // option deadline = 1800;
+  }
+
+  // Ping.
+  rpc Connect(EvalConnectRequest) returns (EvalResponse) {
     // option deadline = 1800;
   }
 

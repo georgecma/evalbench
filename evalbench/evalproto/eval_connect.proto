@@ -4,7 +4,6 @@ package cloud_databases_nl2sql_eval_sqlgen_proto;
 
 option java_multiple_files = true;
 
-message EvalConfigRequest {
-  string session_id = 1;
-  bytes yaml_config = 2;
+message EvalConnectRequest {
+  string client_id = 1;
 }
