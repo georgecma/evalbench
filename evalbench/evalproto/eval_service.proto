@@ -14,7 +14,7 @@ service EvalService {
   }
 
   // Get_EvalInput.
-  rpc Get_EvalInput(EvalConfig) returns (EvalResponse) {
+  rpc EvalConfig(EvalConfigRequest) returns (EvalResponse) {
     // option deadline = 1800;
   }
 
