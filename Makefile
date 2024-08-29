@@ -38,4 +38,3 @@ clean:
 
 run:
 	@cd evalbench_service;./run_service.sh
-
