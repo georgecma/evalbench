@@ -8,6 +8,16 @@ import "eval_response.proto";
 option java_multiple_files = true;
 
 service EvalService {
+  // Ping.
+  rpc Ping(stream EvalRequest) returns (EvalResponse) {
+    // option deadline = 1800;
+  }
+
+  // Get_EvalInput.
+  rpc Get_EvalInput(EvalConfig) returns (EvalResponse) {
+    // option deadline = 1800;
+  }
+
   // Evaluate.
   rpc Eval(stream EvalRequest) returns (EvalResponse) {
     // option deadline = 1800;

@@ -32,11 +32,11 @@ async def _serve():
         # because local creds does not work between a client running on the host
         # and a server running inside a container on the same host.
         logging.info("Using localhost server insecure credentials per flag")
-        creds = grpc.insecure_server_credentials()
+        server.add_insecure_port("[::]:50051")
     else:
         logging.info("Using ALTS server credentials")
         creds = grpc.alts_server_credentials()
-    server.add_secure_port("[::]:50051", creds)
+        server.add_secure_port("[::]:50051", creds)
     await server.start()
     logging.info("Server started")
 
@@ -51,7 +51,8 @@ async def _serve():
 def main(argv: Sequence[str]) -> None:
     if len(argv) > 1:
         raise app.UsageError("Too many command-line arguments.")
-    loop = asyncio.get_event_loop()
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
     try:
         loop.run_until_complete(_serve())
     finally:

@@ -4,6 +4,11 @@ package cloud_databases_nl2sql_eval_sqlgen_proto;
 
 option java_multiple_files = true;
 
+message EvalConfig {
+  bytes yaml_config = 1;
+}
+
+
 message EvalRequest {
   string id = 1;
   string query_type = 2;
@@ -16,3 +21,4 @@ message EvalRequest {
   string cleanup_sql = 9;
   repeated string tags = 10;
 }
+
