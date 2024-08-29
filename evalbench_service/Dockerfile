@@ -3,7 +3,7 @@ RUN pip install --no-cache-dir --upgrade pip
 
 FROM base-env AS protoc-env
 RUN pip install --no-cache-dir grpcio-tools
-COPY evalbench/proto /proto
+COPY evalbench/evalproto /proto
 RUN mkdir proto_out
 RUN python -m grpc_tools.protoc --proto_path=./proto --python_out=./proto_out --pyi_out=./proto_out --grpc_python_out=./proto_out --experimental_editions ./proto/*.proto
 
