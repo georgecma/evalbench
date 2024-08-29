@@ -27,7 +27,7 @@ async def _serve():
     logging.info("Starting server")
     interceptors = [
         SessionManagerInterceptor("SessionManagerInterceptor"),
-    ]    
+    ]
 
     server = grpc.aio.server(interceptors=interceptors)
     servicer = EvalServicer()

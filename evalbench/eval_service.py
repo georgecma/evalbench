@@ -35,6 +35,7 @@ SESSSIONMANAGER = SesssionManager()
 
 rpc_id_var = contextvars.ContextVar("rpc_id", default="default")
 
+
 class SessionManagerInterceptor(grpc.aio.ServerInterceptor):
     def __init__(self, tag: str, rpc_id: Optional[str] = None) -> None:
         self.tag = tag
@@ -57,6 +58,7 @@ class SessionManagerInterceptor(grpc.aio.ServerInterceptor):
 
     def decorate(self, rpc_id: str):
         return f"{self.tag}-{rpc_id}"
+
 
 class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
     """A gRPC servicer that handles EvalService requests."""
