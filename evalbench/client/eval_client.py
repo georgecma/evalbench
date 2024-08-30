@@ -1,10 +1,13 @@
 import asyncio
 from aiologger import Logger
 import grpc
+import contextvars
 from evalproto import eval_request_pb2, eval_connect_pb2, eval_config_pb2
 from evalproto import eval_service_pb2_grpc
 import random
 import argparse
+
+rpc_id_var = contextvars.ContextVar("rpc_id", default="default")
 
 
 class EvalbenchClient:
@@ -17,7 +20,7 @@ class EvalbenchClient:
         )
 
     async def ping(self):
-        request = eval_request_pb2.EvalRequest()
+        request = eval_request_pb2.PingRequest()
         response = await self.stub.Ping(request, metadata=self.metadata)
         return response
 
@@ -36,6 +39,17 @@ class EvalbenchClient:
         response = await self.stub.EvalConfig(request, metadata=self.metadata)
         return response
 
+    async def get_evalinputs(self):
+        request = eval_request_pb2.EvalInputRequest()
+        get_evalinputs_stream = self.stub.Get_EvalInputs(
+            request, metadata=self.metadata
+        )
+        while True:
+            response = await get_evalinputs_stream.read()
+            if response == grpc.aio.EOF:
+                break
+            yield response
+
 
 async def run(experiment: str) -> None:
     logger = Logger.with_default_handlers(name="evalbench-logger")
@@ -51,6 +65,9 @@ async def run(experiment: str) -> None:
 
     response = await evalbenchclient.set_evalconfig(experiment)
     logger.info(f"get_evalinput Returned: {response.response}")
+
+    async for response in evalbenchclient.get_evalinputs():
+        logger.info(f"ID: {response.id} nl_prompt:{response.nl_prompt}")
 
 
 async def main():
@@ -69,7 +86,8 @@ async def main():
     # report a message
     print(f"Main waiting for {len(all_tasks)} tasks...")
     # suspend until all tasks are completed
-    await asyncio.wait(all_tasks)
+    if len(all_tasks) > 0:
+        await asyncio.wait(all_tasks)
     await logger.shutdown()
 
 

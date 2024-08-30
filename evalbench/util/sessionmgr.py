@@ -6,17 +6,28 @@ import uuid
 
 
 class SessionManager:
-    def __init__(self):
+    def __init__(self, ):
         self.running = True
         self.sessions = {}
-        logging.info("Starting reaper...")
+        self.ttl = 36000
+        logging.debug("Starting reaper...")
         reaper = Thread(target=self.reaper, args=[])
         reaper.start()
+
+    def set_ttl(self, ttl):
+        self.ttl = ttl
+
+    def get_ttl(self):
+        return self.ttl
 
     def get_session(self, session_id):
         return self.sessions[session_id]
 
     def create_session(self, session_id):
+        if session_id in self.sessions.keys():
+            logging.info(f"Session {session_id} already exists.")
+            return self.sessions[session_id]
+        logging.info(f"Create session {session_id}.")
         self.sessions[session_id] = {'create_ts': time.time(), 'session_id': session_id}
         return self.sessions[session_id]
 
@@ -32,9 +43,9 @@ class SessionManager:
     def reaper(self):
         old_sessions = []
         while self.running:
-            logging.info(f"Reaper cycle: {len(self.sessions)}")
+            logging.debug(f"Reaper cycle: {len(self.sessions)}")
             for session_id in self.sessions.keys():
-                if time.time() - self.sessions[session_id]['create_ts'] > 10:
+                if time.time() - self.sessions[session_id]['create_ts'] > self.ttl:
                     old_sessions.append(session_id)
             for session_id in old_sessions:
                 logging.info(f"Delete session {session_id}.")

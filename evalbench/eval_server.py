@@ -7,7 +7,7 @@ from absl import app
 from absl import flags
 from absl import logging
 import grpc
-
+import util
 from eval_service import EvalServicer
 from eval_service import SessionManagerInterceptor
 import eval_service_pb2_grpc
@@ -60,6 +60,8 @@ def main(argv: Sequence[str]) -> None:
     asyncio.set_event_loop(loop)
     try:
         loop.run_until_complete(_serve())
+    except KeyboardInterrupt:
+        util.get_SessionManager().shutdown()
     finally:
         loop.run_until_complete(asyncio.gather(*_cleanup_coroutines))
         loop.close()

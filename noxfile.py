@@ -6,4 +6,4 @@ import nox
 def unittests(session):
     session.install("-r", "requirements.txt")
     session.install("pytest")
-    session.run("pytest", "-v", "--ignore", "evalbenchtest/*", success_codes=[0])
+    session.run("pytest", "-vvv", "--capture=no", "-rX", "--ignore", "evalbenchtest/*", success_codes=[0])

@@ -36,5 +36,11 @@ clean:
 	@rm -fr evalbench/evalproto/*.py
 	@rm -fr evalbench/evalproto/*.pyi
 
+test:
+	@nox
+
+style:
+	@pycodestyle --max-line-length=120 evalbench
+
 run:
 	@cd evalbench_service;./run_service.sh
