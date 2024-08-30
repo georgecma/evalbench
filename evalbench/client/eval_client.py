@@ -4,6 +4,7 @@ import grpc
 from evalproto import eval_request_pb2, eval_connect_pb2, eval_config_pb2
 from evalproto import eval_service_pb2_grpc
 import random
+import argparse
 
 
 class EvalbenchClient:
@@ -26,12 +27,9 @@ class EvalbenchClient:
         response = await self.stub.Connect(request, metadata=self.metadata)
         return response
 
-    async def set_evalconfig(self):
+    async def set_evalconfig(self, experiment: str):
         data = None
-        with open(
-            "/home/ismailmehdi_google_com/workspace/evalbench/evalbench/configs/base_experiment_magick.yaml",
-            "rb",
-        ) as f:
+        with open(experiment, "rb") as f:
             data = f.read()
         request = eval_config_pb2.EvalConfigRequest()
         request.yaml_config = data
@@ -39,7 +37,7 @@ class EvalbenchClient:
         return response
 
 
-async def run() -> None:
+async def run(experiment: str) -> None:
     logger = Logger.with_default_handlers(name="evalbench-logger")
     evalbenchclient = EvalbenchClient()
     response = await evalbenchclient.ping()
@@ -51,13 +49,17 @@ async def run() -> None:
     response = await evalbenchclient.ping()
     logger.info(f"ping Returned: {response.response}")
 
-    response = await evalbenchclient.set_evalconfig()
+    response = await evalbenchclient.set_evalconfig(experiment)
     logger.info(f"get_evalinput Returned: {response.response}")
 
 
 async def main():
     logger = Logger.with_default_handlers(name="evalbench-logger")
-    await run()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--experiment", dest="experiment")
+    known_args, _ = parser.parse_known_args()
+
+    await run(known_args.experiment)
     # get a set of all running tasks
     all_tasks = asyncio.all_tasks()
     # get the current tasks
