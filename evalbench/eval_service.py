@@ -166,7 +166,7 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         logging.info("Config: %s. Keys: %s", rpc_id_var.get(), session.keys())
         return eval_response_pb2.EvalResponse(response=f"ack")
 
-    async def Get_EvalInputs(
+    async def ListEvalInputs(
         self,
         request,
         context,

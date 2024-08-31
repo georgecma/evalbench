@@ -7,8 +7,6 @@ from evalproto import eval_service_pb2_grpc
 import random
 import argparse
 
-rpc_id_var = contextvars.ContextVar("rpc_id", default="default")
-
 
 class EvalbenchClient:
     def __init__(self):
@@ -41,7 +39,7 @@ class EvalbenchClient:
 
     async def get_evalinputs(self):
         request = eval_request_pb2.EvalInputRequest()
-        get_evalinputs_stream = self.stub.Get_EvalInputs(
+        get_evalinputs_stream = self.stub.ListEvalInputs(
             request, metadata=self.metadata
         )
         while True:

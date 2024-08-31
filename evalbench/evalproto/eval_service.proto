@@ -26,7 +26,7 @@ service EvalService {
   }
 
   // Get_EvalInput.
-  rpc Get_EvalInputs(EvalInputRequest) returns (stream EvalInput) {
+  rpc ListEvalInputs(EvalInputRequest) returns (stream EvalInput) {
     // option deadline = 1800;
   }
 
