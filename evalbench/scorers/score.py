@@ -47,5 +47,6 @@ def compare(eval_output_item: EvalOutput, experiment_config: dict[str, str], sco
         score_dict["id"] = eval_output_item["id"]
         score_dict["generated_sql"] = eval_output_item["generated_sql"]
         score_dict["generated_error"] = eval_output_item["generated_error"]
+        score_dict["job_id"] = eval_output_item["job_id"]
         logging.debug('scoring: %d %s %d', score_dict["id"], comp.name, score)
         scoring_results.append(score_dict)
