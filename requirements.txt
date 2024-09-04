@@ -13,3 +13,4 @@ protobuf
 absl-py
 tabulate
 grpcio
+jsonschema
