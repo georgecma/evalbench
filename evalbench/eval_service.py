@@ -110,7 +110,9 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         dataset_config_json = experiment_config["dataset_config"]
 
         # Load the dataset
-        dataset, database = load_dataset_from_json(dataset_config_json, experiment_config)
+        dataset, database = load_dataset_from_json(
+            dataset_config_json, experiment_config
+        )
         session["db_config"]["database_name"] = database
         for eval_input in dataset:
             yield eval_request_pb2.EvalInputRequest(
@@ -156,20 +158,32 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         session["model_config"]["database_config"] = session["db_config"]
         session["model_generator"] = models.get_generator(session["model_config"])
         # Load the Prompt Generator
-        session["prompt_generator"] = prompts.get_generator(session["db"], session["config"])
-        session["eval"] = evaluator.Evaluator(session["config"], session["prompt_generator"], session["model_generator"], session["db"])
+        session["prompt_generator"] = prompts.get_generator(
+            session["db"], session["config"]
+        )
+        session["eval"] = evaluator.Evaluator(
+            session["config"],
+            session["prompt_generator"],
+            session["model_generator"],
+            session["db"],
+        )
 
-
-        eval=session["eval"]
+        eval = session["eval"]
         job_id, run_time = eval.evaluate(dataset)
 
-        config_df = config_to_df(job_id, run_time, session["config"], session["model_config"], session["db_config"])
+        config_df = config_to_df(
+            job_id,
+            run_time,
+            session["config"],
+            session["model_config"],
+            session["db_config"],
+        )
         report.store(config_df, bqstore.STORETYPE.CONFIGS)
 
         results = load_json(f"/tmp/eval_output_{job_id}.json")
         results_df = report.quick_summary(results)
         report.store(results_df, bqstore.STORETYPE.EVALS)
-        
+
         scores = load_json(f"/tmp/score_result_{job_id}.json")
         scores_df, summary_scores_df = analyzer.analyze_result(
             scores, session["config"]

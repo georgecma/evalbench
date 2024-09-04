@@ -5,11 +5,7 @@ from evalproto import eval_request_pb2, eval_connect_pb2, eval_config_pb2
 from evalproto import eval_service_pb2_grpc
 import random
 import argparse
-import reporting.analyzer as analyzer
-from dataset.dataset import load_json, load_dataset_from_json
-from util.config import load_yaml_config, config_to_df
-import reporting.report as report
-import reporting.bqstore as bqstore
+
 
 class EvalbenchClient:
     def __init__(self):
@@ -82,7 +78,6 @@ async def run(experiment: str) -> None:
     logger.info(f"evalInputs: {len(evalInputs)}")
     response = await evalbenchclient.eval(evalInputs)
     logger.info(f"eval Returned: {response.response}")
-
 
 
 async def main():
