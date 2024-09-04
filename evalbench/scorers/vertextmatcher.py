@@ -33,6 +33,7 @@ class VertexMatcher(comparator.Comparator):
 
     def compare(
         self,
+        nl_prompt: str,
         golden_query: str,
         golden_execution_result: str,
         generated_query: str,
@@ -89,4 +90,5 @@ class VertexMatcher(comparator.Comparator):
         )
         logging.debug("\n --------- json_output:   --------- \n %s ", json_output)
         score = json.loads(json_output)["score"]
-        return score
+        logs = json.loads(json_output)["explain"]
+        return score, logs

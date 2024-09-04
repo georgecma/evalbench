@@ -24,19 +24,46 @@ def load_json(json_file_path):
     return all_items
 
 
-def load_dataset_from_json(json_file_path):
+def load_dataset_from_json(json_file_path, experiment_config):
     input_items = []
     all_items = load_json(json_file_path)
     if "db_id" in all_items[0].keys():
         logging.info("dataset in BIRD Format.")
         input_items = load_dataset_from_bird(all_items)
         logging.info("Converted %d entries to EvalInput.", len(input_items))
+    elif "nl_prompt" in all_items[0].keys():
+        logging.info("dataset in new Evalbench Format")
+        dialect = experiment_config["dialect"]
+        input_items = load_dataset_from_newFormat(all_items, dialect)
+        logging.info("Converted %d entries to EvalInput", len(input_items))
     else:
         logging.info("dataset in regular Format.")
         input_items = load_dataset_from_regular(all_items)
         logging.info("Converted %d entries to EvalInput.", len(input_items))
 
     return input_items, input_items[0].database
+
+
+def load_dataset_from_newFormat(dataset: Sequence[dict], dialect: str):
+    input_items = []
+    gen_id = 1
+    for item in dataset:
+        eval_input = EvalInput(
+            id=gen_id,
+            nl_prompt=item["nl_prompt"],
+            query_type=item["query_type"],
+            database=item["database"],
+            dialects=[dialect],
+            golden_sql=item["golden_sql"].get(dialect, []),
+            eval_query=item["eval_query"].get(dialect, []),
+            setup_sql=item["setup_sql"].get(dialect, []),
+            cleanup_sql=item["cleanup_sql"].get(dialect, []),
+            tags=item["tags"],
+            other=item["other"]
+        )
+        gen_id += 1
+        input_items.append(eval_input)
+    return input_items
 
 
 def load_dataset_from_regular(dataset: Sequence[dict]):
@@ -54,6 +81,7 @@ def load_dataset_from_regular(dataset: Sequence[dict]):
             setup_sql=item["setup_sql"],
             cleanup_sql=item["cleanup_sql"],
             tags=item["tags"],
+            other={}
         )
         gen_id = gen_id + 1
         input_items.append(eval_input)
@@ -75,6 +103,7 @@ def load_dataset_from_bird(dataset: Sequence[dict]):
                 setup_sql="",
                 cleanup_sql="",
                 tags=[item["difficulty"]],
+                other={}
             )
             input_items.append(eval_input)
     return input_items

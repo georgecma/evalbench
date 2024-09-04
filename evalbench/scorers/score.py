@@ -5,6 +5,7 @@ from scorers import exactmatcher
 from scorers import generatedqueryregexpmatcher
 from scorers import recallmatcher
 from scorers import vertextmatcher
+from scorers import llmrater
 from dataset.evaloutput import EvalOutput
 import logging
 
@@ -24,6 +25,8 @@ def compare(eval_output_item: EvalOutput, experiment_config: dict[str, str], sco
         comparators.append(recallmatcher.RecallMatcher(scorers["recall_match"]))
     if "vertexmatcher" in scorers:
         comparators.append(vertextmatcher.VertexMatcher(scorers["vertexmatcher"]))
+    if "llmrater" in scorers:
+        comparators.append(llmrater.LLMRater(scorers["llmrater"]))
     if "regexp_matcher" in scorers:
         comparators.append(
             generatedqueryregexpmatcher.GeneratedQueryRegexpMatcher(scorers["regexp_matcher"])
@@ -34,13 +37,15 @@ def compare(eval_output_item: EvalOutput, experiment_config: dict[str, str], sco
         comparison_result = comparator.ComparisonResult(comp, 0)
         try:
             if eval_output_item["generated_sql"] is not None:
-                score = comp.compare(
+                score, logs = comp.compare(
+                    eval_output_item["nl_prompt"],
                     eval_output_item["golden_sql"],
                     eval_output_item["golden_result"],
                     eval_output_item["generated_sql"],
                     eval_output_item["generated_result"],
                 )
                 comparison_result.score = score
+                comparison_result.comparison_logs = logs
         except Exception as e:
             comparison_result.comparison_error = e
         score_dict = comparison_result.to_dict()

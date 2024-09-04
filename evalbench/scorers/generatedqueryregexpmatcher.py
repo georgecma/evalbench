@@ -23,6 +23,7 @@ class GeneratedQueryRegexpMatcher(comparator.Comparator):
 
     def compare(
         self,
+        nl_prompt: str,
         golden_query: str,
         golden_execution_result: str,
         generated_query: str,
@@ -38,4 +39,4 @@ class GeneratedQueryRegexpMatcher(comparator.Comparator):
 
         if self.invert_results:
             score = 100 - score
-        return score
+        return score, str(matching_regexps)

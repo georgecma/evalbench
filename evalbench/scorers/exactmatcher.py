@@ -18,6 +18,7 @@ class ExactMatcher(comparator.Comparator):
 
     def compare(
         self,
+        nl_prompt: str,
         golden_query: str,
         golden_execution_result: str,
         generated_query: str,
@@ -25,4 +26,4 @@ class ExactMatcher(comparator.Comparator):
     ) -> Tuple[float, str]:
         """Simple comparison strategy that checks if the two execution results are exactly the same."""
         score = 100 if golden_execution_result == generated_execution_result else 0
-        return score
+        return score, None

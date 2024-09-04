@@ -10,3 +10,7 @@ scorers:
     gcp_project_location: "us-central1"
     gcp_project_id: "cloud-db-nl2sql"
     model: "gemini-1.0-pro-001"
+  llmrater:
+    gcp_project_location: "us-central1"
+    gcp_project_id: "cloud-db-nl2sql"
+    model: "gemini-1.5-pro-001"

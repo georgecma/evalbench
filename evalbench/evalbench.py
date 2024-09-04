@@ -39,7 +39,7 @@ def main(argv: Sequence[str]) -> None:
     dataset_config_json = experiment_config["dataset_config"]
 
     # Load the dataset
-    dataset, database = load_dataset_from_json(dataset_config_json)
+    dataset, database = load_dataset_from_json(dataset_config_json, experiment_config)
 
     # Load the model config
     model_config = load_yaml_config(model_config_yaml)

@@ -7,11 +7,12 @@ class EvalInput:
         database: str,
         nl_prompt: str,
         dialects: list,
-        golden_sql: str,
-        eval_query: str,
-        setup_sql: str,
-        cleanup_sql: str,
+        golden_sql: list,
+        eval_query: list,
+        setup_sql: list,
+        cleanup_sql: list,
         tags: list,
+        other: dict
     ):
         """Initializes an EvalInput object with all required fields.
 
@@ -38,3 +39,4 @@ class EvalInput:
         self.setup_sql = setup_sql
         self.cleanup_sql = cleanup_sql
         self.tags = tags
+        self.other = other

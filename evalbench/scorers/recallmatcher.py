@@ -78,6 +78,7 @@ class RecallMatcher(Comparator):
 
     def compare(
         self,
+        nl_prompt: str,
         golden_query: str,
         golden_execution_result: list[str],
         generated_query: str,
@@ -98,4 +99,4 @@ class RecallMatcher(Comparator):
         full_result = self.compute_precision_recall(
             golden_execution_result, generated_execution_result
         )
-        return full_result["recall"]
+        return full_result["recall"], str(full_result)

@@ -23,7 +23,7 @@ def analyze_one_metric(
         df = df[df["comparator"] == metric_name]
         correct_results_count = len(df[df["score"] == metric_score])
     logging.info(
-        f"{metric_name}:\t{correct_results_count}/{original_df_size} = "
+        f"{metric_name}: \t{correct_results_count}/{original_df_size} = "
         f"{round(correct_results_count/original_df_size * 100, 2)}%"
     )
     return {

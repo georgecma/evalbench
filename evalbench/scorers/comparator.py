@@ -24,6 +24,7 @@ class Comparator(abc.ABC):
     @abc.abstractmethod
     def compare(
         self,
+        nl_prompt: Any,
         golden_query: Any,
         golden_execution_result: Any,
         generated_query: Any,
@@ -54,6 +55,7 @@ class ComparisonResult:
         comparator (Comparator): The Comparator instance used for the comparison.
         comparison_error (Optional[Exception]): Exception object if an error
           occurred during the comparison. Defaults to None.
+        comparison_logs (str): The logs of the comparison. Defaults to None.
         score (int): The score of the comparison, ranging from 0 to 100.
     """
 
@@ -61,12 +63,14 @@ class ComparisonResult:
         self,
         comparator: Comparator,
         score: int,
+        comparison_logs: str | None = None,
         comparison_error: Exception | None = None,
     ):
         """Initializes a ComparisonResult instance with the provided comparator, score, optional error object."""
 
         self.comparator = comparator
         self.comparison_error = comparison_error
+        self.comparison_logs = comparison_logs
         self.score = score
 
     def to_dict(self) -> dict:
@@ -74,6 +78,7 @@ class ComparisonResult:
             "comparator": self.comparator.name,
             "score": self.score,
             "comparison_error": self.comparison_error,
+            "comparison_logs": self.comparison_logs
         }
 
 
