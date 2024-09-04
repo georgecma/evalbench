@@ -9,15 +9,3 @@ message EvalResponse {
   string session_id = 2;
 }
 
-message EvalInput {
-  string id = 1;
-  string query_type = 2;
-  string database = 3;
-  string nl_prompt = 4;
-  repeated string dialects = 5;
-  string golden_sql = 6;
-  string eval_query = 7;
-  string setup_sql = 8;
-  string cleanup_sql = 9;
-  repeated string tags = 10;
-}

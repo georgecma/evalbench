@@ -2,6 +2,7 @@
 cloud-sql-python-connector[pg8000]
 google-cloud-alloydb-connector[pg8000]
 google-cloud-aiplatform
+google-cloud-secret-manager
 openai
 pandas
 pymysql

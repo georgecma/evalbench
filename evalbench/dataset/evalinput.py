@@ -1,4 +1,4 @@
-class EvalInput:
+class EvalInputRequest:
 
     def __init__(
         self,
@@ -14,9 +14,9 @@ class EvalInput:
         tags: list,
         other: dict
     ):
-        """Initializes an EvalInput object with all required fields.
+        """Initializes an EvalInputRequest object with all required fields.
 
-        :param id: A unique string identifier or name for this EvalInput. Unique
+        :param id: A unique string identifier or name for this EvalInputRequest. Unique
         within a dataset file.
         :param query_type: The type of SQL query ("DDL" for Data Definition
         Language, "DML" for Data Manipulation Language,

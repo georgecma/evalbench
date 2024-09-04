@@ -71,74 +71,6 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
 
         logging.info("EvalBench v1.0.0")
 
-        # self.experiment_config = load_yaml_config(_experiment_config.value)
-        # if self.experiment_config == "":
-        #     return
-
-        # logging.info("Loaded %s", _experiment_config.value)
-
-        # db_config_yaml = self.experiment_config["database_config"]
-        # model_config_yaml = self.experiment_config["model_config"]
-        # dataset_config_json = self.experiment_config["dataset_config"]
-
-        # # Load the dataset
-        # dataset, database = load_dataset_from_json(dataset_config_json)
-
-        # # Load the model config
-        # self.model_config = load_yaml_config(model_config_yaml)
-
-        # # Load the DB config DB name comes from the dataset
-        # self.db_config = load_yaml_config(db_config_yaml)
-        # self.db_config["database_name"] = database
-        # self.model_config["database_config"] = self.db_config
-
-        # # Create the DB
-        # self.db = databases.get_database(self.db_config)
-
-        # # Load the Query Generator
-        # self.model_generator = models.get_generator(self.model_config)
-
-        # # Load the Prompt Generator
-        # self.prompt_generator = prompts.get_generator(self.db, self.experiment_config)
-
-    # async def Eval(
-    #     self,
-    #     request_iterator: AsyncIterator[eval_request_pb2.EvalRequest],
-    #     context: grpc.ServicerContext,
-    # ) -> eval_response_pb2.EvalResponse:
-    #     eval = evaluator.Evaluator(
-    #         self.experiment_config, self.prompt_generator, self.model_generator, self.db
-    #     )
-    #     dataset = []
-    #     async for request in request_iterator:
-    #         input = evalinput.EvalInput(
-    #             id=request.id,
-    #             query_type=request.query_type,
-    #             database=request.database,
-    #             # TODO: This is a hack to allow client side SQLGen generated SQL
-    #             # to pass through PromptGen and SQLGen generators, revisit this.
-    #             nl_prompt=request.eval_query,
-    #             dialects=request.dialects,
-    #             golden_sql=request.golden_sql,
-    #             eval_query=request.eval_query,
-    #             setup_sql=request.setup_sql,
-    #             cleanup_sql=request.cleanup_sql,
-    #             tags=request.tags,
-    #         )
-    #         dataset.append(input)
-
-    #     job_id, run_time = eval.evaluate(dataset)
-    #     results = load_json("/tmp/eval_output.json")
-    #     results_df = report.quick_summary(results)
-
-    #     scores = load_json("/tmp/score_result.json")
-    #     scores_df, summary_scores_df = analyzer.analyze_result(
-    #         scores, self.experiment_config
-    #     )
-    #     summary_scores_df["job_id"] = job_id
-    #     summary_scores_df["run_time"] = run_time
-    #     return eval_response_pb2.EvalResponse(response=f"ack")
-
     async def Ping(
         self,
         request: eval_request_pb2.PingRequest,
@@ -158,28 +90,30 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         request,
         context,
     ) -> eval_response_pb2.EvalResponse:
-        config = yaml.safe_load(request.yaml_config.decode("utf-8"))
+        experiment_config = yaml.safe_load(request.yaml_config.decode("utf-8"))
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
-        session["config"] = config
-        logging.info("Config: %s. Keys: %s", rpc_id_var.get(), session.keys())
-        session = SESSIONMANAGER.get_session(rpc_id_var.get())
-        logging.info("Config: %s. Keys: %s", rpc_id_var.get(), session.keys())
+        session["config"] = experiment_config
+
+        # Create the DB
+        session["db_config"] = load_yaml_config(experiment_config["database_config"])
+        session["model_config"] = load_yaml_config(experiment_config["model_config"])
         return eval_response_pb2.EvalResponse(response=f"ack")
 
     async def ListEvalInputs(
         self,
         request,
         context,
-    ) -> eval_response_pb2.EvalInput:
+    ) -> eval_request_pb2.EvalInputRequest:
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
-        logging.info("Retrieve: %s. Keys: %s", rpc_id_var.get(), session.keys())
+        logging.info("Retrieve: %s. Keys: %s", rpc_id_var.get())
         experiment_config = session["config"]
         dataset_config_json = experiment_config["dataset_config"]
 
         # Load the dataset
-        dataset, database = load_dataset_from_json(dataset_config_json)
+        dataset, database = load_dataset_from_json(dataset_config_json, experiment_config)
+        session["db_config"]["database_name"] = database
         for eval_input in dataset:
-            yield eval_response_pb2.EvalInput(
+            yield eval_request_pb2.EvalInputRequest(
                 id=f"{eval_input.id}",
                 query_type=eval_input.query_type,
                 database=eval_input.database,
@@ -190,4 +124,58 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
                 setup_sql=eval_input.setup_sql,
                 cleanup_sql=eval_input.cleanup_sql,
                 tags=eval_input.tags,
+                other=eval_input.other,
             )
+
+    async def Eval(
+        self,
+        request_iterator: AsyncIterator[eval_request_pb2.EvalInputRequest],
+        context: grpc.ServicerContext,
+    ) -> eval_response_pb2.EvalResponse:
+
+        dataset = []
+        async for request in request_iterator:
+            input = evalinput.EvalInputRequest(
+                id=request.id,
+                query_type=request.query_type,
+                database=request.database,
+                nl_prompt=request.nl_prompt,
+                dialects=request.dialects,
+                golden_sql=request.golden_sql,
+                eval_query=request.eval_query,
+                setup_sql=request.setup_sql,
+                cleanup_sql=request.cleanup_sql,
+                tags=request.tags,
+                other=request.other,
+            )
+            dataset.append(input)
+        session = SESSIONMANAGER.get_session(rpc_id_var.get())
+
+        session["db"] = databases.get_database(session["db_config"])
+        # Load the Query Generator
+        session["model_config"]["database_config"] = session["db_config"]
+        session["model_generator"] = models.get_generator(session["model_config"])
+        # Load the Prompt Generator
+        session["prompt_generator"] = prompts.get_generator(session["db"], session["config"])
+        session["eval"] = evaluator.Evaluator(session["config"], session["prompt_generator"], session["model_generator"], session["db"])
+
+
+        eval=session["eval"]
+        job_id, run_time = eval.evaluate(dataset)
+
+        config_df = config_to_df(job_id, run_time, session["config"], session["model_config"], session["db_config"])
+        report.store(config_df, bqstore.STORETYPE.CONFIGS)
+
+        results = load_json(f"/tmp/eval_output_{job_id}.json")
+        results_df = report.quick_summary(results)
+        report.store(results_df, bqstore.STORETYPE.EVALS)
+        
+        scores = load_json(f"/tmp/score_result_{job_id}.json")
+        scores_df, summary_scores_df = analyzer.analyze_result(
+            scores, session["config"]
+        )
+        summary_scores_df["job_id"] = job_id
+        summary_scores_df["run_time"] = run_time
+        report.store(scores_df, bqstore.STORETYPE.SCORES)
+        report.store(summary_scores_df, bqstore.STORETYPE.SUMMARY)
+        return eval_response_pb2.EvalResponse(response=f"ack")

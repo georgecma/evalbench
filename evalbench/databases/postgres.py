@@ -4,7 +4,7 @@ from sqlalchemy import text
 
 from .db import DB
 from google.cloud.sql.connector import Connector
-from .util import generate_ddl
+from .util import generate_ddl, get_db_secret
 from typing import Any, Tuple
 
 SCHEMA_QUERY = """
@@ -21,7 +21,8 @@ class PGDB(DB):
         super().__init__(db_config)
         instance_connection_name = f"{db_config['project_id']}:{db_config['region']}:{db_config['instance_name']}"
         db_user = db_config["user_name"]
-        db_pass = db_config["password"]
+        db_pass_secret_path = db_config["password"]
+        db_pass = get_db_secret(db_pass_secret_path)
         self.db_name = db_config["database_name"]
 
         # Initialize the Cloud SQL Connector object

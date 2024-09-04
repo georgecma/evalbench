@@ -4,4 +4,4 @@ region: us-central1
 instance_name: nl2sql-synthetic-pg
 database_name: air_travel
 user_name: nl2sql
-password: !ENV ${EVAL_DB_PASSWORD}
+password: "projects/cloud-db-nl2sql/secrets/nl2sql-synthetic-pg/versions/1"

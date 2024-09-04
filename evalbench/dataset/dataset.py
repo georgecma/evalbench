@@ -5,7 +5,7 @@ from absl import flags
 import json
 import logging
 from collections.abc import Sequence
-from dataset.evalinput import EvalInput
+from dataset.evalinput import EvalInputRequest
 from dataset.evaloutput import EvalOutput
 
 
@@ -39,7 +39,7 @@ def load_dataset_from_json(json_file_path, experiment_config):
     else:
         logging.info("dataset in regular Format.")
         input_items = load_dataset_from_regular(all_items)
-        logging.info("Converted %d entries to EvalInput.", len(input_items))
+        logging.info("Converted %d entries to EvalInputRequest.", len(input_items))
 
     return input_items, input_items[0].database
 
@@ -48,7 +48,29 @@ def load_dataset_from_newFormat(dataset: Sequence[dict], dialect: str):
     input_items = []
     gen_id = 1
     for item in dataset:
-        eval_input = EvalInput(
+        eval_input = EvalInputRequest(
+            id=gen_id,
+            nl_prompt=item["nl_prompt"],
+            query_type=item["query_type"],
+            database=item["database"],
+            dialects=[dialect],
+            golden_sql=item["golden_sql"].get(dialect, []),
+            eval_query=item["eval_query"].get(dialect, []),
+            setup_sql=item["setup_sql"].get(dialect, []),
+            cleanup_sql=item["cleanup_sql"].get(dialect, []),
+            tags=item["tags"],
+            other=item["other"]
+        )
+        gen_id += 1
+        input_items.append(eval_input)
+    return input_items
+
+
+def load_dataset_from_newFormat(dataset: Sequence[dict], dialect: str):
+    input_items = []
+    gen_id = 1
+    for item in dataset:
+        eval_input = EvalInputRequest(
             id=gen_id,
             nl_prompt=item["nl_prompt"],
             query_type=item["query_type"],
@@ -70,7 +92,7 @@ def load_dataset_from_regular(dataset: Sequence[dict]):
     input_items = []
     gen_id = 1
     for item in dataset:
-        eval_input = EvalInput(
+        eval_input = EvalInputRequest(
             id=gen_id,
             query_type=item["query_type"],
             database=item["database"],
@@ -92,7 +114,7 @@ def load_dataset_from_bird(dataset: Sequence[dict]):
     input_items = []
     for item in dataset:
         if item["result_matched"]:
-            eval_input = EvalInput(
+            eval_input = EvalInputRequest(
                 id=item["question_id"],
                 query_type="DQL",
                 database=item["db_id"],

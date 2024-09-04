@@ -8,7 +8,7 @@ from work import sqlexecwork
 from work import scorework
 from mp import mprunner
 import concurrent.futures
-from dataset.evalinput import EvalInput
+from dataset.evalinput import EvalInputRequest
 from dataset.evaloutput import EvalOutput
 
 
@@ -85,9 +85,9 @@ class Evaluator:
             )
             eval_outputs.append(eval_output)
 
-        with open("/tmp/eval_output.json", "w") as f:
+        with open(f"/tmp/eval_output_{job_id}.json", "w") as f:
             json.dump(eval_outputs, f, sort_keys=True, indent=4, default=str)
 
-        with open("/tmp/score_result.json", "w") as f:
+        with open(f"/tmp/score_result_{job_id}.json", "w") as f:
             json.dump(scoring_results, f, sort_keys=True, indent=4, default=str)
         return job_id, run_time

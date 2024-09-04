@@ -26,12 +26,12 @@ service EvalService {
   }
 
   // ListEvalInputs.
-  rpc ListEvalInputs(EvalInputRequest) returns (stream EvalInput) {
+  rpc ListEvalInputs(EvalInputRequest) returns (stream EvalInputRequest) {
     // option deadline = 1800;
   }
 
-  // // Evaluate.
-  // rpc Eval(stream EvalRequest) returns (EvalResponse) {
-  //   // option deadline = 1800;
-  // }
+  // Evaluate.
+  rpc Eval(stream EvalInputRequest) returns (EvalResponse) {
+    // option deadline = 1800;
+  }
 }

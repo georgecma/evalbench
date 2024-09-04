@@ -4,5 +4,5 @@ region: us-central1
 instance_name: my-alloydb-instance
 database_name: postgres
 user_name: postgres
-password: !ENV ${EVAL_DB_PASSWORD}
+password: "projects/cloud-db-nl2sql/secrets/my-alloydb-instance/versions/1"
 
