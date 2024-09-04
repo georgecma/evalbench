@@ -66,28 +66,6 @@ def load_dataset_from_newFormat(dataset: Sequence[dict], dialect: str):
     return input_items
 
 
-def load_dataset_from_newFormat(dataset: Sequence[dict], dialect: str):
-    input_items = []
-    gen_id = 1
-    for item in dataset:
-        eval_input = EvalInputRequest(
-            id=gen_id,
-            nl_prompt=item["nl_prompt"],
-            query_type=item["query_type"],
-            database=item["database"],
-            dialects=[dialect],
-            golden_sql=item["golden_sql"].get(dialect, []),
-            eval_query=item["eval_query"].get(dialect, []),
-            setup_sql=item["setup_sql"].get(dialect, []),
-            cleanup_sql=item["cleanup_sql"].get(dialect, []),
-            tags=item["tags"],
-            other=item["other"]
-        )
-        gen_id += 1
-        input_items.append(eval_input)
-    return input_items
-
-
 def load_dataset_from_regular(dataset: Sequence[dict]):
     input_items = []
     gen_id = 1
