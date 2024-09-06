@@ -9,7 +9,9 @@ import argparse
 
 class EvalbenchClient:
     def __init__(self):
-        self.channel = grpc.aio.insecure_channel("127.0.0.1:50051")
+        channel_creds = grpc.alts_channel_credentials()
+        address = "127.0.0.1:50051"
+        self.channel = grpc.aio.secure_channel(address, channel_creds)
         self.stub = eval_service_pb2_grpc.EvalServiceStub(self.channel)
         rpc_id = "{:032x}".format(random.getrandbits(128))
         self.metadata = grpc.aio.Metadata(
@@ -74,7 +76,6 @@ async def run(experiment: str) -> None:
     evalInputs = []
     async for response in evalbenchclient.get_evalinputs():
         evalInputs.append(response)
-
     logger.info(f"evalInputs: {len(evalInputs)}")
     response = await evalbenchclient.eval(evalInputs)
     logger.info(f"eval Returned: {response.response}")

@@ -49,8 +49,6 @@ class SessionManagerInterceptor(grpc.aio.ServerInterceptor):
         handler_call_details: grpc.HandlerCallDetails,
     ) -> grpc.RpcMethodHandler:
         _metadata = dict(handler_call_details.invocation_metadata)
-        print(_metadata["client-rpc-id"])
-        print(rpc_id_var.get())
         if rpc_id_var.get() == "default":
             _metadata = dict(handler_call_details.invocation_metadata)
             rpc_id_var.set(self.decorate(_metadata["client-rpc-id"]))
@@ -105,7 +103,7 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         context,
     ) -> eval_request_pb2.EvalInputRequest:
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
-        logging.info("Retrieve: %s. Keys: %s", rpc_id_var.get())
+        logging.info("Retrieve: %s.", rpc_id_var.get())
         experiment_config = session["config"]
         dataset_config_json = experiment_config["dataset_config"]
 
@@ -170,6 +168,7 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
 
         eval = session["eval"]
         job_id, run_time = eval.evaluate(dataset)
+        logging.info(f"Run eval job_id:{job_id} run_time:{run_time} for {len(dataset)} eval entries.")
 
         config_df = config_to_df(
             job_id,

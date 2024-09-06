@@ -13,4 +13,6 @@ protobuf
 absl-py
 tabulate
 grpcio
+grpcio-tools
+aiologger
 jsonschema

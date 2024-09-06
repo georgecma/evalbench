@@ -9,6 +9,9 @@ SHELL := /bin/bash
 build:
 	docker build  -t evalbench -f evalbench_service/Dockerfile .
 
+container:
+	docker run --rm --net=host --name=evalbench_container -v ~/.config/gcloud:/root/.config/gcloud -e GOOGLE_CLOUD_PROJECT=cloud-db-nl2sql evalbench:latest 
+
 push:
 	docker image tag evalbench:latest us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:latest
 	docker push us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:latest
@@ -23,6 +26,7 @@ deploy:
 undeploy:
 	gcloud container clusters get-credentials evalbench-directpath-cluster --zone us-central1-c --project cloud-db-nl2sql
 	kubectl delete -f evalbench_service/k8s/evalbench.yaml
+	kubectl delete -f evalbench_service/k8s/service.yaml
 
 proto:
 	@python -m grpc_tools.protoc \
