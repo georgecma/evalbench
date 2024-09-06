@@ -89,7 +89,13 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         context,
     ) -> eval_response_pb2.EvalResponse:
         experiment_config = yaml.safe_load(request.yaml_config.decode("utf-8"))
+        experiment_config = yaml.safe_load(request.yaml_config.decode("utf-8"))
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
+        session["config"] = experiment_config
+
+        # Create the DB
+        session["db_config"] = load_yaml_config(experiment_config["database_config"])
+        session["model_config"] = load_yaml_config(experiment_config["model_config"])
         session["config"] = experiment_config
 
         # Create the DB
@@ -102,12 +108,17 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         request,
         context,
     ) -> eval_request_pb2.EvalInputRequest:
+    ) -> eval_request_pb2.EvalInputRequest:
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
         logging.info("Retrieve: %s.", rpc_id_var.get())
         experiment_config = session["config"]
         dataset_config_json = experiment_config["dataset_config"]
 
         # Load the dataset
+        dataset, database = load_dataset_from_json(
+            dataset_config_json, experiment_config
+        )
+        session["db_config"]["database_name"] = database
         dataset, database = load_dataset_from_json(
             dataset_config_json, experiment_config
         )
