@@ -65,11 +65,11 @@ def main(argv: Sequence[str]) -> None:
     config_df = config_to_df(job_id, run_time, experiment_config, model_config, db_config)
     report.store(config_df, bqstore.STORETYPE.CONFIGS)
 
-    results = load_json("/tmp/eval_output.json")
+    results = load_json(f"/tmp/eval_output_{job_id}.json")
     results_df = report.quick_summary(results)
     report.store(results_df, bqstore.STORETYPE.EVALS)
 
-    scores = load_json("/tmp/score_result.json")
+    scores = load_json(f"/tmp/score_result_{job_id}.json")
     scores_df, summary_scores_df = analyzer.analyze_result(scores, experiment_config)
     summary_scores_df["job_id"] = job_id
     summary_scores_df["run_time"] = run_time
