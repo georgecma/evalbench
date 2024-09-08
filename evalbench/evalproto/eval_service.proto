@@ -34,4 +34,9 @@ service EvalService {
   rpc Eval(stream EvalInputRequest) returns (EvalResponse) {
     // option deadline = 1800;
   }
+
+  // GetLogMessages.
+  rpc GetLogMessages(LogMessageRequest) returns (stream LogMessageResponse) {
+    // option deadline = 1800;
+  }
 }

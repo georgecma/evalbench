@@ -8,8 +8,8 @@ from absl import flags
 from absl import logging
 import grpc
 import util
-from eval_service import EvalServicer
-from eval_service import SessionManagerInterceptor
+from services.eval_service import EvalServicer
+from services.eval_service import SessionManagerInterceptor
 import eval_service_pb2_grpc
 
 _LOCALHOST = flags.DEFINE_bool(

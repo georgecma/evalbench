@@ -21,3 +21,9 @@ message EvalInputRequest {
   repeated string tags = 10;
   repeated string other = 11;
 }
+
+message LogMessageRequest {
+  string id = 1;
+  string message = 2;
+  int32 level = 3;
+}

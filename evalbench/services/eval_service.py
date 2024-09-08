@@ -3,7 +3,7 @@
 from collections.abc import AsyncIterator
 
 from absl import flags
-from absl import logging
+import logging
 from typing import Awaitable, Callable, Optional
 import contextvars
 import yaml
@@ -11,6 +11,8 @@ import grpc
 from util.config import load_yaml_config, config_to_df
 from util import get_SessionManager
 from dataset.dataset import load_json, load_dataset_from_json
+from .loghandler import StreamingLogHandler
+import threading
 from dataset import evalinput
 import generators.models as models
 import generators.prompts as prompts
@@ -19,7 +21,7 @@ import reporting.report as report
 import reporting.bqstore as bqstore
 import reporting.analyzer as analyzer
 import databases
-
+import asyncio
 
 import eval_request_pb2
 import eval_response_pb2
@@ -66,15 +68,33 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
 
     def __init__(self) -> None:
         super().__init__()
-
+        self.streamingloghandler = StreamingLogHandler()
         logging.info("EvalBench v1.0.0")
+        self.logger = logging.getLogger(__name__)
+        self.logger.setLevel(logging.DEBUG)
+        self.logger.addHandler(self.streamingloghandler)
 
     async def Ping(
         self,
         request: eval_request_pb2.PingRequest,
         context: grpc.ServicerContext,
     ) -> eval_response_pb2.EvalResponse:
+        self.logger.info("Got a Ping request.")
         return eval_response_pb2.EvalResponse(response=f"ack")
+
+    async def GetLogMessages(
+        self,
+        request: eval_request_pb2.LogMessageRequest,
+        context: grpc.ServicerContext,
+    ) -> eval_response_pb2.LogMessageResponse:
+        messages = self.streamingloghandler.get_messages()
+        while messages.empty() is False:
+            try:
+                record = messages.get(block=False)
+                messages.task_done()
+                yield eval_response_pb2.LogMessageResponse(message=record.getMessage())
+            except:
+                pass
 
     async def Connect(
         self,
@@ -172,7 +192,7 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
 
         eval = session["eval"]
         job_id, run_time = eval.evaluate(dataset)
-        logging.info(f"Run eval job_id:{job_id} run_time:{run_time} for {len(dataset)} eval entries.")
+        self.logger.info(f"Run eval job_id:{job_id} run_time:{run_time} for {len(dataset)} eval entries.")
 
         config_df = config_to_df(
             job_id,

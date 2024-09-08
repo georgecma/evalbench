@@ -9,3 +9,6 @@ message EvalResponse {
   string session_id = 2;
 }
 
+message LogMessageResponse {
+  string message = 1;
+}

@@ -5,18 +5,28 @@ from evalproto import eval_request_pb2, eval_connect_pb2, eval_config_pb2
 from evalproto import eval_service_pb2_grpc
 import random
 import argparse
+import threading
 
 
 class EvalbenchClient:
-    def __init__(self):
-        channel_creds = grpc.alts_channel_credentials()
-        address = "127.0.0.1:50051"
-        self.channel = grpc.aio.secure_channel(address, channel_creds)
+    def __init__(self, evalbench_host: str):
+        address = f"{evalbench_host}:50051"
+        if "localhost" in evalbench_host:
+            print("Insecure client.")
+            self.channel = grpc.aio.insecure_channel(address)
+            self.logging_channel = grpc.aio.insecure_channel(address)
+        else:
+            channel_creds = grpc.alts_channel_credentials()
+            self.channel = grpc.aio.secure_channel(address, channel_creds)
+            self.logging_channel = grpc.aio.secure_channel(address, channel_creds)
+
         self.stub = eval_service_pb2_grpc.EvalServiceStub(self.channel)
+        self.loggin_stub = eval_service_pb2_grpc.EvalServiceStub(self.logging_channel)
         rpc_id = "{:032x}".format(random.getrandbits(128))
         self.metadata = grpc.aio.Metadata(
             ("client-rpc-id", rpc_id),
         )
+        asyncio.create_task(self.get_logmessages())
 
     async def ping(self):
         request = eval_request_pb2.PingRequest()
@@ -38,6 +48,17 @@ class EvalbenchClient:
         response = await self.stub.EvalConfig(request, metadata=self.metadata)
         return response
 
+    async def get_logmessages(self):
+        request = eval_request_pb2.LogMessageRequest()
+        get_evalinputs_stream = self.loggin_stub.GetLogMessages(
+            request, metadata=self.metadata
+        )
+        while True:
+            response = await get_evalinputs_stream.read()
+            if response == grpc.aio.EOF:
+                break
+            print(response.message)
+
     async def get_evalinputs(self):
         request = eval_request_pb2.EvalInputRequest()
         get_evalinputs_stream = self.stub.ListEvalInputs(
@@ -58,9 +79,10 @@ class EvalbenchClient:
         return response
 
 
-async def run(experiment: str) -> None:
+async def run(evalbench_host: str, experiment: str) -> None:
     logger = Logger.with_default_handlers(name="evalbench-logger")
-    evalbenchclient = EvalbenchClient()
+    evalbenchclient = EvalbenchClient(evalbench_host)
+
     response = await evalbenchclient.ping()
     logger.info(f"ping Returned: {response.response}")
 
@@ -70,24 +92,25 @@ async def run(experiment: str) -> None:
     response = await evalbenchclient.ping()
     logger.info(f"ping Returned: {response.response}")
 
-    response = await evalbenchclient.set_evalconfig(experiment)
-    logger.info(f"get_evalinput Returned: {response.response}")
+    # response = await evalbenchclient.set_evalconfig(experiment)
+    # logger.info(f"get_evalinput Returned: {response.response}")
 
-    evalInputs = []
-    async for response in evalbenchclient.get_evalinputs():
-        evalInputs.append(response)
-    logger.info(f"evalInputs: {len(evalInputs)}")
-    response = await evalbenchclient.eval(evalInputs)
-    logger.info(f"eval Returned: {response.response}")
+    # evalInputs = []
+    # async for response in evalbenchclient.get_evalinputs():
+    #     evalInputs.append(response)
+    # logger.info(f"evalInputs: {len(evalInputs)}")
+    # response = await evalbenchclient.eval(evalInputs)
+    # logger.info(f"eval Returned: {response.response}")
 
 
 async def main():
     logger = Logger.with_default_handlers(name="evalbench-logger")
     parser = argparse.ArgumentParser()
+    parser.add_argument("--evalbench_host", dest="evalbench_host")
     parser.add_argument("--experiment", dest="experiment")
     known_args, _ = parser.parse_known_args()
 
-    await run(known_args.experiment)
+    await run(known_args.evalbench_host, known_args.experiment)
     # get a set of all running tasks
     all_tasks = asyncio.all_tasks()
     # get the current tasks
@@ -95,7 +118,7 @@ async def main():
     # remove the current task from the list of all tasks
     all_tasks.remove(current_task)
     # report a message
-    print(f"Main waiting for {len(all_tasks)} tasks...")
+    logger.info(f"Main waiting for {len(all_tasks)} tasks...")
     # suspend until all tasks are completed
     if len(all_tasks) > 0:
         await asyncio.wait(all_tasks)
