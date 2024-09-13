@@ -106,6 +106,8 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         logging.info("Retrieve: %s.", rpc_id_var.get())
         experiment_config = session["config"]
         dataset_config_json = experiment_config["dataset_config"]
+        if "eval_ids" in experiment_config.keys() and len(experiment_config["eval_ids"]) > 0:
+            self.eval_ids = experiment_config["eval_ids"]
 
         # Load the dataset
         dataset, database = load_dataset_from_json(
@@ -117,8 +119,10 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         )
         session["db_config"]["database_name"] = database
         for eval_input in dataset:
+            if self.eval_ids is not None and eval_input.id not in self.eval_ids:
+                continue
             yield eval_request_pb2.EvalInputRequest(
-                id=f"{eval_input.id}",
+                id=eval_input.id,
                 query_type=eval_input.query_type,
                 database=eval_input.database,
                 nl_prompt=eval_input.nl_prompt,
@@ -151,8 +155,13 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
                 cleanup_sql=request.cleanup_sql,
                 tags=request.tags,
                 other=request.other,
+                sql_generator_error = request.sql_generator_error,
+                sql_generator_time = request.sql_generator_time,
+                generated_sql = request.generated_sql,
+                job_id = request.job_id,
             )
             dataset.append(input)
+
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
 
         session["db"] = databases.get_database(session["db_config"])
@@ -163,14 +172,13 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         session["prompt_generator"] = prompts.get_generator(
             session["db"], session["config"]
         )
-        session["eval"] = evaluator.Evaluator(
+        eval = evaluator.Evaluator(
             session["config"],
             session["prompt_generator"],
             session["model_generator"],
             session["db"],
         )
 
-        eval = session["eval"]
         job_id, run_time = eval.evaluate(dataset)
         logging.info(f"Run eval job_id:{job_id} run_time:{run_time} for {len(dataset)} eval entries.")
 

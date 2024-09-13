@@ -23,10 +23,14 @@ class SQLGenWork(Work):
         generated_sql = None
         sql_generator_error = None
         if self.eval_result["prompt_generator_error"] is None:
-            try:
-                generated_sql = self.generator.generate(self.eval_result["generated_prompt"])
-            except Exception as e:
-                sql_generator_error = str(e)
+            if "noop" in self.generator.name:
+                generated_sql = self.eval_result["generated_sql"]
+                sql_generator_error = self.eval_result["sql_generator_error"]
+            else:
+                try:
+                    generated_sql = self.generator.generate(self.eval_result["generated_prompt"])
+                except Exception as e:
+                    sql_generator_error = str(e)
 
         self.eval_result["generated_sql"] = generated_sql
         self.eval_result["sql_generator_error"] = sql_generator_error
