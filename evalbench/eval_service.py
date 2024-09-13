@@ -106,7 +106,10 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         logging.info("Retrieve: %s.", rpc_id_var.get())
         experiment_config = session["config"]
         dataset_config_json = experiment_config["dataset_config"]
-        if "eval_ids" in experiment_config.keys() and len(experiment_config["eval_ids"]) > 0:
+        if (
+            "eval_ids" in experiment_config.keys()
+            and len(experiment_config["eval_ids"]) > 0
+        ):
             self.eval_ids = experiment_config["eval_ids"]
 
         # Load the dataset
@@ -155,10 +158,10 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
                 cleanup_sql=request.cleanup_sql,
                 tags=request.tags,
                 other=request.other,
-                sql_generator_error = request.sql_generator_error,
-                sql_generator_time = request.sql_generator_time,
-                generated_sql = request.generated_sql,
-                job_id = request.job_id,
+                sql_generator_error=request.sql_generator_error,
+                sql_generator_time=request.sql_generator_time,
+                generated_sql=request.generated_sql,
+                job_id=request.job_id,
             )
             dataset.append(input)
 
@@ -180,7 +183,9 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         )
 
         job_id, run_time = eval.evaluate(dataset)
-        logging.info(f"Run eval job_id:{job_id} run_time:{run_time} for {len(dataset)} eval entries.")
+        logging.info(
+            f"Run eval job_id:{job_id} run_time:{run_time} for {len(dataset)} eval entries."
+        )
 
         config_df = config_to_df(
             job_id,

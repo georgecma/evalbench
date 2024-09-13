@@ -1,4 +1,3 @@
-
 import sqlalchemy
 from sqlalchemy import text
 
@@ -31,7 +30,7 @@ class PGDB(DB):
         def getconn():
             conn = connector.connect(
                 instance_connection_name,
-                'pg8000',
+                "pg8000",
                 user=db_user,
                 password=db_pass,
                 db=self.db_name,
@@ -64,9 +63,9 @@ class PGDB(DB):
                 with connection.begin():
                     resultset = connection.execute(text(query))
             if resultset.returns_rows:
-                    rows = resultset.fetchall()
-                    for r in rows:
-                        result.append(r._asdict())
+                rows = resultset.fetchall()
+                for r in rows:
+                    result.append(r._asdict())
         except Exception as e:
             error = str(e)
         return result, error

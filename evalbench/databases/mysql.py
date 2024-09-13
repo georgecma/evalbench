@@ -21,7 +21,7 @@ class MySQLDB(DB):
         def getconn():
             conn = connector.connect(
                 instance_connection_name,
-                'pymysql',
+                "pymysql",
                 user=db_user,
                 password=db_pass,
                 database=self.db_name,
@@ -53,10 +53,10 @@ class MySQLDB(DB):
                 with connection.begin():
                     resultset = connection.execute(text(query))
             if resultset.returns_rows:
-                    column_names = resultset.keys()
-                    rows = resultset.fetchall()
-                    for row in rows:
-                        result.append(dict(zip(column_names, row)))
+                column_names = resultset.keys()
+                rows = resultset.fetchall()
+                for row in rows:
+                    result.append(dict(zip(column_names, row)))
         except Exception as e:
             error = str(e)
         return result, error

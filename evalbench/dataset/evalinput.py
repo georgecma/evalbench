@@ -13,10 +13,10 @@ class EvalInputRequest:
         cleanup_sql: list,
         tags: list,
         other: dict,
-        sql_generator_error: str ="",
+        sql_generator_error: str = "",
         sql_generator_time: float = 0.0,
         generated_sql: str = "",
-        job_id: str = ""
+        job_id: str = "",
     ):
         """Initializes an EvalInputRequest object with all required fields.
 
@@ -44,7 +44,7 @@ class EvalInputRequest:
         self.cleanup_sql = cleanup_sql
         self.tags = tags
         self.other = other
-        self.sql_generator_error = sql_generator_error,
-        self.sql_generator_time = sql_generator_time,
-        self.generated_sql = generated_sql,
+        self.sql_generator_error = (sql_generator_error,)
+        self.sql_generator_time = (sql_generator_time,)
+        self.generated_sql = (generated_sql,)
         self.job_id = job_id

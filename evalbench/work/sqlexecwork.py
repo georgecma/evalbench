@@ -7,7 +7,7 @@ from work import Work
 class SQLExecWork(Work):
     """SQLExecWork Generates SQL from the generator."""
 
-    def __init__(self, db: Any,  eval_result: dict):
+    def __init__(self, db: Any, eval_result: dict):
         self.db = db
         self.eval_result = eval_result
 
@@ -29,17 +29,21 @@ class SQLExecWork(Work):
             self.eval_result["sanitized_sql"] = (
                 self.eval_result["generated_sql"]
                 .replace('sql: "', "")
-                .replace('\\n', " ")
+                .replace("\\n", " ")
                 .replace("\\n", " ")
                 .replace("\\", "")
                 .replace("  ", "")
                 .replace("`", "")
             )
-            generated_result, generated_error = self.db.execute(self.eval_result["sanitized_sql"])
+            generated_result, generated_error = self.db.execute(
+                self.eval_result["sanitized_sql"]
+            )
             golden_sql = ""
             if isinstance(self.eval_result["golden_sql"], str):
                 golden_sql = self.eval_result["golden_sql"]
-            elif isinstance(self.eval_result["golden_sql"], list) and len(self.eval_result["golden_sql"]) > 0:
+            elif (
+                isinstance(self.eval_result["golden_sql"], list) and len(self.eval_result["golden_sql"]) > 0
+            ):
                 golden_sql = self.eval_result["golden_sql"][0]
             golden_result, golden_error = self.db.execute(golden_sql)
 
