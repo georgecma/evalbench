@@ -20,6 +20,7 @@ def parse_textproto_file(textproto_path):
         text_format.Merge(file.read(), schema_details)
     return schema_details
 
+
 def setupDatabase(db_config: dict):
     logging.info("Running setup-teardown...")
     db_engine = db_config['db']
