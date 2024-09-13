@@ -2,6 +2,7 @@ import os
 import sys
 import importlib
 import logging
+import pandas as pd
 from google.protobuf import text_format
 from .schema_details.schema_detail_pb2 import SchemaDetails
 
@@ -19,6 +20,39 @@ def parse_textproto_file(textproto_path):
     with open(textproto_path, 'r') as file:
         text_format.Merge(file.read(), schema_details)
     return schema_details
+
+
+def save_checksums_to_csv(checksums, output_file):
+    try:
+        df = pd.DataFrame(checksums, columns=['table_name', 'checksum'])
+        df.to_csv(output_file, index=False)
+        logging.info(f"Checksums saved to {output_file}")
+    except Exception as e:
+        logging.error(f"Failed to save checksums to {output_file}: {e}")
+
+
+def calculate_checksum(db_config):
+    db_handler = databaseHandler.get_db_handler(db_config)
+    setup_file = os.path.join(
+        os.path.dirname(__file__), 
+        f"schema_details/bat/{db_config['database_name']}/setup.yaml"
+    )
+    setup = util_config.load_yaml_config(setup_file)
+
+    db_engine = db_config['db']
+    checksum_commands = setup['setup_commands']["post_data_insertion_checks"][db_engine]
+    checksum_query = " UNION ALL ".join(checksum_commands) + ";"
+    result, error = db_handler.execute([checksum_query])
+
+    if error:
+        logging.error(f"Error executing checksum query: {error}")
+        return
+
+    output_file = os.path.join(
+        os.path.dirname(__file__), 
+        f"checksum/{db_config['database_name']}_{db_engine}.csv"
+    )
+    save_checksums_to_csv(result, output_file)
 
 
 def setupDatabase(db_config: dict):
