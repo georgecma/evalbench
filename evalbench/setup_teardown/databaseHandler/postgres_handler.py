@@ -54,11 +54,6 @@ class PostgresHandler(DBHandler):
         result = None
         error = None
         db_instance = get_database(self.db_config)
-        # for query in queries:
-        #     result, error = db_instance.execute(query)
-        #     if error:
-        #         print(f"Error while executing query: {query} error: {error}")
-        # return result, error
         combined_query = "\n".join(queries)
         result, error = db_instance.execute(combined_query)
         return result, error

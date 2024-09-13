@@ -1,7 +1,0 @@
-db: mysql
-project_id: cloud-db-nl2sql
-region: us-central1
-instance_name:   hardik-nl2sql-synthetic-mysql-clone
-database_name: db_hr
-user_name: mysql
-password: !ENV ${EVAL_DB_PASSWORD}

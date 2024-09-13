@@ -1,7 +1,0 @@
-db: postgres
-project_id: cloud-db-nl2sql
-region: us-central1
-instance_name:  hardik-nl2sql-synthetic-pg-clone
-database_name: db_hr
-user_name: nl2sql
-password: !ENV ${EVAL_DB_PASSWORD}
