@@ -124,6 +124,7 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
     ) -> eval_request_pb2.EvalInputRequest:
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
         logging.info("Retrieve: %s.", rpc_id_var.get())
+        self.logger.info("Got a ListEvalInputs request.")
         experiment_config = session["config"]
         dataset_config_json = experiment_config["dataset_config"]
 
@@ -156,7 +157,7 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         request_iterator: AsyncIterator[eval_request_pb2.EvalInputRequest],
         context: grpc.ServicerContext,
     ) -> eval_response_pb2.EvalResponse:
-
+        self.logger.info("Got a Eval request.")
         dataset = []
         async for request in request_iterator:
             input = evalinput.EvalInputRequest(

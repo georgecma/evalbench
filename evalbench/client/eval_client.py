@@ -5,7 +5,7 @@ from evalproto import eval_request_pb2, eval_connect_pb2, eval_config_pb2
 from evalproto import eval_service_pb2_grpc
 import random
 import argparse
-import threading
+import time
 
 
 class EvalbenchClient:
@@ -56,8 +56,9 @@ class EvalbenchClient:
         while True:
             response = await get_evalinputs_stream.read()
             if response == grpc.aio.EOF:
-                break
-            print(response.message)
+                time.sleep(1)
+            else:
+                print(f"SERVER: {response.message}")
 
     async def get_evalinputs(self):
         request = eval_request_pb2.EvalInputRequest()
@@ -92,15 +93,15 @@ async def run(evalbench_host: str, experiment: str) -> None:
     response = await evalbenchclient.ping()
     logger.info(f"ping Returned: {response.response}")
 
-    # response = await evalbenchclient.set_evalconfig(experiment)
-    # logger.info(f"get_evalinput Returned: {response.response}")
+    response = await evalbenchclient.set_evalconfig(experiment)
+    logger.info(f"get_evalinput Returned: {response.response}")
 
-    # evalInputs = []
-    # async for response in evalbenchclient.get_evalinputs():
-    #     evalInputs.append(response)
-    # logger.info(f"evalInputs: {len(evalInputs)}")
-    # response = await evalbenchclient.eval(evalInputs)
-    # logger.info(f"eval Returned: {response.response}")
+    evalInputs = []
+    async for response in evalbenchclient.get_evalinputs():
+        evalInputs.append(response)
+    logger.info(f"evalInputs: {len(evalInputs)}")
+    response = await evalbenchclient.eval(evalInputs)
+    logger.info(f"eval Returned: {response.response}")
 
 
 async def main():
