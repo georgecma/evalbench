@@ -106,6 +106,7 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         logging.info("Retrieve: %s.", rpc_id_var.get())
         experiment_config = session["config"]
         dataset_config_json = experiment_config["dataset_config"]
+        self.eval_ids = None
         if (
             "eval_ids" in experiment_config.keys()
             and len(experiment_config["eval_ids"]) > 0
