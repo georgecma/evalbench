@@ -1,0 +1,30 @@
+edition = "2024";
+
+package cloud_databases_nl2code_eval_dbcodegen_proto;
+
+option java_multiple_files = true;
+
+message PingRequest {
+  string id = 1;
+}
+
+message UserAction {
+  string action_type = 1;
+  string prompt = 2;
+  string file_path = 3;
+  int64 cusrsor_start = 4;
+  int64 cusrsor_end = 5;
+}
+
+message EvalInputRequest {
+  string id = 1;
+  string patch = 2;
+  UserAction user_action = 3;
+  string verification_command = 4;
+  string description = 5;
+  // TODO: Add database_context if required in future
+
+  // TODO: Modify this as per GCA RAG
+  string application_context = 6;
+
+}
