@@ -8,6 +8,14 @@ message PingRequest {
   string id = 1;
 }
 
+message EvalConfigRequest {
+  bytes yaml_config = 1;
+}
+
+message EvalConnectRequest {
+  string client_id = 1;
+}
+
 message UserAction {
   string action_type = 1;
   string prompt = 2;
