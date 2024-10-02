@@ -18,9 +18,6 @@ spec:
       serviceAccountName: evalbench-ksa
       containers:
       - image: us-central1-docker.pkg.dev/astana-evaluation/evalbench/eval-server:latest
-        env:
-        - name: EVAL_DB_PASSWORD
-          value: pantheon
         imagePullPolicy: Always
         name: evalbench-nl2code-eval
         # go/gke-shipshape

@@ -17,6 +17,6 @@ COPY --chown=nonroot:nonroot . /app
 COPY --from=protoc-env --chown=nonroot:nonroot /proto_out /app/evalbench/
 WORKDIR /app/evalbench
 ENV PYTHONPATH=/usr/local/lib/python3.11/site-packages
-CMD ["eval_server.py"]
+CMD ["nl2code_eval_server.py"]
 
 EXPOSE 50051

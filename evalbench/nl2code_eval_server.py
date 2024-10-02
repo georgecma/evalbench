@@ -31,7 +31,7 @@ async def _serve():
 
     server = grpc.aio.server(interceptors=interceptors)
     servicer = EvalServicer()
-    eval_nl2code_service_pb2_grpc.add_EvalServiceServicer_to_server(servicer, server)
+    eval_nl2code_service_pb2_grpc.add_EvalCodeGenServiceServicer_to_server(servicer, server)
     if _LOCALHOST.value:
         # --localhost is for testing purpose. Use insecure_server_credentials()
         # because local creds does not work between a client running on the host

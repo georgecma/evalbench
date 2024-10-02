@@ -1,4 +1,4 @@
-edition = "2024";
+edition = "2023";
 
 package cloud_databases_nl2code_eval_dbcodegen_proto;
 

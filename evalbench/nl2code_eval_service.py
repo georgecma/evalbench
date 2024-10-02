@@ -19,6 +19,7 @@ import reporting.report as report
 import reporting.bqstore as bqstore
 import reporting.analyzer as analyzer
 import databases
+import pathlib
 
 
 import eval_nl2code_request_pb2
@@ -61,7 +62,7 @@ class SessionManagerInterceptor(grpc.aio.ServerInterceptor):
         return f"{self.tag}-{rpc_id}"
 
 
-class EvalServicer(eval_nl2code_service_pb2_grpc.EvalServiceServicer):
+class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
     """A gRPC servicer that handles EvalService requests."""
 
     def __init__(self) -> None:
@@ -185,4 +186,8 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalServiceServicer):
         summary_scores_df["run_time"] = run_time
         report.store(scores_df, bqstore.STORETYPE.SCORES)
         report.store(summary_scores_df, bqstore.STORETYPE.SUMMARY)
+        
+        pathlib.Path(f"/tmp/eval_output_{job_id}.json").unlink()
+        pathlib.Path(f"/tmp/score_result_{job_id}.json").unlink()
+        
         return eval_nl2code_response_pb2.EvalResponse(response=f"ack")
