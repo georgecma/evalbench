@@ -2,8 +2,6 @@ edition = "2023";
 
 package cloud_databases_nl2code_eval_dbcodegen_proto;
 
-import "eval_config.proto";
-import "eval_connect.proto";
 import "eval_nl2code_request.proto";
 import "eval_nl2code_response.proto";
 

@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: eval-server
+  namespace: evalbench-namespace
+  annotations:
+    cloud.google.com/neg: '{"exposed_ports":{"8080":{"name": "evalbench-nl2code-directpath-neg"}}}'
+spec:
+  ipFamilyPolicy: RequireDualStack
+  ipFamilies:
+  - IPv6
+  - IPv4
+  ports:
+  - name: eval-server
+    port: 8080
+    protocol: TCP
+    targetPort: 50051
+  selector:
+    app: evalbench-nl2code-eval-server
+  type: ClusterIP

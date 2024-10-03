@@ -1,4 +1,4 @@
-edition = "2024";
+edition = "2023";
 
 package cloud_databases_nl2code_eval_dbcodegen_proto;
 
@@ -6,6 +6,14 @@ option java_multiple_files = true;
 
 message PingRequest {
   string id = 1;
+}
+
+message EvalConfigRequest {
+  bytes yaml_config = 1;
+}
+
+message EvalConnectRequest {
+  string client_id = 1;
 }
 
 message UserAction {
