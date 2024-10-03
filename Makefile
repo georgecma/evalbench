@@ -47,4 +47,4 @@ style:
 	@pycodestyle --exclude=evalbench/lib,evalbench/lib64 --max-line-length=120 evalbench
 
 run:
-	@cd ./run_service.sh
+	@./run_service.sh
