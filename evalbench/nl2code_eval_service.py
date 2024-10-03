@@ -172,20 +172,6 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
             session["model_config"],
             session["db_config"],
         )
-        report.store(config_df, bqstore.STORETYPE.CONFIGS)
-
-        results = load_json(f"/tmp/eval_output_{job_id}.json")
-        results_df = report.quick_summary(results)
-        report.store(results_df, bqstore.STORETYPE.EVALS)
-
-        scores = load_json(f"/tmp/score_result_{job_id}.json")
-        scores_df, summary_scores_df = analyzer.analyze_result(
-            scores, session["config"]
-        )
-        summary_scores_df["job_id"] = job_id
-        summary_scores_df["run_time"] = run_time
-        report.store(scores_df, bqstore.STORETYPE.SCORES)
-        report.store(summary_scores_df, bqstore.STORETYPE.SUMMARY)
         
         pathlib.Path(f"/tmp/eval_output_{job_id}.json").unlink()
         pathlib.Path(f"/tmp/score_result_{job_id}.json").unlink()
