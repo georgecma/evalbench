@@ -4,6 +4,7 @@ from collections.abc import Sequence
 from absl import app
 from absl import flags
 from util.config import load_yaml_config, config_to_df
+from repository import get_repository
 from dataset.dataset import load_json, load_dataset_from_json
 import generators.models as models
 import generators.prompts as prompts
@@ -12,6 +13,7 @@ import reporting.report as report
 import reporting.bqstore as bqstore
 import reporting.analyzer as analyzer
 import databases
+import setup_teardown
 import logging
 import json
 
@@ -34,6 +36,9 @@ def main(argv: Sequence[str]) -> None:
 
     logging.info("Loaded %s", _EXPERIMENT_CONFIG.value)
 
+    repo = get_repository(experiment_config)
+    repo.clone()
+
     db_config_yaml = experiment_config["database_config"]
     model_config_yaml = experiment_config["model_config"]
     dataset_config_json = experiment_config["dataset_config"]
@@ -49,8 +54,14 @@ def main(argv: Sequence[str]) -> None:
     db_config["database_name"] = database
     model_config["database_config"] = db_config
 
-    # Create the DB
+    setup_teardown.setupDatabase(db_config=db_config, database=database, create_user=True)
     db = databases.get_database(db_config)
+
+    query_types = experiment_config.get("query_types", [])
+    if not query_types:
+        query_types = ["dql", "dml", "ddl"]
+
+    dataset = {k: v for k, v in dataset.items() if k in query_types}
 
     # Load the Query Generator
     model_generator = models.get_generator(model_config)

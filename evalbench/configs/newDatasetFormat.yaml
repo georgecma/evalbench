@@ -1,4 +1,6 @@
-dataset_config: ../datasets/bat/db_hr.json
+repo_dir: ../datasets/nld
+repo_url: persistent-https://dar-internal.git.corp.google.com/nl2sql-datasets
+dataset_config: ../datasets/bat/prompts/db_hr/v1.json
 database_config: configs/db/postgres.yaml
 model_config: configs/model/base_gemini_model.yaml
 prompt_generator: 'DBSchemaGenerator'

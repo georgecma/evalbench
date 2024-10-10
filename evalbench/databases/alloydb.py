@@ -4,8 +4,9 @@ import sqlalchemy
 from sqlalchemy import text
 
 from google.cloud.alloydb.connector import Connector
-from .util import generate_ddl, get_db_secret
+from .util import generate_ddl, get_db_secret, rate_limited_execute
 from typing import Any, Tuple
+from threading import Semaphore
 
 SCHEMA_QUERY = """
 SELECT table_name, column_name, data_type
@@ -27,6 +28,9 @@ class AlloyDB(DB):
         db_pass_secret_path = db_config["password"]
         db_pass = get_db_secret(db_pass_secret_path)
         self.db_name = db_config["database_name"]
+        self.execs_per_minute = db_config["max_executions_per_minute"]
+        self.semaphore = Semaphore(self.execs_per_minute)
+        self.max_attempts = 3
 
         # Initialize the Cloud SQL Connector object
         connector = Connector()
@@ -60,7 +64,10 @@ class AlloyDB(DB):
         headers, rows = self.generate_schema()
         return generate_ddl(rows, self.db_name)
 
-    def execute(self, query: str) -> Tuple[Any, float]:
+    def get_metadata(self) -> dict:
+        pass
+
+    def _execute(self, query: str, rollback: bool = False, use_transaction: bool = True) -> Tuple[Any, float]:
         result = []
         error = None
         rows = None
@@ -68,9 +75,24 @@ class AlloyDB(DB):
             with self.engine.connect() as connection:
                 with connection.begin():
                     resultset = connection.execute(text(query))
-            rows = resultset.fetchall()
-            for r in rows:
-                result.append(r._asdict())
+            if resultset.returns_rows:
+                rows = resultset.fetchall()
+                for r in rows:
+                    result.append(r._asdict())
         except Exception as e:
             error = str(e)
         return rows, error
+
+    def execute(self, query: str, rollback: bool = False, use_transaction: bool = True) -> Tuple[Any, float]:
+        if isinstance(self.execs_per_minute, int):
+            return rate_limited_execute(
+                query,
+                rollback,
+                use_transaction,
+                self._execute,
+                self.execs_per_minute,
+                self.semaphore,
+                self.max_attempts,
+            )
+        else:
+            return self._execute(query, rollback, use_transaction)

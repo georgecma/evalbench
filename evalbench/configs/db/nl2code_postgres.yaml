@@ -1,5 +1,5 @@
 db: postgres
-project_id: google.com:astana-team
+project_id: astana-evaluation
 region: us-central1
 instance_name: nl2code
 database_name: cymbalShop

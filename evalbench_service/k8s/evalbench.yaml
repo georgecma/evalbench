@@ -40,6 +40,10 @@ spec:
         volumeMounts:
         - mountPath: /tmp
           name: tmp-volume
+        - mountPath: /tmp_session_files
+          name: tmp-session-files
       volumes:
       - name: tmp-volume
+        emptyDir: {}
+      - name: tmp-session-files
         emptyDir: {}
