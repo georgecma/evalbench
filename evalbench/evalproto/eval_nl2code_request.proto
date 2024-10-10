@@ -20,8 +20,8 @@ message UserAction {
   string action_type = 1;
   string prompt = 2;
   string file_path = 3;
-  int64 cusrsor_start = 4;
-  int64 cusrsor_end = 5;
+  int64 cursor_start = 4;
+  int64 cursor_end = 5;
 }
 
 message EvalInputRequest {
@@ -34,5 +34,7 @@ message EvalInputRequest {
 
   // TODO: Modify this as per GCA RAG
   string application_context = 6;
-
+  string generated_code = 7;
+  float dbcodegen_time = 8;
+  string dbcodegen_error = 9;
 }

@@ -7,6 +7,7 @@ import logging
 from collections.abc import Sequence
 from dataset.evalinput import EvalInputRequest
 from dataset.evaloutput import EvalOutput
+import eval_nl2code_request_pb2 
 
 
 _SOURCE_DATASET_PATH = flags.DEFINE_string(
@@ -21,8 +22,16 @@ def load_json(json_file_path):
     json_file_path = f"{json_file_path}"
     with open(json_file_path, "r") as json_file:
         all_items.extend(json.load(json_file))
+
     return all_items
 
+def load_nl2code_json(json_file_path):
+    all_items = []
+    json_file_path = f"{json_file_path}"
+    with open(json_file_path, "r") as json_file:
+        all_items.append(json.load(json_file))
+ 
+    return all_items[0]["examples"], "cymbalShop"
 
 def load_dataset_from_json(json_file_path, experiment_config):
     input_items = []
@@ -42,6 +51,14 @@ def load_dataset_from_json(json_file_path, experiment_config):
         logging.info("Converted %d entries to EvalInputRequest.", len(input_items))
 
     return input_items, input_items[0].database
+
+def load_dataset_from_nl2code_json(json_file_path):
+    input_items = []
+    all_items, database = load_nl2code_json(json_file_path)
+    input_items = load_dataset_from_nl2code(all_items)
+    logging.info("Converted %d entries to EvalInputRequest.", len(input_items))
+    
+    return input_items, database
 
 
 def load_dataset_from_newFormat(dataset: Sequence[dict], dialect: str):
@@ -108,6 +125,27 @@ def load_dataset_from_bird(dataset: Sequence[dict]):
             input_items.append(eval_input)
     return input_items
 
+def load_dataset_from_nl2code(dataset: Sequence[dict]):
+    input_items = []
+    for item in dataset:
+        user_action = eval_nl2code_request_pb2.UserAction(
+            action_type=item["user_action"]["action_type"],
+            prompt=item["user_action"]["prompt"],
+            file_path=item["user_action"]["file_path"],
+            cursor_start=item["user_action"]["cursor_start"],
+            cursor_end=item["user_action"]["cursor_end"],
+        )
+        
+        eval_input = eval_nl2code_request_pb2.EvalInputRequest(
+            id = item["id"],
+            patch = item["patch"],
+            user_action = user_action,
+            verification_command = item["verification_command"],
+            description = item["description"],
+            application_context = json.dumps(item["application_context"])
+        )
+        input_items.append(eval_input)
+    return input_items
 
 def main(argv: Sequence[str]) -> None:
     logging.info("Dataset converter v1.0.0")

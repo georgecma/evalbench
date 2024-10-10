@@ -10,7 +10,7 @@ import yaml
 import grpc
 from util.config import load_yaml_config, config_to_df
 from util import get_SessionManager
-from dataset.dataset import load_json, load_dataset_from_json
+from dataset.dataset import load_json, load_dataset_from_json, load_dataset_from_nl2code_json
 from dataset import evalinput
 import generators.models as models
 import generators.prompts as prompts
@@ -109,14 +109,11 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
         dataset_config_json = experiment_config["dataset_config"]
 
         # Load the dataset
-        dataset, database = load_dataset_from_json(
-            dataset_config_json, experiment_config
+        dataset, database = load_dataset_from_nl2code_json(
+            dataset_config_json
         )
         session["db_config"]["database_name"] = database
-        dataset, database = load_dataset_from_json(
-            dataset_config_json, experiment_config
-        )
-        session["db_config"]["database_name"] = database
+       
         for eval_input in dataset:
             yield eval_nl2code_request_pb2.EvalInputRequest(
                 id=f"{eval_input.id}",
@@ -135,7 +132,7 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
 
         dataset = []
         async for request in request_iterator:
-            input = evalinput.EvalInputRequest(
+            input = eval_nl2code_request_pb2.EvalInputRequest(
                 id=request.id,
                 patch=request.patch,
                 user_action=request.user_action,
