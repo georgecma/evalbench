@@ -5,6 +5,9 @@ if [[ -z "${EVAL_DB_PASSWORD}" ]];
   exit 0;
 fi
 
+# increase limit for number of open files
+ulimit -n 4096
+
 export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
 # python3 evalbench.py   --experiment_config=configs/base_experiment_gemini.yaml
 python3 evalbench.py   --experiment_config=configs/base_experiment_magick.yaml

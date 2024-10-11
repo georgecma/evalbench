@@ -1,8 +1,10 @@
 import logging
+import os
 
 from pyaml_env import parse_config
 import pandas as pd
 import json
+from .sessionmgr import SESSION_RESOURCES_PATH
 
 logging.getLogger().setLevel(logging.INFO)
 
@@ -37,5 +39,21 @@ def config_to_df(
             }
         )
     df = pd.DataFrame.from_dict(configs)
-    df[["job_id", "config", "value"]] = df[["job_id", "config", "value"]].astype("string")
+    df[["job_id", "config", "value"]] = df[["job_id", "config", "value"]].astype(
+        "string"
+    )
     return df
+
+
+def update_google3_relative_paths(experiment_config: dict, session_id: str):
+    if isinstance(experiment_config, dict):
+        for key, value in experiment_config.items():
+            if isinstance(value, dict):
+                update_google3_relative_paths(value, session_id)
+            elif isinstance(value, str) and value.startswith("google3/"):
+                updated_path = os.path.join(
+                    SESSION_RESOURCES_PATH,
+                    session_id,
+                    experiment_config[key],
+                )
+                experiment_config[key] = updated_path

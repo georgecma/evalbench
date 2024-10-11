@@ -1,6 +1,8 @@
 # Package dependencies
 cloud-sql-python-connector[pg8000]
 google-cloud-alloydb-connector[pg8000]
+cloud-sql-python-connector[pytds]
+sqlalchemy-pytds
 google-cloud-aiplatform
 google-cloud-secret-manager
 openai
@@ -17,3 +19,4 @@ grpcio-tools
 aiologger
 jsonschema
 ratelimit
+backoff

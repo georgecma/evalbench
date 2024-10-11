@@ -1,3 +1,7 @@
+from google.protobuf.json_format import MessageToDict
+import eval_request_pb2
+
+
 class EvalInputRequest:
 
     def __init__(
@@ -12,22 +16,15 @@ class EvalInputRequest:
         setup_sql: list,
         cleanup_sql: list,
         tags: list,
-        other: dict
+        other: dict,
+        sql_generator_error: str = "",
+        sql_generator_time: float = 0.0,
+        generated_sql: str = "",
+        job_id: str = "",
     ):
         """Initializes an EvalInputRequest object with all required fields.
 
-        :param id: A unique string identifier or name for this EvalInputRequest. Unique
-        within a dataset file.
-        :param query_type: The type of SQL query ("DDL" for Data Definition
-        Language, "DML" for Data Manipulation Language,
-                           or "DQL" for Data Query Language).
-        :param database: The database for this dataset.
-        :param nl_prompt: The human language question for which the
-        model is to generate an SQL query.
-        :param dialects: The list of dialects for which the model is to
-        generate an SQL query.
-        :param golden_query: The correct/expected SQL query for the given human
-        language question.
+        See eval_request_pb2 for types
         """
         self.id = id
         self.database = database
@@ -40,3 +37,30 @@ class EvalInputRequest:
         self.cleanup_sql = cleanup_sql
         self.tags = tags
         self.other = other
+        self.sql_generator_error = sql_generator_error
+        self.sql_generator_time = sql_generator_time
+        self.generated_sql = generated_sql
+        self.job_id = job_id
+
+    @classmethod
+    def init_from_proto(self, proto: eval_request_pb2.EvalInputRequest):
+        """Initializes an EvalInputRequest from eval_request_pb2 proto."""
+
+        request = MessageToDict(proto)
+        return self(
+            id=request.get("id"),
+            query_type=request.get("queryType"),
+            database=request.get("database"),
+            nl_prompt=request.get("nlPrompt"),
+            dialects=request.get("dialects"),
+            golden_sql=request.get("goldenSql"),
+            eval_query=request.get("evalQuery"),
+            setup_sql=request.get("setupSql"),
+            cleanup_sql=request.get("cleanupSql"),
+            tags=request.get("tags"),
+            other=request.get("other"),
+            sql_generator_error=request.get("sqlGeneratorError"),
+            sql_generator_time=request.get("sqlGeneratorTime"),
+            generated_sql=request.get("generatedSql"),
+            job_id=request.get("jobId"),
+        )
