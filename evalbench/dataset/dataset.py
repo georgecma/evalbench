@@ -30,8 +30,8 @@ def load_nl2code_json(json_file_path):
     json_file_path = f"{json_file_path}"
     with open(json_file_path, "r") as json_file:
         all_items.append(json.load(json_file))
- 
-    return all_items[0]["examples"], "cymbalShop"
+    
+    return all_items[0]["examples"], all_items[0]["database"]["connection"]["url"]
 
 def load_dataset_from_json(json_file_path, experiment_config):
     input_items = []
