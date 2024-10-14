@@ -10,7 +10,6 @@ from dataset.evalinput import EvalInputRequest
 from dataset.evaloutput import EvalOutput
 import eval_nl2code_request_pb2 
 
-
 _SOURCE_DATASET_PATH = flags.DEFINE_string(
     "source_dataset_path",
     "datasets/bird_pg_dev/financial.json",

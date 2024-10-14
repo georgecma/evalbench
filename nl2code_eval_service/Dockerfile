@@ -1,22 +1,26 @@
-FROM docker.io/python:3.11-bookworm AS base-env
+FROM ubuntu:jammy
+ENV DEBIAN_FRONTEND=noninteractive
+RUN \
+  apt-get update -y && \
+  apt-get install -y unzip  && \
+  apt-get install -y git  && \
+  apt-get install -y wget && \
+  apt-get install -y apt-transport-https ca-certificates gnupg && \
+  apt-get install -y curl && \
+  apt-get install -y vim && \
+  apt-get install -y jq && \
+  apt-get install -y make python3 python3-pip
+
+RUN git clone https://gerrit.googlesource.com/gcompute-tools/
 RUN pip install --no-cache-dir --upgrade pip
-
-FROM base-env AS protoc-env
 RUN pip install --no-cache-dir grpcio-tools
-COPY ./evalbench/evalproto /proto
-RUN mkdir proto_out
-RUN python -m grpc_tools.protoc --proto_path=./proto --python_out=./proto_out --pyi_out=./proto_out --grpc_python_out=./proto_out --experimental_editions ./proto/*.proto
 
-FROM base-env AS build-env
-COPY ./requirements.txt .
-RUN pip install --no-cache-dir -r ../requirements.txt
+COPY . evalbench
+WORKDIR evalbench
+RUN ln -s /usr/bin/python3 /usr/bin/python
+RUN make proto -f ./Makefile
 
-FROM gcr.io/distroless/python3-debian12
-COPY --from=build-env /usr/local/lib/python3.11/site-packages /usr/local/lib/python3.11/site-packages
-COPY --chown=nonroot:nonroot . /app
-COPY --from=protoc-env --chown=nonroot:nonroot /proto_out /app/evalbench/
-WORKDIR /app/evalbench
-ENV PYTHONPATH=/usr/local/lib/python3.11/site-packages
-CMD ["nl2code_eval_server.py"]
-
+RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --force-reinstall googleapis-common-protos==1.64.0
+CMD ["sh","-c","/evalbench/nl2code_eval_service/evalbench_service/run_service.sh"]
 EXPOSE 50051

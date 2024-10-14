@@ -1,5 +1,5 @@
-from .nl2sqlRepo import NL2SQLRepo
+from .nldRepo import NLDRepo
 
 
 def get_repository(repo_config):
-    return NL2SQLRepo(repo_config)
+    return NLDRepo(repo_config)

@@ -5,7 +5,7 @@ from git import Repo
 from .base import Repository
 
 
-class NL2SQLRepo(Repository):
+class NLDRepo(Repository):
     def __init__(self, repo_config):
         self.config = repo_config
 
@@ -15,7 +15,7 @@ class NL2SQLRepo(Repository):
         repo_dir = self.config['repo_dir']
         repo_url = self.config['repo_url']
         if os.path.exists(repo_dir):
-            logging.info(f"NL2SQL: Repository directory '{repo_dir}' exists. Deleting it...")
+            logging.info(f"Repository directory '{repo_dir}' exists. Deleting it...")
             shutil.rmtree(repo_dir)
-        logging.info(f"NL2SQL: Cloning '{repo_url}' to '{repo_dir}'...")
+        logging.info(f"Cloning '{repo_url}' to '{repo_dir}'...")
         Repo.clone_from(repo_url, repo_dir)
