@@ -10,6 +10,7 @@ import contextvars
 import yaml
 import grpc
 from util.config import load_yaml_config, config_to_df, update_google3_relative_paths
+from repository import get_repository
 from util import get_SessionManager
 from dataset.dataset import load_json, load_dataset_from_json
 from dataset import evalinput
@@ -107,6 +108,10 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
         logging.info("Retrieve: %s.", rpc_id_var.get())
         experiment_config = session["config"]
+
+        repo = get_repository(experiment_config)
+        repo.clone()
+
         dataset_config_json = experiment_config["dataset_config"]
         self.eval_ids = None
         if (

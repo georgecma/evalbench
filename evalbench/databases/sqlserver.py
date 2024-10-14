@@ -54,6 +54,10 @@ class SQLServerDB(DB):
         # To be implemented
         pass
 
+    def get_metadata(self) -> dict:
+        # To be implemented
+        pass
+
     def _execute(self, query: str) -> Tuple[Any, float]:
         result = []
         error = None

@@ -1,5 +1,7 @@
 import os
 import csv
+import random
+import string
 from typing import Any, Tuple, List
 from .db_handler import DBHandler
 from databases import get_database
@@ -86,12 +88,35 @@ class MYSQLHandler(DBHandler):
 
         return insertion_strings
 
-    def execute(self, queries: List[str]):
+    def create_temp_databases(self, num_database: int):
+        commands = []
+        db_names = []
+
+        def generate_random_string(length=12):
+            return ''.join(random.choices(string.ascii_lowercase + string.digits, k=length))
+
+        for _ in range(num_database):
+            temp_db_name = f"temp_db_{generate_random_string()}"
+            create_db_query = f"CREATE DATABASE {temp_db_name};"
+            commands.append(create_db_query)
+            db_names.append(temp_db_name)
+        self.execute(commands, use_transaction=False)
+        return db_names
+
+    def drop_temp_databases(self, temp_databases: List[str]):
+        if len(temp_databases) == 0:
+            return
+        column_name = next(iter(temp_databases[0].keys()))
+        temp_databases = [db[column_name] for db in temp_databases]
+        drop_commands = [f"DROP DATABASE `{db}`;" for db in temp_databases]
+        return self.execute(drop_commands)
+
+    def execute(self, queries: List[str], use_transaction: bool = True):
         result = None
         error = None
         db_instance = get_database(self.db_config)
         for query in queries:
-            result, error = db_instance.execute(query)
+            result, error = db_instance.execute(query, use_transaction=use_transaction)
             if error:
                 print(f"Error while executing query. error: {error}")
         return result, error

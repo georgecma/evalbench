@@ -13,6 +13,7 @@ class GeminiGenerator(QueryGenerator):
 
     def __init__(self, querygenerator_config):
         super().__init__(querygenerator_config)
+        self.name = "gemini"
         self.project_id = querygenerator_config["project_id"]
         self.location = querygenerator_config["location"]
         self.vertex_model = querygenerator_config["vertex_model"]

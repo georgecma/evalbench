@@ -6,6 +6,7 @@ from scorers import generatedqueryregexpmatcher
 from scorers import recallmatcher
 from scorers import vertextmatcher
 from scorers import llmrater
+from scorers import returnedsql
 from dataset.evaloutput import EvalOutput
 import logging
 
@@ -31,6 +32,8 @@ def compare(eval_output_item: EvalOutput, experiment_config: dict[str, str], sco
         comparators.append(
             generatedqueryregexpmatcher.GeneratedQueryRegexpMatcher(scorers["regexp_matcher"])
         )
+    if "returned_sql" in scorers:
+        comparators.append(returnedsql.ReturnedSQL(scorers["returned_sql"]))
 
     for comp in comparators:
         score = 0

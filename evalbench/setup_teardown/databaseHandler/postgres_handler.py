@@ -1,5 +1,7 @@
 import os
 import csv
+import random
+import string
 from typing import Any, Tuple, List
 from .db_handler import DBHandler
 from databases import get_database
@@ -66,10 +68,34 @@ class PostgresHandler(DBHandler):
 
         return insertion_strings
 
-    def execute(self, queries: List[str]):
+    def create_temp_databases(self, num_database: int):
+        commands = []
+        db_names = []
+
+        def generate_random_string(length=12):
+            return ''.join(random.choices(string.ascii_lowercase + string.digits, k=length))
+
+        for _ in range(num_database):
+            temp_db_name = f"temp_db_{generate_random_string()}"
+            create_db_query = f"CREATE DATABASE {temp_db_name};"
+            commands.append(create_db_query)
+            db_names.append(temp_db_name)
+
+        for query in commands:
+            self.execute([query], use_transaction=False)
+        return db_names
+
+    def drop_temp_databases(self, temp_databases: List[str]):
+        if len(temp_databases) == 0:
+            return
+        drop_commands = [f"DROP DATABASE \"{db}\";" for db in temp_databases]
+        for query in drop_commands:
+            self.execute([query], use_transaction=False)
+
+    def execute(self, queries: List[str], use_transaction: bool = True):
         result = None
         error = None
         db_instance = get_database(self.db_config)
         combined_query = "\n".join(queries)
-        result, error = db_instance.execute(combined_query)
+        result, error = db_instance.execute(combined_query, use_transaction=use_transaction)
         return result, error
