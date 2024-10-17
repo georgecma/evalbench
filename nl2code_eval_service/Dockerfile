@@ -14,7 +14,6 @@ RUN \
 RUN git clone https://gerrit.googlesource.com/gcompute-tools/
 RUN pip install --no-cache-dir --upgrade pip
 RUN pip install --no-cache-dir grpcio-tools
-
 COPY . evalbench
 WORKDIR evalbench
 RUN ln -s /usr/bin/python3 /usr/bin/python
