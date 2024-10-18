@@ -6,9 +6,10 @@ Columns in Generated SQL exists.
 """
 
 import logging
+import backoff
 from typing import Tuple
 
-from ratelimit import limits, sleep_and_retry
+from ratelimit import limits, sleep_and_retry, exception
 from scorers import comparator
 import vertexai
 from vertexai.preview.generative_models import GenerationConfig, GenerativeModel
@@ -36,7 +37,8 @@ class LLMRater(comparator.Comparator):
         self.generation_config = GenerationConfig(temperature=0)
         self.model = GenerativeModel(self.config["model"])
 
-    @sleep_and_retry
+    @backoff.on_exception(backoff.constant, exception=Exception,
+                          max_tries=8, interval=80, jitter=backoff.full_jitter)
     @limits(calls=30, period=60)
     def compare(
         self,
@@ -100,6 +102,7 @@ class LLMRater(comparator.Comparator):
         - INCORRECT_INFORMATION -- Some incorrect information was added to OUTPUT #2, likely due to
           an incorrect filter or incorrect aggregation.
         """
+
         logging.debug("\n --------- prompt:   --------- \n %s ", prompt)
         response = self.model.generate_content(
             prompt, generation_config=self.generation_config

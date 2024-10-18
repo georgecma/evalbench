@@ -9,6 +9,7 @@ class OAIQueryGenerator(QueryGenerator):
         super().__init__()
         self.name = "gpt-4-0125-preview"
         self.base_prompt = base_prompt
+        self.name = "openai"
 
     def generate(self, question: str) -> str:
         start_time = time.time()
