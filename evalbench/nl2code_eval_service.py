@@ -12,6 +12,7 @@ from util.config import load_yaml_config, config_to_df
 from util import get_SessionManager
 from dataset.dataset import load_json, load_dataset_from_json, load_dataset_from_nl2code_json
 from dataset import evalinput
+from repository import get_repository
 import generators.models as models
 import generators.prompts as prompts
 import evaluator.evaluator as evaluator
@@ -106,6 +107,10 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
         logging.info("Retrieve: %s.", rpc_id_var.get())
         experiment_config = session["config"]
+        
+        repo = get_repository(experiment_config)
+        repo.clone()
+        
         dataset_config_json = experiment_config["dataset_config"]
 
         # Load the dataset

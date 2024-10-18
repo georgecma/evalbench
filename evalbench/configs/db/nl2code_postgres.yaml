@@ -5,3 +5,4 @@ instance_name: nl2code
 database_name: cymbalShop
 user_name: app
 password: "projects/393137573/secrets/cymbalshop-app-password/versions/1"
+max_executions_per_minute: 180

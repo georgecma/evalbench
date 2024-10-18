@@ -1,5 +1,7 @@
 #!/bin/bash
 export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
-export PYTHONPATH=../evalbench/evalproto:../evalbench
-python3 evalbench/nl2code_eval_server.py 
+export PYTHONPATH=./evalproto:.
+/gcompute-tools/git-cookie-authdaemon
+cd evalbench
+python3 ./nl2code_eval_server.py 
 
