@@ -187,9 +187,10 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
         session["eval"] = nl2code_evaluator.Nl2CodeEvaluator(datasets_repo_path=session["datasets_repo_path"], app_repo_path=session["app_repo_path"])
 
         _eval = session["eval"]
-        run_time = _eval.evaluate(dataset)
+        run_time, passed, total = _eval.evaluate(dataset)
         logging.info(f"Run eval job_id:{job_id} run_time:{run_time} for {len(dataset)} eval entries.")
-
+        logging.info(f"Passed: {passed} out of {total}")
+        
         config_df = config_to_df(
             job_id,
             run_time,

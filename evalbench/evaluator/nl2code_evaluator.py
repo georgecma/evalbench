@@ -76,25 +76,26 @@ class Nl2CodeEvaluator:
         Args:
             eval_input_request (EvalInputRequest): An instance of the EvalInputRequest proto.
         """
-        return_codes = []
         try:
             file_path = eval_input_request.user_action.file_path
             generated_code = eval_input_request.generated_code
             self.insert_code(file_path, generated_code)
             return_code = self.verify_code(eval_input_request.verification_command) 
-            return_codes.append(return_code)
             logging.info(f"Successfully processed: {eval_input_request.id}")
         except Exception as e:
             logging.error(f"Error processing {eval_input_request.id}: {e}")
         finally:
             self.reset_code()
-        return return_codes
+        return return_code
    
     def evaluate(self, dataset):
         run_time = datetime.datetime.now()
+        passed = 0
         for eval_input in dataset:
-            self.apply_and_verify_code(eval_input)
-        return run_time
+            return_code = self.apply_and_verify_code(eval_input)
+            if return_code==0:
+                passed = passed + 1
+        return run_time, passed, len(dataset)
     
     def return_golden_code(self, file_path):
         try:
@@ -107,7 +108,7 @@ class Nl2CodeEvaluator:
             return None  
 
     def return_current_file(self, file_path, patch):
-        """Reads the current oprn file..
+        """Reads the current open file..
 
         Args:
         app_repo_path: The path to the application repository within the container.
