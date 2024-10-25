@@ -9,11 +9,16 @@ RUN \
   apt-get install -y curl && \
   apt-get install -y vim && \
   apt-get install -y jq && \
+  apt-get install -y maven && \
+  apt-get install -y openjdk-11-jdk && \
   apt-get install -y make python3 python3-pip
 
 RUN git clone https://gerrit.googlesource.com/gcompute-tools/
 RUN pip install --no-cache-dir --upgrade pip
 RUN pip install --no-cache-dir grpcio-tools
+
+ENV JAVA_HOME /usr/lib/jvm/java-11-openjdk-amd64
+
 COPY . evalbench
 WORKDIR evalbench
 RUN ln -s /usr/bin/python3 /usr/bin/python
