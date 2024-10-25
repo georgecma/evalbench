@@ -9,7 +9,8 @@ RUN \
   apt-get install -y curl && \
   apt-get install -y vim && \
   apt-get install -y jq && \
-  apt-get install -y maven && \
+  # Move these dependencies to cloud run when enabled.
+  apt-get install -y maven && \ 
   apt-get install -y openjdk-11-jdk && \
   apt-get install -y make python3 python3-pip
 

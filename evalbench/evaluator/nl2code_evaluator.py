@@ -17,7 +17,7 @@ from eval_nl2code_request_pb2 import EvalInputRequest
 
 class Nl2CodeEvaluator:
 
-    def __init__(self, datasets_repo_path="/evalbench/datasets/nld/nl2code-dataset/cymbalshop", app_repo_path="/app"):
+    def __init__(self, datasets_repo_path, app_repo_path):
         self.datasets_repo_path = datasets_repo_path
         self.app_repo_path = app_repo_path
 
