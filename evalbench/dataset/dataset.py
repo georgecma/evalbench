@@ -31,7 +31,7 @@ def load_nl2code_json(json_file_path):
     with open(json_file_path, "r") as json_file:
         all_items.append(json.load(json_file))
     
-    return all_items[0]["examples"], all_items[0]["database"]["connection"]["url"]
+    return all_items[0]["examples"], all_items[0]["database"]["connection"]["url"], all_items[0]["workspace"]["git"]
 
 def load_dataset_from_json(json_file_path, experiment_config):
     input_items = []
@@ -56,11 +56,11 @@ def load_dataset_from_json(json_file_path, experiment_config):
 
 def load_dataset_from_nl2code_json(json_file_path):
     input_items = []
-    all_items, database = load_nl2code_json(json_file_path)
+    all_items, database, application_url = load_nl2code_json(json_file_path)
     input_items = load_dataset_from_nl2code(all_items)
     logging.info("Converted %d entries to EvalInputRequest.", len(input_items))
     
-    return input_items, database
+    return input_items, database, application_url
 
 
 def load_dataset_from_newFormat(dataset: Sequence[dict], dialect: str):

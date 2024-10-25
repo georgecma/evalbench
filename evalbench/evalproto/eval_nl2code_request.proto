@@ -36,7 +36,10 @@ message EvalInputRequest {
 
   // TODO: Modify this as per GCA RAG
   string application_context = 6;
-  string generated_code = 7;
-  google.protobuf.Duration dbcodegen_time = 8;
-  string dbcodegen_error = 9;
+  string current_file_content = 7;
+  string generated_code = 8;
+  google.protobuf.Duration dbcodegen_time = 9;
+  string dbcodegen_error = 10;
+  string job_id = 11; 
+  string golden_code = 12;
 }

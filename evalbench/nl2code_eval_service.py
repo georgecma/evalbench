@@ -1,6 +1,8 @@
 """A gRPC servicer that handles EvalService requests."""
 
 from collections.abc import AsyncIterator
+import os
+import subprocess
 
 from absl import flags
 from absl import logging
@@ -15,7 +17,7 @@ from dataset import evalinput
 from repository import get_repository
 import generators.models as models
 import generators.prompts as prompts
-import evaluator.evaluator as evaluator
+import evaluator.nl2code_evaluator as nl2code_evaluator
 import reporting.report as report
 import reporting.bqstore as bqstore
 import reporting.analyzer as analyzer
@@ -109,17 +111,34 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
         experiment_config = session["config"]
         
         repo = get_repository(experiment_config)
-        repo.clone()
+        job_id = repo.clone_dataset()
         
-        dataset_config_json = experiment_config["dataset_config"]
+        dataset_config_json = os.path.join('/evalbench/datasets/nl2code', job_id, experiment_config["dataset_config"])
 
         # Load the dataset
-        dataset, database = load_dataset_from_nl2code_json(
+        dataset, database, application_url = load_dataset_from_nl2code_json(
             dataset_config_json
         )
         session["db_config"]["database_name"] = database
+        repo.cloneApplication(application_url, job_id)
+        session["job_id"] = job_id
+        directory = os.path.dirname(dataset_config_json)
+        dataset_dir = os.path.join("/evalbench", directory)
        
+        _eval = nl2code_evaluator.Nl2CodeEvaluator(datasets_repo_path=dataset_dir, app_repo_path=os.path.join("/app", job_id))
+        session["datasets_repo_path"] = dataset_dir
+        session["app_repo_path"] = os.path.join("/app", job_id)
+        
         for eval_input in dataset:
+            logging.info("Example: %s", eval_input.id)
+            try:
+                golden_code = _eval.return_golden_code(eval_input.user_action.file_path)
+                file_content = _eval.return_current_file(eval_input.user_action.file_path, eval_input.patch)
+            except subprocess.CalledProcessError as e:
+                logging.error(f"Error applying patch {eval_input.patch} for example {eval_input.id}: {e}")
+                file_content = ""
+                
+            _eval.reset_code()
             yield eval_nl2code_request_pb2.EvalInputRequest(
                 id=f"{eval_input.id}",
                 patch=eval_input.patch,
@@ -127,6 +146,9 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
                 verification_command= eval_input.verification_command,
                 description=eval_input.description,
                 application_context=eval_input.application_context,
+                current_file_content=file_content,
+                golden_code=golden_code,
+                job_id = job_id,
             )
 
     async def Eval(
@@ -136,6 +158,9 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
     ) -> eval_nl2code_response_pb2.EvalResponse:
 
         dataset = []
+        session = SESSIONMANAGER.get_session(rpc_id_var.get())
+        job_id = session["job_id"]
+        
         async for request in request_iterator:
             input = eval_nl2code_request_pb2.EvalInputRequest(
                 id=request.id,
@@ -144,6 +169,9 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
                 verification_command= request.verification_command,
                 description=request.description,
                 application_context=request.application_context,
+                generated_code=request.generated_code,
+                job_id=request.job_id,
+                golden_code=request.golden_code,
             )
             dataset.append(input)
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
@@ -156,17 +184,13 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
         session["prompt_generator"] = prompts.get_generator(
             session["db"], session["config"]
         )
-        session["eval"] = evaluator.Evaluator(
-            session["config"],
-            session["prompt_generator"],
-            session["model_generator"],
-            session["db"],
-        )
+        session["eval"] = nl2code_evaluator.Nl2CodeEvaluator(datasets_repo_path=session["datasets_repo_path"], app_repo_path=session["app_repo_path"])
 
-        eval = session["eval"]
-        job_id, run_time = eval.evaluate(dataset)
+        _eval = session["eval"]
+        run_time, passed, total = _eval.evaluate(dataset)
         logging.info(f"Run eval job_id:{job_id} run_time:{run_time} for {len(dataset)} eval entries.")
-
+        logging.info(f"Passed: {passed} out of {total}")
+        
         config_df = config_to_df(
             job_id,
             run_time,
@@ -174,8 +198,5 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
             session["model_config"],
             session["db_config"],
         )
-        
-        pathlib.Path(f"/tmp/eval_output_{job_id}.json").unlink()
-        pathlib.Path(f"/tmp/score_result_{job_id}.json").unlink()
         
         return eval_nl2code_response_pb2.EvalResponse(response=f"ack")
