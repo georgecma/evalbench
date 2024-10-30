@@ -17,6 +17,17 @@ def quick_summary(results):
     logging.info("Total Prompts: %d.", len(results_df))
     return results_df
 
+def quick_summary_code(results):
+    logging.info("Results:")
+    logging.info(results)
+    results_df = pd.DataFrame.from_dict(results, dtype="string")
+    return results_df
+
+def quick_score_summary(scores):
+    logging.info("Scores:")
+    logging.info(scores)
+    scores_df = pd.DataFrame.from_dict(scores, dtype="string")
+    return scores_df
 
 def store(results, storetype):
     bq.store(results, storetype)

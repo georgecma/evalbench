@@ -1,12 +1,7 @@
 import json
-import uuid
 import datetime
-import queue
 import logging
-import databases
-import setup_teardown
-from databases.util import is_bat_dataset
-from dataset.evaloutput import EvalOutput
+from dataset.nl2code_evaloutput import EvalOutput
 import subprocess
 import json
 import logging
@@ -14,6 +9,7 @@ import subprocess
 import os
 
 from eval_nl2code_request_pb2 import EvalInputRequest
+
 
 class Nl2CodeEvaluator:
 
@@ -25,12 +21,12 @@ class Nl2CodeEvaluator:
         """Applies a git patch file from the datasets repo to the app repo."""
         try:
             patch_file_path = os.path.join(self.datasets_repo_path, patch_file)
-            subprocess.run(["git", "-C", self.app_repo_path,"apply",  "--ignore-space-change", "--ignore-whitespace", patch_file_path], check=True)
+            subprocess.run(["git", "-C", self.app_repo_path, "apply",
+                           "--ignore-space-change", "--ignore-whitespace", patch_file_path], check=True)
             logging.info(f"Successfully applied git patch: {patch_file_path}")
         except subprocess.CalledProcessError as e:
             logging.error(f"Error applying git patch: {e}")
             raise
-
 
     def insert_code(self, file_path, generated_code):
         """Replaces the entire content of the specified file with the generated code."""
@@ -40,12 +36,12 @@ class Nl2CodeEvaluator:
             with open(absolute_file_path, "w") as f:
                 f.write(generated_code)
 
-            logging.info(f"Successfully replaced code into: {absolute_file_path}.")
+            logging.info(
+                f"Successfully replaced code into: {absolute_file_path}.")
 
         except (FileNotFoundError, IOError) as e:
             logging.error(f"Error inserting code: {e}")
             raise
-
 
     def verify_code(self, verification_command):
         """
@@ -60,10 +56,25 @@ class Nl2CodeEvaluator:
             logging.error(f"Code verification failed: {e}")
             return e.returncode  # Capture and return the return code in case of error
 
+    def is_compilable(self, build_command):
+        """
+        Compiles the code using the provided command and returns the return 
+        boolean to represent whether code can be compiled or not.
+        """
+        try:
+            command_str = f"{build_command} -f {self.app_repo_path}"
+            subprocess.run(command_str, shell=True, text=True)
+            logging.info("Code compilation successful.")
+            return True
+        except subprocess.CalledProcessError as e:
+            logging.error(f"Code verification failed: {e}")
+            return False  # Capture and return the return code in case of error
+
     def reset_code(self):
         """Resets the code in the app repo to HEAD."""
         try:
-            subprocess.run(["git", "-C", self.app_repo_path, "reset", "--hard", "HEAD"], check=True)
+            subprocess.run(["git", "-C", self.app_repo_path,
+                           "reset", "--hard", "HEAD"], check=True)
             logging.info("Successfully reset code to HEAD.")
         except subprocess.CalledProcessError as e:
             logging.error(f"Error resetting code: {e}")
@@ -80,23 +91,61 @@ class Nl2CodeEvaluator:
             file_path = eval_input_request.user_action.file_path
             generated_code = eval_input_request.generated_code
             self.insert_code(file_path, generated_code)
-            return_code = self.verify_code(eval_input_request.verification_command) 
+            return_code = self.verify_code(
+                eval_input_request.verification_command)
             logging.info(f"Successfully processed: {eval_input_request.id}")
         except Exception as e:
             logging.error(f"Error processing {eval_input_request.id}: {e}")
         finally:
             self.reset_code()
         return return_code
-   
+
     def evaluate(self, dataset):
+        eval_outputs = []
+        scoring_results = []
+
         run_time = datetime.datetime.now()
         passed = 0
         for eval_input in dataset:
+            score = {
+                "syntactic_correctness": False,
+                "semantic_correctness": False,
+                "job_id": None,
+                "run_time": None,
+                "latency": None
+            }
+
             return_code = self.apply_and_verify_code(eval_input)
-            if return_code==0:
+            if return_code == 0:
                 passed = passed + 1
+                score["syntactic_correctness"] = True
+                score["semantic_correctness"] = True
+            else:
+                score["semantic_correctness"] = False
+                score["syntactic_correctness"] = self.is_compilable(
+                    eval_input.build_command)
+
+            score["return_code"] = return_code
+            job_id = eval_input.job_id
+            eval_output = EvalOutput(eval_input)
+            eval_output["job_id"] = job_id
+            eval_output["run_time"] = run_time
+            eval_outputs.append(eval_output)
+            score["job_id"] = job_id
+            score["run_time"] = run_time
+            score["latency"] = eval_input.dbcodegen_time
+            score["id"] = eval_input.id
+            scoring_results.append(score)
+
+        with open(f"/tmp/eval_output_{job_id}.json", "w") as f:
+            json.dump(eval_outputs, f, sort_keys=True, indent=4, default=str)
+
+        with open(f"/tmp/score_result_{job_id}.json", "w") as f:
+            json.dump(scoring_results, f, sort_keys=True,
+                      indent=4, default=str)
+
         return run_time, passed, len(dataset)
-    
+
     def return_golden_code(self, file_path):
         try:
             logging.info("Reading Golden code")
@@ -105,7 +154,7 @@ class Nl2CodeEvaluator:
                 file_content = f.read()
             return file_content
         except FileNotFoundError:
-            return None  
+            return None
 
     def return_current_file(self, file_path, patch):
         """Reads the current open file..
@@ -115,7 +164,7 @@ class Nl2CodeEvaluator:
         file_path: The path to the file within the application repository.
 
         Returns:
-         A string containing the file content.
+        A string containing the file content.
         """
         try:
             self.apply_git_patch(patch)
@@ -124,5 +173,4 @@ class Nl2CodeEvaluator:
                 file_content = f.read()
             return file_content
         except FileNotFoundError:
-            return None  
-        
+            return None

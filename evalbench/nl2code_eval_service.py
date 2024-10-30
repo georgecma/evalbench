@@ -116,7 +116,7 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
         dataset_config_json = os.path.join('/evalbench/datasets/nl2code', job_id, experiment_config["dataset_config"])
 
         # Load the dataset
-        dataset, database, application_url = load_dataset_from_nl2code_json(
+        dataset, database, application_url, build_command = load_dataset_from_nl2code_json(
             dataset_config_json
         )
         session["db_config"]["database_name"] = database
@@ -149,6 +149,7 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
                 current_file_content=file_content,
                 golden_code=golden_code,
                 job_id = job_id,
+                build_command = build_command,
             )
 
     async def Eval(
@@ -172,6 +173,9 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
                 generated_code=request.generated_code,
                 job_id=request.job_id,
                 golden_code=request.golden_code,
+                build_command=request.build_command,
+                dbcodegen_time=request.dbcodegen_time,
+                dbcodegen_error=request.dbcodegen_error,
             )
             dataset.append(input)
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
@@ -198,5 +202,21 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
             session["model_config"],
             session["db_config"],
         )
+        
+        report.store(config_df, bqstore.STORETYPE.CONFIGS)
+        
+        results = load_json(f"/tmp/eval_output_{job_id}.json")
+        results_df = report.quick_summary_code(results)
+        logging.info(results_df)
+        report.store(results_df, bqstore.STORETYPE.EVALS)
+        
+        scores = load_json(f"/tmp/score_result_{job_id}.json")
+        scores_df = report.quick_score_summary(scores)
+        report.store(scores_df, bqstore.STORETYPE.SCORES)
+
+        # k8s emptyDir /tmp does not auto cleanup, so we explicitly delete
+        pathlib.Path(f"/tmp/eval_output_{job_id}.json").unlink()
+        pathlib.Path(f"/tmp/score_result_{job_id}.json").unlink()
+
         
         return eval_nl2code_response_pb2.EvalResponse(response=f"ack")

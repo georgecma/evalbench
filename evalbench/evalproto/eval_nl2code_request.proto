@@ -42,4 +42,5 @@ message EvalInputRequest {
   string dbcodegen_error = 10;
   string job_id = 11; 
   string golden_code = 12;
+  string build_command = 13;
 }
