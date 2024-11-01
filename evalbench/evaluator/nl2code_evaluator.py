@@ -43,18 +43,31 @@ class Nl2CodeEvaluator:
             logging.error(f"Error inserting code: {e}")
             raise
 
+
     def verify_code(self, verification_command):
         """
-        Verifies the code using the provided command and returns the return code.
+        Verifies the code using the provided command.
+        Returns a dictionary containing the return code, STDOUT, and STDERR.
         """
+        result_dict = {}
         try:
             command_str = f"{verification_command} -f {self.app_repo_path}"
-            result = subprocess.run(command_str, shell=True, text=True)
+            result = subprocess.run(command_str, shell=True, text=True, capture_output=True)
+            result_dict['return_code'] = result.returncode
+            result_dict['stdout'] = result.stdout
+            result_dict['stderr'] = result.stderr
             logging.info("Code verification successful.")
-            return result.returncode  # Capture and return the return code
+            logging.info(f"Result: {result_dict}") 
+            return result_dict
+
         except subprocess.CalledProcessError as e:
+            result_dict['return_code'] = e.returncode
+            result_dict['stdout'] = e.stdout
+            result_dict['stderr'] = e.stderr
             logging.error(f"Code verification failed: {e}")
-            return e.returncode  # Capture and return the return code in case of error
+            logging.error(f"Result: {result_dict}")
+            return result_dict
+
 
     def is_compilable(self, build_command):
         """
@@ -91,14 +104,14 @@ class Nl2CodeEvaluator:
             file_path = eval_input_request.user_action.file_path
             generated_code = eval_input_request.generated_code
             self.insert_code(file_path, generated_code)
-            return_code = self.verify_code(
+            result = self.verify_code(
                 eval_input_request.verification_command)
             logging.info(f"Successfully processed: {eval_input_request.id}")
         except Exception as e:
             logging.error(f"Error processing {eval_input_request.id}: {e}")
         finally:
             self.reset_code()
-        return return_code
+        return result
 
     def evaluate(self, dataset):
         eval_outputs = []
@@ -115,8 +128,8 @@ class Nl2CodeEvaluator:
                 "latency": None
             }
 
-            return_code = self.apply_and_verify_code(eval_input)
-            if return_code == 0:
+            verification_result = self.apply_and_verify_code(eval_input)
+            if verification_result['return_code'] == 0:
                 passed = passed + 1
                 score["syntactic_correctness"] = True
                 score["semantic_correctness"] = True
@@ -125,11 +138,13 @@ class Nl2CodeEvaluator:
                 score["syntactic_correctness"] = self.is_compilable(
                     eval_input.build_command)
 
-            score["return_code"] = return_code
+            score["return_code"] = verification_result['return_code']
             job_id = eval_input.job_id
             eval_output = EvalOutput(eval_input)
             eval_output["job_id"] = job_id
             eval_output["run_time"] = run_time
+            eval_output["stdout"] = verification_result['stdout']
+            eval_output["stderr"] = verification_result['stderr']
             eval_outputs.append(eval_output)
             score["job_id"] = job_id
             score["run_time"] = run_time
