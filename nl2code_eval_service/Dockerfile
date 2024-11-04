@@ -11,14 +11,14 @@ RUN \
   apt-get install -y jq && \
   # Move these dependencies to cloud run when enabled
   apt-get install -y maven && \ 
-  apt-get install -y openjdk-11-jdk && \
+  apt-get install -y openjdk-17-jdk && \
   apt-get install -y make python3 python3-pip
 
 RUN git clone https://gerrit.googlesource.com/gcompute-tools/
 RUN pip install --no-cache-dir --upgrade pip
 RUN pip install --no-cache-dir grpcio-tools
 
-ENV JAVA_HOME /usr/lib/jvm/java-11-openjdk-amd64
+ENV JAVA_HOME /usr/lib/jvm/java-17-openjdk-amd64
 
 COPY . evalbench
 WORKDIR evalbench
