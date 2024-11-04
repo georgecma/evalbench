@@ -106,12 +106,15 @@ class Nl2CodeEvaluator:
             self.insert_code(file_path, generated_code)
             result = self.verify_code(
                 eval_input_request.verification_command)
+            result_build = self.is_compilable(
+                eval_input_request.build_command)
             logging.info(f"Successfully processed: {eval_input_request.id}")
         except Exception as e:
             logging.error(f"Error processing {eval_input_request.id}: {e}")
         finally:
             self.reset_code()
-        return result
+        return result, result_build
+
 
     def evaluate(self, dataset):
         eval_outputs = []
@@ -128,15 +131,14 @@ class Nl2CodeEvaluator:
                 "latency": None
             }
 
-            verification_result = self.apply_and_verify_code(eval_input)
+            verification_result, build_result = self.apply_and_verify_code(eval_input)
             if verification_result['return_code'] == 0:
                 passed = passed + 1
                 score["syntactic_correctness"] = True
                 score["semantic_correctness"] = True
             else:
                 score["semantic_correctness"] = False
-                score["syntactic_correctness"] = self.is_compilable(
-                    eval_input.build_command)
+                score["syntactic_correctness"] = build_result
 
             score["return_code"] = verification_result['return_code']
             job_id = eval_input.job_id
