@@ -76,7 +76,7 @@ class Nl2CodeEvaluator:
         """
         try:
             command_str = f"{build_command} -f {self.app_repo_path}"
-            subprocess.run(command_str, shell=True, text=True)
+            subprocess.run(command_str, shell=True, text=True, check=True)
             logging.info("Code compilation successful.")
             return True
         except subprocess.CalledProcessError as e:
