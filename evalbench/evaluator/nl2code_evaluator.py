@@ -7,6 +7,7 @@ import json
 import logging
 import subprocess
 import os
+import git
 
 from eval_nl2code_request_pb2 import EvalInputRequest
 
@@ -21,10 +22,17 @@ class Nl2CodeEvaluator:
         """Applies a git patch file from the datasets repo to the app repo."""
         try:
             patch_file_path = os.path.join(self.datasets_repo_path, patch_file)
-            subprocess.run(["git", "-C", self.app_repo_path, "apply",
-                           "--ignore-space-change", "--ignore-whitespace", patch_file_path], check=True)
+            repo = git.Repo(self.app_repo_path)
+        
+            git_cmd = repo.git
+            git_cmd.apply(
+            patch_file_path,
+            ignore_space_change=True,
+            ignore_whitespace=True
+            )
+        
             logging.info(f"Successfully applied git patch: {patch_file_path}")
-        except subprocess.CalledProcessError as e:
+        except git.exc.GitCommandError as e:
             logging.error(f"Error applying git patch: {e}")
             raise
 
@@ -86,10 +94,10 @@ class Nl2CodeEvaluator:
     def reset_code(self):
         """Resets the code in the app repo to HEAD."""
         try:
-            subprocess.run(["git", "-C", self.app_repo_path,
-                           "reset", "--hard", "HEAD"], check=True)
+            repo = git.Repo(self.app_repo_path)
+            repo.head.reset(index=True, working_tree=True)  #
             logging.info("Successfully reset code to HEAD.")
-        except subprocess.CalledProcessError as e:
+        except git.exc.GitCommandError as e:
             logging.error(f"Error resetting code: {e}")
             raise
 
