@@ -1,16 +1,15 @@
 import json
 import datetime
 import logging
-from dataset.nl2code_evaloutput import EvalOutput
 import subprocess
 import json
 import logging
-import subprocess
 import os
 import git
 
 from eval_nl2code_request_pb2 import EvalInputRequest
-
+from dataset.nl2code_evaloutput import EvalOutput
+from scorers import llmrater_nl2code
 
 class Nl2CodeEvaluator:
 
@@ -124,7 +123,7 @@ class Nl2CodeEvaluator:
         return result, result_build
 
 
-    def evaluate(self, dataset):
+    def evaluate(self, dataset, config: dict):
         eval_outputs = []
         scoring_results = []
 
@@ -160,6 +159,8 @@ class Nl2CodeEvaluator:
             score["run_time"] = run_time
             score["latency"] = eval_input.dbcodegen_time
             score["id"] = eval_input.id
+            score["llmrater"], score["analysis"] = llmrater_nl2code.LLMRater(config).compare(
+                eval_input.user_action.prompt, eval_input.golden_code, eval_input.generated_code)
             scoring_results.append(score)
 
         with open(f"/tmp/eval_output_{job_id}.json", "w") as f:
