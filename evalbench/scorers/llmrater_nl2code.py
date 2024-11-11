@@ -213,4 +213,4 @@ class LLMRater:
         Higher scores indicate better matching with the golden implementation.
         """
 
-        return final_score, detailed_response
+        return scores,final_score, detailed_response

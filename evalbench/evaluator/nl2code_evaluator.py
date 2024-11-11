@@ -159,8 +159,13 @@ class Nl2CodeEvaluator:
             score["run_time"] = run_time
             score["latency"] = eval_input.dbcodegen_time
             score["id"] = eval_input.id
-            score["llmrater"], score["analysis"] = llmrater_nl2code.LLMRater(config).compare(
+            scores, score["llmrater_score"], score["analysis"] = llmrater_nl2code.LLMRater(config).compare(
                 eval_input.user_action.prompt, eval_input.golden_code, eval_input.generated_code)
+            score["SQL Similarity"] = scores["sql_similarity"]
+            score["Method Similarity"] = scores["method_similarity"]
+            score["Safety Similarity"] = scores["safety_similarity"]
+            score["Error Similarity"] = scores["error_similarity"]
+            score["Import Similarity"] = scores["import_similarity"]
             scoring_results.append(score)
 
         with open(f"/tmp/eval_output_{job_id}.json", "w") as f:
