@@ -104,10 +104,10 @@ class LLMRater(comparator.Comparator):
         only_first_n = 50
 
         golden_execution_result = self.take_n_uniques(
-            golden_execution_result, only_first_n
+            eval_item["golden_result"], only_first_n
         )
         generated_execution_result = self.take_n_uniques(
-            generated_execution_result, only_first_n
+            eval_item["generated_result"], only_first_n
         )
 
         prompt = f"""
@@ -119,14 +119,14 @@ class LLMRater(comparator.Comparator):
 
         OUTPUT #1:
 
-        {eval_item["golden_result"]}
+        {golden_execution_result}
 
 
         We get the following answer from a second query.
 
         OUTPUT #2
 
-        {eval_item["generated_result"]}
+        {generated_execution_result}
 
 
         Thinking step by step, compare the two outputs and look for differences in data presentation.
