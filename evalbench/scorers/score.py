@@ -40,16 +40,7 @@ def compare(eval_output_item: EvalOutput, experiment_config: dict[str, str], sco
         comparison_result = comparator.ComparisonResult(comp, 0)
         try:
             if eval_output_item["generated_sql"] is not None:
-                score, logs = comp.compare(
-                    eval_output_item["nl_prompt"],
-                    eval_output_item["golden_sql"],
-                    eval_output_item["query_type"],
-                    eval_output_item["golden_result"],
-                    eval_output_item.get("golden_eval_results", ""),
-                    eval_output_item["generated_sql"],
-                    eval_output_item["generated_result"],
-                    eval_output_item.get("eval_results", ""),
-                )
+                score, logs = comp.compare(eval_output_item)
                 comparison_result.score = score
                 comparison_result.comparison_logs = logs
         except Exception as e:

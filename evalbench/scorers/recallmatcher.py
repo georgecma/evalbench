@@ -78,28 +78,19 @@ class RecallMatcher(Comparator):
 
     def compare(
         self,
-        nl_prompt: str,
-        golden_query: str,
-        query_type: str,
-        golden_execution_result: list[str],
-        golden_eval_result: str,
-        generated_query: str,
-        generated_execution_result: list[str],
-        generated_eval_result: str,
+        eval_item: dict
     ) -> Tuple[float, str]:
         """Use the recall strategy to compare results.
 
         Args:
-          golden_query: The golden query.
-          golden_execution_result: The golden execution result.
-          generated_query: The generated query.
-          generated_execution_result: The generated execution result.
+          eval_item: EvalItemOutput object to score.
 
         Returns:
           A tuple containing the recall value and a json string of the full result.
         """
 
         full_result = self.compute_precision_recall(
-            golden_execution_result, generated_execution_result
+            eval_item["golden_result"],
+            eval_item["generated_result"]
         )
         return full_result["recall"], str(full_result)

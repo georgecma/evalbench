@@ -14,20 +14,13 @@ class ReturnedSQL(comparator.Comparator):
 
     def compare(
         self,
-        nl_prompt: str,
-        golden_query: str,
-        query_type: str,
-        golden_execution_result: str,
-        golden_eval_result: str,
-        generated_query: str,
-        generated_execution_result: str,
-        generated_eval_result: str,
+        eval_item: dict
     ) -> Tuple[float, str]:
 
-        if generated_query == "":
+        if eval_item["generated_sql"] == "":
             return 100, None
 
-        query_lines = [line.strip() for line in generated_query.splitlines()]
+        query_lines = [line.strip() for line in eval_item["generated_sql"].splitlines()]
         has_non_comment_line = any(line and not line.startswith("--") for line in query_lines)
 
         score = 100 if has_non_comment_line else 0

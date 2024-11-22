@@ -41,27 +41,32 @@ class LLMRater(comparator.Comparator):
         self.max_attempts = 4
         self.exact_match_checker = exactmatcher.ExactMatcher(None)
 
-    def _is_exact_match(
-        self,
-        nl_prompt: str,
-        golden_query: str,
-        query_type: str,
-        golden_execution_result: str,
-        golden_eval_result: str,
-        generated_query: str,
-        generated_execution_result: str,
-        generated_eval_result: str,
-    ):
-        score, _ = self.exact_match_checker.compare(
-            nl_prompt,
-            golden_query,
-            query_type,
-            golden_execution_result,
-            golden_eval_result,
-            generated_query,
-            generated_execution_result,
-            generated_eval_result,
-        )
+    def _generate_reason(self, eval_item: dict):
+        prompt = """Evaluate a generated query and provide a concise reason for any issues.
+            Args:
+                nl_prompt (str): The natural language prompt that was used to generate the query.
+                {nl_prompt}
+                golden_sql (str): The correct SQL query for the given prompt.
+                {golden_sql}
+                generated_sql (str): The SQL query that was generated.
+                {generated_sql}
+            Returns:
+                str: A concise reason for why the generated query is incorrect.
+        """.format(nl_prompt=eval_item["nl_prompt"],
+                   golden_sql=eval_item["golden_sql"], generated_sql=eval_item["generated_sql"])
+        
+        response = rate_limited_execute(
+            prompt=prompt,
+            generation_config=self.generation_config,
+            execution_method=self.model.generate_content,
+            semaphore=self.semaphore,
+            execs_per_minute=self.execs_per_minute,
+            max_attempts=self.max_attempts
+        ).text
+        return response
+
+    def _is_exact_match(self, eval_item: dict):
+        score, _ = self.exact_match_checker.compare(eval_item)
         return score == 100
 
     @staticmethod
@@ -84,56 +89,37 @@ class LLMRater(comparator.Comparator):
                 new_list.append(d)
         return new_list
 
-    def compare(
-        self,
-        nl_prompt: str,
-        golden_query: str,
-        query_type: str,
-        golden_execution_result: list,
-        golden_eval_result: str,
-        generated_query: str,
-        generated_execution_result: list,
-        generated_eval_result: str,
-    ) -> Tuple[float, str]:
-        if self._is_exact_match(
-            nl_prompt,
-            golden_query,
-            query_type,
-            golden_execution_result,
-            golden_eval_result,
-            generated_query,
-            generated_execution_result,
-            generated_eval_result,
-        ):
+    def compare(self, eval_item: dict) -> Tuple[float, str]:
+        if self._is_exact_match(eval_item):
             return 100, "Skipped. Exact Match was found."
 
         only_first_n = 50
 
-        golden_execution_result = self.remove_duplicates(golden_execution_result)
-        generated_execution_result = self.remove_duplicates(generated_execution_result)
+        eval_item["golden_result"] = self.remove_duplicates(eval_item["golden_result"])
+        eval_item["generated_result"] = self.remove_duplicates(eval_item["generated_result"])
 
-        if len(golden_execution_result) > only_first_n:
-            golden_execution_result = golden_execution_result[:only_first_n]
-        if len(generated_execution_result) > only_first_n:
-            generated_execution_result = generated_execution_result[:only_first_n]
+        if len(eval_item["golden_result"]) > only_first_n:
+            eval_item["golden_result"] = eval_item["golden_result"][:only_first_n]
+        if len(eval_item["generated_result"]) > only_first_n:
+            eval_item["generated_result"] = eval_item["generated_result"][:only_first_n]
 
         prompt = f"""
         We are trying to answer this question by querying a database:
 
-        QUESTION: {nl_prompt}
+        QUESTION: {eval_item["nl_prompt"]}
 
         The correct answer to this question is:
 
         OUTPUT #1:
 
-        {golden_execution_result}
+        {eval_item["golden_result"]}
 
 
         We get the following answer from a second query.
 
         OUTPUT #2
 
-        {generated_execution_result}
+        {eval_item["generated_result"]}
 
 
         Thinking step by step, compare the two outputs and look for differences in data presentation.
@@ -183,4 +169,6 @@ class LLMRater(comparator.Comparator):
                 or "EXTRA_INFORMATION" in response)
             else 0
         )
+        if score == 0:
+            eval_item["failure_reason"] = self._generate_reason(eval_item)
         return score, response

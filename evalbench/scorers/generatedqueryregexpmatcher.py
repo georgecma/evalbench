@@ -23,19 +23,12 @@ class GeneratedQueryRegexpMatcher(comparator.Comparator):
 
     def compare(
         self,
-        nl_prompt: str,
-        golden_query: str,
-        query_type: str,
-        golden_execution_result: str,
-        golden_eval_result: str,
-        generated_query: str,
-        generated_execution_result: str,
-        generated_eval_result: str,
+        eval_item: dict
     ) -> Tuple[float, str]:
         score = 0
         matching_regexps = []
         for regexp_string in self.regexp_string_list:
-            result = re.search(regexp_string, generated_query)
+            result = re.search(regexp_string, eval_item["generated_sql"])
             if result:
                 matching_regexps.append(result.group(0))
                 score = 100

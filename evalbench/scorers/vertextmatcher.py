@@ -33,20 +33,13 @@ class VertexMatcher(comparator.Comparator):
 
     def compare(
         self,
-        nl_prompt: str,
-        golden_query: str,
-        query_type: str,
-        golden_execution_result: str,
-        golden_eval_result: str,
-        generated_query: str,
-        generated_execution_result: str,
-        generated_eval_result: str,
+        eval_item: dict
     ) -> Tuple[float, str]:
         only_first_n = 50
-        if len(golden_execution_result) > only_first_n:
-            golden_execution_result = golden_execution_result[:only_first_n]
-        if len(generated_execution_result) > only_first_n:
-            generated_execution_result = generated_execution_result[:only_first_n]
+        if len(eval_item["golden_result"]) > only_first_n:
+            eval_item["golden_result"] = eval_item["golden_result"][:only_first_n]
+        if len(eval_item["generated_result"]) > only_first_n:
+            eval_item["generated_result"] = eval_item["generated_result"][:only_first_n]
 
         prompt = f"""
         Here's the task: Evaluate if the LLM-generated SQL query is semantically
@@ -55,10 +48,10 @@ class VertexMatcher(comparator.Comparator):
 
         **Inputs:**
 
-        * **Ground-truth SQL:** {golden_query}
-        * **LLM Generated SQL:** {generated_query}
-        * **Ground-truth Results:** {golden_execution_result}
-        * **LLM Generated Results:** {generated_execution_result}
+        * **Ground-truth SQL:** {eval_item["golden_sql"]}
+        * **LLM Generated SQL:** {eval_item["generated_sql"]}
+        * **Ground-truth Results:** {eval_item["golden_result"]}
+        * **LLM Generated Results:** {eval_item["generated_result"]}
 
         **Output Format:**
 
