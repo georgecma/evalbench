@@ -1,0 +1,23 @@
+apiVersion: autoscaling.k8s.io/v1
+kind: VerticalPodAutoscaler
+metadata:
+  name: evalbench-eval-server-deploy
+  namespace: evalbench-namespace
+spec:
+  targetRef:
+    kind: Deployment
+    name: evalbench-eval-server-deploy
+    apiVersion: apps/v1
+  updatePolicy:
+    updateMode: Auto
+  resourcePolicy:
+    containerPolicies:
+      - containerName: "*"
+        mode: Auto
+        controlledResources:
+          - cpu
+          - memory
+        minAllowed:
+          memory: 32Gi
+          cpu: "2.2"
+        maxAllowed: {}

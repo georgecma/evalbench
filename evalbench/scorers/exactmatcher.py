@@ -21,6 +21,8 @@ class ExactMatcher(comparator.Comparator):
         eval_item: dict
     ) -> Tuple[float, str]:
         """Simple comparison strategy that checks if the two execution results are exactly the same."""
+        if eval_item["golden_error"] or eval_item["generated_error"]:
+            return 0, None
         if self.config and "use_eval_sql" in self.config:
             score = 100 if eval_item["golden_eval_result"] == eval_item["generated_eval_result"] else 0
             return score, None

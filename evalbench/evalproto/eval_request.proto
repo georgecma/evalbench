@@ -24,4 +24,5 @@ message EvalInputRequest {
   float sql_generator_time = 13;
   string generated_sql = 14;
   string job_id = 15;
+  string trace_id = 16;
 }

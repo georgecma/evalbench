@@ -35,6 +35,11 @@ class VertexMatcher(comparator.Comparator):
         self,
         eval_item: dict
     ) -> Tuple[float, str]:
+        if eval_item["golden_error"]:
+            return 0, "Golden query failed to execute."
+        if eval_item["generated_error"]:
+            return 0, "Generated query failed to execute."
+
         only_first_n = 50
         if len(eval_item["golden_result"]) > only_first_n:
             eval_item["golden_result"] = eval_item["golden_result"][:only_first_n]

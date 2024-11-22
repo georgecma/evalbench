@@ -70,14 +70,15 @@ class LLMRater(comparator.Comparator):
         return score == 100
 
     @staticmethod
-    def remove_duplicates(output_list: list) -> list:
-        """Remove duplicates from the output list.
+    def take_n_uniques(output_list: list, n: int) -> list:
+        """Takes n number of unique (non duplicate) values from the output list.
 
         Args:
-          output_list: The execution output result set.
+          output_list: The execution output result set
+          n: Max number of unique values needed.
 
         Returns:
-          The execution output result set without duplicates.
+          The execution output result set without duplicates in a size of n values or less.
         """
         seen_dicts = set()
         new_list = []
@@ -87,21 +88,27 @@ class LLMRater(comparator.Comparator):
             if t not in seen_dicts:
                 seen_dicts.add(t)
                 new_list.append(d)
+                if len(new_list) == n:
+                    break
         return new_list
 
     def compare(self, eval_item: dict) -> Tuple[float, str]:
         if self._is_exact_match(eval_item):
             return 100, "Skipped. Exact Match was found."
 
+        if eval_item["golden_error"]:
+            return 0, "Golden query failed to execute."
+        if eval_item["generated_error"]:
+            return 0, "Generated query failed to execute."
+
         only_first_n = 50
 
-        eval_item["golden_result"] = self.remove_duplicates(eval_item["golden_result"])
-        eval_item["generated_result"] = self.remove_duplicates(eval_item["generated_result"])
-
-        if len(eval_item["golden_result"]) > only_first_n:
-            eval_item["golden_result"] = eval_item["golden_result"][:only_first_n]
-        if len(eval_item["generated_result"]) > only_first_n:
-            eval_item["generated_result"] = eval_item["generated_result"][:only_first_n]
+        golden_execution_result = self.take_n_uniques(
+            golden_execution_result, only_first_n
+        )
+        generated_execution_result = self.take_n_uniques(
+            generated_execution_result, only_first_n
+        )
 
         prompt = f"""
         We are trying to answer this question by querying a database:
