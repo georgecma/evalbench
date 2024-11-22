@@ -54,7 +54,7 @@ class LLMRater(comparator.Comparator):
                 str: A concise reason for why the generated query is incorrect.
         """.format(nl_prompt=eval_item["nl_prompt"],
                    golden_sql=eval_item["golden_sql"], generated_sql=eval_item["generated_sql"])
-        
+
         response = rate_limited_execute(
             prompt=prompt,
             generation_config=self.generation_config,
