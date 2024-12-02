@@ -92,6 +92,11 @@ class PostgresHandler(DBHandler):
         result = None
         error = None
         db_instance = get_database(self.db_config)
-        combined_query = "\n".join(queries)
-        result, error = db_instance.execute(combined_query)
+        batch_size = 10
+        for i in range(0, len(queries), batch_size):
+            batch_queries = queries[i:i+batch_size]
+            combined_queries = ";".join(batch_queries)
+            result, error = db_instance.execute(combined_queries)
+            if error:
+                return result, error
         return result, error
