@@ -17,7 +17,7 @@ spec:
     spec:
       serviceAccountName: evalbench-ksa
       containers:
-      - image: us-central1-docker.pkg.dev/astana-evaluation/evalbench/eval-server:latest
+      - image: us-central1-docker.pkg.dev/astana-evaluation/evalbench/eval_server:latest
         imagePullPolicy: Always
         name: evalbench-nl2code-eval
         # go/gke-shipshape
