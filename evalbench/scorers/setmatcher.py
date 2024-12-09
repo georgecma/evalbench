@@ -1,19 +1,19 @@
-"""Simple comparison strategy that checks if the two execution results are exactly the same."""
+"""Set match between the golden query execution result and the generated query execution result. This is the Execution Accuracy measured in BIRD"""
 
 from typing import Tuple
 
 from scorers import comparator
 
 
-class ExactMatcher(comparator.Comparator):
-    """ExactMatcher.
+class SetMatcher(comparator.Comparator):
+    """SetMatcher.
 
     Attributes:
       name:
     """
 
     def __init__(self, config: dict):
-        self.name = "exact_match"
+        self.name = "set_match"
         self.config = config
 
     def compare(
@@ -29,12 +29,11 @@ class ExactMatcher(comparator.Comparator):
         generated_eval_result: str,
         generated_error: str,
     ) -> Tuple[float, str]:
-        """Simple comparison strategy that checks if the two execution results are exactly the same."""
         if golden_error or generated_error:
             return 0, None
-        if self.config and "use_eval_sql" in self.config:
-            score = 100 if golden_eval_result == generated_eval_result else 0
-            return score, None
         else:
-            score = 100 if golden_execution_result == generated_execution_result else 0
+            # Current results are a list of Dict. Converting to Tuple for set comparison
+            golden_execution_result_tuple = [tuple(d.values()) for d in golden_execution_result]
+            generated_execution_result_tuple = [tuple(d.values()) for d in generated_execution_result]
+            score = 100 if set(golden_execution_result_tuple) == set(generated_execution_result_tuple) else 0
             return score, None

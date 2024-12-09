@@ -1,7 +1,10 @@
 repo_dir: ../datasets/nld
 repo_url: persistent-https://dar-internal.git.corp.google.com/nl2sql-datasets
-dataset_config: ../datasets/bat/prompts/db_hr/v1.json
-database_config: configs/db/postgres.yaml
+dataset_config: ../datasets/nld/google/bat/prompts/db_hr/all.json
+schema_path:  ../datasets/nld/google/bat/schemas/db_hr/postgres.textproto
+data_directory: ../datasets/nld/google/bat/data/db_hr
+setup_config: ../datasets/nld/google/bat/schemas/db_hr/setup.yaml
+database_config: ../datasets/nld/google/bat/db_configs/db_hr/csql_postgres.yaml
 model_config: configs/model/base_gemini_model.yaml
 prompt_generator: 'DBSchemaGenerator'
 dialect: 'postgres'
@@ -16,4 +19,5 @@ scorers:
   llmrater:
     gcp_project_location: "us-central1"
     gcp_project_id: "cloud-db-nl2sql"
-    model: "gemini-1.5-pro-001"
+    model: "gemini-1.5-pro-002"
+    max_executions_per_minute: 120

@@ -6,7 +6,7 @@ import logging
 import databases
 import setup_teardown
 from databases.util import is_bat_dataset
-from util import printProgressBar
+from util import printProgressBar, truncateExecutionOutputs
 from work import promptgenwork
 from work import sqlgenwork
 from work import sqlexecwork
@@ -39,16 +39,21 @@ class Evaluator:
         return list(expanded_ids)
 
     def filter_dataset(self, dataset):
-        filtered_dataset = {}
+        query_types = self.experiment_config.get("query_types", [])
+        if not query_types:
+            query_types = ["dql", "dml", "ddl"]
+
+        filtered_dataset = {k: [] for k in query_types if k in dataset}
 
         for query_type, queries in dataset.items():
-            filtered_queries = []
-            for query in queries:
-                if len(self.eval_ids) > 0 and query.id not in self.eval_ids:
-                    continue
-                if len(self.tags) > 0 and not any(tag in query.tags for tag in self.tags):
-                    continue
-                filtered_queries.append(query)
+            if query_type not in query_types:
+                continue
+
+            filtered_queries = [
+                query for query in queries
+                if (not self.eval_ids or query.id in self.eval_ids) and (
+                    not self.tags or any(tag in query.tags for tag in self.tags))
+            ]
             filtered_dataset[query_type] = filtered_queries
         return filtered_dataset
 
@@ -63,7 +68,6 @@ class Evaluator:
         job_id = f"{uuid.uuid4()}"
         run_time = datetime.datetime.now()
 
-        dialect = self.db.db_config["db"]
         db_config = self.db.db_config
 
         dataset = self.filter_dataset(dataset)
@@ -87,6 +91,7 @@ class Evaluator:
             self.scoringrunner.futures.clear()
 
             db = self.db
+            db_queue = None
             if query_type == "dql" and is_bat_dataset(db_config["database_name"]):
                 config = db_config.copy()
                 config["user_name"] = "tmp_dql"
@@ -129,11 +134,8 @@ class Evaluator:
                 if query_type == "ddl":
                     db = db_queue.get()
 
-                work = sqlexecwork.SQLExecWork(db, eval_output)
+                work = sqlexecwork.SQLExecWork(db, self.experiment_config, eval_output, db_queue)
                 self.sqlrunner.execute_work(work)
-
-                if query_type == "ddl":
-                    db_queue.put(db)
 
             for future in concurrent.futures.as_completed(self.sqlrunner.futures):
                 eval_output = future.result()
@@ -149,8 +151,17 @@ class Evaluator:
             for future in concurrent.futures.as_completed(self.scoringrunner.futures):
                 eval_output = future.result()
                 score_i = score_i + 1
+                if "truncate_execution_outputs" in self.experiment_config:
+                    truncateExecutionOutputs(
+                        eval_output,
+                        self.experiment_config["truncate_execution_outputs"],
+                    )
                 printProgressBar(
-                    score_i, dataset_len, prefix="Scoring:", suffix="Complete", length=50
+                    score_i,
+                    dataset_len,
+                    prefix="Scoring:",
+                    suffix="Complete",
+                    length=50,
                 )
                 eval_outputs.append(eval_output)
 

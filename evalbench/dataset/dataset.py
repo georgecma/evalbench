@@ -65,12 +65,11 @@ def load_dataset_from_nl2code_json(json_file_path):
 
 def load_dataset_from_newFormat(dataset: Sequence[dict], dialect: str):
     input_items = {"dql": [], "dml": [], "ddl": []}
-    gen_id = 1
     for item in dataset:
         eval_input = EvalInputRequest(
-            id=gen_id,
+            id=item["id"],
             nl_prompt=item["nl_prompt"],
-            query_type=item["query_type"],
+            query_type=item["query_type"].lower(),
             database=item["database"],
             dialects=[dialect],
             golden_sql=item["golden_sql"].get(dialect, []),
@@ -80,7 +79,6 @@ def load_dataset_from_newFormat(dataset: Sequence[dict], dialect: str):
             tags=item["tags"],
             other=build_normalized_other(item["other"])
         )
-        gen_id += 1
         input_items[eval_input.query_type].append(eval_input)
     return input_items
 
