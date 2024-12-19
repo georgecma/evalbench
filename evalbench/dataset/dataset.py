@@ -155,6 +155,10 @@ def load_dataset_from_nl2code(dataset: Sequence[dict], dataset_ragl_context : Se
             cursor_start=item["user_action"]["cursor_start"],
             cursor_end=item["user_action"]["cursor_end"],
         )
+
+        application_context_data = json.dumps(item["application_context"])
+        if dataset_ragl_context is not None and dataset_ragl_context.hasKey(item["id"]):
+            application_context_data = dataset_ragl_context[item["id"]]
         
         eval_input = eval_nl2code_request_pb2.EvalInputRequest(
             id = item["id"],
@@ -162,7 +166,7 @@ def load_dataset_from_nl2code(dataset: Sequence[dict], dataset_ragl_context : Se
             user_action = user_action,
             verification_command = item["verification_command"],
             description = item["description"],
-            application_context = dataset_ragl_context[item["id"]]
+            application_context = application_context_data
         )
         input_items.append(eval_input)
     return input_items
