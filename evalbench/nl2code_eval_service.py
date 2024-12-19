@@ -114,10 +114,11 @@ class EvalServicer(eval_nl2code_service_pb2_grpc.EvalCodeGenServiceServicer):
         job_id = repo.clone_dataset()
         
         dataset_config_json = os.path.join('/evalbench/datasets/nl2code', job_id, experiment_config["dataset_config"])
+        ragl_context_config_json = os.path.join('/evalbench/datasets/nl2code', job_id, experiment_config["ragl_context_config"])
 
         # Load the dataset
         dataset, database, application_url, build_command = load_dataset_from_nl2code_json(
-            dataset_config_json
+            dataset_config_json, ragl_context_config_json
         )
         session["db_config"]["database_name"] = database
         repo.cloneApplication(application_url, job_id)

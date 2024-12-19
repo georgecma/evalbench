@@ -55,10 +55,18 @@ def load_dataset_from_json(json_file_path, experiment_config):
 
     return input_items, input_items['dql'][0].database
 
-def load_dataset_from_nl2code_json(json_file_path):
+def load_ragl_context_from_nl2code(ragl_context_config_json):
+    try:
+        all_items = load_json(ragl_context_config_json)
+        return all_items[0]
+    except:
+        return {}
+
+def load_dataset_from_nl2code_json(dataset_config_json, ragl_context_config_json):
     input_items = []
-    all_items, database, application_url, build_command = load_nl2code_json(json_file_path)
-    input_items = load_dataset_from_nl2code(all_items)
+    all_items, database, application_url, build_command = load_nl2code_json(dataset_config_json)
+    nl2code_context_dict = load_ragl_context_from_nl2code(ragl_context_config_json)
+    input_items = load_dataset_from_nl2code(all_items, nl2code_context_dict)
     logging.info("Converted %d entries to EvalInputRequest.", len(input_items))
     
     return input_items, database, application_url, build_command
@@ -137,7 +145,7 @@ def load_dataset_from_bird(dataset: Sequence[dict], dialect: str):
             input_items[eval_input.query_type].append(eval_input)
     return input_items
 
-def load_dataset_from_nl2code(dataset: Sequence[dict]):
+def load_dataset_from_nl2code(dataset: Sequence[dict], dataset_ragl_context : Sequence[dict]):
     input_items = []
     for item in dataset:
         user_action = eval_nl2code_request_pb2.UserAction(
@@ -154,7 +162,7 @@ def load_dataset_from_nl2code(dataset: Sequence[dict]):
             user_action = user_action,
             verification_command = item["verification_command"],
             description = item["description"],
-            application_context = json.dumps(item["application_context"])
+            application_context = dataset_ragl_context[item["id"]]
         )
         input_items.append(eval_input)
     return input_items

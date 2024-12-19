@@ -1,4 +1,5 @@
 dataset_config: https://dar-internal.googlesource.com/nl2code-dataset/cymbalshop/dataset.json
+ragl_context_config: https://dar-internal.googlesource.com/nl2code-dataset/cymbalshop/context/ragl_snippets.json
 database_config: configs/db/nl2code_postgres.yaml
 model_config: configs/model/base_nl2code_model.yaml
 prompt_generator: 'NOOPGenerator'
