@@ -26,9 +26,9 @@ spec:
           capabilities:
             drop:
             - ALL
-          readOnlyRootFilesystem: true
-          runAsUser: 65532
-          runAsGroup: 65532
+          readOnlyRootFilesystem: false
+          runAsUser: 0
+          runAsGroup: 0
           seccompProfile:
             type: RuntimeDefault
         ports:
@@ -37,6 +37,23 @@ spec:
         volumeMounts:
         - mountPath: /tmp
           name: tmp-volume
+        - name: git-auth-data  # Mount the volume for git-auth
+          mountPath: /root/.git-credential-cache
+      - name: gcompute-git-auth  # Sidecar container for git-auth
+        image: us-central1-docker.pkg.dev/astana-evaluation/evalbench/git_cookie_auth:latest
+        imagePullPolicy: Always
+        volumeMounts:
+        - name: git-auth-data
+          mountPath: /root/.git-credential-cache
+        startupProbe:
+          exec:
+            command:
+            - stat
+            - /root/.git-credential-cache/cookie
+          initialDelaySeconds: 10
       volumes:
       - name: tmp-volume
         emptyDir: {}
+      - name: git-auth-data 
+        emptyDir: {}
+

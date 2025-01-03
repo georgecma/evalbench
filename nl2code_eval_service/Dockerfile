@@ -14,18 +14,22 @@ RUN \
   apt-get install -y openjdk-17-jdk && \
   apt-get install -y make python3 python3-pip
 
-RUN git clone https://gerrit.googlesource.com/gcompute-tools/
 RUN pip install --no-cache-dir --upgrade pip
 RUN pip install --no-cache-dir grpcio-tools
 
-ENV JAVA_HOME /usr/lib/jvm/java-17-openjdk-amd64
+ENV JAVA_HOME /usr/lib/jvm/java-17-openjdk-amd64 
 
 COPY . evalbench
 WORKDIR evalbench
 RUN ln -s /usr/bin/python3 /usr/bin/python
 RUN make proto -f ./Makefile
+RUN mkdir /tmp_session_files
 
 RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install --force-reinstall googleapis-common-protos==1.64.0
+
+RUN echo "[http]\n\tcookiefile = /root/.git-credential-cache/cookie" > /root/.gitconfig && \
+    chmod 600 /root/.gitconfig
+
 CMD ["sh","-c","/evalbench/nl2code_eval_service/evalbench_service/run_service.sh"]
 EXPOSE 50051
