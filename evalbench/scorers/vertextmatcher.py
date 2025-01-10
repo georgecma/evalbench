@@ -35,10 +35,20 @@ class VertexMatcher(comparator.Comparator):
         self,
         nl_prompt: str,
         golden_query: str,
+        query_type: str,
         golden_execution_result: str,
+        golden_eval_result: str,
+        golden_error: str,
         generated_query: str,
         generated_execution_result: str,
+        generated_eval_result: str,
+        generated_error: str,
     ) -> Tuple[float, str]:
+        if golden_error:
+            return 0, "Golden query failed to execute."
+        if generated_error:
+            return 0, "Generated query failed to execute."
+
         only_first_n = 50
         if len(golden_execution_result) > only_first_n:
             golden_execution_result = golden_execution_result[:only_first_n]

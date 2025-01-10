@@ -4,8 +4,10 @@ from scorers import comparator
 from scorers import exactmatcher
 from scorers import generatedqueryregexpmatcher
 from scorers import recallmatcher
+from scorers import setmatcher
 from scorers import vertextmatcher
 from scorers import llmrater
+from scorers import returnedsql
 from dataset.evaloutput import EvalOutput
 import logging
 
@@ -23,6 +25,8 @@ def compare(eval_output_item: EvalOutput, experiment_config: dict[str, str], sco
         comparators.append(exactmatcher.ExactMatcher(scorers["exact_match"]))
     if "recall_match" in scorers:
         comparators.append(recallmatcher.RecallMatcher(scorers["recall_match"]))
+    if "set_match" in scorers:
+        comparators.append(setmatcher.SetMatcher(scorers["set_match"]))
     if "vertexmatcher" in scorers:
         comparators.append(vertextmatcher.VertexMatcher(scorers["vertexmatcher"]))
     if "llmrater" in scorers:
@@ -31,6 +35,8 @@ def compare(eval_output_item: EvalOutput, experiment_config: dict[str, str], sco
         comparators.append(
             generatedqueryregexpmatcher.GeneratedQueryRegexpMatcher(scorers["regexp_matcher"])
         )
+    if "returned_sql" in scorers:
+        comparators.append(returnedsql.ReturnedSQL(scorers["returned_sql"]))
 
     for comp in comparators:
         score = 0
@@ -40,9 +46,14 @@ def compare(eval_output_item: EvalOutput, experiment_config: dict[str, str], sco
                 score, logs = comp.compare(
                     eval_output_item["nl_prompt"],
                     eval_output_item["golden_sql"],
+                    eval_output_item["query_type"],
                     eval_output_item["golden_result"],
+                    eval_output_item.get("golden_eval_results", ""),
+                    eval_output_item["golden_error"],
                     eval_output_item["generated_sql"],
                     eval_output_item["generated_result"],
+                    eval_output_item.get("eval_results", ""),
+                    eval_output_item["generated_error"],
                 )
                 comparison_result.score = score
                 comparison_result.comparison_logs = logs

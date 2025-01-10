@@ -19,6 +19,8 @@ COPY . evalbench
 WORKDIR evalbench
 RUN ln -s /usr/bin/python3 /usr/bin/python
 RUN make proto -f ./Makefile
+RUN mkdir /tmp_session_files
+RUN chown -R 65532:65532 /evalbench /tmp /tmp_session_files
 
 RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install --force-reinstall googleapis-common-protos==1.64.0

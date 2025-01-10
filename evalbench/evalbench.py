@@ -54,14 +54,10 @@ def main(argv: Sequence[str]) -> None:
     db_config["database_name"] = database
     model_config["database_config"] = db_config
 
-    setup_teardown.setupDatabase(db_config=db_config, database=database, create_user=True)
+    if "setup_config" in experiment_config:
+        setup_teardown.setupDatabase(db_config=db_config, experiment_config=experiment_config,
+                                     database=database, create_user=True)
     db = databases.get_database(db_config)
-
-    query_types = experiment_config.get("query_types", [])
-    if not query_types:
-        query_types = ["dql", "dml", "ddl"]
-
-    dataset = {k: v for k, v in dataset.items() if k in query_types}
 
     # Load the Query Generator
     model_generator = models.get_generator(model_config)

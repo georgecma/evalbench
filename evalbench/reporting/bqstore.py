@@ -4,7 +4,7 @@ import logging
 from enum import Enum
 
 STORETYPE = Enum('StoreType', ['CONFIGS', 'EVALS', 'SCORES', "SUMMARY"])
-_CHUNK_SIZE = 20
+_CHUNK_SIZE = 250
 
 project_id = "astana-evaluation"
 dataset_id = "{}.evalbench".format(project_id)

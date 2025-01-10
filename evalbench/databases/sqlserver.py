@@ -9,6 +9,7 @@ from .util import (
 )
 from typing import Any, Tuple
 from threading import Semaphore
+import logging
 
 
 class SQLServerDB(DB):
@@ -19,10 +20,12 @@ class SQLServerDB(DB):
         db_user = db_config["user_name"]
         db_pass_secret_path = db_config["password"]
         db_pass = get_db_secret(db_pass_secret_path)
+        self.db_config = db_config
         self.db_name = db_config["database_name"]
         self.execs_per_minute = db_config["max_executions_per_minute"]
         self.semaphore = Semaphore(self.execs_per_minute)
         self.max_attempts = 3
+        logging.getLogger("pytds").setLevel(logging.ERROR)
 
         # Initialize the Cloud SQL Connector object
         connector = Connector()
@@ -44,6 +47,8 @@ class SQLServerDB(DB):
             connect_args={
                 "connect_timeout": 60,
             },
+            echo=False,
+            logging_name=None,
         )
 
     def generate_schema(self):
@@ -58,7 +63,7 @@ class SQLServerDB(DB):
         # To be implemented
         pass
 
-    def _execute(self, query: str) -> Tuple[Any, float]:
+    def _execute(self, query: str) -> Tuple[Any, Any]:
         result = []
         error = None
         try:
@@ -72,7 +77,7 @@ class SQLServerDB(DB):
             error = str(e)
         return result, error
 
-    def execute(self, query: str) -> Tuple[Any, float]:
+    def execute(self, query: str) -> Tuple[Any, Any]:
         if isinstance(self.execs_per_minute, int):
             return rate_limited_execute(
                 query,

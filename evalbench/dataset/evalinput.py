@@ -21,6 +21,7 @@ class EvalInputRequest:
         sql_generator_time: float = 0.0,
         generated_sql: str = "",
         job_id: str = "",
+        trace_id: str = "",
     ):
         """Initializes an EvalInputRequest object with all required fields.
 
@@ -41,6 +42,7 @@ class EvalInputRequest:
         self.sql_generator_time = sql_generator_time
         self.generated_sql = generated_sql
         self.job_id = job_id
+        self.trace_id = trace_id
 
     @classmethod
     def init_from_proto(self, proto: eval_request_pb2.EvalInputRequest):
@@ -63,4 +65,5 @@ class EvalInputRequest:
             sql_generator_time=request.get("sqlGeneratorTime"),
             generated_sql=request.get("generatedSql"),
             job_id=request.get("jobId"),
+            trace_id=request.get('traceId'),
         )

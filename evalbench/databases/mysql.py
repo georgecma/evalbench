@@ -6,6 +6,7 @@ from .db import DB
 from .util import (
     get_db_secret,
     rate_limited_execute,
+    DBResourceExhaustedError,
 )
 from typing import Any, Tuple
 from threading import Semaphore
@@ -71,24 +72,13 @@ class MySQLDB(DB):
         # To be implemented
         pass
 
-    def _execute(self, query: str, rollback: bool = False, use_transaction: bool = True) -> Tuple[Any, Any]:
+    def _execute(self, query: str):
         result = []
         error = None
         try:
             queries = [q.strip() for q in query.split(';') if q.strip()]
             with self.engine.connect() as connection:
-                if use_transaction:
-                    with connection.begin() as transaction:
-                        for query in queries:
-                            resultset = connection.execute(text(query))
-                            if resultset.returns_rows:
-                                column_names = resultset.keys()
-                                rows = resultset.fetchall()
-                                for row in rows:
-                                    result.append(dict(zip(column_names, row)))
-                        if rollback:
-                            transaction.rollback()
-                else:
+                with connection.begin():
                     for query in queries:
                         resultset = connection.execute(text(query))
                         if resultset.returns_rows:
@@ -98,18 +88,41 @@ class MySQLDB(DB):
                                 result.append(dict(zip(column_names, row)))
         except Exception as e:
             error = str(e)
+            if "57P03" in error:
+                raise DBResourceExhaustedError("DB Exhausted") from e
         return result, error
 
-    def execute(self, query: str, rollback: bool = False, use_transaction: bool = True) -> Tuple[Any, float]:
+    def execute_dml(self, query: str, eval_query: str = None):
+        result = []
+        eval_result = []
+        error = None
+        try:
+            with self.engine.connect() as connection:
+                with connection.begin() as transaction:
+                    resultset = connection.execute(text(query))
+                    if resultset.returns_rows:
+                        rows = resultset.fetchall()
+                        result.extend(r._asdict() for r in rows)
+
+                    if eval_query:
+                        eval_resultset = connection.execute(text(eval_query))
+                        if eval_resultset.returns_rows:
+                            eval_rows = eval_resultset.fetchall()
+                            eval_result.extend(r._asdict() for r in eval_rows)
+
+                    transaction.rollback()
+        except Exception as e:
+            error = str(e)
+        return result, eval_result, error
+
+    def execute(self, query: str) -> Tuple[Any, Any]:
         if isinstance(self.execs_per_minute, int):
             return rate_limited_execute(
                 query,
-                rollback,
-                use_transaction,
                 self._execute,
                 self.execs_per_minute,
                 self.semaphore,
                 self.max_attempts,
             )
         else:
-            return self._execute(query, rollback, use_transaction)
+            return self._execute(query)

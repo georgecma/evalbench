@@ -125,24 +125,24 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
             dataset_config_json, experiment_config
         )
         session["db_config"]["database_name"] = database
-
-        for eval_input in dataset:
-            if self.eval_ids is not None and eval_input.id not in self.eval_ids:
-                continue
-            eval_input_request = eval_request_pb2.EvalInputRequest(
-                id=eval_input.id,
-                query_type=eval_input.query_type,
-                database=eval_input.database,
-                nl_prompt=eval_input.nl_prompt,
-                dialects=eval_input.dialects,
-                golden_sql=eval_input.golden_sql,
-                eval_query=eval_input.eval_query,
-                setup_sql=eval_input.setup_sql,
-                cleanup_sql=eval_input.cleanup_sql,
-                tags=eval_input.tags,
-            )
-            eval_input_request.other.update(eval_input.other)
-            yield eval_input_request
+        for _, eval_inputs in dataset.items():
+            for eval_input in eval_inputs:
+                if self.eval_ids is not None and eval_input.id not in self.eval_ids:
+                    continue
+                eval_input_request = eval_request_pb2.EvalInputRequest(
+                    id=eval_input.id,
+                    query_type=eval_input.query_type,
+                    database=eval_input.database,
+                    nl_prompt=eval_input.nl_prompt,
+                    dialects=eval_input.dialects,
+                    golden_sql=[q for q in eval_input.golden_sql if q is not None],
+                    eval_query=[q for q in eval_input.eval_query if q is not None],
+                    setup_sql=[q for q in eval_input.setup_sql if q is not None],
+                    cleanup_sql=[q for q in eval_input.cleanup_sql if q is not None],
+                    tags=eval_input.tags,
+                )
+                eval_input_request.other.update(eval_input.other)
+                yield eval_input_request
 
     async def Eval(
         self,
@@ -150,10 +150,10 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         context: grpc.ServicerContext,
     ) -> eval_response_pb2.EvalResponse:
 
-        dataset = []
+        dataset = {"dql": [], "dml": [], "ddl": []}
         async for request in request_iterator:
             input = evalinput.EvalInputRequest.init_from_proto(request)
-            dataset.append(input)
+            dataset[input.query_type].append(input)
 
         session = SESSIONMANAGER.get_session(rpc_id_var.get())
 
@@ -174,7 +174,8 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
 
         job_id, run_time = eval.evaluate(dataset)
         logging.info(
-            f"Run eval job_id:{job_id} run_time:{run_time} for {len(dataset)} eval entries."
+            f"Run eval job_id:{job_id} run_time:{run_time} for \
+            {sum(len(eval_inputs) for _, eval_inputs in dataset.items())} eval entries."
         )
 
         config_df = config_to_df(
