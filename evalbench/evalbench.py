@@ -16,6 +16,7 @@ import databases
 import setup_teardown
 import logging
 import json
+import pandas as pd
 
 logging.getLogger().setLevel(logging.INFO)
 
@@ -23,6 +24,12 @@ _EXPERIMENT_CONFIG = flags.DEFINE_string(
     "experiment_config",
     "configs/experiment_config.yaml",
     "Path to the eval execution configuration file.",
+)
+
+_OUTPUT_TYPE = flags.DEFINE_string(
+    "output_type",
+    "big_query",
+    "Specifies the output type: 'csv' for a CSV file, 'big_query' to store results in BigQuery"
 )
 
 
@@ -82,9 +89,14 @@ def main(argv: Sequence[str]) -> None:
     summary_scores_df["job_id"] = job_id
     summary_scores_df["run_time"] = run_time
 
-    report.store(scores_df, bqstore.STORETYPE.SCORES)
-    report.store(summary_scores_df, bqstore.STORETYPE.SUMMARY)
-
+    output_type = _OUTPUT_TYPE.value
+    if (output_type == "csv"):
+      logging.info("Storing output as CSV")
+      results_df.to_csv("output.csv", index=False)
+    else:
+      report.store(scores_df, bqstore.STORETYPE.SCORES)
+      report.store(summary_scores_df, bqstore.STORETYPE.SUMMARY)
 
 if __name__ == "__main__":
     app.run(main)
+
