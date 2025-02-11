@@ -9,7 +9,7 @@ model_config: configs/model/base_gemini_model.yaml
 prompt_generator: 'DBSchemaGenerator'
 dialect: 'postgres'
 eval_ids: []
-scorers: 
+scorers:
   exact_match:
   recall_match:
   vertexmatcher:

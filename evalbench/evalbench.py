@@ -20,6 +20,9 @@ import pandas as pd
 
 logging.getLogger().setLevel(logging.INFO)
 
+CSV_OUTPUT = "csv"
+BIG_QUERY_OUTPUT = "big_query"
+
 _EXPERIMENT_CONFIG = flags.DEFINE_string(
     "experiment_config",
     "configs/experiment_config.yaml",
@@ -28,7 +31,7 @@ _EXPERIMENT_CONFIG = flags.DEFINE_string(
 
 _OUTPUT_TYPE = flags.DEFINE_string(
     "output_type",
-    "big_query",
+    BIG_QUERY_OUTPUT,
     "Specifies the output type: 'csv' for a CSV file, 'big_query' to store results in BigQuery"
 )
 
@@ -90,7 +93,7 @@ def main(argv: Sequence[str]) -> None:
     summary_scores_df["run_time"] = run_time
 
     output_type = _OUTPUT_TYPE.value
-    if (output_type == "csv"):
+    if (output_type == CSV_OUTPUT):
       logging.info("Storing output as CSV")
       results_df.to_csv("output.csv", index=False)
     else:
