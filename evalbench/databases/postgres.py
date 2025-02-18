@@ -57,6 +57,7 @@ class PGDB(DB):
             pool_recycle=3600,
             pool_pre_ping=True,
             connect_args={"command_timeout": 60},
+            isolation_level="AUTOCOMMIT",
         )
 
         self.cache_client = get_cache_client(db_config)

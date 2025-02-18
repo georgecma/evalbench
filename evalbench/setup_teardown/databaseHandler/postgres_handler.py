@@ -80,7 +80,9 @@ class PostgresHandler(DBHandler):
 
         db_instance = get_database(self.db_config)
         for database in db_names:
-            db_instance.create_database(database)
+            _, error = db_instance.create_database(database)
+            if error:
+                print(f"Error while creating database. error: {error}")
         return db_names
 
     def drop_temp_databases(self, temp_databases: List[str]):
