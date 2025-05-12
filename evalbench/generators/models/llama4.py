@@ -6,6 +6,7 @@ from util.gcp import get_gcp_project
 import logging
 from util.sanitizer import sanitize_sql
 
+
 class Llama4Generator(QueryGenerator):
     """Generator queries using Llama4 model."""
 
@@ -13,7 +14,6 @@ class Llama4Generator(QueryGenerator):
         logger = logging.getLogger(__name__)
         super().__init__(querygenerator_config)
         self.name = "gcp_vertex_llama4"
-
 
         credentials, _ = default()
         auth_request = Request()
@@ -51,8 +51,3 @@ class Llama4Generator(QueryGenerator):
             return response_text
         except Exception as e:
             logger.exception(f"Error generating responce due to exception: {e}")
-
-        
-
-
-        
