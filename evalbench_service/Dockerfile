@@ -23,6 +23,6 @@ RUN mkdir /tmp_session_files
 RUN chown -R 65532:65532 /evalbench /tmp /tmp_session_files
 
 RUN pip install --no-cache-dir -r requirements.txt
-RUN pip install --force-reinstall googleapis-common-protos==1.64.0
+RUN pip install --force-reinstall googleapis-common-protos==1.70.0
 CMD ["/evalbench/run_service.sh"]
 EXPOSE 50051
