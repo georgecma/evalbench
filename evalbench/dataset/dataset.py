@@ -26,7 +26,7 @@ def load_dataset_from_json(json_file_path, config):
     if dataset_format == "evalbench-standard-format":
         input_items = load_dataset(all_items, config)
     elif dataset_format == "bird-standard-format":
-        input_items = load_dataset_from_bird_format(all_items)
+        input_items = load_dataset_from_bird_format(all_items, config)
     else:
         raise ValueError("Dataset not in any of the recognised formats")
     totalEntries = sum(len(input_items.get(q, [])) for q in ["dql", "dml", "ddl"])
@@ -35,27 +35,49 @@ def load_dataset_from_json(json_file_path, config):
     return input_items
 
 
-def load_dataset_from_bird_format(dataset: Sequence[dict]):
+def load_dataset_from_bird_format(dataset: Sequence[dict], config):
     input_items: dict[str, list[EvalInputRequest]] = {"dql": [], "dml": [], "ddl": []}
-    dialect = "sqlite"
+    dataset_config = config['dataset_config']
+    dataset_str = str(dataset_config).split('/')[-1].replace(".json", "")
+    dialects = config["dialects"]
     query_type = "dql"
     for item in dataset:
-        eval_input = EvalInputRequest(
-            id=item["question_id"],
-            nl_prompt="".join([item["question"], item["evidence"]]).replace(
-                "`", '"'
-            ),
-            query_type=query_type,
-            database=item["db_id"],
-            dialects=[dialect],
-            golden_sql=item['SQL'],
-            eval_query="",
-            setup_sql="",
-            cleanup_sql="",
-            tags=[item["difficulty"]],
-            other={}
-        )
-        input_items[eval_input.query_type].append(eval_input)
+        # Add "ifs" to handle situations when some keys do not in(or in different format of) the BIRD evaluation dataset
+        if "question_id" not in item and "id" in item:
+            item["question_id"] = item["id"]
+        if "question" not in item and "other" in item:
+            item["question"] = item["other"]["question"]
+        if "evidence" not in item and "other" in item:
+            item["evidence"] = item["other"]["evidence"]
+        if "question" not in item and "other" in item:
+            item["question"] = item["other"]["question"]
+        if "db_id" not in item:
+            item["db_id"] = dataset_str
+        if "SQL" not in item:
+            if dialects[0] in item["golden_sql"]:
+                item["SQL"] = item["golden_sql"][dialects[0]]
+            else:
+                item["SQL"] = ""
+        if "difficulty" not in item and "tags" in item:
+            item["difficulty"] = item["tags"]
+
+        if item["SQL"]:
+            eval_input = EvalInputRequest(
+                id=item["question_id"],
+                nl_prompt="".join([item["question"], item["evidence"]]).replace(
+                    "`", '"'
+                ),
+                query_type=query_type,
+                database=item["db_id"],
+                dialects=config["dialects"],
+                golden_sql=item['SQL'],
+                eval_query="",
+                setup_sql="",
+                cleanup_sql="",
+                tags=[item["difficulty"]],
+                other={}
+            )
+            input_items[eval_input.query_type].append(eval_input)
     return input_items
 
 

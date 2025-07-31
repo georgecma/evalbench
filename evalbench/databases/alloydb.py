@@ -18,6 +18,9 @@ class AlloyDB(PGDB):
 
         self.connector = AlloyDBConnector()
 
+        if 'api_endpoint' in db_config:
+            self.connector._alloydb_api_endpoint = db_config['api_endpoint']
+
         def get_conn_alloydb():
             return self.connector.connect(
                 self.db_path,
