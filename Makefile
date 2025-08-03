@@ -48,12 +48,12 @@ shell:
 		-e TYPE=$(TYPE) evalbench:latest bash
 
 push-test:
-	podman image tag evalbench:latest us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:test
-	podman push us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:test
+	$(CONTAINER_ENGINE) image tag evalbench:latest us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:test
+	$(CONTAINER_ENGINE) push us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:test
 
 push:
-	podman image tag evalbench:latest us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:latest
-	podman push us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:latest
+	$(CONTAINER_ENGINE) image tag evalbench:latest us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:latest
+	$(CONTAINER_ENGINE) push us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:latest
 
 deploy:
 	gcloud container clusters get-credentials evalbench-directpath-cluster --zone us-central1-c --project cloud-db-nl2sql
