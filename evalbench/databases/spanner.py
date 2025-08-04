@@ -15,15 +15,6 @@ from .util import (
 from util.rate_limit import rate_limit, ResourceExhaustedError
 from typing import Any, List, Optional, Tuple
 
-DROP_ALL_TABLES_QUERY = """
-"""
-
-DELETE_USER_QUERY = """
-"""
-
-CREATE_USER_QUERY = """
-"""
-
 
 class SpannerDB(DB):
 
