@@ -4,7 +4,7 @@ metadata:
   name: eval-server
   namespace: evalbench-namespace
   annotations:
-    cloud.google.com/neg: '{"exposed_ports":{"8080":{"name": "evalbench-directpath-neg"}}}'
+    cloud.google.com/neg: '{"exposed_ports":{"50051":{"name": "evalbench-directpath-neg"}}}'
 spec:
   ipFamilyPolicy: RequireDualStack
   ipFamilies:
@@ -12,7 +12,7 @@ spec:
   - IPv4
   ports:
   - name: eval-server
-    port: 8080
+    port: 50051
     protocol: TCP
     targetPort: 50051
   selector:
