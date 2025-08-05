@@ -17,13 +17,6 @@ from typing import Any, List, Optional, Tuple
 
 
 class SpannerDB(DB):
-
-    #####################################################
-    #####################################################
-    # Database Connection Setup Logic
-    #####################################################
-    #####################################################
-
     def __init__(self, db_config):
         super().__init__(db_config)
         self.spanner_api_endpoint = "spanner.googleapis.com"
@@ -54,12 +47,6 @@ class SpannerDB(DB):
             logging.warning(
                 f"Failed to close connections. This may result in idle unused connections."
             )
-
-    #####################################################
-    #####################################################
-    # Database Specific Execution Logic and Handling
-    #####################################################
-    #####################################################
 
     def batch_execute(self, commands: list[str]):
         _, _, error = self.execute("\n".join(commands))
@@ -109,8 +96,6 @@ class SpannerDB(DB):
                             transaction.rollback()
             except Exception as e:
                 error = str(e)
-                if "57P03" in error:
-                    raise ResourceExhaustedError("DB Exhausted") from e
             return result, eval_result, error
 
         try:
@@ -140,12 +125,6 @@ class SpannerDB(DB):
         except Exception:
             logging.error(f"Failed to get metadata")
         return db_metadata
-
-    #####################################################
-    #####################################################
-    # Setup / Teardown of temporary databases
-    #####################################################
-    #####################################################
 
     def generate_ddl(
         self,
@@ -179,23 +158,11 @@ class SpannerDB(DB):
             for row in data[table_name]:
                 print(row)
 
-    #####################################################
-    #####################################################
-    # Database User Management
-    #####################################################
-    #####################################################
-
     def create_tmp_users(self, dql_user: str, dml_user: str, tmp_password: str):
         pass
 
     def delete_tmp_user(self, username: str):
         pass
-
-    #####################################################
-    #####################################################
-    # Internal helpers
-    #####################################################
-    #####################################################
 
     def _execute_auto_commit(self, query: str):
         error = None
