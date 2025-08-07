@@ -1,10 +1,7 @@
-import vertexai
+from google import genai
+from google.genai.types import GenerateContentResponse
 from util.rate_limit import ResourceExhaustedError
 from util.gcp import get_gcp_project, get_gcp_region
-from vertexai.generative_models._generative_models import (
-    GenerativeModel,
-    GenerationResponse,
-)
 from google.api_core.exceptions import ResourceExhausted
 from .generator import QueryGenerator
 from util.sanitizer import sanitize_sql
@@ -23,18 +20,19 @@ class GeminiGenerator(QueryGenerator):
         self.base_prompt = querygenerator_config.get("base_prompt") or ""
         self.generation_config = None
 
-        vertexai.init(project=self.project_id, location=self.region)
-        self.model = GenerativeModel(self.vertex_model)
+        self.client = genai.Client(
+            vertexai=True, project=self.project_id, location=self.region
+        )
         self.base_prompt = self.base_prompt
 
     def generate_internal(self, prompt):
         logger = logging.getLogger(__name__)
         try:
-            response = self.model.generate_content(
-                self.base_prompt + prompt,
-                generation_config=self.generation_config,
+            response = self.client.models.generate_content(
+                model=self.vertex_model,
+                contents=self.base_prompt + prompt,
             )
-            if isinstance(response, GenerationResponse):
+            if isinstance(response, GenerateContentResponse):
                 r = sanitize_sql(response.text)
             return r
         except ResourceExhausted as e:
