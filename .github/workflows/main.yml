@@ -20,7 +20,3 @@ jobs:
     - name: Run pycodestyle
       run: |
         pycodestyle  evalbench --config=.pycodestyle
-  test:
-    runs-on: [self-hosted, linux]  # Specifies a self-hosted runner with specific labels
-    steps:
-      - run: echo Hello world!
