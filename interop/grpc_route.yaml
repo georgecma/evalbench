@@ -1,9 +1,0 @@
-name: helloworld-grpc-route
-hostnames:
-- helloworld
-meshes:
-- projects/898603957982/locations/global/meshes/direct-google-access-evalbench-mesh
-rules:
-- action:
-    destinations:
-    - serviceName: projects/898603957982/locations/global/backendServices/evalbench-directpath-bs
