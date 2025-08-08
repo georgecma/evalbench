@@ -2,12 +2,11 @@
 from .db import DB
 from .postgres import PGDB
 import sqlalchemy
+import pg8000
 from sqlalchemy.pool import NullPool
-from google.cloud.alloydb.connector import Connector as AlloyDBConnector
-from google.cloud.alloydb.connector import IPTypes as AlloyDBIPTypes
 
 
-class AlloyDB(PGDB):
+class AlloyDBOmni(PGDB):
     def __init__(self, db_config):
         """
         Initializes the AlloyDB connection, overriding the PGDB's
@@ -15,21 +14,16 @@ class AlloyDB(PGDB):
         """
         super().__init__(db_config)
         self.nl_config = db_config['nl_config']
-
-        self.connector = AlloyDBConnector()
-
-        if 'api_endpoint' in db_config:
-            self.connector._alloydb_api_endpoint = db_config['api_endpoint']
+        self.host = db_config.get("host", "localhost")
+        self.port = db_config.get("port", 5432)
 
         def get_conn_alloydb():
-            return self.connector.connect(
-                self.db_path,
-                "pg8000",
+            return pg8000.connect(
                 user=self.username,
                 password=self.password,
-                db=self.db_name,
-                enable_iam_auth=False,
-                ip_type=AlloyDBIPTypes.PUBLIC,
+                host=self.host,
+                port=self.port,
+                database=self.db_name
             )
 
         def get_engine_args_alloydb():

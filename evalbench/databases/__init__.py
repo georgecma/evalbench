@@ -5,6 +5,8 @@ from .sqlite import SQLiteDB
 from .db import DB
 from .bigquery import BQDB
 from .alloydb import AlloyDB
+from .alloydb_omni import AlloyDBOmni
+from .spanner import SpannerDB
 
 
 def get_database(db_config, db_name) -> DB:
@@ -16,6 +18,8 @@ def get_database(db_config, db_name) -> DB:
 
     if db_config["db_type"] == "postgres":
         return PGDB(db_config)
+    if db_config["db_type"] == "spanner":
+        return SpannerDB(db_config)
     if db_config["db_type"] == "mysql":
         return MySQLDB(db_config)
     if db_config["db_type"] == "sqlserver":
@@ -26,4 +30,6 @@ def get_database(db_config, db_name) -> DB:
         return BQDB(db_config)
     if db_config["db_type"] == "alloydb":
         return AlloyDB(db_config)
+    if db_config["db_type"] == "alloydb_omni":
+        return AlloyDBOmni(db_config)
     raise ValueError("DB Type not Supported")

@@ -77,7 +77,9 @@ class SQLExecWork(Work):
         eval_result = None
         error = None
         if query_type == "dql":
-            result, _, error = self.db.execute(sqlparse.split(query)[0], use_cache=True, rollback=True)
+            result, _, error = self.db.execute(
+                sqlparse.split(query)[0], use_cache=True, rollback=True
+            )
         elif query_type == "dml":
             # self.db.execute(self.eval_result["setup_sql"])
             result, eval_result, error = self.db.execute(
@@ -100,7 +102,10 @@ class SQLExecWork(Work):
         return result, eval_result, error
 
     def _sanitize_sql(self):
-        if self.experiment_config["prompt_generator"] == "NOOPGenerator":
+        if (
+            self.experiment_config["prompt_generator"] == "NOOPGenerator"
+            and self.experiment_config["dialect"] != "googlesql"
+        ):
             self.eval_result["sanitized_sql"] = self.eval_result["generated_sql"]
         else:
             self.eval_result["sanitized_sql"] = sanitize_sql(

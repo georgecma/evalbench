@@ -1,0 +1,8 @@
+# Building deployer image
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:$COMMIT_SHA', '-f', 'evalbench_service/Dockerfile', '.']
+images:
+- 'us-central1-docker.pkg.dev/cloud-db-nl2sql/evalbench/eval_server:$COMMIT_SHA'
+options:
+  defaultLogsBucketBehavior: REGIONAL_USER_OWNED_BUCKET

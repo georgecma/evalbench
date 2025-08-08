@@ -1,0 +1,10 @@
+db_type: alloydb_omni
+dialect: postgres
+database_name: <your-db-name>
+database_path:  <your-db-path> # should be in the following format: 'localhost:5432'
+max_executions_per_minute: 180
+host: <your-host>
+port: <your-port>
+user_name: <your-username>
+password: <your-password>
+nl_config: <nl-config-name>

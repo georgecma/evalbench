@@ -17,8 +17,10 @@ class AlloyDBGenerator(QueryGenerator):
 
     def generate_internal(self, prompt):
         rows, _, err = self.db.execute(self.get_sql(prompt))
+        if err:
+            return err
         if not rows:
-            return None
+            return "No SQL query generated."
         sql_query = "\n".join(
             row.get('?column?', '')
             for row in rows

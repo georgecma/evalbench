@@ -20,7 +20,7 @@ dataset_format: bird-standard-format
 ### Prompt and Generation Modules
 ############################################################
 # The YAML config for the model to be used for generation.
-model_config: datasets/model_configs/gemini_2.0_pro_model.yaml
+model_config: datasets/model_configs/gemini_2.5_pro_model.yaml
 # The prompt generator module id for prompt generation.
 prompt_generator: 'SQLGenBasePromptGenerator'
 #
