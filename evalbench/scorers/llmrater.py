@@ -19,7 +19,7 @@ Run Configuration Options:
 
 from typing import Tuple
 from generators.models import get_generator
-from scorers import exactmatcher
+from scorers import setmatcher
 import logging
 
 from scorers import comparator
@@ -38,7 +38,7 @@ class LLMRater(comparator.Comparator):
 
     def __init__(self, config: dict, global_models):
         self.name = "llmrater"
-        self.exact_match_checker = exactmatcher.ExactMatcher({})
+        self.set_match_checker = setmatcher.SetMatcher({})
         self.cache_client = get_cache_client(config)
         self.model_config = config.get("model_config") or ""
         if not self.model_config:
@@ -58,7 +58,7 @@ class LLMRater(comparator.Comparator):
         generated_eval_result: str,
         generated_error: str,
     ):
-        score, _ = self.exact_match_checker.compare(
+        score, _ = self.set_match_checker.compare(
             nl_prompt,
             golden_query,
             query_type,
