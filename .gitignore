@@ -169,3 +169,5 @@ evalbench/evalproto/*.pyi
 evalbench/eval_result.json
 evalbench/eval_output.json
 evalbench/score_result.json
+datasets/.DS_Store
+.DS_Store
