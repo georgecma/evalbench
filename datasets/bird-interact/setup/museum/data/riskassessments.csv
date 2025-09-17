@@ -1,0 +1,951 @@
+1,'ART54317  ','ART54317','Medium','Review Required','Priority 3','Minimal',85
+2,'ART54254  ','ART54254','Medium','Under Revision','Priority 1','Strict',76
+3,'ART69978  ','ART69978','Medium','Updated','Priority 2','Minimal',91
+4,'ART50422  ','ART50422','High','Under Revision','Priority 2','Strict',41
+5,'ART95251  ','ART95251','Low','Review Required','Priority 3',NULL,1
+6,'ART48028  ','ART48028','Low','Updated','Priority 1','Strict',75
+7,'ART69512  ','ART69512','Medium','Updated','Priority 2',NULL,54
+8,'ART44049  ','ART44049','Low','Under Revision','Priority 2',NULL,14
+9,'ART22173  ','ART22173','Medium','Under Revision','Priority 3','Minimal',6
+10,'ART48053  ','ART48053','High','Under Revision','Priority 1',NULL,7
+11,'ART17157  ','ART17157','High','Under Revision','Priority 2','Minimal',24
+12,'ART93578  ','ART93578','Low','Updated','Priority 3','Minimal',92
+13,'ART23875  ','ART23875','High','Under Revision','Priority 2','Minimal',62
+14,'ART23155  ','ART23155','Low','Under Revision','Priority 3','Minimal',96
+15,'ART87883  ','ART87883','Medium','Under Revision','Priority 2','Strict',64
+16,'ART44432  ','ART44432','Low','Under Revision','Priority 3','Minimal',57
+17,'ART77091  ','ART77091','High','Updated','Priority 3','Strict',14
+18,'ART30247  ','ART30247','High','Under Revision','Priority 1','Minimal',48
+19,'ART54391  ','ART54391','High','Review Required','Priority 2','Minimal',37
+20,'ART49538  ','ART49538','Low','Under Revision','Priority 2','Minimal',56
+21,'ART79242  ','ART79242','High','Review Required','Priority 3','Strict',69
+22,'ART23455  ','ART23455','High','Review Required','Priority 2','Strict',6
+23,'ART75266  ','ART75266','Low','Under Revision','Priority 3','Minimal',62
+24,'ART85937  ','ART85937','Medium','Under Revision','Priority 1','Strict',25
+25,'ART67347  ','ART67347','High','Review Required','Priority 1','Minimal',27
+26,'ART89393  ','ART89393','Low','Under Revision','Priority 2','Strict',50
+27,'ART45377  ','ART45377','Low','Updated','Priority 3','Strict',2
+28,'ART70054  ','ART70054','High','Updated','Priority 2','Strict',43
+29,'ART64175  ','ART64175','Medium','Under Revision','Priority 1','Strict',45
+30,'ART73040  ','ART73040','Medium','Updated','Priority 1','Minimal',95
+31,'ART97169  ','ART97169','Low','Updated','Priority 1',NULL,88
+32,'ART27258  ','ART27258','Low','Under Revision','Priority 2','Minimal',54
+33,'ART19807  ','ART19807','Low','Under Revision','Priority 1',NULL,55
+34,'ART56964  ','ART56964','High','Under Revision','Priority 3',NULL,76
+35,'ART52327  ','ART52327','Medium','Updated','Priority 1','Minimal',2
+36,'ART95026  ','ART95026','Low','Under Revision','Priority 3','Minimal',64
+37,'ART75963  ','ART75963','Low','Review Required','Priority 3',NULL,87
+38,'ART74018  ','ART74018','Medium','Under Revision','Priority 3','Minimal',95
+39,'ART33769  ','ART33769','Low','Under Revision','Priority 3','Strict',25
+40,'ART49793  ','ART49793','High','Under Revision','Priority 3','Minimal',86
+41,'ART84247  ','ART84247','High','Under Revision','Priority 1','Strict',56
+42,'ART35668  ','ART35668','Low','Review Required','Priority 2',NULL,83
+43,'ART55333  ','ART55333','Medium','Under Revision','Priority 1','Minimal',14
+44,'ART78189  ','ART78189','Low','Under Revision','Priority 3',NULL,59
+45,'ART98570  ','ART98570','High','Review Required','Priority 1','Minimal',33
+46,'ART86437  ','ART86437','Medium','Review Required','Priority 3','Minimal',73
+47,'ART77193  ','ART77193','High','Review Required','Priority 2',NULL,20
+48,'ART11997  ','ART11997','Medium','Review Required','Priority 1',NULL,87
+49,'ART71036  ','ART71036','High','Review Required','Priority 3','Strict',46
+50,'ART74448  ','ART74448','High','Updated','Priority 3','Strict',25
+51,'ART16032  ','ART16032','Medium','Review Required','Priority 3',NULL,70
+52,'ART75678  ','ART75678','Low','Under Revision','Priority 2',NULL,99
+53,'ART62574  ','ART62574','Low','Under Revision','Priority 1','Minimal',83
+54,'ART74715  ','ART74715','Medium','Updated','Priority 3',NULL,3
+55,'ART15630  ','ART15630','Medium','Review Required','Priority 3',NULL,28
+56,'ART71177  ','ART71177','Medium','Under Revision','Priority 1','Strict',88
+57,'ART34027  ','ART34027','High','Updated','Priority 3','Strict',13
+58,'ART66667  ','ART66667','Low','Under Revision','Priority 1','Strict',25
+59,'ART32567  ','ART32567','Low','Updated','Priority 3',NULL,2
+60,'ART32207  ','ART32207','Medium','Under Revision','Priority 2','Strict',52
+61,'ART89880  ','ART89880','High','Under Revision','Priority 1','Strict',64
+62,'ART41900  ','ART41900','Low','Updated','Priority 2',NULL,42
+63,'ART51066  ','ART51066','Low','Review Required','Priority 1','Strict',37
+64,'ART96778  ','ART96778','Medium','Review Required','Priority 2',NULL,45
+65,'ART14428  ','ART14428','High','Updated','Priority 1',NULL,87
+66,'ART24037  ','ART24037','Medium','Review Required','Priority 2','Strict',91
+67,'ART56119  ','ART56119','High','Updated','Priority 3',NULL,3
+68,'ART20918  ','ART20918','Medium','Updated','Priority 1',NULL,44
+69,'ART72699  ','ART72699','Medium','Under Revision','Priority 3','Minimal',63
+70,'ART71203  ','ART71203','Low','Updated','Priority 2',NULL,94
+71,'ART57819  ','ART57819','High','Review Required','Priority 3','Strict',53
+72,'ART99720  ','ART99720','High','Under Revision','Priority 1','Strict',31
+73,'ART53791  ','ART53791','Low','Review Required','Priority 2',NULL,53
+74,'ART64791  ','ART64791','High','Under Revision','Priority 1','Minimal',27
+75,'ART63153  ','ART63153','Medium','Under Revision','Priority 2',NULL,60
+76,'ART99599  ','ART99599','High','Updated','Priority 2',NULL,20
+77,'ART92270  ','ART92270','Medium','Under Revision','Priority 2','Strict',75
+78,'ART59106  ','ART59106','Medium','Updated','Priority 3','Strict',28
+79,'ART64367  ','ART64367','Low','Under Revision','Priority 1',NULL,60
+80,'ART29176  ','ART29176','High','Review Required','Priority 1','Minimal',76
+81,'ART66971  ','ART66971','Medium','Under Revision','Priority 2',NULL,85
+82,'ART18099  ','ART18099','Low','Review Required','Priority 1',NULL,22
+83,'ART25088  ','ART25088','Medium','Under Revision','Priority 3','Minimal',43
+84,'ART69692  ','ART69692','High','Review Required','Priority 1',NULL,7
+85,'ART51762  ','ART51762','High','Under Revision','Priority 2','Minimal',84
+86,'ART47896  ','ART47896','Low','Updated','Priority 3',NULL,67
+87,'ART13944  ','ART13944','Medium','Under Revision','Priority 1','Strict',55
+88,'ART45648  ','ART45648','Medium','Updated','Priority 2','Minimal',51
+89,'ART69396  ','ART69396','Medium','Review Required','Priority 3',NULL,55
+90,'ART45572  ','ART45572','High','Review Required','Priority 2',NULL,11
+91,'ART94538  ','ART94538','Low','Under Revision','Priority 2',NULL,83
+92,'ART14093  ','ART14093','Medium','Updated','Priority 3',NULL,19
+93,'ART31333  ','ART31333','Low','Review Required','Priority 1','Strict',73
+94,'ART44866  ','ART44866','Medium','Under Revision','Priority 3','Strict',77
+95,'ART22236  ','ART22236','Low','Updated','Priority 3','Minimal',88
+96,'ART24363  ','ART24363','Medium','Under Revision','Priority 3',NULL,30
+97,'ART12970  ','ART12970','High','Review Required','Priority 1',NULL,76
+98,'ART86696  ','ART86696','Low','Under Revision','Priority 2',NULL,11
+99,'ART54193  ','ART54193','Medium','Review Required','Priority 2','Strict',44
+100,'ART49076  ','ART49076','High','Under Revision','Priority 1','Strict',30
+101,'ART43209  ','ART43209','Medium','Review Required','Priority 3',NULL,70
+102,'ART34850  ','ART34850','Low','Under Revision','Priority 2','Strict',8
+103,'ART41552  ','ART41552','Low','Under Revision','Priority 2',NULL,90
+104,'ART19184  ','ART19184','Low','Under Revision','Priority 3','Strict',16
+105,'ART61296  ','ART61296','High','Under Revision','Priority 1','Strict',82
+106,'ART10877  ','ART10877','Low','Review Required','Priority 3',NULL,5
+107,'ART20549  ','ART20549','High','Updated','Priority 2','Minimal',76
+108,'ART98976  ','ART98976','High','Review Required','Priority 1',NULL,16
+109,'ART23101  ','ART23101','Low','Review Required','Priority 2',NULL,6
+110,'ART35857  ','ART35857','Low','Updated','Priority 3',NULL,62
+111,'ART32997  ','ART32997','Low','Under Revision','Priority 2','Strict',68
+112,'ART15992  ','ART15992','High','Review Required','Priority 3','Minimal',33
+113,'ART16961  ','ART16961','High','Review Required','Priority 2','Minimal',16
+114,'ART85062  ','ART85062','High','Review Required','Priority 1','Strict',38
+115,'ART48891  ','ART48891','High','Review Required','Priority 1','Minimal',28
+116,'ART19391  ','ART19391','High','Under Revision','Priority 3','Minimal',3
+117,'ART45353  ','ART45353','Low','Updated','Priority 1','Strict',90
+118,'ART62822  ','ART62822','Medium','Updated','Priority 3',NULL,13
+119,'ART32952  ','ART32952','Medium','Updated','Priority 2',NULL,4
+120,'ART75762  ','ART75762','Low','Updated','Priority 2',NULL,84
+121,'ART68475  ','ART68475','High','Review Required','Priority 3','Minimal',16
+122,'ART52132  ','ART52132','Low','Review Required','Priority 3','Minimal',79
+123,'ART94790  ','ART94790','Low','Updated','Priority 3','Minimal',83
+124,'ART61992  ','ART61992','Medium','Updated','Priority 1','Strict',65
+125,'ART17018  ','ART17018','Medium','Under Revision','Priority 2','Minimal',38
+126,'ART28471  ','ART28471','Medium','Under Revision','Priority 3',NULL,36
+127,'ART33180  ','ART33180','Low','Updated','Priority 2',NULL,46
+128,'ART11692  ','ART11692','Low','Review Required','Priority 1',NULL,87
+129,'ART89295  ','ART89295','Medium','Review Required','Priority 1','Strict',81
+130,'ART18814  ','ART18814','Medium','Under Revision','Priority 1','Minimal',82
+131,'ART51143  ','ART51143','Low','Updated','Priority 2',NULL,88
+132,'ART99610  ','ART99610','High','Updated','Priority 3',NULL,57
+133,'ART16937  ','ART16937','High','Updated','Priority 1','Strict',85
+134,'ART51120  ','ART51120','Low','Review Required','Priority 2','Minimal',82
+135,'ART65334  ','ART65334','Low','Review Required','Priority 2','Minimal',14
+136,'ART70347  ','ART70347','Low','Under Revision','Priority 2',NULL,47
+137,'ART33322  ','ART33322','Medium','Review Required','Priority 2','Minimal',70
+138,'ART36172  ','ART36172','Medium','Updated','Priority 3',NULL,28
+139,'ART65274  ','ART65274','Low','Under Revision','Priority 3',NULL,76
+140,'ART19319  ','ART19319','Medium','Updated','Priority 3',NULL,4
+141,'ART73961  ','ART73961','Medium','Review Required','Priority 2',NULL,40
+142,'ART81270  ','ART81270','Medium','Updated','Priority 3','Strict',62
+143,'ART35714  ','ART35714','Low','Review Required','Priority 2',NULL,30
+144,'ART82822  ','ART82822','Low','Updated','Priority 3','Strict',50
+145,'ART60318  ','ART60318','Medium','Under Revision','Priority 1',NULL,39
+146,'ART30431  ','ART30431','Medium','Updated','Priority 3','Minimal',60
+147,'ART25584  ','ART25584','High','Updated','Priority 1',NULL,26
+148,'ART89376  ','ART89376','High','Under Revision','Priority 3',NULL,22
+149,'ART21113  ','ART21113','High','Review Required','Priority 1','Strict',70
+150,'ART97628  ','ART97628','High','Updated','Priority 3','Strict',57
+151,'ART30341  ','ART30341','Low','Under Revision','Priority 3','Strict',60
+152,'ART20790  ','ART20790','Low','Under Revision','Priority 3',NULL,68
+153,'ART18418  ','ART18418','Low','Updated','Priority 2','Minimal',59
+154,'ART54038  ','ART54038','Low','Updated','Priority 3','Minimal',57
+155,'ART97133  ','ART97133','High','Updated','Priority 2','Minimal',16
+156,'ART52809  ','ART52809','High','Review Required','Priority 2',NULL,23
+157,'ART75086  ','ART75086','High','Under Revision','Priority 3','Strict',18
+158,'ART33042  ','ART33042','Medium','Under Revision','Priority 2',NULL,63
+159,'ART10016  ','ART10016','Medium','Updated','Priority 1',NULL,84
+160,'ART49884  ','ART49884','Low','Review Required','Priority 2','Minimal',7
+161,'ART66947  ','ART66947','Low','Under Revision','Priority 3','Minimal',58
+162,'ART87110  ','ART87110','Medium','Under Revision','Priority 2',NULL,49
+163,'ART16170  ','ART16170','High','Updated','Priority 3','Minimal',31
+164,'ART89792  ','ART89792','Medium','Updated','Priority 1','Strict',34
+165,'ART92254  ','ART92254','Low','Under Revision','Priority 2',NULL,97
+166,'ART27324  ','ART27324','High','Under Revision','Priority 1','Strict',20
+167,'ART42898  ','ART42898','High','Updated','Priority 2','Minimal',36
+168,'ART67567  ','ART67567','Low','Updated','Priority 2','Strict',52
+169,'ART70811  ','ART70811','Medium','Review Required','Priority 1','Minimal',10
+170,'ART12836  ','ART12836','High','Updated','Priority 3','Strict',31
+171,'ART99181  ','ART99181','High','Under Revision','Priority 3','Minimal',18
+172,'ART50461  ','ART50461','High','Updated','Priority 1','Strict',22
+173,'ART87783  ','ART87783','High','Updated','Priority 2','Minimal',7
+174,'ART80978  ','ART80978','Low','Under Revision','Priority 3',NULL,8
+175,'ART23004  ','ART23004','Medium','Under Revision','Priority 3','Strict',31
+176,'ART98449  ','ART98449','Medium','Under Revision','Priority 1',NULL,12
+177,'ART25084  ','ART25084','Medium','Updated','Priority 3','Strict',44
+178,'ART13491  ','ART13491','High','Review Required','Priority 3','Minimal',73
+179,'ART24745  ','ART24745','Medium','Updated','Priority 2','Minimal',24
+180,'ART65719  ','ART65719','Low','Review Required','Priority 3','Minimal',17
+181,'ART91309  ','ART91309','Medium','Review Required','Priority 1','Strict',92
+182,'ART53019  ','ART53019','Medium','Review Required','Priority 3',NULL,53
+183,'ART14403  ','ART14403','Low','Under Revision','Priority 3',NULL,54
+184,'ART38276  ','ART38276','Low','Under Revision','Priority 1','Minimal',83
+185,'ART42404  ','ART42404','High','Under Revision','Priority 3',NULL,1
+186,'ART83629  ','ART83629','High','Updated','Priority 2','Strict',38
+187,'ART13974  ','ART13974','High','Under Revision','Priority 3','Minimal',36
+188,'ART88917  ','ART88917','High','Updated','Priority 3','Strict',19
+189,'ART41493  ','ART41493','Medium','Review Required','Priority 2',NULL,78
+190,'ART69240  ','ART69240','High','Updated','Priority 2','Strict',95
+191,'ART49914  ','ART49914','Medium','Updated','Priority 2',NULL,91
+192,'ART80033  ','ART80033','Medium','Under Revision','Priority 1',NULL,83
+193,'ART94972  ','ART94972','High','Under Revision','Priority 3',NULL,2
+194,'ART72194  ','ART72194','Medium','Review Required','Priority 1',NULL,68
+195,'ART84114  ','ART84114','Low','Updated','Priority 1',NULL,19
+196,'ART45437  ','ART45437','High','Updated','Priority 2','Strict',67
+197,'ART31758  ','ART31758','Medium','Under Revision','Priority 1','Strict',14
+198,'ART83252  ','ART83252','High','Review Required','Priority 3',NULL,18
+199,'ART67613  ','ART67613','High','Under Revision','Priority 2','Strict',80
+200,'ART27147  ','ART27147','High','Under Revision','Priority 2','Strict',16
+201,'ART60258  ','ART60258','Low','Under Revision','Priority 1','Minimal',19
+202,'ART50323  ','ART50323','Medium','Review Required','Priority 3','Minimal',76
+203,'ART74964  ','ART74964','High','Under Revision','Priority 1','Minimal',70
+204,'ART13446  ','ART13446','Medium','Under Revision','Priority 3',NULL,35
+205,'ART71021  ','ART71021','Medium','Under Revision','Priority 1',NULL,97
+206,'ART32811  ','ART32811','High','Under Revision','Priority 1',NULL,35
+207,'ART71301  ','ART71301','Low','Updated','Priority 2',NULL,33
+208,'ART12707  ','ART12707','Low','Updated','Priority 3','Strict',19
+209,'ART37297  ','ART37297','High','Updated','Priority 3','Strict',28
+210,'ART73892  ','ART73892','Low','Updated','Priority 2','Strict',60
+211,'ART50269  ','ART50269','Low','Under Revision','Priority 1',NULL,79
+212,'ART86574  ','ART86574','Medium','Review Required','Priority 2',NULL,16
+213,'ART94976  ','ART94976','High','Updated','Priority 1','Minimal',64
+214,'ART11696  ','ART11696','High','Review Required','Priority 3','Minimal',79
+215,'ART82931  ','ART82931','Medium','Updated','Priority 1','Minimal',14
+216,'ART80111  ','ART80111','Low','Updated','Priority 2','Minimal',24
+217,'ART40717  ','ART40717','Low','Under Revision','Priority 1',NULL,16
+218,'ART87584  ','ART87584','Medium','Under Revision','Priority 2','Minimal',21
+219,'ART74379  ','ART74379','High','Under Revision','Priority 2','Strict',1
+220,'ART42099  ','ART42099','Low','Updated','Priority 1',NULL,90
+221,'ART95273  ','ART95273','High','Review Required','Priority 2',NULL,4
+222,'ART30207  ','ART30207','High','Review Required','Priority 1','Minimal',42
+223,'ART58660  ','ART58660','Low','Review Required','Priority 1',NULL,41
+224,'ART32258  ','ART32258','Low','Under Revision','Priority 1','Minimal',52
+225,'ART13670  ','ART13670','Low','Updated','Priority 1',NULL,68
+226,'ART44828  ','ART44828','Low','Review Required','Priority 3','Minimal',74
+227,'ART27188  ','ART27188','Medium','Under Revision','Priority 3',NULL,24
+228,'ART43891  ','ART43891','High','Review Required','Priority 1',NULL,23
+229,'ART76964  ','ART76964','High','Updated','Priority 1',NULL,73
+230,'ART24532  ','ART24532','Medium','Review Required','Priority 3','Minimal',67
+231,'ART55249  ','ART55249','Medium','Under Revision','Priority 1','Minimal',16
+232,'ART24931  ','ART24931','Low','Under Revision','Priority 1','Strict',43
+233,'ART73597  ','ART73597','Medium','Updated','Priority 1','Minimal',69
+234,'ART45358  ','ART45358','High','Updated','Priority 1',NULL,70
+235,'ART71982  ','ART71982','High','Under Revision','Priority 2','Strict',86
+236,'ART71172  ','ART71172','Medium','Under Revision','Priority 3','Minimal',73
+237,'ART55873  ','ART55873','High','Review Required','Priority 1','Strict',54
+238,'ART38073  ','ART38073','High','Updated','Priority 3',NULL,52
+239,'ART51883  ','ART51883','Low','Under Revision','Priority 3',NULL,46
+240,'ART17559  ','ART17559','High','Under Revision','Priority 2','Strict',91
+241,'ART15309  ','ART15309','Medium','Under Revision','Priority 3','Minimal',61
+242,'ART39560  ','ART39560','Medium','Review Required','Priority 2',NULL,41
+243,'ART90960  ','ART90960','High','Under Revision','Priority 1','Strict',96
+244,'ART63740  ','ART63740','Medium','Under Revision','Priority 1','Strict',36
+245,'ART86498  ','ART86498','Medium','Under Revision','Priority 1',NULL,7
+246,'ART98285  ','ART98285','Low','Updated','Priority 3','Minimal',25
+247,'ART43152  ','ART43152','Medium','Under Revision','Priority 1','Strict',62
+248,'ART17254  ','ART17254','Medium','Under Revision','Priority 3','Minimal',29
+249,'ART22444  ','ART22444','Low','Under Revision','Priority 2','Strict',54
+250,'ART78343  ','ART78343','High','Updated','Priority 2','Strict',55
+251,'ART90427  ','ART90427','High','Under Revision','Priority 2','Strict',17
+252,'ART98320  ','ART98320','Low','Updated','Priority 3','Minimal',66
+253,'ART41917  ','ART41917','High','Updated','Priority 1',NULL,23
+254,'ART79729  ','ART79729','High','Updated','Priority 3','Strict',80
+255,'ART15822  ','ART15822','High','Updated','Priority 2','Strict',88
+256,'ART74169  ','ART74169','Low','Updated','Priority 2','Strict',20
+257,'ART43645  ','ART43645','Low','Under Revision','Priority 3',NULL,75
+258,'ART60637  ','ART60637','High','Review Required','Priority 3',NULL,26
+259,'ART91265  ','ART91265','Low','Under Revision','Priority 2','Minimal',47
+260,'ART13864  ','ART13864','Low','Review Required','Priority 2','Minimal',53
+261,'ART25931  ','ART25931','Low','Under Revision','Priority 1','Minimal',94
+262,'ART93236  ','ART93236','Medium','Review Required','Priority 3','Minimal',80
+263,'ART99384  ','ART99384','High','Updated','Priority 3','Strict',52
+264,'ART53116  ','ART53116','Low','Under Revision','Priority 1','Minimal',64
+265,'ART85703  ','ART85703','Medium','Under Revision','Priority 1',NULL,3
+266,'ART12943  ','ART12943','Low','Review Required','Priority 3','Minimal',99
+267,'ART78887  ','ART78887','Medium','Review Required','Priority 1','Minimal',66
+268,'ART30190  ','ART30190','High','Review Required','Priority 3','Minimal',18
+269,'ART38721  ','ART38721','High','Updated','Priority 1',NULL,20
+270,'ART30217  ','ART30217','Low','Review Required','Priority 1','Minimal',27
+271,'ART47243  ','ART47243','Medium','Updated','Priority 1',NULL,45
+272,'ART83882  ','ART83882','High','Under Revision','Priority 2','Minimal',81
+273,'ART77801  ','ART77801','High','Under Revision','Priority 1',NULL,82
+274,'ART45260  ','ART45260','Medium','Under Revision','Priority 2',NULL,74
+275,'ART73910  ','ART73910','Medium','Updated','Priority 2','Minimal',56
+276,'ART47531  ','ART47531','Medium','Review Required','Priority 2','Strict',86
+277,'ART73091  ','ART73091','High','Under Revision','Priority 1','Strict',25
+278,'ART45554  ','ART45554','Low','Under Revision','Priority 3','Minimal',65
+279,'ART50718  ','ART50718','Medium','Under Revision','Priority 2','Minimal',7
+280,'ART47788  ','ART47788','High','Review Required','Priority 2','Minimal',76
+281,'ART37928  ','ART37928','Low','Updated','Priority 3','Minimal',1
+282,'ART38978  ','ART38978','Medium','Updated','Priority 3','Strict',87
+283,'ART69605  ','ART69605','Medium','Under Revision','Priority 2','Minimal',39
+284,'ART31121  ','ART31121','Low','Under Revision','Priority 2','Strict',22
+285,'ART59264  ','ART59264','Low','Review Required','Priority 1','Minimal',17
+286,'ART97827  ','ART97827','Medium','Under Revision','Priority 3',NULL,34
+287,'ART64402  ','ART64402','Medium','Review Required','Priority 3','Minimal',98
+288,'ART15493  ','ART15493','Low','Review Required','Priority 2','Minimal',100
+289,'ART68755  ','ART68755','Medium','Review Required','Priority 3','Strict',99
+290,'ART28417  ','ART28417','Medium','Review Required','Priority 2','Strict',16
+291,'ART42781  ','ART42781','Low','Review Required','Priority 2',NULL,45
+292,'ART66169  ','ART66169','High','Under Revision','Priority 3','Minimal',99
+293,'ART96280  ','ART96280','High','Updated','Priority 3',NULL,19
+294,'ART97495  ','ART97495','Low','Updated','Priority 1',NULL,73
+295,'ART24396  ','ART24396','Low','Under Revision','Priority 2','Minimal',71
+296,'ART25032  ','ART25032','High','Review Required','Priority 2',NULL,80
+297,'ART62961  ','ART62961','Low','Updated','Priority 3',NULL,15
+298,'ART77111  ','ART77111','Low','Under Revision','Priority 2','Minimal',16
+299,'ART49476  ','ART49476','Medium','Under Revision','Priority 3',NULL,76
+300,'ART99394  ','ART99394','Low','Updated','Priority 1','Strict',10
+301,'ART50006  ','ART50006','Low','Updated','Priority 3','Strict',75
+302,'ART18330  ','ART18330','High','Under Revision','Priority 3',NULL,49
+303,'ART65641  ','ART65641','Low','Updated','Priority 2',NULL,24
+304,'ART85565  ','ART85565','Low','Updated','Priority 1','Strict',85
+305,'ART90714  ','ART90714','Medium','Review Required','Priority 1','Strict',69
+306,'ART14535  ','ART14535','Low','Review Required','Priority 3',NULL,74
+307,'ART47326  ','ART47326','Low','Under Revision','Priority 3',NULL,73
+308,'ART83116  ','ART83116','Low','Review Required','Priority 3',NULL,85
+309,'ART37946  ','ART37946','High','Under Revision','Priority 3',NULL,48
+310,'ART18394  ','ART18394','High','Updated','Priority 3','Strict',58
+311,'ART43678  ','ART43678','Low','Review Required','Priority 3',NULL,7
+312,'ART93347  ','ART93347','Medium','Under Revision','Priority 2',NULL,17
+313,'ART54065  ','ART54065','Low','Updated','Priority 1','Strict',100
+314,'ART23045  ','ART23045','Medium','Updated','Priority 3',NULL,40
+315,'ART44354  ','ART44354','High','Updated','Priority 1',NULL,33
+316,'ART72253  ','ART72253','High','Under Revision','Priority 3','Strict',37
+317,'ART10868  ','ART10868','Low','Under Revision','Priority 2','Minimal',70
+318,'ART42503  ','ART42503','Medium','Under Revision','Priority 1',NULL,70
+319,'ART32176  ','ART32176','Low','Under Revision','Priority 2','Minimal',20
+320,'ART64633  ','ART64633','High','Review Required','Priority 2','Minimal',73
+321,'ART87910  ','ART87910','Medium','Updated','Priority 2',NULL,74
+322,'ART62028  ','ART62028','High','Review Required','Priority 1','Minimal',74
+323,'ART75371  ','ART75371','High','Updated','Priority 3','Strict',33
+324,'ART47766  ','ART47766','Low','Updated','Priority 1','Minimal',67
+325,'ART52069  ','ART52069','Medium','Updated','Priority 1','Strict',56
+326,'ART57217  ','ART57217','High','Updated','Priority 2',NULL,58
+327,'ART93455  ','ART93455','Medium','Under Revision','Priority 3',NULL,59
+328,'ART89006  ','ART89006','Low','Review Required','Priority 3',NULL,2
+329,'ART33345  ','ART33345','Medium','Review Required','Priority 2',NULL,8
+330,'ART22032  ','ART22032','Low','Under Revision','Priority 2',NULL,82
+331,'ART66995  ','ART66995','High','Under Revision','Priority 3',NULL,42
+332,'ART54879  ','ART54879','High','Review Required','Priority 3','Strict',29
+333,'ART99458  ','ART99458','Low','Updated','Priority 3','Minimal',16
+334,'ART18632  ','ART18632','Medium','Updated','Priority 2','Minimal',18
+335,'ART16702  ','ART16702','High','Under Revision','Priority 2',NULL,65
+336,'ART10454  ','ART10454','Low','Review Required','Priority 3','Strict',36
+337,'ART57763  ','ART57763','Low','Updated','Priority 1','Strict',42
+338,'ART88421  ','ART88421','Medium','Review Required','Priority 1',NULL,15
+339,'ART89757  ','ART89757','High','Updated','Priority 3','Minimal',2
+340,'ART92972  ','ART92972','Low','Review Required','Priority 3',NULL,44
+341,'ART60139  ','ART60139','Low','Under Revision','Priority 1','Minimal',71
+342,'ART11238  ','ART11238','Medium','Updated','Priority 3',NULL,82
+343,'ART10101  ','ART10101','Low','Under Revision','Priority 1',NULL,22
+344,'ART31106  ','ART31106','Low','Under Revision','Priority 3',NULL,36
+345,'ART93115  ','ART93115','High','Review Required','Priority 3',NULL,70
+346,'ART24723  ','ART24723','High','Under Revision','Priority 2','Minimal',90
+347,'ART59972  ','ART59972','Medium','Updated','Priority 3','Strict',98
+348,'ART45346  ','ART45346','High','Review Required','Priority 1','Minimal',17
+349,'ART98793  ','ART98793','Medium','Review Required','Priority 1',NULL,45
+350,'ART69266  ','ART69266','Medium','Under Revision','Priority 3','Strict',66
+351,'ART20924  ','ART20924','Medium','Updated','Priority 2','Strict',81
+352,'ART70901  ','ART70901','Medium','Review Required','Priority 3','Minimal',100
+353,'ART20155  ','ART20155','Medium','Review Required','Priority 3','Strict',28
+354,'ART41568  ','ART41568','Low','Under Revision','Priority 2','Strict',36
+355,'ART21920  ','ART21920','High','Under Revision','Priority 3','Strict',62
+356,'ART83067  ','ART83067','Low','Review Required','Priority 2','Minimal',5
+357,'ART84330  ','ART84330','High','Review Required','Priority 3','Strict',26
+358,'ART69450  ','ART69450','Low','Review Required','Priority 2','Strict',78
+359,'ART46628  ','ART46628','Low','Updated','Priority 2','Minimal',62
+360,'ART66581  ','ART66581','High','Updated','Priority 3','Strict',75
+361,'ART86761  ','ART86761','High','Under Revision','Priority 2',NULL,100
+362,'ART22545  ','ART22545','High','Review Required','Priority 2','Minimal',51
+363,'ART76062  ','ART76062','High','Updated','Priority 3','Minimal',87
+364,'ART93962  ','ART93962','Low','Updated','Priority 3','Minimal',41
+365,'ART30978  ','ART30978','Medium','Review Required','Priority 3',NULL,51
+366,'ART28359  ','ART28359','Low','Review Required','Priority 3',NULL,60
+367,'ART53309  ','ART53309','High','Updated','Priority 3',NULL,64
+368,'ART50684  ','ART50684','Low','Updated','Priority 1',NULL,22
+369,'ART98005  ','ART98005','Medium','Under Revision','Priority 2','Strict',77
+370,'ART96062  ','ART96062','Low','Review Required','Priority 2','Strict',67
+371,'ART43108  ','ART43108','High','Under Revision','Priority 1',NULL,35
+372,'ART73568  ','ART73568','Medium','Under Revision','Priority 1','Minimal',81
+373,'ART31268  ','ART31268','High','Review Required','Priority 2',NULL,17
+374,'ART88648  ','ART88648','Low','Under Revision','Priority 2','Minimal',75
+375,'ART55795  ','ART55795','High','Under Revision','Priority 3','Minimal',8
+376,'ART70354  ','ART70354','Medium','Under Revision','Priority 1','Strict',79
+377,'ART51915  ','ART51915','High','Review Required','Priority 3','Minimal',54
+378,'ART85171  ','ART85171','Low','Under Revision','Priority 2',NULL,33
+379,'ART42439  ','ART42439','Low','Updated','Priority 1','Minimal',92
+380,'ART26707  ','ART26707','Low','Under Revision','Priority 3','Minimal',77
+381,'ART63520  ','ART63520','High','Updated','Priority 2','Strict',44
+382,'ART80110  ','ART80110','Low','Under Revision','Priority 2','Minimal',85
+383,'ART53554  ','ART53554','Medium','Review Required','Priority 2',NULL,89
+384,'ART55648  ','ART55648','Low','Under Revision','Priority 2','Strict',1
+385,'ART47609  ','ART47609','High','Updated','Priority 2','Minimal',43
+386,'ART77482  ','ART77482','Medium','Review Required','Priority 1',NULL,23
+387,'ART48269  ','ART48269','Medium','Updated','Priority 1','Strict',83
+388,'ART46875  ','ART46875','High','Review Required','Priority 3','Strict',70
+389,'ART63518  ','ART63518','High','Under Revision','Priority 3','Strict',89
+390,'ART70034  ','ART70034','High','Updated','Priority 3',NULL,26
+391,'ART28711  ','ART28711','Low','Updated','Priority 1','Strict',81
+392,'ART48999  ','ART48999','Medium','Review Required','Priority 3','Strict',16
+393,'ART28231  ','ART28231','Medium','Review Required','Priority 1','Minimal',5
+394,'ART53235  ','ART53235','High','Under Revision','Priority 3','Strict',12
+395,'ART68953  ','ART68953','Medium','Updated','Priority 1','Strict',58
+396,'ART47293  ','ART47293','Low','Review Required','Priority 3','Strict',60
+397,'ART65248  ','ART65248','Medium','Review Required','Priority 1','Strict',30
+398,'ART31256  ','ART31256','Medium','Under Revision','Priority 1','Minimal',95
+399,'ART78039  ','ART78039','Medium','Updated','Priority 3','Strict',44
+400,'ART30501  ','ART30501','High','Under Revision','Priority 3','Strict',39
+401,'ART42435  ','ART42435','Medium','Review Required','Priority 3','Strict',10
+402,'ART81325  ','ART81325','High','Under Revision','Priority 2','Minimal',31
+403,'ART57335  ','ART57335','Low','Review Required','Priority 1','Minimal',65
+404,'ART98663  ','ART98663','High','Under Revision','Priority 3','Strict',41
+405,'ART16086  ','ART16086','Low','Updated','Priority 2','Strict',39
+406,'ART33827  ','ART33827','Medium','Review Required','Priority 2','Minimal',58
+407,'ART45622  ','ART45622','Medium','Updated','Priority 2',NULL,65
+408,'ART30160  ','ART30160','Low','Updated','Priority 1','Minimal',7
+409,'ART51359  ','ART51359','Medium','Updated','Priority 1',NULL,26
+410,'ART64648  ','ART64648','Low','Review Required','Priority 2','Strict',90
+411,'ART74477  ','ART74477','Medium','Under Revision','Priority 2','Minimal',93
+412,'ART97528  ','ART97528','Medium','Review Required','Priority 1',NULL,58
+413,'ART17969  ','ART17969','Medium','Updated','Priority 2',NULL,66
+414,'ART92812  ','ART92812','Low','Under Revision','Priority 1',NULL,37
+415,'ART83654  ','ART83654','High','Under Revision','Priority 3','Strict',7
+416,'ART39222  ','ART39222','High','Review Required','Priority 1',NULL,96
+417,'ART83109  ','ART83109','Low','Updated','Priority 2','Strict',6
+418,'ART99476  ','ART99476','High','Under Revision','Priority 1',NULL,24
+419,'ART91545  ','ART91545','High','Under Revision','Priority 1',NULL,3
+420,'ART18956  ','ART18956','High','Under Revision','Priority 2','Strict',37
+421,'ART84236  ','ART84236','Low','Updated','Priority 2','Strict',25
+422,'ART41693  ','ART41693','High','Review Required','Priority 2','Strict',96
+423,'ART85466  ','ART85466','Medium','Under Revision','Priority 3','Strict',50
+424,'ART51626  ','ART51626','High','Review Required','Priority 1','Strict',38
+425,'ART26984  ','ART26984','Low','Updated','Priority 3',NULL,22
+426,'ART90499  ','ART90499','Low','Updated','Priority 1','Minimal',38
+427,'ART84173  ','ART84173','High','Review Required','Priority 3','Strict',59
+428,'ART18753  ','ART18753','High','Review Required','Priority 2','Strict',32
+429,'ART49676  ','ART49676','Medium','Updated','Priority 1','Strict',74
+430,'ART10796  ','ART10796','High','Updated','Priority 1','Strict',91
+431,'ART30608  ','ART30608','Medium','Updated','Priority 2','Strict',71
+432,'ART21993  ','ART21993','High','Updated','Priority 3',NULL,76
+433,'ART30022  ','ART30022','Low','Under Revision','Priority 2',NULL,16
+434,'ART89862  ','ART89862','Medium','Under Revision','Priority 3','Strict',78
+435,'ART18141  ','ART18141','Low','Updated','Priority 1',NULL,44
+436,'ART40431  ','ART40431','Medium','Under Revision','Priority 3',NULL,46
+437,'ART63009  ','ART63009','High','Updated','Priority 1','Strict',92
+438,'ART10304  ','ART10304','High','Review Required','Priority 1',NULL,98
+439,'ART94825  ','ART94825','High','Review Required','Priority 2',NULL,29
+440,'ART27503  ','ART27503','Low','Updated','Priority 1','Minimal',74
+441,'ART96200  ','ART96200','Low','Under Revision','Priority 3',NULL,22
+442,'ART39644  ','ART39644','High','Under Revision','Priority 2','Minimal',58
+443,'ART18636  ','ART18636','High','Review Required','Priority 2','Minimal',63
+444,'ART14626  ','ART14626','Medium','Under Revision','Priority 3',NULL,36
+445,'ART33648  ','ART33648','Low','Under Revision','Priority 2','Minimal',89
+446,'ART35180  ','ART35180','Medium','Review Required','Priority 2',NULL,50
+447,'ART79108  ','ART79108','Medium','Under Revision','Priority 3',NULL,35
+448,'ART18962  ','ART18962','Low','Review Required','Priority 3','Minimal',93
+449,'ART67877  ','ART67877','Medium','Updated','Priority 3','Minimal',52
+450,'ART98899  ','ART98899','High','Review Required','Priority 3','Minimal',1
+451,'ART30806  ','ART30806','Low','Review Required','Priority 3','Strict',56
+452,'ART33858  ','ART33858','Low','Updated','Priority 1',NULL,46
+453,'ART56129  ','ART56129','Medium','Under Revision','Priority 2',NULL,51
+454,'ART65842  ','ART65842','Low','Review Required','Priority 2','Strict',1
+455,'ART64392  ','ART64392','Medium','Review Required','Priority 1','Strict',84
+456,'ART69688  ','ART69688','High','Under Revision','Priority 2','Minimal',3
+457,'ART90318  ','ART90318','Medium','Review Required','Priority 1','Strict',56
+458,'ART16908  ','ART16908','High','Review Required','Priority 3','Strict',54
+459,'ART23964  ','ART23964','Medium','Under Revision','Priority 1','Minimal',22
+460,'ART12752  ','ART12752','High','Updated','Priority 2',NULL,79
+461,'ART89697  ','ART89697','Medium','Updated','Priority 3','Minimal',14
+462,'ART96889  ','ART96889','High','Updated','Priority 2',NULL,87
+463,'ART78750  ','ART78750','Low','Updated','Priority 3','Strict',26
+464,'ART49649  ','ART49649','Low','Updated','Priority 2','Strict',57
+465,'ART28121  ','ART28121','High','Updated','Priority 3','Minimal',36
+466,'ART86824  ','ART86824','Low','Updated','Priority 2',NULL,7
+467,'ART35822  ','ART35822','Medium','Updated','Priority 1','Strict',35
+468,'ART27053  ','ART27053','Medium','Under Revision','Priority 3',NULL,66
+469,'ART28234  ','ART28234','Medium','Updated','Priority 2','Minimal',63
+470,'ART34427  ','ART34427','Medium','Under Revision','Priority 1',NULL,50
+471,'ART36419  ','ART36419','High','Updated','Priority 1','Strict',85
+472,'ART88575  ','ART88575','Low','Review Required','Priority 3','Minimal',65
+473,'ART38532  ','ART38532','High','Review Required','Priority 1','Strict',63
+474,'ART34715  ','ART34715','High','Review Required','Priority 3','Minimal',34
+475,'ART32179  ','ART32179','Low','Under Revision','Priority 1','Minimal',43
+476,'ART34896  ','ART34896','Medium','Under Revision','Priority 1','Minimal',42
+477,'ART68034  ','ART68034','Medium','Under Revision','Priority 2','Strict',77
+478,'ART88300  ','ART88300','High','Under Revision','Priority 1',NULL,82
+479,'ART22526  ','ART22526','High','Review Required','Priority 3','Minimal',53
+480,'ART42855  ','ART42855','Medium','Updated','Priority 3','Minimal',6
+481,'ART76570  ','ART76570','High','Under Revision','Priority 3','Strict',62
+482,'ART86703  ','ART86703','Low','Updated','Priority 2','Minimal',100
+483,'ART63970  ','ART63970','Low','Review Required','Priority 2','Strict',8
+484,'ART97160  ','ART97160','Low','Review Required','Priority 1',NULL,56
+485,'ART98229  ','ART98229','High','Review Required','Priority 2',NULL,61
+486,'ART72536  ','ART72536','Low','Updated','Priority 1',NULL,51
+487,'ART53266  ','ART53266','High','Updated','Priority 2','Strict',46
+488,'ART83161  ','ART83161','Low','Review Required','Priority 1','Minimal',31
+489,'ART57961  ','ART57961','High','Updated','Priority 3',NULL,11
+490,'ART92624  ','ART92624','High','Updated','Priority 2',NULL,37
+491,'ART23896  ','ART23896','Low','Review Required','Priority 3',NULL,91
+492,'ART68160  ','ART68160','Low','Updated','Priority 3',NULL,42
+493,'ART58497  ','ART58497','High','Review Required','Priority 1','Strict',16
+494,'ART64922  ','ART64922','Medium','Under Revision','Priority 1',NULL,82
+495,'ART12066  ','ART12066','Medium','Under Revision','Priority 1','Strict',1
+496,'ART65335  ','ART65335','Low','Review Required','Priority 3','Minimal',43
+497,'ART68662  ','ART68662','Medium','Updated','Priority 1',NULL,44
+498,'ART26247  ','ART26247','Low','Review Required','Priority 2','Minimal',39
+499,'ART22192  ','ART22192','Low','Updated','Priority 3','Strict',19
+500,'ART20287  ','ART20287','Low','Review Required','Priority 2','Strict',26
+501,'ART52858  ','ART52858','Medium','Under Revision','Priority 2','Minimal',32
+502,'ART98823  ','ART98823','Medium','Under Revision','Priority 1','Minimal',66
+503,'ART96951  ','ART96951','Low','Review Required','Priority 1',NULL,48
+504,'ART72358  ','ART72358','Low','Updated','Priority 3','Strict',46
+505,'ART55698  ','ART55698','Medium','Review Required','Priority 2',NULL,36
+506,'ART87575  ','ART87575','High','Under Revision','Priority 3','Strict',79
+507,'ART43650  ','ART43650','Low','Under Revision','Priority 1','Minimal',7
+508,'ART86220  ','ART86220','Medium','Updated','Priority 2',NULL,92
+509,'ART96639  ','ART96639','High','Updated','Priority 3','Strict',4
+510,'ART47357  ','ART47357','Medium','Updated','Priority 3','Strict',6
+511,'ART45746  ','ART45746','Medium','Under Revision','Priority 3',NULL,91
+512,'ART45740  ','ART45740','Medium','Updated','Priority 2','Strict',52
+513,'ART88876  ','ART88876','Medium','Under Revision','Priority 1','Minimal',77
+514,'ART87418  ','ART87418','Medium','Review Required','Priority 2','Minimal',14
+515,'ART97635  ','ART97635','High','Review Required','Priority 1','Minimal',76
+516,'ART25292  ','ART25292','Low','Under Revision','Priority 2',NULL,1
+517,'ART51076  ','ART51076','High','Under Revision','Priority 1','Strict',68
+518,'ART32220  ','ART32220','Medium','Under Revision','Priority 1','Minimal',4
+519,'ART76047  ','ART76047','Low','Updated','Priority 3','Strict',89
+520,'ART90178  ','ART90178','High','Updated','Priority 2','Minimal',32
+521,'ART29967  ','ART29967','Low','Under Revision','Priority 2','Strict',72
+522,'ART58041  ','ART58041','Low','Updated','Priority 2','Minimal',21
+523,'ART64972  ','ART64972','High','Updated','Priority 3','Minimal',46
+524,'ART56415  ','ART56415','Low','Under Revision','Priority 2','Minimal',11
+525,'ART45509  ','ART45509','Medium','Under Revision','Priority 2','Strict',27
+526,'ART62693  ','ART62693','Low','Updated','Priority 3','Strict',18
+527,'ART85673  ','ART85673','High','Under Revision','Priority 3','Minimal',35
+528,'ART71133  ','ART71133','Medium','Under Revision','Priority 1',NULL,46
+529,'ART69135  ','ART69135','High','Under Revision','Priority 2',NULL,10
+530,'ART59994  ','ART59994','Medium','Updated','Priority 2',NULL,93
+531,'ART80256  ','ART80256','High','Updated','Priority 3','Minimal',94
+532,'ART26841  ','ART26841','High','Review Required','Priority 2',NULL,46
+533,'ART94581  ','ART94581','Medium','Updated','Priority 3',NULL,19
+534,'ART78648  ','ART78648','High','Updated','Priority 1','Minimal',60
+535,'ART85581  ','ART85581','Low','Under Revision','Priority 3','Strict',79
+536,'ART84089  ','ART84089','Low','Updated','Priority 3','Strict',88
+537,'ART53753  ','ART53753','Medium','Under Revision','Priority 2',NULL,27
+538,'ART95732  ','ART95732','Low','Review Required','Priority 3','Strict',44
+539,'ART37603  ','ART37603','High','Updated','Priority 3','Strict',2
+540,'ART56181  ','ART56181','Medium','Review Required','Priority 2',NULL,86
+541,'ART48785  ','ART48785','Low','Updated','Priority 1','Minimal',95
+542,'ART85127  ','ART85127','Low','Under Revision','Priority 2','Minimal',34
+543,'ART83097  ','ART83097','High','Under Revision','Priority 1','Strict',41
+544,'ART67931  ','ART67931','Medium','Under Revision','Priority 2','Strict',5
+545,'ART80163  ','ART80163','Low','Under Revision','Priority 1','Strict',49
+546,'ART86467  ','ART86467','Medium','Under Revision','Priority 3','Strict',13
+547,'ART44956  ','ART44956','High','Under Revision','Priority 3','Strict',44
+548,'ART94461  ','ART94461','Low','Under Revision','Priority 2',NULL,59
+549,'ART46007  ','ART46007','High','Review Required','Priority 1','Minimal',22
+550,'ART55624  ','ART55624','Low','Review Required','Priority 1','Strict',62
+551,'ART36303  ','ART36303','Low','Updated','Priority 3','Strict',47
+552,'ART44161  ','ART44161','Medium','Under Revision','Priority 3','Strict',43
+553,'ART79576  ','ART79576','Medium','Updated','Priority 1',NULL,41
+554,'ART66820  ','ART66820','High','Review Required','Priority 1','Strict',86
+555,'ART99943  ','ART99943','Low','Under Revision','Priority 1','Minimal',4
+556,'ART56040  ','ART56040','Medium','Updated','Priority 2','Strict',17
+557,'ART99073  ','ART99073','Low','Updated','Priority 1',NULL,8
+558,'ART33473  ','ART33473','Low','Under Revision','Priority 3',NULL,98
+559,'ART24840  ','ART24840','High','Updated','Priority 3','Minimal',56
+560,'ART96165  ','ART96165','High','Updated','Priority 3','Minimal',14
+561,'ART88073  ','ART88073','Low','Review Required','Priority 2',NULL,83
+562,'ART28804  ','ART28804','High','Under Revision','Priority 2','Minimal',18
+563,'ART17546  ','ART17546','High','Review Required','Priority 1',NULL,45
+564,'ART14981  ','ART14981','High','Updated','Priority 1',NULL,66
+565,'ART43106  ','ART43106','High','Updated','Priority 1','Minimal',61
+566,'ART74822  ','ART74822','High','Updated','Priority 1',NULL,76
+567,'ART61565  ','ART61565','Low','Review Required','Priority 3',NULL,48
+568,'ART79175  ','ART79175','High','Under Revision','Priority 2',NULL,70
+569,'ART26272  ','ART26272','Medium','Updated','Priority 2',NULL,76
+570,'ART59168  ','ART59168','High','Review Required','Priority 3','Strict',43
+571,'ART66476  ','ART66476','Low','Under Revision','Priority 2',NULL,66
+572,'ART98965  ','ART98965','Low','Under Revision','Priority 3','Minimal',52
+573,'ART11166  ','ART11166','Low','Review Required','Priority 2','Strict',21
+574,'ART66092  ','ART66092','High','Review Required','Priority 2','Strict',13
+575,'ART28913  ','ART28913','Low','Under Revision','Priority 2','Strict',25
+576,'ART36852  ','ART36852','High','Under Revision','Priority 1','Minimal',2
+577,'ART32001  ','ART32001','Medium','Under Revision','Priority 3','Minimal',83
+578,'ART10602  ','ART10602','Low','Updated','Priority 1',NULL,49
+579,'ART18996  ','ART18996','Medium','Under Revision','Priority 3','Strict',51
+580,'ART82359  ','ART82359','Low','Under Revision','Priority 2','Minimal',41
+581,'ART15952  ','ART15952','High','Review Required','Priority 1','Minimal',81
+582,'ART26831  ','ART26831','High','Under Revision','Priority 1',NULL,85
+583,'ART24978  ','ART24978','High','Review Required','Priority 1','Minimal',51
+584,'ART84637  ','ART84637','High','Review Required','Priority 1','Strict',62
+585,'ART98277  ','ART98277','High','Updated','Priority 2',NULL,40
+586,'ART39262  ','ART39262','Medium','Updated','Priority 1','Minimal',78
+587,'ART56602  ','ART56602','High','Under Revision','Priority 2','Minimal',41
+588,'ART57966  ','ART57966','High','Under Revision','Priority 3','Strict',99
+589,'ART75943  ','ART75943','Medium','Under Revision','Priority 3','Minimal',93
+590,'ART52469  ','ART52469','Medium','Under Revision','Priority 2',NULL,53
+591,'ART26470  ','ART26470','High','Under Revision','Priority 3','Strict',13
+592,'ART57328  ','ART57328','High','Under Revision','Priority 3','Strict',13
+593,'ART68018  ','ART68018','Low','Review Required','Priority 2','Strict',85
+594,'ART34189  ','ART34189','High','Review Required','Priority 2','Strict',65
+595,'ART88121  ','ART88121','Medium','Review Required','Priority 1','Strict',62
+596,'ART38138  ','ART38138','Low','Under Revision','Priority 1','Strict',88
+597,'ART97175  ','ART97175','High','Updated','Priority 1','Strict',26
+598,'ART81329  ','ART81329','Low','Under Revision','Priority 3','Minimal',48
+599,'ART12913  ','ART12913','Low','Under Revision','Priority 3',NULL,78
+600,'ART25050  ','ART25050','High','Updated','Priority 2',NULL,3
+601,'ART58867  ','ART58867','High','Review Required','Priority 3',NULL,83
+602,'ART79542  ','ART79542','Medium','Under Revision','Priority 1','Minimal',44
+603,'ART82199  ','ART82199','Medium','Review Required','Priority 1','Minimal',17
+604,'ART91028  ','ART91028','High','Updated','Priority 2','Minimal',89
+605,'ART70580  ','ART70580','High','Under Revision','Priority 1',NULL,74
+606,'ART58926  ','ART58926','Low','Under Revision','Priority 2',NULL,92
+607,'ART67300  ','ART67300','High','Updated','Priority 2','Minimal',3
+608,'ART36902  ','ART36902','Low','Updated','Priority 3',NULL,25
+609,'ART16037  ','ART16037','Low','Under Revision','Priority 2',NULL,14
+610,'ART50052  ','ART50052','Medium','Under Revision','Priority 1',NULL,84
+611,'ART20268  ','ART20268','High','Review Required','Priority 1',NULL,17
+612,'ART85066  ','ART85066','High','Review Required','Priority 2',NULL,82
+613,'ART82711  ','ART82711','Medium','Under Revision','Priority 3','Strict',14
+614,'ART72030  ','ART72030','High','Under Revision','Priority 1','Minimal',47
+615,'ART48513  ','ART48513','High','Review Required','Priority 1','Strict',1
+616,'ART13225  ','ART13225','High','Under Revision','Priority 1',NULL,4
+617,'ART16185  ','ART16185','Low','Under Revision','Priority 1',NULL,40
+618,'ART87084  ','ART87084','Medium','Under Revision','Priority 1','Minimal',99
+619,'ART76681  ','ART76681','Medium','Review Required','Priority 3','Minimal',40
+620,'ART23595  ','ART23595','Low','Review Required','Priority 1',NULL,72
+621,'ART26935  ','ART26935','Medium','Updated','Priority 3',NULL,86
+622,'ART54253  ','ART54253','Low','Under Revision','Priority 1','Strict',37
+623,'ART78450  ','ART78450','Medium','Updated','Priority 2',NULL,82
+624,'ART36509  ','ART36509','Medium','Under Revision','Priority 2','Minimal',21
+625,'ART43909  ','ART43909','Medium','Updated','Priority 1','Strict',49
+626,'ART53400  ','ART53400','High','Review Required','Priority 3',NULL,92
+627,'ART66554  ','ART66554','Low','Updated','Priority 1',NULL,3
+628,'ART71813  ','ART71813','Low','Updated','Priority 1',NULL,21
+629,'ART51093  ','ART51093','Medium','Under Revision','Priority 2','Minimal',65
+630,'ART69403  ','ART69403','High','Updated','Priority 3','Strict',92
+631,'ART86364  ','ART86364','High','Under Revision','Priority 2',NULL,32
+632,'ART75229  ','ART75229','High','Updated','Priority 3','Minimal',90
+633,'ART46673  ','ART46673','Medium','Under Revision','Priority 2','Minimal',85
+634,'ART23510  ','ART23510','Medium','Under Revision','Priority 3','Minimal',76
+635,'ART86735  ','ART86735','Medium','Updated','Priority 1','Strict',20
+636,'ART66768  ','ART66768','Medium','Updated','Priority 3','Strict',28
+637,'ART25282  ','ART25282','Low','Updated','Priority 3','Strict',32
+638,'ART16218  ','ART16218','Medium','Review Required','Priority 2',NULL,81
+639,'ART69787  ','ART69787','Medium','Under Revision','Priority 3',NULL,16
+640,'ART21873  ','ART21873','High','Updated','Priority 1','Strict',22
+641,'ART41646  ','ART41646','Low','Updated','Priority 2','Minimal',96
+642,'ART31545  ','ART31545','High','Review Required','Priority 1','Strict',64
+643,'ART30984  ','ART30984','Medium','Review Required','Priority 3','Minimal',47
+644,'ART86486  ','ART86486','High','Updated','Priority 2',NULL,80
+645,'ART62766  ','ART62766','High','Review Required','Priority 2',NULL,48
+646,'ART32509  ','ART32509','Low','Updated','Priority 1','Minimal',69
+647,'ART89340  ','ART89340','Low','Under Revision','Priority 1','Strict',31
+648,'ART88196  ','ART88196','High','Updated','Priority 3','Minimal',74
+649,'ART14493  ','ART14493','High','Review Required','Priority 1',NULL,67
+650,'ART76252  ','ART76252','High','Review Required','Priority 1',NULL,8
+651,'ART57157  ','ART57157','Low','Under Revision','Priority 3','Strict',42
+652,'ART95823  ','ART95823','High','Under Revision','Priority 3','Minimal',78
+653,'ART89007  ','ART89007','High','Review Required','Priority 2',NULL,26
+654,'ART59941  ','ART59941','High','Under Revision','Priority 2','Strict',99
+655,'ART81928  ','ART81928','High','Review Required','Priority 2',NULL,67
+656,'ART60859  ','ART60859','High','Under Revision','Priority 1','Strict',34
+657,'ART76513  ','ART76513','Low','Under Revision','Priority 1','Minimal',32
+658,'ART55259  ','ART55259','Medium','Under Revision','Priority 3',NULL,19
+659,'ART90617  ','ART90617','Medium','Under Revision','Priority 2','Minimal',1
+660,'ART24032  ','ART24032','High','Updated','Priority 3','Strict',31
+661,'ART14524  ','ART14524','Medium','Updated','Priority 1',NULL,2
+662,'ART12071  ','ART12071','High','Updated','Priority 3','Minimal',36
+663,'ART66542  ','ART66542','High','Review Required','Priority 3','Strict',30
+664,'ART49968  ','ART49968','High','Review Required','Priority 1','Minimal',84
+665,'ART22763  ','ART22763','Medium','Review Required','Priority 2',NULL,6
+666,'ART87825  ','ART87825','High','Updated','Priority 1','Strict',78
+667,'ART75092  ','ART75092','Low','Review Required','Priority 1',NULL,91
+668,'ART64002  ','ART64002','High','Review Required','Priority 1','Strict',36
+669,'ART49681  ','ART49681','Medium','Updated','Priority 3',NULL,47
+670,'ART74234  ','ART74234','Low','Updated','Priority 3','Minimal',73
+671,'ART82500  ','ART82500','High','Review Required','Priority 3','Minimal',94
+672,'ART81133  ','ART81133','Medium','Under Revision','Priority 2','Strict',3
+673,'ART43117  ','ART43117','High','Review Required','Priority 3',NULL,52
+674,'ART40138  ','ART40138','Medium','Review Required','Priority 3','Minimal',24
+675,'ART54875  ','ART54875','High','Review Required','Priority 1','Minimal',55
+676,'ART75708  ','ART75708','Low','Review Required','Priority 3',NULL,44
+677,'ART68102  ','ART68102','High','Review Required','Priority 1','Minimal',38
+678,'ART55916  ','ART55916','Medium','Under Revision','Priority 1','Minimal',9
+679,'ART90234  ','ART90234','Medium','Review Required','Priority 2','Strict',30
+680,'ART23795  ','ART23795','High','Updated','Priority 3',NULL,81
+681,'ART68106  ','ART68106','High','Under Revision','Priority 1',NULL,56
+682,'ART38773  ','ART38773','High','Updated','Priority 2',NULL,29
+683,'ART83239  ','ART83239','Low','Review Required','Priority 3','Strict',26
+684,'ART97001  ','ART97001','High','Review Required','Priority 2',NULL,16
+685,'ART69943  ','ART69943','High','Review Required','Priority 3','Minimal',32
+686,'ART19243  ','ART19243','Medium','Review Required','Priority 2',NULL,46
+687,'ART72272  ','ART72272','High','Under Revision','Priority 2',NULL,21
+688,'ART22160  ','ART22160','Medium','Review Required','Priority 3','Strict',86
+689,'ART92263  ','ART92263','Medium','Under Revision','Priority 3',NULL,82
+690,'ART65243  ','ART65243','High','Updated','Priority 1','Strict',44
+691,'ART44699  ','ART44699','High','Under Revision','Priority 3',NULL,35
+692,'ART11818  ','ART11818','High','Under Revision','Priority 1','Minimal',12
+693,'ART96685  ','ART96685','Medium','Updated','Priority 2','Strict',80
+694,'ART33856  ','ART33856','Medium','Under Revision','Priority 1','Minimal',4
+695,'ART37504  ','ART37504','Medium','Under Revision','Priority 1',NULL,28
+696,'ART31688  ','ART31688','High','Review Required','Priority 2','Minimal',49
+697,'ART96901  ','ART96901','High','Review Required','Priority 1','Minimal',58
+698,'ART50086  ','ART50086','Medium','Under Revision','Priority 3','Strict',36
+699,'ART53209  ','ART53209','High','Review Required','Priority 2','Minimal',65
+700,'ART83335  ','ART83335','Medium','Under Revision','Priority 2',NULL,23
+701,'ART40350  ','ART40350','Medium','Under Revision','Priority 3','Minimal',35
+702,'ART64734  ','ART64734','High','Under Revision','Priority 2','Strict',79
+703,'ART54697  ','ART54697','High','Under Revision','Priority 2',NULL,60
+704,'ART39945  ','ART39945','Low','Review Required','Priority 2',NULL,9
+705,'ART42663  ','ART42663','High','Under Revision','Priority 3','Minimal',10
+706,'ART22716  ','ART22716','Low','Updated','Priority 2','Minimal',90
+707,'ART91514  ','ART91514','Medium','Updated','Priority 2',NULL,55
+708,'ART33221  ','ART33221','Medium','Updated','Priority 1',NULL,67
+709,'ART32246  ','ART32246','High','Updated','Priority 1','Strict',48
+710,'ART17845  ','ART17845','High','Review Required','Priority 1','Minimal',6
+711,'ART76881  ','ART76881','Low','Under Revision','Priority 3','Strict',16
+712,'ART52193  ','ART52193','Low','Review Required','Priority 2',NULL,7
+713,'ART44784  ','ART44784','Low','Under Revision','Priority 2','Strict',26
+714,'ART96311  ','ART96311','Low','Updated','Priority 3',NULL,6
+715,'ART69468  ','ART69468','High','Updated','Priority 2','Minimal',21
+716,'ART74832  ','ART74832','Medium','Updated','Priority 3',NULL,9
+717,'ART85471  ','ART85471','High','Updated','Priority 1','Strict',69
+718,'ART32309  ','ART32309','Low','Review Required','Priority 3','Minimal',57
+719,'ART90500  ','ART90500','Low','Review Required','Priority 3','Minimal',72
+720,'ART74273  ','ART74273','High','Under Revision','Priority 1',NULL,86
+721,'ART17888  ','ART17888','Low','Under Revision','Priority 3','Strict',69
+722,'ART90346  ','ART90346','Low','Review Required','Priority 1','Strict',82
+723,'ART80971  ','ART80971','High','Review Required','Priority 1',NULL,20
+724,'ART23310  ','ART23310','High','Review Required','Priority 2',NULL,87
+725,'ART48666  ','ART48666','High','Review Required','Priority 1','Minimal',97
+726,'ART21088  ','ART21088','High','Under Revision','Priority 2','Minimal',49
+727,'ART77509  ','ART77509','Low','Review Required','Priority 2','Strict',10
+728,'ART34980  ','ART34980','High','Updated','Priority 3','Strict',90
+729,'ART95946  ','ART95946','Low','Updated','Priority 3',NULL,92
+730,'ART39018  ','ART39018','High','Review Required','Priority 1','Minimal',99
+731,'ART69774  ','ART69774','Medium','Review Required','Priority 3','Strict',82
+732,'ART22315  ','ART22315','Low','Review Required','Priority 1',NULL,34
+733,'ART13427  ','ART13427','Medium','Under Revision','Priority 2',NULL,22
+734,'ART83272  ','ART83272','Medium','Updated','Priority 1','Minimal',27
+735,'ART65730  ','ART65730','Low','Updated','Priority 3',NULL,74
+736,'ART42147  ','ART42147','Low','Updated','Priority 2','Minimal',32
+737,'ART23549  ','ART23549','High','Under Revision','Priority 3',NULL,27
+738,'ART16462  ','ART16462','Low','Review Required','Priority 1',NULL,87
+739,'ART67113  ','ART67113','Low','Review Required','Priority 3',NULL,2
+740,'ART94859  ','ART94859','Low','Under Revision','Priority 1','Minimal',61
+741,'ART34112  ','ART34112','Low','Review Required','Priority 1','Minimal',52
+742,'ART14989  ','ART14989','High','Under Revision','Priority 1',NULL,1
+743,'ART17780  ','ART17780','High','Review Required','Priority 3','Minimal',23
+744,'ART28621  ','ART28621','Medium','Under Revision','Priority 2',NULL,27
+745,'ART81768  ','ART81768','Medium','Under Revision','Priority 2',NULL,53
+746,'ART87618  ','ART87618','Medium','Review Required','Priority 2','Strict',63
+747,'ART42851  ','ART42851','Low','Under Revision','Priority 1','Minimal',48
+748,'ART69547  ','ART69547','High','Review Required','Priority 2','Strict',66
+749,'ART51717  ','ART51717','Low','Under Revision','Priority 1',NULL,44
+750,'ART22886  ','ART22886','Low','Updated','Priority 1',NULL,17
+751,'ART49302  ','ART49302','High','Review Required','Priority 2',NULL,16
+752,'ART72563  ','ART72563','High','Review Required','Priority 3','Minimal',37
+753,'ART11915  ','ART11915','Low','Updated','Priority 1','Minimal',99
+754,'ART57469  ','ART57469','Medium','Under Revision','Priority 1','Minimal',40
+755,'ART90399  ','ART90399','High','Updated','Priority 1',NULL,6
+756,'ART43450  ','ART43450','Low','Updated','Priority 1','Minimal',14
+757,'ART51448  ','ART51448','High','Updated','Priority 2','Minimal',78
+758,'ART92103  ','ART92103','High','Updated','Priority 3','Minimal',3
+759,'ART73159  ','ART73159','Medium','Review Required','Priority 3','Minimal',72
+760,'ART75514  ','ART75514','High','Updated','Priority 3','Strict',10
+761,'ART29208  ','ART29208','High','Under Revision','Priority 3','Minimal',8
+762,'ART71890  ','ART71890','Medium','Updated','Priority 3','Minimal',64
+763,'ART66615  ','ART66615','High','Under Revision','Priority 3',NULL,11
+764,'ART65460  ','ART65460','High','Updated','Priority 3',NULL,63
+765,'ART98712  ','ART98712','Low','Updated','Priority 1','Minimal',49
+766,'ART66657  ','ART66657','Medium','Under Revision','Priority 1','Strict',65
+767,'ART45951  ','ART45951','High','Review Required','Priority 1',NULL,83
+768,'ART20768  ','ART20768','High','Review Required','Priority 1','Strict',85
+769,'ART59524  ','ART59524','Medium','Updated','Priority 1','Strict',40
+770,'ART84214  ','ART84214','Low','Updated','Priority 1','Strict',72
+771,'ART31921  ','ART31921','Medium','Under Revision','Priority 3',NULL,14
+772,'ART46790  ','ART46790','Medium','Review Required','Priority 1','Minimal',26
+773,'ART72241  ','ART72241','High','Updated','Priority 3','Strict',84
+774,'ART57648  ','ART57648','Low','Review Required','Priority 2','Strict',93
+775,'ART77503  ','ART77503','Low','Under Revision','Priority 3',NULL,60
+776,'ART42635  ','ART42635','High','Updated','Priority 1',NULL,86
+777,'ART98088  ','ART98088','Medium','Updated','Priority 3','Strict',77
+778,'ART94883  ','ART94883','Medium','Review Required','Priority 3',NULL,46
+779,'ART70417  ','ART70417','High','Under Revision','Priority 3','Minimal',71
+780,'ART84609  ','ART84609','Medium','Updated','Priority 3','Strict',21
+781,'ART76346  ','ART76346','Low','Under Revision','Priority 2',NULL,61
+782,'ART34720  ','ART34720','Low','Updated','Priority 1','Minimal',76
+783,'ART46547  ','ART46547','Medium','Updated','Priority 2','Strict',32
+784,'ART61364  ','ART61364','High','Updated','Priority 3',NULL,97
+785,'ART34932  ','ART34932','High','Under Revision','Priority 3',NULL,27
+786,'ART96228  ','ART96228','High','Review Required','Priority 1',NULL,42
+787,'ART86470  ','ART86470','Low','Review Required','Priority 3',NULL,13
+788,'ART76871  ','ART76871','Low','Updated','Priority 3','Strict',30
+789,'ART24485  ','ART24485','High','Review Required','Priority 3','Minimal',18
+790,'ART49449  ','ART49449','High','Under Revision','Priority 3','Minimal',53
+791,'ART81383  ','ART81383','High','Review Required','Priority 1','Minimal',48
+792,'ART44723  ','ART44723','Medium','Updated','Priority 3',NULL,66
+793,'ART49026  ','ART49026','Low','Updated','Priority 3',NULL,16
+794,'ART66541  ','ART66541','Low','Review Required','Priority 2',NULL,98
+795,'ART77907  ','ART77907','High','Under Revision','Priority 2','Strict',23
+796,'ART59475  ','ART59475','Medium','Under Revision','Priority 2','Strict',91
+797,'ART16498  ','ART16498','Medium','Under Revision','Priority 3',NULL,33
+798,'ART98227  ','ART98227','Low','Updated','Priority 3',NULL,9
+799,'ART36393  ','ART36393','Low','Review Required','Priority 1',NULL,37
+800,'ART87020  ','ART87020','High','Updated','Priority 1',NULL,38
+801,'ART30034  ','ART30034','High','Review Required','Priority 2','Strict',23
+802,'ART75348  ','ART75348','High','Review Required','Priority 1','Minimal',16
+803,'ART58270  ','ART58270','Medium','Review Required','Priority 1','Minimal',50
+804,'ART39902  ','ART39902','High','Review Required','Priority 2','Minimal',66
+805,'ART14031  ','ART14031','High','Updated','Priority 2',NULL,41
+806,'ART18290  ','ART18290','Low','Review Required','Priority 2','Minimal',48
+807,'ART95167  ','ART95167','Medium','Review Required','Priority 3','Strict',20
+808,'ART44203  ','ART44203','Medium','Under Revision','Priority 1','Strict',5
+809,'ART31890  ','ART31890','Low','Updated','Priority 3','Minimal',85
+810,'ART87754  ','ART87754','Medium','Updated','Priority 1',NULL,86
+811,'ART22321  ','ART22321','High','Review Required','Priority 1','Minimal',96
+812,'ART25763  ','ART25763','High','Review Required','Priority 3','Strict',97
+813,'ART32170  ','ART32170','High','Updated','Priority 3','Minimal',26
+814,'ART84986  ','ART84986','Low','Updated','Priority 2','Minimal',2
+815,'ART46023  ','ART46023','Medium','Updated','Priority 1',NULL,61
+816,'ART73708  ','ART73708','Low','Under Revision','Priority 3',NULL,80
+817,'ART85630  ','ART85630','Low','Review Required','Priority 3','Strict',48
+818,'ART36966  ','ART36966','Low','Updated','Priority 1','Minimal',2
+819,'ART33251  ','ART33251','High','Updated','Priority 1',NULL,35
+820,'ART98440  ','ART98440','High','Under Revision','Priority 2','Strict',19
+821,'ART50102  ','ART50102','Medium','Review Required','Priority 3','Minimal',35
+822,'ART48520  ','ART48520','Medium','Updated','Priority 2',NULL,52
+823,'ART99097  ','ART99097','Low','Review Required','Priority 1','Minimal',85
+824,'ART49705  ','ART49705','Medium','Review Required','Priority 2','Strict',52
+825,'ART68080  ','ART68080','High','Updated','Priority 2',NULL,27
+826,'ART56318  ','ART56318','Medium','Under Revision','Priority 1','Strict',7
+827,'ART57908  ','ART57908','Medium','Review Required','Priority 2','Minimal',56
+828,'ART76099  ','ART76099','Low','Under Revision','Priority 2','Minimal',69
+829,'ART54444  ','ART54444','Low','Updated','Priority 3',NULL,27
+830,'ART97344  ','ART97344','High','Review Required','Priority 3','Strict',12
+831,'ART88991  ','ART88991','High','Under Revision','Priority 3',NULL,33
+832,'ART47743  ','ART47743','Low','Review Required','Priority 2','Strict',96
+833,'ART14074  ','ART14074','High','Review Required','Priority 2',NULL,39
+834,'ART90207  ','ART90207','High','Under Revision','Priority 3','Minimal',84
+835,'ART68517  ','ART68517','Low','Under Revision','Priority 2','Strict',52
+836,'ART57930  ','ART57930','Low','Review Required','Priority 1','Minimal',89
+837,'ART76770  ','ART76770','Medium','Review Required','Priority 3','Minimal',54
+838,'ART43584  ','ART43584','Medium','Updated','Priority 3','Strict',14
+839,'ART88102  ','ART88102','Low','Updated','Priority 3',NULL,54
+840,'ART97113  ','ART97113','Low','Under Revision','Priority 1','Minimal',63
+841,'ART55351  ','ART55351','Medium','Updated','Priority 3',NULL,64
+842,'ART38024  ','ART38024','High','Under Revision','Priority 2','Strict',49
+843,'ART12569  ','ART12569','Medium','Under Revision','Priority 2','Strict',6
+844,'ART40919  ','ART40919','High','Review Required','Priority 2','Minimal',50
+845,'ART48705  ','ART48705','High','Under Revision','Priority 2',NULL,22
+846,'ART67296  ','ART67296','Medium','Updated','Priority 1','Strict',31
+847,'ART52555  ','ART52555','High','Under Revision','Priority 3',NULL,27
+848,'ART62527  ','ART62527','Low','Under Revision','Priority 3','Strict',100
+849,'ART48011  ','ART48011','Low','Review Required','Priority 2','Strict',82
+850,'ART94879  ','ART94879','Medium','Review Required','Priority 1','Strict',42
+851,'ART91888  ','ART91888','Low','Review Required','Priority 1',NULL,72
+852,'ART77072  ','ART77072','Medium','Under Revision','Priority 3','Strict',29
+853,'ART88585  ','ART88585','Low','Review Required','Priority 1',NULL,20
+854,'ART36596  ','ART36596','Medium','Updated','Priority 1','Minimal',22
+855,'ART33026  ','ART33026','High','Updated','Priority 1',NULL,61
+856,'ART55483  ','ART55483','High','Updated','Priority 2',NULL,14
+857,'ART77974  ','ART77974','Medium','Updated','Priority 3',NULL,31
+858,'ART12761  ','ART12761','High','Updated','Priority 1',NULL,23
+859,'ART51031  ','ART51031','High','Under Revision','Priority 2','Minimal',27
+860,'ART96563  ','ART96563','Medium','Review Required','Priority 2','Minimal',20
+861,'ART27457  ','ART27457','Medium','Updated','Priority 1','Strict',80
+862,'ART19120  ','ART19120','Low','Under Revision','Priority 2',NULL,74
+863,'ART35063  ','ART35063','High','Review Required','Priority 3','Minimal',36
+864,'ART83105  ','ART83105','Low','Review Required','Priority 2',NULL,52
+865,'ART20837  ','ART20837','High','Under Revision','Priority 2','Strict',77
+866,'ART29144  ','ART29144','High','Updated','Priority 3','Minimal',73
+867,'ART33184  ','ART33184','High','Review Required','Priority 3','Strict',58
+868,'ART87673  ','ART87673','Low','Updated','Priority 3','Minimal',76
+869,'ART20952  ','ART20952','Medium','Updated','Priority 1','Minimal',93
+870,'ART95841  ','ART95841','Low','Under Revision','Priority 1',NULL,8
+871,'ART45564  ','ART45564','High','Under Revision','Priority 1','Strict',56
+872,'ART51243  ','ART51243','Medium','Updated','Priority 3','Strict',46
+873,'ART76884  ','ART76884','High','Updated','Priority 3','Strict',59
+874,'ART19502  ','ART19502','Low','Updated','Priority 2',NULL,61
+875,'ART39200  ','ART39200','Low','Review Required','Priority 2','Minimal',78
+876,'ART54672  ','ART54672','Medium','Under Revision','Priority 2','Strict',29
+877,'ART88577  ','ART88577','Low','Updated','Priority 1',NULL,23
+878,'ART19556  ','ART19556','Low','Review Required','Priority 1',NULL,31
+879,'ART84852  ','ART84852','High','Review Required','Priority 1','Strict',96
+880,'ART30736  ','ART30736','Medium','Updated','Priority 3','Strict',58
+881,'ART36834  ','ART36834','High','Review Required','Priority 1','Strict',33
+882,'ART25431  ','ART25431','Low','Under Revision','Priority 1','Strict',20
+883,'ART56814  ','ART56814','High','Updated','Priority 1',NULL,94
+884,'ART68570  ','ART68570','Low','Under Revision','Priority 2','Minimal',18
+885,'ART16025  ','ART16025','Low','Updated','Priority 1',NULL,37
+886,'ART52472  ','ART52472','High','Review Required','Priority 2',NULL,70
+887,'ART46791  ','ART46791','Low','Review Required','Priority 1','Minimal',94
+888,'ART93520  ','ART93520','Low','Updated','Priority 2','Strict',92
+889,'ART99903  ','ART99903','Low','Under Revision','Priority 1',NULL,48
+890,'ART26051  ','ART26051','Medium','Updated','Priority 1',NULL,45
+891,'ART21779  ','ART21779','Low','Under Revision','Priority 2','Strict',80
+892,'ART38797  ','ART38797','High','Updated','Priority 3','Strict',57
+893,'ART11061  ','ART11061','Medium','Under Revision','Priority 1','Strict',81
+894,'ART98932  ','ART98932','High','Review Required','Priority 3','Minimal',63
+895,'ART49022  ','ART49022','Low','Updated','Priority 2',NULL,27
+896,'ART48284  ','ART48284','Low','Under Revision','Priority 3',NULL,76
+897,'ART63447  ','ART63447','Medium','Review Required','Priority 3','Minimal',83
+898,'ART28065  ','ART28065','Medium','Review Required','Priority 1','Minimal',54
+899,'ART53096  ','ART53096','High','Under Revision','Priority 2','Minimal',90
+900,'ART67195  ','ART67195','Medium','Under Revision','Priority 1','Strict',8
+901,'ART71265  ','ART71265','High','Review Required','Priority 3','Minimal',8
+902,'ART48796  ','ART48796','Medium','Review Required','Priority 3',NULL,45
+903,'ART36963  ','ART36963','High','Review Required','Priority 3','Minimal',76
+904,'ART50362  ','ART50362','Low','Under Revision','Priority 3','Minimal',35
+905,'ART57791  ','ART57791','Medium','Review Required','Priority 1','Strict',45
+906,'ART70056  ','ART70056','Medium','Review Required','Priority 1','Strict',43
+907,'ART32927  ','ART32927','Medium','Review Required','Priority 2',NULL,32
+908,'ART23886  ','ART23886','Medium','Under Revision','Priority 1','Strict',74
+909,'ART95284  ','ART95284','High','Under Revision','Priority 3','Minimal',26
+910,'ART55884  ','ART55884','Medium','Under Revision','Priority 3','Minimal',99
+911,'ART71037  ','ART71037','High','Updated','Priority 1','Strict',35
+912,'ART11605  ','ART11605','High','Review Required','Priority 2',NULL,7
+913,'ART38084  ','ART38084','Low','Review Required','Priority 1','Minimal',72
+914,'ART90913  ','ART90913','Medium','Review Required','Priority 3','Minimal',46
+915,'ART22677  ','ART22677','Medium','Updated','Priority 1','Strict',25
+916,'ART74019  ','ART74019','High','Review Required','Priority 2',NULL,7
+917,'ART85566  ','ART85566','High','Review Required','Priority 3','Strict',97
+918,'ART96289  ','ART96289','High','Updated','Priority 2','Minimal',30
+919,'ART84918  ','ART84918','High','Updated','Priority 3','Minimal',82
+920,'ART19972  ','ART19972','Medium','Under Revision','Priority 1','Strict',54
+921,'ART37743  ','ART37743','Low','Updated','Priority 3','Strict',8
+922,'ART97428  ','ART97428','Low','Updated','Priority 1',NULL,29
+923,'ART93993  ','ART93993','Low','Under Revision','Priority 1','Strict',93
+924,'ART19962  ','ART19962','High','Under Revision','Priority 2','Minimal',66
+925,'ART29701  ','ART29701','Low','Under Revision','Priority 1','Minimal',67
+926,'ART38517  ','ART38517','Low','Updated','Priority 2','Strict',46
+927,'ART34748  ','ART34748','High','Review Required','Priority 1','Strict',69
+928,'ART73959  ','ART73959','Low','Review Required','Priority 3','Strict',71
+929,'ART87960  ','ART87960','High','Under Revision','Priority 3',NULL,67
+930,'ART77748  ','ART77748','High','Review Required','Priority 1','Minimal',78
+931,'ART45762  ','ART45762','Medium','Under Revision','Priority 1',NULL,80
+932,'ART32387  ','ART32387','Medium','Review Required','Priority 2','Minimal',21
+933,'ART64798  ','ART64798','Medium','Updated','Priority 1','Strict',23
+934,'ART57406  ','ART57406','Low','Review Required','Priority 1','Strict',5
+935,'ART80652  ','ART80652','Low','Under Revision','Priority 1','Strict',26
+936,'ART93117  ','ART93117','Medium','Review Required','Priority 1',NULL,67
+937,'ART54295  ','ART54295','Low','Under Revision','Priority 1',NULL,24
+938,'ART39698  ','ART39698','Low','Review Required','Priority 1','Strict',20
+939,'ART60882  ','ART60882','Medium','Updated','Priority 1','Minimal',74
+940,'ART36144  ','ART36144','Low','Under Revision','Priority 1',NULL,21
+941,'ART17501  ','ART17501','Medium','Review Required','Priority 1','Strict',61
+942,'ART57635  ','ART57635','High','Review Required','Priority 1','Strict',44
+943,'ART61392  ','ART61392','Medium','Review Required','Priority 3','Strict',19
+944,'ART92779  ','ART92779','Low','Under Revision','Priority 1','Strict',48
+945,'ART44024  ','ART44024','Low','Under Revision','Priority 3',NULL,100
+946,'ART35090  ','ART35090','High','Under Revision','Priority 1','Minimal',55
+947,'ART58491  ','ART58491','Low','Updated','Priority 2','Minimal',34
+948,'ART72164  ','ART72164','High','Review Required','Priority 2',NULL,54
+949,'ART41569  ','ART41569','Medium','Review Required','Priority 1','Strict',15
+950,'ART30989  ','ART30989','Low','Under Revision','Priority 3',NULL,25
+951,'ART70622  ','ART70622','High','Under Revision','Priority 3','Minimal',65

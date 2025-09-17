@@ -1,0 +1,993 @@
+'SN20065                                           ','LiDAR','Model-669','2024-11-01','Excellent',62
+'SN29799                                           ','Structured Light','Model-835','2024-09-09','Good',21
+'SN83019                                           ','Photogrammetry','Model-566','2025-02-08','Good',46
+'SN60801                                           ','Structured Light','Model-674','2024-10-19','Good',29
+'SN64520                                           ','Photogrammetry','Model-135','2024-12-10','Poor',13
+'SN83581                                           ','LiDAR','Model-570','2024-11-16','Poor',28
+'SN41462                                           ','Laser','Model-112','2024-11-24','Good',30
+'SN48095                                           ','Structured Light','Model-372','2024-09-09','Fair',98
+'SN34587                                           ','Laser','Model-264','2024-11-23','Excellent',21
+'SN87691                                           ','Photogrammetry','Model-304','2024-12-07','Fair',52
+'SN79410                                           ','Photogrammetry','Model-428','2024-10-01','Good',19
+'SN87470                                           ','Laser','Model-722','2025-02-16','Good',48
+'SN78027                                           ','Photogrammetry','Model-924','2024-09-08','Poor',67
+'SN83894                                           ','Laser','Model-691','2024-10-16','Fair',50
+'SN46046                                           ','Photogrammetry','Model-811','2024-08-26','Excellent',37
+'SN43242                                           ','LiDAR','Model-282','2025-02-03','Excellent',28
+'SN31117                                           ','Structured Light','Model-691','2024-08-31','Good',47
+'SN31469                                           ','Photogrammetry','Model-668','2025-02-01','Good',64
+'SN97840                                           ','Photogrammetry','Model-376','2025-01-03','Fair',33
+'SN75769                                           ','Photogrammetry','Model-782','2025-02-02','Excellent',31
+'SN83255                                           ','Structured Light','Model-122','2024-11-23','Fair',69
+'SN75862                                           ','Structured Light','Model-487','2024-09-21','Excellent',51
+'SN97121                                           ','Laser','Model-928','2024-10-03','Good',84
+'SN42363                                           ','Structured Light','Model-537','2025-01-13','Excellent',38
+'SN28477                                           ','LiDAR','Model-945','2024-12-26','Excellent',14
+'SN89848                                           ','Photogrammetry','Model-569','2024-11-03','Fair',93
+'SN62888                                           ','Photogrammetry','Model-843','2024-09-10','Good',35
+'SN68545                                           ','Photogrammetry','Model-866','2024-10-21','Good',4
+'SN90174                                           ','Structured Light','Model-600','2024-09-07','Good',48
+'SN38132                                           ','LiDAR','Model-582','2024-09-01','Excellent',79
+'SN22973                                           ','Laser','Model-418','2025-01-04','Good',47
+'SN24574                                           ','Structured Light','Model-573','2024-12-28','Excellent',81
+'SN90619                                           ','Photogrammetry','Model-624','2024-12-03','Excellent',43
+'SN72615                                           ','LiDAR','Model-764','2024-12-03','Good',80
+'SN71277                                           ','Laser','Model-646','2024-10-04','Fair',55
+'SN37681                                           ','Laser','Model-400','2024-10-22','Fair',61
+'SN14701                                           ','Structured Light','Model-301','2024-12-03','Excellent',6
+'SN95616                                           ','LiDAR','Model-664','2025-01-23','Excellent',7
+'SN72117                                           ','Structured Light','Model-832','2025-01-04','Poor',56
+'SN88704                                           ','LiDAR','Model-245','2024-12-26','Excellent',77
+'SN24161                                           ','LiDAR','Model-502','2024-09-07','Fair',30
+'SN10578                                           ','LiDAR','Model-234','2024-10-15','Poor',26
+'SN61385                                           ','Photogrammetry','Model-235','2024-10-31','Excellent',40
+'SN36678                                           ','Structured Light','Model-579','2024-09-12','Good',51
+'SN29375                                           ','LiDAR','Model-488','2025-01-12','Poor',85
+'SN65941                                           ','Laser','Model-626','2025-02-12','Excellent',97
+'SN78173                                           ','LiDAR','Model-631','2024-12-08','Excellent',35
+'SN67670                                           ','Laser','Model-974','2024-09-29','Excellent',49
+'SN34192                                           ','Structured Light','Model-223','2025-01-11','Fair',38
+'SN23998                                           ','LiDAR','Model-960','2024-10-16','Fair',51
+'SN83806                                           ','Structured Light','Model-873','2024-12-12','Excellent',82
+'SN98522                                           ','Structured Light','Model-416','2024-12-19','Poor',80
+'SN45117                                           ','Photogrammetry','Model-469','2025-02-13','Excellent',2
+'SN91867                                           ','Laser','Model-901','2024-12-06','Excellent',35
+'SN20456                                           ','Photogrammetry','Model-139','2025-01-11','Good',28
+'SN48461                                           ','Laser','Model-855','2024-10-17','Poor',49
+'SN67130                                           ','LiDAR','Model-270','2024-08-28','Poor',23
+'SN61826                                           ','LiDAR','Model-377','2024-09-22','Fair',23
+'SN95142                                           ','Photogrammetry','Model-522','2025-01-08','Good',9
+'SN14216                                           ','Photogrammetry','Model-117','2024-08-26','Fair',18
+'SN60464                                           ','Structured Light','Model-294','2024-11-30','Poor',94
+'SN18228                                           ','Photogrammetry','Model-104','2025-02-17','Excellent',21
+'SN23672                                           ','Photogrammetry','Model-997','2024-10-21','Good',76
+'SN39641                                           ','Structured Light','Model-240','2025-01-05','Fair',88
+'SN64982                                           ','Structured Light','Model-906','2024-10-13','Good',8
+'SN80959                                           ','Structured Light','Model-594','2024-12-02','Good',94
+'SN82031                                           ','Laser','Model-637','2024-11-14','Excellent',40
+'SN79594                                           ','LiDAR','Model-497','2025-01-01','Good',61
+'SN58001                                           ','Structured Light','Model-745','2025-02-17','Fair',2
+'SN61451                                           ','Structured Light','Model-946','2025-02-14','Excellent',50
+'SN15337                                           ','Structured Light','Model-755','2025-01-20','Fair',45
+'SN76553                                           ','LiDAR','Model-780','2024-12-15','Excellent',98
+'SN85396                                           ','LiDAR','Model-848','2024-09-13','Excellent',30
+'SN26299                                           ','LiDAR','Model-398','2024-11-19','Fair',68
+'SN76172                                           ','Structured Light','Model-298','2025-02-02','Excellent',58
+'SN75505                                           ','Structured Light','Model-806','2025-01-27','Fair',73
+'SN27314                                           ','Photogrammetry','Model-901','2024-12-17','Good',82
+'SN45037                                           ','LiDAR','Model-812','2024-12-21','Excellent',94
+'SN16546                                           ','Structured Light','Model-828','2024-11-03','Good',63
+'SN82591                                           ','Laser','Model-700','2025-02-01','Fair',3
+'SN94363                                           ','LiDAR','Model-107','2024-11-18','Excellent',51
+'SN85921                                           ','Structured Light','Model-553','2025-01-16','Poor',47
+'SN86465                                           ','LiDAR','Model-797','2024-09-27','Fair',87
+'SN24069                                           ','Structured Light','Model-176','2025-01-30','Fair',94
+'SN32201                                           ','Structured Light','Model-800','2025-02-11','Excellent',13
+'SN16763                                           ','Laser','Model-130','2024-11-21','Poor',47
+'SN86217                                           ','Photogrammetry','Model-836','2024-12-11','Poor',23
+'SN83433                                           ','Structured Light','Model-507','2025-01-07','Good',44
+'SN82285                                           ','Photogrammetry','Model-208','2024-10-21','Excellent',41
+'SN54588                                           ','Structured Light','Model-835','2024-12-07','Poor',71
+'SN38774                                           ','Structured Light','Model-653','2024-12-23','Excellent',12
+'SN67279                                           ','Laser','Model-818','2024-12-18','Fair',65
+'SN64343                                           ','Laser','Model-502','2025-02-01','Fair',21
+'SN81002                                           ','Laser','Model-785','2024-12-19','Excellent',87
+'SN11715                                           ','Photogrammetry','Model-311','2025-01-09','Poor',7
+'SN77475                                           ','Laser','Model-639','2025-02-18','Fair',47
+'SN20590                                           ','Laser','Model-521','2025-01-01','Excellent',4
+'SN76082                                           ','Structured Light','Model-155','2024-11-07','Poor',31
+'SN59942                                           ','LiDAR','Model-428','2024-09-18','Good',2
+'SN54866                                           ','LiDAR','Model-212','2024-09-20','Good',6
+'SN96784                                           ','Laser','Model-702','2024-10-02','Poor',33
+'SN18248                                           ','Structured Light','Model-106','2024-10-22','Excellent',97
+'SN49275                                           ','Laser','Model-190','2025-01-25','Excellent',30
+'SN76503                                           ','Photogrammetry','Model-432','2024-08-29','Excellent',80
+'SN65597                                           ','Structured Light','Model-471','2024-10-17','Excellent',8
+'SN69657                                           ','Laser','Model-126','2024-10-12','Good',86
+'SN29689                                           ','LiDAR','Model-371','2024-08-30','Good',43
+'SN15733                                           ','Laser','Model-611','2024-10-26','Poor',52
+'SN88377                                           ','Laser','Model-614','2024-09-17','Good',97
+'SN26351                                           ','Photogrammetry','Model-544','2024-09-05','Poor',41
+'SN65822                                           ','Photogrammetry','Model-783','2024-10-27','Poor',76
+'SN62527                                           ','LiDAR','Model-714','2024-12-13','Excellent',54
+'SN26790                                           ','Structured Light','Model-235','2025-01-27','Poor',62
+'SN54415                                           ','Structured Light','Model-261','2024-12-30','Excellent',84
+'SN57408                                           ','Laser','Model-567','2024-11-08','Excellent',12
+'SN79576                                           ','LiDAR','Model-814','2024-08-24','Excellent',78
+'SN86263                                           ','LiDAR','Model-743','2024-12-18','Excellent',94
+'SN11260                                           ','Laser','Model-109','2025-01-06','Fair',98
+'SN21676                                           ','Structured Light','Model-566','2024-11-30','Poor',60
+'SN88244                                           ','Laser','Model-334','2024-09-04','Fair',67
+'SN50130                                           ','Photogrammetry','Model-137','2024-09-07','Excellent',64
+'SN60502                                           ','LiDAR','Model-661','2025-01-20','Poor',96
+'SN56743                                           ','Photogrammetry','Model-575','2024-11-15','Excellent',45
+'SN60983                                           ','LiDAR','Model-538','2024-09-18','Fair',88
+'SN61504                                           ','LiDAR','Model-421','2024-11-30','Excellent',17
+'SN36995                                           ','Structured Light','Model-322','2025-01-10','Poor',53
+'SN92940                                           ','Structured Light','Model-304','2024-09-07','Poor',16
+'SN23221                                           ','LiDAR','Model-254','2024-09-07','Good',33
+'SN58792                                           ','LiDAR','Model-149','2025-01-10','Good',73
+'SN82243                                           ','Structured Light','Model-753','2024-10-30','Excellent',95
+'SN44293                                           ','Laser','Model-885','2024-09-26','Excellent',65
+'SN23890                                           ','Structured Light','Model-349','2024-11-30','Fair',13
+'SN15169                                           ','Laser','Model-746','2024-12-22','Poor',65
+'SN30260                                           ','LiDAR','Model-187','2024-12-24','Poor',49
+'SN78685                                           ','Structured Light','Model-899','2025-01-12','Poor',1
+'SN30623                                           ','Structured Light','Model-315','2024-11-09','Fair',41
+'SN24149                                           ','Photogrammetry','Model-985','2024-10-26','Good',46
+'SN25877                                           ','Structured Light','Model-199','2024-12-14','Fair',55
+'SN58213                                           ','Laser','Model-462','2024-10-02','Good',58
+'SN95032                                           ','Structured Light','Model-690','2024-11-08','Poor',91
+'SN75919                                           ','Photogrammetry','Model-764','2025-02-06','Good',77
+'SN54112                                           ','LiDAR','Model-905','2025-02-14','Fair',42
+'SN77408                                           ','Photogrammetry','Model-550','2024-12-02','Poor',80
+'SN89479                                           ','Photogrammetry','Model-631','2025-01-27','Poor',16
+'SN15939                                           ','Structured Light','Model-891','2025-01-16','Good',28
+'SN61901                                           ','Laser','Model-499','2025-02-04','Poor',62
+'SN60147                                           ','Photogrammetry','Model-349','2024-09-14','Excellent',45
+'SN20322                                           ','Structured Light','Model-126','2025-01-16','Excellent',94
+'SN79374                                           ','Laser','Model-140','2024-10-20','Poor',70
+'SN98315                                           ','Laser','Model-252','2024-12-24','Good',39
+'SN68191                                           ','Photogrammetry','Model-353','2024-12-30','Excellent',62
+'SN80354                                           ','Laser','Model-229','2024-12-06','Fair',87
+'SN71983                                           ','Laser','Model-914','2024-11-01','Poor',7
+'SN80192                                           ','LiDAR','Model-583','2024-10-13','Fair',33
+'SN19294                                           ','Laser','Model-108','2024-11-19','Good',63
+'SN53853                                           ','Structured Light','Model-906','2025-01-04','Excellent',8
+'SN61714                                           ','LiDAR','Model-938','2025-01-06','Good',73
+'SN56330                                           ','Laser','Model-889','2024-08-28','Fair',89
+'SN74746                                           ','Structured Light','Model-423','2024-11-08','Fair',8
+'SN25272                                           ','Photogrammetry','Model-209','2025-02-18','Fair',68
+'SN55179                                           ','Laser','Model-650','2024-11-09','Excellent',45
+'SN92964                                           ','Photogrammetry','Model-572','2025-02-05','Poor',37
+'SN51603                                           ','Structured Light','Model-169','2025-02-05','Poor',55
+'SN38560                                           ','Structured Light','Model-384','2024-08-27','Good',67
+'SN29344                                           ','LiDAR','Model-613','2024-09-22','Poor',54
+'SN35988                                           ','Structured Light','Model-748','2024-11-01','Poor',27
+'SN24960                                           ','Structured Light','Model-709','2024-09-05','Excellent',55
+'SN78894                                           ','Laser','Model-176','2024-10-21','Poor',88
+'SN88998                                           ','Photogrammetry','Model-692','2025-02-09','Good',38
+'SN87631                                           ','LiDAR','Model-106','2024-09-15','Fair',55
+'SN49116                                           ','LiDAR','Model-532','2024-09-29','Fair',12
+'SN88108                                           ','Photogrammetry','Model-790','2024-12-16','Poor',16
+'SN61918                                           ','Structured Light','Model-925','2024-11-28','Good',32
+'SN34539                                           ','Photogrammetry','Model-748','2024-10-05','Fair',51
+'SN38274                                           ','LiDAR','Model-618','2024-12-25','Poor',12
+'SN39102                                           ','LiDAR','Model-247','2025-02-18','Good',37
+'SN47967                                           ','LiDAR','Model-734','2024-10-21','Poor',48
+'SN22938                                           ','Structured Light','Model-363','2024-09-06','Fair',74
+'SN37670                                           ','Structured Light','Model-796','2024-11-24','Good',66
+'SN84797                                           ','Structured Light','Model-480','2024-11-07','Excellent',66
+'SN44868                                           ','LiDAR','Model-654','2024-12-16','Good',95
+'SN40054                                           ','Photogrammetry','Model-158','2024-11-22','Excellent',4
+'SN72155                                           ','Photogrammetry','Model-134','2024-12-09','Good',3
+'SN93237                                           ','Photogrammetry','Model-810','2024-09-10','Fair',23
+'SN77909                                           ','LiDAR','Model-890','2024-08-28','Fair',78
+'SN82668                                           ','Laser','Model-577','2024-11-04','Good',6
+'SN13700                                           ','Structured Light','Model-533','2025-02-04','Poor',17
+'SN65873                                           ','Structured Light','Model-996','2025-01-21','Fair',55
+'SN22139                                           ','Photogrammetry','Model-285','2025-02-08','Good',61
+'SN71998                                           ','Photogrammetry','Model-791','2024-09-24','Good',33
+'SN54763                                           ','LiDAR','Model-286','2024-10-28','Excellent',37
+'SN68866                                           ','Structured Light','Model-967','2024-12-01','Fair',10
+'SN99202                                           ','Laser','Model-742','2025-02-07','Good',62
+'SN67150                                           ','LiDAR','Model-837','2024-09-11','Good',30
+'SN14699                                           ','Laser','Model-446','2024-12-31','Good',90
+'SN57002                                           ','Structured Light','Model-449','2024-11-04','Fair',45
+'SN46672                                           ','Structured Light','Model-417','2024-12-30','Excellent',47
+'SN10636                                           ','LiDAR','Model-308','2024-11-05','Excellent',46
+'SN45000                                           ','Structured Light','Model-323','2024-12-15','Good',4
+'SN72090                                           ','LiDAR','Model-145','2025-01-21','Good',39
+'SN61990                                           ','Laser','Model-929','2024-12-11','Fair',45
+'SN52843                                           ','Laser','Model-135','2024-12-18','Fair',92
+'SN57116                                           ','Laser','Model-442','2025-02-13','Fair',6
+'SN70541                                           ','Photogrammetry','Model-851','2025-02-08','Fair',58
+'SN33200                                           ','Laser','Model-855','2025-01-04','Excellent',21
+'SN86253                                           ','LiDAR','Model-844','2024-12-14','Poor',46
+'SN66420                                           ','LiDAR','Model-675','2024-09-14','Poor',22
+'SN10282                                           ','Photogrammetry','Model-541','2024-12-22','Good',19
+'SN18139                                           ','Laser','Model-313','2024-09-20','Excellent',97
+'SN11300                                           ','LiDAR','Model-626','2024-11-15','Good',46
+'SN44582                                           ','Photogrammetry','Model-148','2024-09-21','Fair',25
+'SN98291                                           ','Photogrammetry','Model-540','2025-02-12','Excellent',85
+'SN76443                                           ','Laser','Model-415','2024-10-13','Fair',22
+'SN35208                                           ','Structured Light','Model-730','2024-09-18','Poor',89
+'SN32520                                           ','Photogrammetry','Model-284','2024-12-11','Excellent',95
+'SN18042                                           ','Laser','Model-311','2025-01-05','Excellent',99
+'SN99718                                           ','LiDAR','Model-687','2024-09-23','Good',36
+'SN71157                                           ','LiDAR','Model-803','2024-09-05','Poor',91
+'SN76303                                           ','Laser','Model-418','2024-12-14','Poor',13
+'SN90172                                           ','Structured Light','Model-102','2025-01-11','Excellent',60
+'SN12624                                           ','LiDAR','Model-706','2024-09-21','Excellent',53
+'SN80438                                           ','LiDAR','Model-550','2024-11-02','Excellent',31
+'SN86240                                           ','Laser','Model-500','2025-02-17','Poor',80
+'SN48665                                           ','LiDAR','Model-169','2025-02-11','Excellent',66
+'SN29304                                           ','Photogrammetry','Model-857','2024-08-25','Good',35
+'SN39615                                           ','Laser','Model-924','2025-01-20','Excellent',23
+'SN70203                                           ','Photogrammetry','Model-526','2024-08-31','Poor',72
+'SN21627                                           ','Photogrammetry','Model-814','2024-11-15','Poor',58
+'SN11556                                           ','Laser','Model-574','2024-09-22','Good',71
+'SN20508                                           ','LiDAR','Model-150','2024-08-24','Good',40
+'SN72494                                           ','Photogrammetry','Model-510','2024-09-02','Excellent',58
+'SN84094                                           ','LiDAR','Model-489','2024-11-19','Poor',49
+'SN27393                                           ','Photogrammetry','Model-639','2024-12-28','Excellent',10
+'SN39150                                           ','Photogrammetry','Model-373','2025-01-05','Excellent',47
+'SN28531                                           ','Structured Light','Model-918','2024-10-09','Excellent',75
+'SN81186                                           ','Laser','Model-784','2024-10-12','Excellent',14
+'SN48591                                           ','Structured Light','Model-593','2024-10-15','Poor',41
+'SN51342                                           ','Photogrammetry','Model-320','2024-12-29','Fair',21
+'SN67954                                           ','Structured Light','Model-417','2024-12-19','Poor',3
+'SN23496                                           ','Laser','Model-291','2024-11-22','Fair',81
+'SN57305                                           ','Structured Light','Model-273','2025-01-29','Fair',76
+'SN78765                                           ','LiDAR','Model-289','2024-12-15','Excellent',37
+'SN68352                                           ','Structured Light','Model-718','2025-01-13','Good',32
+'SN21601                                           ','Photogrammetry','Model-889','2024-08-27','Fair',36
+'SN96064                                           ','Structured Light','Model-956','2024-11-17','Poor',92
+'SN21216                                           ','Structured Light','Model-474','2024-09-08','Good',16
+'SN59607                                           ','LiDAR','Model-855','2025-02-01','Good',25
+'SN49127                                           ','Laser','Model-310','2024-11-05','Good',79
+'SN91605                                           ','LiDAR','Model-845','2024-09-10','Excellent',57
+'SN48928                                           ','Laser','Model-695','2024-10-20','Excellent',47
+'SN87964                                           ','Structured Light','Model-808','2024-12-04','Excellent',79
+'SN30026                                           ','LiDAR','Model-675','2025-02-02','Excellent',49
+'SN72440                                           ','Photogrammetry','Model-713','2024-12-21','Excellent',52
+'SN63513                                           ','LiDAR','Model-594','2024-12-11','Good',13
+'SN42944                                           ','Photogrammetry','Model-780','2024-10-06','Excellent',54
+'SN79438                                           ','Laser','Model-836','2025-01-09','Excellent',17
+'SN25175                                           ','Laser','Model-949','2024-12-04','Poor',10
+'SN21919                                           ','Structured Light','Model-325','2025-02-17','Good',64
+'SN54940                                           ','LiDAR','Model-979','2024-11-01','Excellent',73
+'SN90290                                           ','Laser','Model-666','2024-12-02','Good',51
+'SN88857                                           ','Laser','Model-730','2024-11-03','Good',33
+'SN46339                                           ','Laser','Model-436','2025-01-16','Fair',45
+'SN39947                                           ','Laser','Model-503','2024-09-26','Excellent',36
+'SN98186                                           ','LiDAR','Model-707','2024-09-27','Fair',63
+'SN99414                                           ','Photogrammetry','Model-439','2024-10-22','Good',98
+'SN10024                                           ','Laser','Model-579','2025-02-06','Good',27
+'SN69909                                           ','Structured Light','Model-410','2024-09-13','Fair',10
+'SN39156                                           ','Structured Light','Model-427','2024-09-11','Fair',49
+'SN47029                                           ','Structured Light','Model-247','2024-09-25','Poor',9
+'SN13690                                           ','Structured Light','Model-950','2024-09-29','Good',45
+'SN35672                                           ','LiDAR','Model-850','2024-11-09','Fair',54
+'SN24100                                           ','Structured Light','Model-492','2024-10-09','Poor',58
+'SN64555                                           ','Photogrammetry','Model-402','2024-12-30','Fair',34
+'SN88064                                           ','Photogrammetry','Model-432','2024-09-09','Good',81
+'SN88180                                           ','Structured Light','Model-142','2024-09-25','Fair',25
+'SN74400                                           ','Structured Light','Model-593','2024-11-22','Poor',100
+'SN85391                                           ','Structured Light','Model-688','2024-12-21','Poor',5
+'SN17761                                           ','Photogrammetry','Model-140','2024-09-28','Poor',42
+'SN64295                                           ','LiDAR','Model-186','2024-11-09','Fair',32
+'SN75671                                           ','Structured Light','Model-491','2024-11-11','Fair',63
+'SN18593                                           ','Laser','Model-726','2024-08-23','Poor',54
+'SN76606                                           ','Structured Light','Model-510','2025-01-31','Excellent',97
+'SN25016                                           ','Laser','Model-503','2024-11-27','Good',7
+'SN71589                                           ','Photogrammetry','Model-484','2024-08-28','Fair',15
+'SN90368                                           ','Photogrammetry','Model-364','2025-01-12','Fair',7
+'SN27825                                           ','Structured Light','Model-895','2025-02-13','Fair',8
+'SN63742                                           ','Laser','Model-766','2024-11-30','Fair',27
+'SN57180                                           ','Laser','Model-148','2024-12-11','Fair',69
+'SN80643                                           ','LiDAR','Model-964','2024-10-25','Good',85
+'SN31311                                           ','LiDAR','Model-416','2024-11-17','Poor',26
+'SN93444                                           ','Photogrammetry','Model-386','2024-10-19','Excellent',70
+'SN21292                                           ','Laser','Model-243','2024-09-08','Good',18
+'SN64067                                           ','Structured Light','Model-689','2024-10-21','Poor',68
+'SN49065                                           ','Photogrammetry','Model-956','2025-02-18','Fair',0
+'SN39775                                           ','Structured Light','Model-805','2024-12-07','Fair',49
+'SN18216                                           ','Laser','Model-340','2024-10-22','Excellent',61
+'SN33808                                           ','Structured Light','Model-761','2024-09-07','Excellent',92
+'SN58168                                           ','LiDAR','Model-454','2024-10-10','Poor',77
+'SN64708                                           ','LiDAR','Model-721','2024-11-03','Good',43
+'SN97254                                           ','Photogrammetry','Model-689','2024-12-18','Fair',7
+'SN17678                                           ','LiDAR','Model-262','2024-10-01','Poor',49
+'SN17052                                           ','Laser','Model-952','2024-10-05','Good',39
+'SN48026                                           ','LiDAR','Model-244','2025-02-02','Good',32
+'SN44331                                           ','Photogrammetry','Model-475','2024-12-08','Good',23
+'SN38791                                           ','Laser','Model-522','2024-11-09','Poor',24
+'SN25680                                           ','Laser','Model-830','2024-10-13','Excellent',39
+'SN40790                                           ','Laser','Model-218','2024-11-22','Poor',64
+'SN35562                                           ','LiDAR','Model-150','2024-12-03','Poor',92
+'SN87599                                           ','Laser','Model-142','2024-09-18','Good',94
+'SN86001                                           ','Laser','Model-418','2025-02-01','Fair',65
+'SN48358                                           ','Laser','Model-141','2024-09-19','Poor',80
+'SN50747                                           ','Photogrammetry','Model-892','2025-02-05','Poor',58
+'SN12502                                           ','Photogrammetry','Model-659','2024-11-03','Excellent',89
+'SN74527                                           ','Laser','Model-467','2024-11-04','Fair',65
+'SN70902                                           ','LiDAR','Model-165','2024-12-23','Poor',7
+'SN20790                                           ','Laser','Model-579','2025-02-07','Good',88
+'SN73315                                           ','Structured Light','Model-187','2024-11-14','Excellent',3
+'SN25656                                           ','LiDAR','Model-645','2025-01-10','Fair',32
+'SN62417                                           ','Photogrammetry','Model-698','2025-02-13','Poor',36
+'SN52655                                           ','Photogrammetry','Model-766','2025-01-13','Excellent',8
+'SN93571                                           ','Laser','Model-140','2024-12-13','Poor',51
+'SN29146                                           ','Laser','Model-951','2024-11-17','Good',46
+'SN81618                                           ','Structured Light','Model-451','2024-11-08','Poor',55
+'SN59495                                           ','Structured Light','Model-316','2025-02-18','Good',24
+'SN47865                                           ','LiDAR','Model-818','2024-11-10','Fair',40
+'SN73794                                           ','Laser','Model-127','2024-11-26','Poor',57
+'SN75443                                           ','Structured Light','Model-383','2024-11-29','Excellent',88
+'SN19570                                           ','Photogrammetry','Model-843','2024-10-01','Excellent',99
+'SN42912                                           ','Laser','Model-434','2024-09-10','Poor',79
+'SN51780                                           ','Structured Light','Model-654','2024-09-03','Fair',37
+'SN51474                                           ','Laser','Model-317','2024-12-01','Excellent',27
+'SN25031                                           ','Laser','Model-749','2025-02-08','Fair',62
+'SN49181                                           ','Structured Light','Model-671','2024-08-24','Good',83
+'SN85753                                           ','LiDAR','Model-792','2024-11-08','Fair',28
+'SN68932                                           ','Laser','Model-499','2024-11-11','Excellent',89
+'SN13399                                           ','Structured Light','Model-684','2025-01-18','Good',25
+'SN11344                                           ','Photogrammetry','Model-149','2024-11-25','Fair',47
+'SN56199                                           ','Photogrammetry','Model-188','2024-12-03','Excellent',67
+'SN94751                                           ','Photogrammetry','Model-217','2024-12-11','Excellent',87
+'SN53006                                           ','Photogrammetry','Model-580','2024-12-06','Good',84
+'SN47173                                           ','Photogrammetry','Model-814','2024-09-04','Poor',20
+'SN36823                                           ','Structured Light','Model-557','2024-11-04','Excellent',73
+'SN94466                                           ','LiDAR','Model-841','2024-11-04','Fair',32
+'SN27524                                           ','Photogrammetry','Model-452','2025-02-02','Poor',1
+'SN54141                                           ','Structured Light','Model-428','2024-09-13','Excellent',59
+'SN22369                                           ','Photogrammetry','Model-898','2024-10-11','Good',35
+'SN35566                                           ','LiDAR','Model-865','2024-09-25','Fair',10
+'SN98673                                           ','Structured Light','Model-745','2024-12-16','Good',38
+'SN77370                                           ','LiDAR','Model-520','2024-12-14','Poor',13
+'SN94855                                           ','LiDAR','Model-953','2025-02-05','Excellent',57
+'SN41168                                           ','Laser','Model-895','2024-11-17','Fair',46
+'SN36122                                           ','Structured Light','Model-238','2024-11-05','Poor',7
+'SN48650                                           ','Structured Light','Model-119','2024-12-15','Excellent',12
+'SN95357                                           ','Structured Light','Model-977','2024-10-28','Excellent',38
+'SN29560                                           ','Photogrammetry','Model-826','2024-09-26','Fair',79
+'SN47370                                           ','Photogrammetry','Model-533','2024-09-20','Poor',27
+'SN95091                                           ','Photogrammetry','Model-181','2024-08-27','Poor',5
+'SN90270                                           ','LiDAR','Model-564','2024-11-12','Good',75
+'SN20093                                           ','Photogrammetry','Model-615','2024-11-08','Fair',20
+'SN71652                                           ','LiDAR','Model-587','2025-01-07','Poor',5
+'SN98420                                           ','LiDAR','Model-346','2024-11-07','Excellent',98
+'SN14797                                           ','LiDAR','Model-791','2024-11-21','Poor',59
+'SN97430                                           ','LiDAR','Model-827','2024-11-23','Excellent',92
+'SN11985                                           ','Laser','Model-729','2025-01-27','Excellent',52
+'SN99674                                           ','Photogrammetry','Model-782','2025-02-09','Fair',83
+'SN66318                                           ','Laser','Model-142','2025-01-12','Excellent',83
+'SN19770                                           ','Photogrammetry','Model-672','2024-09-03','Fair',88
+'SN24690                                           ','Laser','Model-268','2024-11-12','Excellent',62
+'SN44802                                           ','Laser','Model-650','2024-12-01','Good',26
+'SN46277                                           ','Photogrammetry','Model-805','2025-01-17','Excellent',59
+'SN64846                                           ','Structured Light','Model-867','2024-11-06','Poor',99
+'SN41817                                           ','Laser','Model-647','2024-12-18','Good',9
+'SN95881                                           ','Laser','Model-324','2024-11-04','Good',11
+'SN34388                                           ','Structured Light','Model-745','2025-01-19','Fair',61
+'SN24211                                           ','Structured Light','Model-561','2024-12-16','Poor',75
+'SN65412                                           ','Photogrammetry','Model-107','2024-09-18','Fair',2
+'SN10779                                           ','Structured Light','Model-205','2024-12-12','Poor',53
+'SN50994                                           ','Structured Light','Model-469','2024-12-26','Poor',80
+'SN78527                                           ','Laser','Model-833','2025-01-03','Poor',10
+'SN99660                                           ','Laser','Model-206','2024-12-03','Poor',94
+'SN38387                                           ','Photogrammetry','Model-942','2025-01-05','Good',22
+'SN90851                                           ','Photogrammetry','Model-774','2024-11-15','Excellent',64
+'SN49644                                           ','Structured Light','Model-336','2024-09-18','Poor',94
+'SN49722                                           ','Photogrammetry','Model-716','2025-01-21','Fair',80
+'SN67427                                           ','Laser','Model-656','2025-01-29','Fair',23
+'SN83311                                           ','Photogrammetry','Model-394','2025-02-11','Fair',27
+'SN21320                                           ','Photogrammetry','Model-661','2024-09-08','Fair',91
+'SN69241                                           ','Photogrammetry','Model-562','2024-09-17','Good',3
+'SN74231                                           ','Laser','Model-239','2025-01-23','Excellent',93
+'SN60112                                           ','Laser','Model-479','2024-11-10','Excellent',72
+'SN67079                                           ','Structured Light','Model-864','2024-10-28','Fair',26
+'SN94376                                           ','LiDAR','Model-766','2024-09-09','Excellent',31
+'SN57467                                           ','LiDAR','Model-874','2025-02-08','Fair',76
+'SN98894                                           ','Laser','Model-238','2025-02-05','Good',39
+'SN32931                                           ','Laser','Model-234','2025-01-25','Poor',25
+'SN69434                                           ','LiDAR','Model-798','2024-08-26','Good',1
+'SN34660                                           ','Photogrammetry','Model-629','2024-12-29','Excellent',99
+'SN26223                                           ','Laser','Model-244','2024-10-02','Excellent',90
+'SN30360                                           ','Photogrammetry','Model-770','2025-02-02','Poor',8
+'SN70624                                           ','Structured Light','Model-282','2025-01-14','Fair',97
+'SN79414                                           ','Photogrammetry','Model-849','2024-12-06','Excellent',13
+'SN37611                                           ','Photogrammetry','Model-321','2025-01-06','Poor',62
+'SN38051                                           ','LiDAR','Model-489','2024-12-10','Excellent',90
+'SN45345                                           ','LiDAR','Model-693','2024-09-12','Poor',69
+'SN58582                                           ','Photogrammetry','Model-371','2024-10-29','Good',94
+'SN42502                                           ','Structured Light','Model-110','2024-10-19','Good',85
+'SN99629                                           ','Photogrammetry','Model-501','2024-09-14','Excellent',9
+'SN39252                                           ','Laser','Model-880','2024-09-12','Excellent',91
+'SN69627                                           ','Photogrammetry','Model-415','2025-02-14','Fair',92
+'SN67281                                           ','Structured Light','Model-325','2025-01-01','Good',29
+'SN95240                                           ','Photogrammetry','Model-233','2025-02-02','Fair',72
+'SN38725                                           ','Laser','Model-724','2024-11-24','Good',59
+'SN59284                                           ','Structured Light','Model-693','2024-10-13','Poor',90
+'SN74021                                           ','Photogrammetry','Model-229','2024-11-14','Excellent',22
+'SN18635                                           ','Laser','Model-479','2024-08-24','Fair',30
+'SN81980                                           ','Photogrammetry','Model-389','2025-02-09','Good',76
+'SN18286                                           ','Structured Light','Model-358','2024-10-20','Excellent',81
+'SN76664                                           ','LiDAR','Model-494','2025-02-18','Fair',56
+'SN14788                                           ','Photogrammetry','Model-975','2025-01-31','Poor',21
+'SN22713                                           ','LiDAR','Model-742','2025-02-07','Poor',21
+'SN29566                                           ','Laser','Model-311','2025-01-01','Poor',83
+'SN39979                                           ','LiDAR','Model-927','2024-12-30','Good',13
+'SN37192                                           ','Photogrammetry','Model-163','2024-09-06','Poor',38
+'SN87153                                           ','Structured Light','Model-976','2024-09-08','Good',25
+'SN77254                                           ','LiDAR','Model-753','2024-09-29','Excellent',10
+'SN86081                                           ','Laser','Model-980','2024-12-26','Excellent',41
+'SN45081                                           ','Laser','Model-452','2025-02-10','Fair',3
+'SN53745                                           ','Photogrammetry','Model-214','2024-09-27','Excellent',15
+'SN60436                                           ','Laser','Model-108','2024-10-13','Good',22
+'SN24965                                           ','Laser','Model-443','2025-02-18','Fair',5
+'SN39267                                           ','Structured Light','Model-160','2025-01-16','Fair',35
+'SN83801                                           ','LiDAR','Model-871','2025-01-24','Poor',10
+'SN84633                                           ','LiDAR','Model-333','2024-08-31','Good',47
+'SN88471                                           ','LiDAR','Model-114','2024-12-07','Excellent',0
+'SN54734                                           ','LiDAR','Model-995','2024-10-30','Fair',89
+'SN19470                                           ','Photogrammetry','Model-516','2024-10-14','Poor',17
+'SN71094                                           ','Photogrammetry','Model-114','2025-01-23','Poor',83
+'SN25674                                           ','Structured Light','Model-593','2025-01-21','Poor',80
+'SN94223                                           ','Photogrammetry','Model-184','2024-11-05','Excellent',39
+'SN44725                                           ','Laser','Model-710','2024-12-24','Excellent',92
+'SN35058                                           ','LiDAR','Model-632','2024-08-30','Fair',50
+'SN41414                                           ','Photogrammetry','Model-327','2025-02-08','Good',56
+'SN82702                                           ','Photogrammetry','Model-422','2024-11-05','Poor',22
+'SN22994                                           ','Photogrammetry','Model-612','2025-01-17','Good',68
+'SN98476                                           ','Photogrammetry','Model-299','2025-02-19','Excellent',59
+'SN24972                                           ','Structured Light','Model-477','2025-02-17','Excellent',1
+'SN20873                                           ','LiDAR','Model-266','2025-02-10','Good',44
+'SN61303                                           ','Structured Light','Model-131','2025-02-12','Poor',63
+'SN67313                                           ','Laser','Model-253','2024-10-04','Poor',74
+'SN70997                                           ','Structured Light','Model-775','2025-01-26','Excellent',31
+'SN64992                                           ','Photogrammetry','Model-151','2024-11-22','Fair',87
+'SN15760                                           ','Structured Light','Model-662','2024-11-29','Poor',89
+'SN11340                                           ','LiDAR','Model-236','2024-11-25','Good',22
+'SN21973                                           ','Laser','Model-230','2024-11-15','Fair',40
+'SN21406                                           ','Photogrammetry','Model-941','2024-09-14','Excellent',16
+'SN64147                                           ','Photogrammetry','Model-145','2024-12-17','Good',50
+'SN97411                                           ','Photogrammetry','Model-908','2024-10-28','Fair',24
+'SN82196                                           ','Laser','Model-273','2025-02-10','Poor',68
+'SN69221                                           ','Laser','Model-397','2024-09-17','Excellent',41
+'SN79707                                           ','Laser','Model-488','2024-11-24','Poor',38
+'SN35134                                           ','Laser','Model-183','2024-09-12','Excellent',16
+'SN59020                                           ','LiDAR','Model-883','2024-10-05','Poor',19
+'SN67799                                           ','Laser','Model-904','2024-09-19','Good',22
+'SN39974                                           ','Laser','Model-956','2024-12-11','Good',91
+'SN35149                                           ','Photogrammetry','Model-283','2024-09-22','Good',76
+'SN98821                                           ','Laser','Model-252','2024-10-24','Good',16
+'SN73745                                           ','Laser','Model-447','2024-11-30','Poor',90
+'SN93752                                           ','Laser','Model-954','2024-11-18','Poor',40
+'SN89001                                           ','LiDAR','Model-813','2025-02-01','Good',11
+'SN65317                                           ','Structured Light','Model-261','2025-01-19','Good',81
+'SN42858                                           ','Laser','Model-829','2025-01-25','Good',45
+'SN44306                                           ','LiDAR','Model-111','2025-01-01','Fair',34
+'SN89241                                           ','Structured Light','Model-490','2024-09-12','Good',76
+'SN84247                                           ','Photogrammetry','Model-438','2024-11-20','Fair',64
+'SN96153                                           ','Photogrammetry','Model-735','2024-11-30','Good',36
+'SN83040                                           ','Structured Light','Model-715','2024-11-12','Fair',98
+'SN54741                                           ','Laser','Model-389','2024-12-18','Good',49
+'SN64749                                           ','Photogrammetry','Model-560','2024-09-20','Fair',46
+'SN33152                                           ','Structured Light','Model-507','2024-10-30','Fair',8
+'SN32153                                           ','LiDAR','Model-513','2025-01-01','Fair',45
+'SN96741                                           ','Photogrammetry','Model-313','2024-09-19','Poor',12
+'SN46837                                           ','Photogrammetry','Model-473','2024-11-26','Excellent',81
+'SN53700                                           ','Laser','Model-639','2024-08-31','Poor',88
+'SN47275                                           ','Photogrammetry','Model-361','2024-12-24','Fair',97
+'SN27976                                           ','Laser','Model-769','2025-02-13','Poor',46
+'SN32865                                           ','Photogrammetry','Model-546','2024-09-21','Poor',58
+'SN75622                                           ','LiDAR','Model-164','2024-08-26','Poor',2
+'SN71879                                           ','Laser','Model-178','2025-01-21','Excellent',73
+'SN20997                                           ','LiDAR','Model-394','2024-12-28','Good',40
+'SN61328                                           ','LiDAR','Model-709','2024-10-24','Excellent',35
+'SN76628                                           ','Structured Light','Model-512','2024-10-23','Excellent',78
+'SN38771                                           ','Laser','Model-103','2025-01-16','Fair',63
+'SN25130                                           ','Photogrammetry','Model-228','2024-09-22','Poor',8
+'SN69396                                           ','LiDAR','Model-189','2024-11-06','Fair',12
+'SN55993                                           ','Photogrammetry','Model-989','2024-10-27','Poor',39
+'SN95950                                           ','Photogrammetry','Model-811','2024-10-27','Excellent',69
+'SN45633                                           ','LiDAR','Model-854','2024-12-05','Poor',55
+'SN17049                                           ','Photogrammetry','Model-566','2024-09-03','Good',18
+'SN33751                                           ','Structured Light','Model-991','2025-02-10','Fair',23
+'SN26429                                           ','Laser','Model-686','2025-01-05','Good',81
+'SN26754                                           ','Structured Light','Model-752','2024-11-29','Excellent',65
+'SN59193                                           ','Laser','Model-526','2025-02-13','Good',18
+'SN15393                                           ','Photogrammetry','Model-758','2024-12-25','Good',83
+'SN51885                                           ','Structured Light','Model-769','2025-02-17','Good',93
+'SN19279                                           ','Laser','Model-566','2024-09-12','Poor',5
+'SN61336                                           ','LiDAR','Model-145','2024-09-22','Poor',91
+'SN18615                                           ','LiDAR','Model-988','2024-12-16','Poor',56
+'SN37547                                           ','LiDAR','Model-748','2024-12-22','Good',91
+'SN24924                                           ','Photogrammetry','Model-932','2025-02-03','Poor',62
+'SN36313                                           ','Photogrammetry','Model-731','2024-09-23','Fair',42
+'SN24855                                           ','LiDAR','Model-820','2024-10-26','Fair',30
+'SN48656                                           ','Laser','Model-663','2024-10-10','Good',71
+'SN70254                                           ','Structured Light','Model-418','2024-08-24','Poor',25
+'SN30328                                           ','Laser','Model-138','2024-12-28','Excellent',55
+'SN15837                                           ','Photogrammetry','Model-486','2024-09-04','Fair',30
+'SN27802                                           ','Structured Light','Model-343','2024-10-06','Fair',71
+'SN67800                                           ','LiDAR','Model-876','2024-12-07','Fair',92
+'SN27446                                           ','LiDAR','Model-679','2025-01-05','Fair',48
+'SN31128                                           ','Structured Light','Model-594','2024-12-11','Excellent',22
+'SN90302                                           ','Photogrammetry','Model-260','2025-01-26','Good',51
+'SN35001                                           ','Laser','Model-977','2024-12-31','Poor',15
+'SN88605                                           ','Structured Light','Model-537','2024-10-20','Fair',83
+'SN51530                                           ','Photogrammetry','Model-328','2024-12-29','Poor',10
+'SN33797                                           ','Photogrammetry','Model-114','2024-09-16','Fair',84
+'SN52006                                           ','Laser','Model-380','2025-01-09','Poor',88
+'SN41485                                           ','Photogrammetry','Model-155','2024-10-11','Good',96
+'SN87055                                           ','Structured Light','Model-294','2024-08-25','Excellent',67
+'SN96735                                           ','Photogrammetry','Model-220','2024-11-20','Fair',40
+'SN73712                                           ','Laser','Model-360','2024-11-23','Good',81
+'SN42347                                           ','Structured Light','Model-253','2024-12-13','Fair',32
+'SN29578                                           ','LiDAR','Model-949','2024-11-14','Excellent',33
+'SN57608                                           ','Photogrammetry','Model-170','2024-12-20','Excellent',47
+'SN29236                                           ','Photogrammetry','Model-898','2025-01-16','Excellent',34
+'SN76284                                           ','Structured Light','Model-700','2024-11-22','Fair',38
+'SN49528                                           ','Laser','Model-863','2024-09-24','Poor',40
+'SN76100                                           ','LiDAR','Model-373','2024-09-10','Excellent',16
+'SN69429                                           ','LiDAR','Model-465','2024-11-13','Fair',88
+'SN40339                                           ','Laser','Model-554','2025-02-06','Poor',11
+'SN47168                                           ','Laser','Model-789','2024-11-20','Poor',8
+'SN55298                                           ','Photogrammetry','Model-159','2024-09-29','Good',36
+'SN15196                                           ','LiDAR','Model-829','2024-11-23','Excellent',2
+'SN42769                                           ','Structured Light','Model-579','2025-02-05','Good',71
+'SN83419                                           ','Photogrammetry','Model-658','2025-01-27','Fair',68
+'SN12670                                           ','LiDAR','Model-150','2025-02-03','Good',95
+'SN24155                                           ','Photogrammetry','Model-878','2025-02-01','Excellent',63
+'SN69797                                           ','Photogrammetry','Model-619','2024-09-21','Poor',50
+'SN40015                                           ','Structured Light','Model-432','2025-02-12','Poor',11
+'SN60328                                           ','LiDAR','Model-989','2025-02-07','Poor',78
+'SN41279                                           ','Structured Light','Model-449','2025-02-16','Good',0
+'SN90381                                           ','LiDAR','Model-635','2024-11-30','Poor',67
+'SN82265                                           ','LiDAR','Model-358','2025-01-13','Poor',38
+'SN20211                                           ','Photogrammetry','Model-222','2024-12-25','Good',55
+'SN49541                                           ','Photogrammetry','Model-119','2024-10-03','Good',24
+'SN89684                                           ','Laser','Model-958','2024-12-21','Excellent',29
+'SN56377                                           ','Photogrammetry','Model-774','2024-12-28','Fair',35
+'SN24856                                           ','LiDAR','Model-393','2025-01-10','Poor',22
+'SN14073                                           ','Photogrammetry','Model-366','2025-01-21','Good',15
+'SN61020                                           ','Structured Light','Model-537','2024-08-25','Good',13
+'SN15242                                           ','LiDAR','Model-997','2024-11-16','Excellent',42
+'SN82970                                           ','Photogrammetry','Model-277','2024-09-25','Good',88
+'SN46478                                           ','Structured Light','Model-514','2024-09-27','Poor',23
+'SN93781                                           ','LiDAR','Model-806','2024-11-28','Excellent',91
+'SN52737                                           ','Photogrammetry','Model-402','2024-12-20','Excellent',58
+'SN33635                                           ','LiDAR','Model-269','2024-09-20','Excellent',19
+'SN93172                                           ','LiDAR','Model-150','2024-10-07','Excellent',21
+'SN23045                                           ','Structured Light','Model-725','2024-10-28','Fair',73
+'SN53648                                           ','Structured Light','Model-272','2024-12-11','Excellent',27
+'SN72888                                           ','Photogrammetry','Model-178','2024-11-26','Good',39
+'SN17642                                           ','Laser','Model-191','2025-01-04','Good',39
+'SN88265                                           ','Laser','Model-357','2024-11-16','Good',20
+'SN25688                                           ','LiDAR','Model-363','2024-10-11','Excellent',49
+'SN82884                                           ','Photogrammetry','Model-657','2024-11-23','Excellent',42
+'SN54416                                           ','Structured Light','Model-259','2024-11-08','Poor',32
+'SN13517                                           ','Laser','Model-800','2024-11-27','Fair',92
+'SN44320                                           ','Structured Light','Model-810','2024-11-18','Fair',40
+'SN56554                                           ','LiDAR','Model-175','2025-01-31','Excellent',79
+'SN15541                                           ','Laser','Model-700','2024-12-24','Excellent',43
+'SN82644                                           ','Photogrammetry','Model-350','2025-01-25','Fair',99
+'SN20832                                           ','Structured Light','Model-253','2024-09-27','Poor',87
+'SN78824                                           ','LiDAR','Model-336','2024-11-20','Excellent',63
+'SN58445                                           ','Photogrammetry','Model-776','2024-10-21','Excellent',0
+'SN25976                                           ','LiDAR','Model-175','2024-09-24','Fair',20
+'SN64594                                           ','Structured Light','Model-164','2025-02-06','Excellent',16
+'SN27669                                           ','LiDAR','Model-200','2025-01-31','Fair',18
+'SN17152                                           ','Structured Light','Model-220','2024-10-20','Fair',49
+'SN36099                                           ','Photogrammetry','Model-237','2024-08-24','Fair',65
+'SN50997                                           ','Laser','Model-504','2024-10-08','Good',75
+'SN32116                                           ','Structured Light','Model-689','2024-10-25','Fair',100
+'SN51097                                           ','Structured Light','Model-540','2025-01-13','Poor',74
+'SN89836                                           ','Structured Light','Model-963','2024-12-11','Good',80
+'SN24558                                           ','Laser','Model-208','2024-09-18','Fair',26
+'SN40453                                           ','Photogrammetry','Model-386','2024-11-29','Good',86
+'SN77213                                           ','Laser','Model-799','2025-01-13','Fair',96
+'SN11123                                           ','Photogrammetry','Model-727','2025-01-24','Excellent',55
+'SN64180                                           ','Structured Light','Model-610','2024-08-29','Fair',10
+'SN58421                                           ','Photogrammetry','Model-725','2024-12-10','Excellent',1
+'SN57334                                           ','Laser','Model-605','2025-01-10','Fair',48
+'SN71674                                           ','Laser','Model-911','2025-01-11','Fair',42
+'SN47380                                           ','Laser','Model-730','2024-11-21','Poor',26
+'SN37638                                           ','Structured Light','Model-634','2024-09-08','Poor',69
+'SN66827                                           ','LiDAR','Model-869','2024-11-03','Excellent',68
+'SN77837                                           ','Structured Light','Model-298','2024-11-02','Good',4
+'SN68636                                           ','Laser','Model-138','2024-11-02','Poor',9
+'SN11150                                           ','Structured Light','Model-241','2025-01-09','Poor',18
+'SN19866                                           ','Photogrammetry','Model-145','2024-09-15','Good',57
+'SN61311                                           ','Photogrammetry','Model-478','2025-02-18','Fair',34
+'SN34662                                           ','LiDAR','Model-608','2024-11-08','Fair',100
+'SN21587                                           ','Photogrammetry','Model-850','2024-09-06','Good',63
+'SN97995                                           ','LiDAR','Model-808','2024-12-14','Excellent',17
+'SN23570                                           ','LiDAR','Model-120','2024-12-10','Poor',47
+'SN53934                                           ','Laser','Model-810','2024-10-21','Excellent',98
+'SN28993                                           ','Photogrammetry','Model-543','2024-09-14','Excellent',43
+'SN51457                                           ','Laser','Model-510','2024-09-18','Good',5
+'SN20973                                           ','Laser','Model-842','2024-12-21','Poor',28
+'SN99896                                           ','Laser','Model-260','2025-02-09','Excellent',68
+'SN56771                                           ','Structured Light','Model-476','2024-08-26','Good',15
+'SN92050                                           ','Structured Light','Model-874','2025-02-18','Poor',79
+'SN11822                                           ','Structured Light','Model-374','2024-09-27','Fair',94
+'SN21949                                           ','Structured Light','Model-389','2024-09-06','Good',97
+'SN89640                                           ','Photogrammetry','Model-984','2024-10-02','Good',47
+'SN62077                                           ','LiDAR','Model-316','2024-10-07','Excellent',11
+'SN74209                                           ','Photogrammetry','Model-204','2024-10-10','Poor',45
+'SN43825                                           ','LiDAR','Model-192','2024-11-11','Poor',67
+'SN23664                                           ','LiDAR','Model-490','2024-10-24','Good',27
+'SN93156                                           ','LiDAR','Model-878','2025-02-10','Good',39
+'SN13262                                           ','Laser','Model-563','2024-11-03','Excellent',76
+'SN33050                                           ','Laser','Model-333','2024-12-21','Fair',38
+'SN18898                                           ','Structured Light','Model-179','2024-12-04','Excellent',66
+'SN93068                                           ','Photogrammetry','Model-875','2024-10-29','Fair',48
+'SN32167                                           ','LiDAR','Model-911','2024-11-14','Excellent',29
+'SN30888                                           ','Laser','Model-129','2024-11-24','Fair',30
+'SN23438                                           ','Laser','Model-602','2024-09-09','Fair',50
+'SN76636                                           ','Laser','Model-625','2024-11-04','Good',77
+'SN72131                                           ','Structured Light','Model-849','2024-10-29','Excellent',55
+'SN42125                                           ','Photogrammetry','Model-209','2024-09-07','Fair',32
+'SN83704                                           ','Laser','Model-529','2024-10-17','Excellent',89
+'SN54881                                           ','Photogrammetry','Model-592','2024-12-06','Poor',87
+'SN38994                                           ','Structured Light','Model-177','2024-09-28','Excellent',7
+'SN25786                                           ','Structured Light','Model-108','2024-11-27','Fair',65
+'SN28184                                           ','Laser','Model-746','2024-09-06','Good',19
+'SN35542                                           ','LiDAR','Model-499','2024-10-17','Excellent',5
+'SN66712                                           ','Laser','Model-997','2024-11-03','Good',94
+'SN25425                                           ','Structured Light','Model-695','2024-12-09','Fair',91
+'SN14573                                           ','LiDAR','Model-549','2025-01-14','Excellent',27
+'SN45393                                           ','Laser','Model-253','2024-10-18','Good',29
+'SN86712                                           ','LiDAR','Model-909','2024-08-27','Fair',35
+'SN85453                                           ','Structured Light','Model-419','2024-12-08','Fair',8
+'SN57241                                           ','Laser','Model-885','2024-10-29','Fair',12
+'SN77012                                           ','Laser','Model-303','2025-01-21','Poor',29
+'SN50526                                           ','Structured Light','Model-216','2024-12-12','Good',73
+'SN17609                                           ','Photogrammetry','Model-890','2024-09-26','Good',97
+'SN30179                                           ','LiDAR','Model-617','2024-09-06','Good',80
+'SN22177                                           ','Laser','Model-863','2025-01-01','Fair',89
+'SN39609                                           ','Photogrammetry','Model-194','2025-02-10','Poor',77
+'SN15166                                           ','LiDAR','Model-869','2025-02-18','Excellent',78
+'SN70924                                           ','Photogrammetry','Model-529','2025-02-14','Good',3
+'SN63826                                           ','LiDAR','Model-603','2025-01-01','Good',45
+'SN63585                                           ','Photogrammetry','Model-400','2024-10-20','Poor',48
+'SN21483                                           ','Laser','Model-329','2024-09-17','Poor',98
+'SN91228                                           ','Structured Light','Model-707','2024-11-01','Good',29
+'SN56013                                           ','LiDAR','Model-685','2024-09-07','Excellent',19
+'SN49245                                           ','Photogrammetry','Model-798','2024-08-30','Fair',13
+'SN20603                                           ','Structured Light','Model-973','2025-02-18','Excellent',80
+'SN21962                                           ','Structured Light','Model-247','2025-01-12','Fair',6
+'SN69768                                           ','Laser','Model-245','2024-09-12','Fair',18
+'SN42478                                           ','Laser','Model-247','2025-01-17','Good',39
+'SN24921                                           ','Laser','Model-591','2024-12-07','Excellent',9
+'SN24381                                           ','Photogrammetry','Model-869','2024-10-09','Poor',43
+'SN91963                                           ','LiDAR','Model-946','2024-10-09','Fair',65
+'SN43360                                           ','LiDAR','Model-419','2024-10-14','Poor',86
+'SN91595                                           ','Photogrammetry','Model-489','2025-01-02','Good',1
+'SN90234                                           ','LiDAR','Model-205','2024-12-14','Poor',64
+'SN63398                                           ','Photogrammetry','Model-540','2024-09-17','Good',19
+'SN30845                                           ','Photogrammetry','Model-176','2024-08-27','Fair',81
+'SN10721                                           ','Structured Light','Model-768','2024-08-31','Good',62
+'SN33947                                           ','Photogrammetry','Model-894','2025-01-08','Good',36
+'SN87145                                           ','LiDAR','Model-656','2025-02-16','Good',16
+'SN70445                                           ','Laser','Model-871','2024-09-24','Good',22
+'SN91540                                           ','Photogrammetry','Model-787','2024-08-24','Good',96
+'SN57090                                           ','Laser','Model-448','2024-12-28','Fair',72
+'SN83410                                           ','Structured Light','Model-265','2024-11-29','Excellent',71
+'SN98977                                           ','Photogrammetry','Model-503','2024-10-06','Fair',2
+'SN79923                                           ','Structured Light','Model-246','2024-12-10','Poor',33
+'SN49789                                           ','Photogrammetry','Model-786','2024-12-17','Excellent',70
+'SN18835                                           ','LiDAR','Model-231','2024-10-25','Excellent',79
+'SN50175                                           ','Laser','Model-275','2025-01-18','Poor',65
+'SN31576                                           ','Structured Light','Model-160','2024-10-02','Excellent',29
+'SN63864                                           ','Photogrammetry','Model-489','2024-09-20','Good',24
+'SN97942                                           ','Structured Light','Model-170','2024-09-14','Excellent',14
+'SN21537                                           ','Photogrammetry','Model-337','2024-12-16','Good',93
+'SN60338                                           ','LiDAR','Model-382','2025-02-04','Good',72
+'SN39051                                           ','Structured Light','Model-458','2025-01-24','Poor',43
+'SN42990                                           ','Structured Light','Model-934','2024-08-27','Excellent',17
+'SN51182                                           ','LiDAR','Model-559','2024-12-16','Excellent',98
+'SN97636                                           ','LiDAR','Model-699','2024-11-08','Fair',59
+'SN23100                                           ','Structured Light','Model-683','2025-02-07','Good',99
+'SN86794                                           ','Laser','Model-859','2025-01-22','Fair',51
+'SN19446                                           ','LiDAR','Model-958','2024-09-22','Good',37
+'SN95104                                           ','Photogrammetry','Model-571','2024-11-19','Poor',42
+'SN23314                                           ','Photogrammetry','Model-133','2025-02-12','Excellent',93
+'SN38053                                           ','Photogrammetry','Model-961','2024-12-17','Excellent',7
+'SN12414                                           ','Laser','Model-803','2024-10-09','Good',34
+'SN15958                                           ','Structured Light','Model-732','2024-12-15','Poor',83
+'SN70685                                           ','Laser','Model-464','2024-11-30','Poor',46
+'SN18907                                           ','Structured Light','Model-772','2025-02-12','Poor',3
+'SN54685                                           ','Photogrammetry','Model-898','2025-01-27','Excellent',67
+'SN60424                                           ','Laser','Model-467','2024-11-23','Good',45
+'SN61235                                           ','Laser','Model-968','2024-10-19','Excellent',42
+'SN55631                                           ','Structured Light','Model-656','2025-01-18','Fair',8
+'SN76837                                           ','LiDAR','Model-463','2024-08-29','Poor',8
+'SN88197                                           ','Laser','Model-480','2024-11-26','Excellent',13
+'SN72946                                           ','Laser','Model-484','2024-09-17','Excellent',78
+'SN10345                                           ','Structured Light','Model-247','2025-01-27','Good',45
+'SN47669                                           ','Photogrammetry','Model-861','2025-01-19','Excellent',92
+'SN22016                                           ','Photogrammetry','Model-157','2025-02-08','Fair',73
+'SN58741                                           ','Laser','Model-727','2025-02-06','Poor',24
+'SN35412                                           ','LiDAR','Model-939','2024-08-24','Excellent',6
+'SN76269                                           ','Laser','Model-776','2024-09-13','Poor',61
+'SN33547                                           ','LiDAR','Model-493','2024-09-25','Fair',67
+'SN79615                                           ','Structured Light','Model-540','2024-10-14','Good',66
+'SN17195                                           ','LiDAR','Model-156','2024-10-18','Excellent',63
+'SN53134                                           ','Photogrammetry','Model-687','2024-11-20','Poor',94
+'SN79452                                           ','Laser','Model-861','2025-01-11','Poor',84
+'SN98056                                           ','Structured Light','Model-613','2024-08-26','Good',72
+'SN51245                                           ','Photogrammetry','Model-258','2024-12-29','Poor',23
+'SN76933                                           ','Laser','Model-912','2025-01-29','Good',16
+'SN28175                                           ','LiDAR','Model-532','2024-11-08','Good',10
+'SN26448                                           ','Photogrammetry','Model-793','2024-09-16','Fair',2
+'SN31528                                           ','Photogrammetry','Model-577','2024-11-18','Fair',82
+'SN93500                                           ','Laser','Model-401','2025-02-02','Excellent',41
+'SN23174                                           ','Structured Light','Model-634','2024-10-04','Poor',66
+'SN16884                                           ','LiDAR','Model-147','2024-12-31','Poor',77
+'SN43546                                           ','Laser','Model-242','2025-01-03','Excellent',82
+'SN25698                                           ','Photogrammetry','Model-711','2024-12-01','Excellent',37
+'SN26374                                           ','Structured Light','Model-952','2024-09-08','Fair',68
+'SN76331                                           ','LiDAR','Model-766','2024-12-13','Poor',100
+'SN53884                                           ','Structured Light','Model-974','2024-09-27','Good',54
+'SN63799                                           ','Photogrammetry','Model-895','2025-01-15','Good',50
+'SN98080                                           ','Photogrammetry','Model-890','2024-10-06','Good',15
+'SN30685                                           ','Photogrammetry','Model-217','2024-09-22','Good',77
+'SN63645                                           ','Photogrammetry','Model-309','2025-02-19','Good',28
+'SN51374                                           ','Photogrammetry','Model-748','2024-10-03','Fair',19
+'SN50506                                           ','LiDAR','Model-424','2024-09-22','Excellent',84
+'SN43277                                           ','LiDAR','Model-509','2025-02-15','Good',23
+'SN51234                                           ','Photogrammetry','Model-962','2025-02-14','Poor',76
+'SN45005                                           ','Structured Light','Model-783','2024-09-14','Excellent',38
+'SN20126                                           ','LiDAR','Model-554','2025-01-14','Poor',85
+'SN39489                                           ','LiDAR','Model-908','2024-09-01','Good',37
+'SN33389                                           ','Laser','Model-176','2024-12-17','Fair',98
+'SN51125                                           ','LiDAR','Model-785','2025-02-06','Excellent',57
+'SN41264                                           ','LiDAR','Model-248','2024-11-23','Poor',17
+'SN40904                                           ','Photogrammetry','Model-999','2024-12-01','Excellent',17
+'SN59084                                           ','LiDAR','Model-543','2024-11-03','Poor',54
+'SN29073                                           ','Laser','Model-147','2025-01-16','Poor',70
+'SN10905                                           ','Structured Light','Model-382','2024-12-02','Poor',18
+'SN85440                                           ','Structured Light','Model-340','2025-02-07','Good',69
+'SN12037                                           ','Photogrammetry','Model-508','2025-01-23','Good',7
+'SN56127                                           ','Structured Light','Model-467','2024-12-10','Good',73
+'SN62016                                           ','LiDAR','Model-172','2024-12-01','Poor',36
+'SN26153                                           ','LiDAR','Model-564','2024-12-15','Fair',66
+'SN46708                                           ','Laser','Model-566','2024-09-27','Good',8
+'SN88702                                           ','Structured Light','Model-281','2024-09-02','Excellent',75
+'SN18012                                           ','Structured Light','Model-795','2025-01-14','Excellent',1
+'SN17999                                           ','Structured Light','Model-762','2025-02-16','Poor',61
+'SN59558                                           ','Laser','Model-756','2024-11-25','Excellent',91
+'SN10271                                           ','LiDAR','Model-859','2024-09-28','Fair',44
+'SN28273                                           ','Photogrammetry','Model-733','2024-09-24','Fair',36
+'SN59079                                           ','Photogrammetry','Model-425','2025-02-11','Fair',44
+'SN49248                                           ','Photogrammetry','Model-655','2024-11-01','Poor',78
+'SN22883                                           ','Laser','Model-200','2024-12-14','Fair',78
+'SN11488                                           ','Structured Light','Model-379','2024-12-20','Fair',54
+'SN44342                                           ','Photogrammetry','Model-770','2024-12-09','Good',30
+'SN61706                                           ','Structured Light','Model-951','2025-02-03','Fair',20
+'SN42581                                           ','Laser','Model-156','2025-02-17','Excellent',36
+'SN35326                                           ','Structured Light','Model-908','2025-01-03','Good',91
+'SN12583                                           ','Structured Light','Model-493','2024-12-09','Good',75
+'SN36542                                           ','Structured Light','Model-802','2025-01-29','Poor',12
+'SN42246                                           ','Structured Light','Model-719','2024-09-14','Fair',33
+'SN23242                                           ','Photogrammetry','Model-104','2025-01-02','Excellent',50
+'SN34331                                           ','Photogrammetry','Model-982','2024-09-10','Excellent',76
+'SN57168                                           ','Laser','Model-846','2024-12-24','Good',86
+'SN72964                                           ','LiDAR','Model-621','2024-09-15','Fair',57
+'SN17505                                           ','Laser','Model-781','2024-10-22','Fair',93
+'SN77509                                           ','Laser','Model-486','2025-01-23','Good',26
+'SN22218                                           ','Photogrammetry','Model-203','2024-10-03','Poor',6
+'SN35423                                           ','Photogrammetry','Model-966','2025-01-05','Excellent',26
+'SN68089                                           ','Structured Light','Model-163','2024-12-02','Good',3
+'SN82995                                           ','LiDAR','Model-250','2024-12-30','Fair',29
+'SN64098                                           ','Structured Light','Model-202','2024-10-10','Poor',76
+'SN67330                                           ','Photogrammetry','Model-704','2024-10-20','Poor',30
+'SN94942                                           ','Laser','Model-459','2024-09-13','Poor',44
+'SN81834                                           ','Laser','Model-863','2025-01-30','Fair',20
+'SN68136                                           ','Photogrammetry','Model-303','2024-12-09','Good',89
+'SN91318                                           ','Photogrammetry','Model-197','2025-02-13','Poor',97
+'SN91579                                           ','Laser','Model-277','2025-02-08','Good',88
+'SN19913                                           ','Structured Light','Model-865','2024-12-02','Poor',39
+'SN61513                                           ','Photogrammetry','Model-156','2025-01-04','Poor',86
+'SN80569                                           ','Structured Light','Model-130','2024-12-29','Fair',6
+'SN49934                                           ','Laser','Model-249','2024-12-10','Poor',62
+'SN97306                                           ','Photogrammetry','Model-171','2024-10-10','Excellent',43
+'SN23694                                           ','Photogrammetry','Model-897','2025-02-07','Excellent',84
+'SN60754                                           ','LiDAR','Model-637','2024-10-17','Excellent',47
+'SN93512                                           ','Photogrammetry','Model-544','2024-09-13','Good',62
+'SN17486                                           ','Structured Light','Model-283','2024-10-15','Good',27
+'SN82466                                           ','Photogrammetry','Model-525','2024-10-22','Good',20
+'SN89500                                           ','Laser','Model-154','2024-11-03','Poor',74
+'SN53605                                           ','Laser','Model-920','2024-10-13','Poor',79
+'SN17656                                           ','Laser','Model-895','2024-09-07','Fair',22
+'SN35458                                           ','Laser','Model-983','2024-11-02','Fair',80
+'SN56191                                           ','Laser','Model-818','2024-11-27','Excellent',100
+'SN45481                                           ','Photogrammetry','Model-761','2024-11-06','Poor',91
+'SN92153                                           ','Structured Light','Model-347','2024-10-03','Good',28
+'SN16924                                           ','LiDAR','Model-649','2024-11-24','Excellent',46
+'SN55201                                           ','Laser','Model-747','2025-01-28','Fair',100
+'SN55366                                           ','LiDAR','Model-932','2024-09-09','Poor',94
+'SN22057                                           ','Photogrammetry','Model-559','2024-12-03','Good',74
+'SN48556                                           ','Photogrammetry','Model-328','2024-09-20','Fair',40
+'SN32317                                           ','Structured Light','Model-526','2025-01-01','Good',71
+'SN32778                                           ','Laser','Model-147','2024-09-13','Fair',33
+'SN85372                                           ','Laser','Model-423','2025-02-02','Good',32
+'SN64317                                           ','LiDAR','Model-297','2024-09-15','Good',43
+'SN56717                                           ','Laser','Model-595','2024-10-03','Poor',11
+'SN32612                                           ','LiDAR','Model-272','2024-09-06','Poor',54
+'SN26158                                           ','Photogrammetry','Model-891','2024-12-11','Fair',84
+'SN42303                                           ','Structured Light','Model-512','2024-09-20','Excellent',58
+'SN67377                                           ','Structured Light','Model-389','2024-11-21','Good',42
+'SN93166                                           ','Photogrammetry','Model-464','2025-01-22','Poor',9
+'SN62458                                           ','Laser','Model-312','2024-08-24','Poor',18
+'SN80573                                           ','LiDAR','Model-999','2025-02-02','Good',70
+'SN93089                                           ','Structured Light','Model-408','2025-01-15','Excellent',26
+'SN27098                                           ','Structured Light','Model-949','2025-02-13','Poor',7
+'SN68789                                           ','Structured Light','Model-916','2024-12-30','Fair',48
+'SN46897                                           ','Laser','Model-772','2024-09-11','Fair',21
+'SN69097                                           ','Laser','Model-372','2025-01-21','Fair',1
+'SN17899                                           ','Structured Light','Model-812','2024-12-02','Good',83
+'SN49763                                           ','Photogrammetry','Model-155','2024-12-23','Good',27
+'SN17521                                           ','Photogrammetry','Model-244','2024-10-30','Excellent',6
+'SN77259                                           ','Structured Light','Model-269','2024-10-05','Fair',77
+'SN85111                                           ','Structured Light','Model-580','2024-11-18','Fair',48
+'SN83617                                           ','Photogrammetry','Model-648','2024-12-21','Excellent',68
+'SN89384                                           ','Structured Light','Model-307','2024-10-10','Fair',60
+'SN87266                                           ','Photogrammetry','Model-881','2025-01-21','Excellent',85
+'SN27885                                           ','Structured Light','Model-351','2025-02-13','Good',73
+'SN59269                                           ','Structured Light','Model-740','2024-09-15','Fair',66
+'SN99444                                           ','Laser','Model-964','2024-08-26','Poor',49
+'SN89368                                           ','LiDAR','Model-748','2024-10-27','Fair',66
+'SN84578                                           ','Photogrammetry','Model-602','2024-10-19','Fair',94
+'SN87079                                           ','Structured Light','Model-632','2024-10-28','Good',1
+'SN78853                                           ','Photogrammetry','Model-799','2024-10-17','Excellent',59
+'SN37701                                           ','LiDAR','Model-838','2025-01-26','Excellent',80
+'SN45183                                           ','Laser','Model-673','2025-01-21','Fair',57
+'SN59417                                           ','Photogrammetry','Model-590','2024-10-25','Excellent',27
+'SN50749                                           ','Photogrammetry','Model-690','2024-10-05','Good',9
+'SN77999                                           ','Photogrammetry','Model-287','2024-09-20','Good',46
+'SN98072                                           ','Laser','Model-737','2024-09-17','Poor',76
+'SN98485                                           ','Photogrammetry','Model-519','2025-02-17','Poor',96
+'SN19863                                           ','Photogrammetry','Model-629','2024-12-13','Fair',39
+'SN13425                                           ','LiDAR','Model-995','2024-09-09','Fair',100
+'SN82469                                           ','Laser','Model-118','2024-09-08','Poor',49
+'SN39009                                           ','Photogrammetry','Model-941','2025-02-12','Fair',65
+'SN20315                                           ','LiDAR','Model-326','2024-09-04','Good',64
+'SN10368                                           ','Photogrammetry','Model-685','2024-09-08','Poor',24
+'SN40826                                           ','LiDAR','Model-215','2024-10-29','Poor',23
+'SN45538                                           ','Structured Light','Model-276','2024-09-29','Fair',40
+'SN15050                                           ','Structured Light','Model-773','2024-09-24','Fair',22
+'SN15312                                           ','Photogrammetry','Model-581','2024-09-24','Good',25
+'SN87960                                           ','LiDAR','Model-508','2024-10-25','Good',18
+'SN66944                                           ','Photogrammetry','Model-165','2024-11-29','Good',75
+'SN28478                                           ','Laser','Model-159','2024-10-27','Excellent',38
+'SN28308                                           ','Laser','Model-964','2024-11-15','Good',23
+'SN88255                                           ','LiDAR','Model-109','2025-01-11','Fair',42
+'SN34202                                           ','Laser','Model-433','2025-01-31','Good',42
+'SN13282                                           ','Laser','Model-525','2025-01-31','Poor',63
+'SN67157                                           ','Structured Light','Model-387','2024-10-22','Good',37
+'SN81359                                           ','LiDAR','Model-463','2024-09-14','Good',3
+'SN69751                                           ','LiDAR','Model-356','2024-09-05','Fair',12
+'SN59884                                           ','Laser','Model-550','2024-12-27','Good',89
+'SN63018                                           ','Laser','Model-695','2024-08-30','Fair',34
+'SN18541                                           ','Structured Light','Model-387','2024-10-04','Poor',91
+'SN65576                                           ','Laser','Model-317','2025-01-18','Poor',31
+'SN58276                                           ','Photogrammetry','Model-369','2025-01-05','Excellent',8
+'SN66331                                           ','Structured Light','Model-489','2024-12-09','Excellent',5
+'SN12551                                           ','Laser','Model-282','2024-08-24','Fair',75
+'SN96800                                           ','LiDAR','Model-224','2024-11-07','Fair',94
+'SN93797                                           ','Photogrammetry','Model-393','2025-02-08','Good',63
+'SN78750                                           ','Laser','Model-109','2025-02-02','Good',29
+'SN99937                                           ','LiDAR','Model-125','2024-11-21','Fair',34
+'SN64453                                           ','Structured Light','Model-756','2024-10-16','Good',54
+'SN39767                                           ','Laser','Model-435','2024-10-11','Excellent',27
+'SN67857                                           ','Laser','Model-741','2024-11-03','Fair',39
+'SN16830                                           ','Laser','Model-255','2024-12-22','Fair',97
+'SN43160                                           ','Laser','Model-174','2024-09-17','Fair',74
+'SN11234                                           ','LiDAR','Model-120','2024-12-15','Poor',19
+'SN24278                                           ','LiDAR','Model-402','2024-09-19','Poor',100
+'SN54512                                           ','Laser','Model-187','2025-01-23','Fair',46
+'SN65723                                           ','Structured Light','Model-217','2024-10-28','Good',8
+'SN15072                                           ','Structured Light','Model-343','2025-01-08','Excellent',45
+'SN98345                                           ','Structured Light','Model-778','2024-12-16','Good',88
+'SN16456                                           ','Laser','Model-253','2024-11-09','Good',1
+'SN83401                                           ','Structured Light','Model-750','2024-12-24','Fair',37
+'SN96470                                           ','Photogrammetry','Model-417','2024-11-08','Excellent',87
+'SN21782                                           ','Photogrammetry','Model-196','2024-12-09','Poor',69
+'SN70236                                           ','Structured Light','Model-225','2025-02-09','Good',79
+'SN46529                                           ','Laser','Model-830','2024-12-21','Excellent',93
+'SN90766                                           ','Structured Light','Model-960','2025-02-03','Fair',22
+'SN11734                                           ','LiDAR','Model-503','2025-01-23','Good',50
+'SN82167                                           ','LiDAR','Model-303','2024-09-06','Poor',87
+'SN59680                                           ','Laser','Model-210','2024-11-19','Good',16
+'SN13150                                           ','Laser','Model-980','2024-11-01','Good',50
+'SN80515                                           ','Photogrammetry','Model-285','2025-01-28','Excellent',82
+'SN53751                                           ','Laser','Model-896','2024-09-17','Fair',46
+'SN45271                                           ','LiDAR','Model-774','2024-10-13','Fair',38
+'SN80570                                           ','Structured Light','Model-259','2025-01-06','Excellent',37
+'SN21193                                           ','Structured Light','Model-739','2024-08-30','Excellent',6
+'SN45970                                           ','Structured Light','Model-162','2024-10-19','Good',56
+'SN60413                                           ','Laser','Model-842','2024-12-15','Excellent',34
+'SN17965                                           ','Structured Light','Model-255','2024-11-29','Excellent',75
+'SN27584                                           ','Photogrammetry','Model-101','2024-11-30','Good',12
+'SN67604                                           ','Structured Light','Model-948','2024-12-06','Good',95
+'SN28737                                           ','Laser','Model-964','2024-10-25','Excellent',39
+'SN37234                                           ','Photogrammetry','Model-225','2025-01-16','Excellent',94
+'SN30973                                           ','Laser','Model-860','2025-01-12','Good',23
+'SN75787                                           ','Laser','Model-496','2025-02-17','Poor',32
+'SN68652                                           ','Laser','Model-286','2024-09-05','Fair',13
+'SN40889                                           ','Photogrammetry','Model-309','2025-02-08','Fair',78
+'SN66332                                           ','LiDAR','Model-493','2024-08-27','Poor',44
+'SN10100                                           ','LiDAR','Model-912','2024-12-06','Good',73
+'SN76217                                           ','Laser','Model-642','2024-09-10','Poor',85
+'SN13470                                           ','Photogrammetry','Model-481','2024-12-11','Fair',78
+'SN34312                                           ','LiDAR','Model-904','2024-09-12','Good',97
+'SN86602                                           ','LiDAR','Model-637','2024-08-28','Fair',10
+'SN25096                                           ','Structured Light','Model-933','2024-11-25','Excellent',12
+'SN31904                                           ','Photogrammetry','Model-868','2024-12-09','Poor',70
+'SN60963                                           ','Structured Light','Model-552','2024-12-16','Poor',36
+'SN93253                                           ','LiDAR','Model-181','2024-09-20','Excellent',37
+'SN37127                                           ','Photogrammetry','Model-707','2024-10-05','Good',53
+'SN78590                                           ','Structured Light','Model-158','2024-08-28','Good',96
+'SN67077                                           ','Laser','Model-489','2024-09-23','Excellent',68
+'SN25561                                           ','Photogrammetry','Model-128','2024-12-19','Fair',97
+'SN41584                                           ','Laser','Model-175','2024-12-05','Excellent',22
+'SN30508                                           ','Laser','Model-440','2024-11-09','Fair',88
+'SN97793                                           ','Structured Light','Model-346','2025-01-11','Fair',34
+'SN48429                                           ','Laser','Model-302','2025-01-16','Good',67
+'SN52421                                           ','Photogrammetry','Model-943','2024-10-28','Excellent',68
+'SN65884                                           ','Laser','Model-375','2025-02-06','Poor',16
+'SN71952                                           ','Laser','Model-271','2024-12-21','Poor',47
+'SN16838                                           ','Laser','Model-164','2024-11-29','Poor',69
+'SN26640                                           ','LiDAR','Model-286','2024-08-28','Poor',58
+'SN81923                                           ','Photogrammetry','Model-518','2024-10-09','Good',26
+'SN52390                                           ','Structured Light','Model-558','2025-02-09','Fair',6
+'SN85142                                           ','Laser','Model-801','2024-10-22','Fair',51
+'SN55189                                           ','Structured Light','Model-993','2025-01-08','Good',24
+'SN88190                                           ','Photogrammetry','Model-775','2024-09-10','Fair',23
+'SN27797                                           ','Laser','Model-876','2025-01-07','Excellent',7
+'SN45272                                           ','Photogrammetry','Model-729','2024-12-16','Fair',8
+'SN38382                                           ','LiDAR','Model-922','2024-11-22','Excellent',73
+'SN39414                                           ','LiDAR','Model-280','2024-11-03','Poor',21
+'SN30278                                           ','Structured Light','Model-332','2024-10-09','Poor',6
+'SN80888                                           ','LiDAR','Model-548','2025-02-18','Fair',3
+'SN49908                                           ','Photogrammetry','Model-500','2025-02-17','Good',14
+'SN62024                                           ','Structured Light','Model-141','2024-08-30','Poor',33
+'SN60808                                           ','LiDAR','Model-125','2024-11-21','Poor',38
+'SN72140                                           ','LiDAR','Model-277','2024-09-18','Excellent',49
+'SN35770                                           ','Photogrammetry','Model-522','2025-02-16','Fair',44
+'SN49151                                           ','Photogrammetry','Model-126','2025-01-17','Fair',13
+'SN73469                                           ','Laser','Model-871','2025-01-09','Excellent',16
+'SN19950                                           ','LiDAR','Model-455','2024-12-17','Poor',3
+'SN78419                                           ','Laser','Model-569','2024-11-04','Excellent',94
+'SN69076                                           ','Photogrammetry','Model-522','2024-12-13','Poor',27
+'SN20620                                           ','Photogrammetry','Model-234','2024-12-21','Fair',71
+'SN56045                                           ','Photogrammetry','Model-335','2024-09-23','Good',9
+'SN76680                                           ','Laser','Model-476','2025-01-13','Good',91
+'SN72588                                           ','LiDAR','Model-651','2024-12-31','Excellent',94
+'SN75085                                           ','Structured Light','Model-798','2024-11-18','Fair',33
+'SN63300                                           ','Photogrammetry','Model-180','2024-10-03','Fair',60
+'SN99505                                           ','Laser','Model-326','2024-11-27','Fair',19
+'SN19961                                           ','Photogrammetry','Model-581','2024-08-27','Good',14
+'SN84857                                           ','Laser','Model-705','2024-09-05','Poor',47
+'SN47282                                           ','Structured Light','Model-774','2025-01-10','Poor',5
+'SN88686                                           ','LiDAR','Model-915','2024-10-23','Good',75
+'SN97505                                           ','Photogrammetry','Model-123','2024-10-15','Fair',82
+'SN70489                                           ','Photogrammetry','Model-747','2024-10-15','Fair',91
+'SN74401                                           ','Structured Light','Model-603','2025-02-12','Poor',12
+'SN82547                                           ','Laser','Model-884','2025-01-17','Fair',15
+'SN65886                                           ','Photogrammetry','Model-701','2025-01-20','Good',83
+'SN40245                                           ','Laser','Model-357','2024-10-06','Excellent',34
+'SN99785                                           ','Structured Light','Model-426','2024-09-18','Poor',64
+'SN74581                                           ','Laser','Model-902','2024-09-22','Good',32
+'SN52342                                           ','Structured Light','Model-759','2025-02-01','Good',85
+'SN77132                                           ','Structured Light','Model-639','2024-10-20','Excellent',29
+'SN49403                                           ','LiDAR','Model-138','2024-11-29','Excellent',81
+'SN59408                                           ','Structured Light','Model-932','2024-09-19','Excellent',89
+'SN61428                                           ','Structured Light','Model-631','2025-01-30','Fair',2

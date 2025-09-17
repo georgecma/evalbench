@@ -1,0 +1,1000 @@
+'MECH_JOL75L','PERF_F82J4K','DEV_RQ33OK',75.80,3.3,'Membrane',74090272,65,'2KRO',97.0,95.2,1.72,1.4,2.4,1.9,3.4,'Minimal','PCB Mount',1.4,'ABS','Double Shot',1,'true',0,6
+'MECH_0WBA9L','PERF_UFXS4T','DEV_UPPRRQ',79.90,2.4,'Mechanical',27318594,68,'6KRO',99.3,95.2,1.17,2.4,1.4,1.6,3.7,'Minimal','PCB Mount',1.4,'ABS','Dye Sub',1,'false',15,9
+'MECH_Q9PD87','PERF_3PQ3KQ','DEV_E2VRHA',79.30,1.9,'Mechanical',76894521,102,'6KRO',92.6,94.8,0.85,1.6,1.5,2.3,4.0,'Minimal','Screw-in',1.0,'ABS','Double Shot',1,'false',8,8
+'MECH_ZQDCCU','PERF_YZFPWY','DEV_3WOOVM',70.00,3.2,'Membrane',25318273,27,'6KRO',92.2,95.8,1.76,1.7,2.3,2.4,3.4,'Minimal','PCB Mount',1.1,'Double Shot PBT','Laser Etched',6,'true',7,9
+'MECH_UB7PHG','PERF_QSEXX3','DEV_QCDP8I',56.60,3.8,'Optical',94876295,59,'NKRO',99.1,93.8,0.61,1.7,2.3,1.9,3.1,'Moderate','Plate Mount',1.2,'Double Shot PBT','Double Shot',2,'false',12,1
+'MECH_6A5M05','PERF_A6MKF5','DEV_4LUGO5',51.40,3.8,'Optical',94493586,90,'NKRO',98.8,90.9,1.09,1.1,1.0,1.7,3.1,'Minimal','PCB Mount',1.1,'Double Shot PBT','Double Shot',0,'false',1,4
+'MECH_M3U6YQ','PERF_H50EHL','DEV_2GUB4J',49.00,1.5,'Optical',55689132,26,'2KRO',98.0,96.2,0.63,1.5,2.1,2.3,3.5,'Moderate','Plate Mount',1.1,'PBT','Double Shot',7,'false',4,1
+'MECH_J8U6KY','PERF_3ZZGII','DEV_W2S3ZH',67.50,1.7,'Magnetic',58014408,75,'2KRO',90.7,97.7,1.97,1.1,1.8,1.8,3.1,'Minimal','PCB Mount',1.2,'PBT','Laser Etched',6,'false',10,7
+'MECH_MWOJOE','PERF_SEGB09','DEV_1NC9JB',78.70,3.8,'Membrane',34825426,8,'NKRO',90.9,99.7,1.89,1.9,1.8,1.5,3.2,'Moderate','PCB Mount',1.1,'Double Shot PBT','Laser Etched',2,'false',5,1
+'MECH_I7AOG8','PERF_LJLGHK','DEV_GUWPMM',58.10,3.2,'Membrane',90191729,69,'6KRO',91.4,94.4,1.05,1.6,2.1,1.8,3.4,'Minimal','PCB Mount',1.3,'PBT','Dye Sub',4,'true',14,6
+'MECH_1Y7FGK','PERF_VX0TMS','DEV_1HW85J',54.10,2.7,'Magnetic',55654929,64,'NKRO',99.8,90.8,0.11,1.8,1.3,1.5,3.8,'Moderate','PCB Mount',1.1,'Double Shot PBT','Dye Sub',5,'true',10,8
+'MECH_LERUMS','PERF_VQ5QT0','DEV_GCO57C',45.60,3.5,'Optical',42146402,13,'2KRO',95.9,92.4,0.53,1.5,2.0,2.3,3.8,'Moderate','Screw-in',1.4,'ABS','Dye Sub',5,'false',13,10
+'MECH_CCW6OC','PERF_IR0AK5','DEV_MWUZD4',74.80,3.4,'Membrane',31769603,76,'6KRO',90.4,98.3,1.03,1.2,2.1,1.5,3.2,'Moderate','Screw-in',1.5,'Double Shot PBT','Dye Sub',8,'true',0,7
+'MECH_EX9UNW','PERF_AE7EO2','DEV_90S2JO',48.10,2.7,'Membrane',45774000,74,'6KRO',90.4,99.9,0.22,1.4,2.4,2.1,3.0,'Minimal','Plate Mount',1.3,'ABS','Laser Etched',5,'false',11,6
+'MECH_BGO4W2','PERF_8V7BX5','DEV_PV8C8F',75.40,2.8,'Optical',47330833,43,'NKRO',98.0,98.9,0.36,1.8,1.7,1.5,3.7,'Minimal','PCB Mount',1.2,'PBT','Dye Sub',9,'true',6,8
+'MECH_Q534TA','PERF_LFZH9H','DEV_A739Z2',65.40,3.5,'Membrane',79844986,26,'2KRO',93.5,92.7,0.71,1.8,2.3,2.2,3.7,'Minimal','Screw-in',1.4,'ABS','Double Shot',9,'true',3,7
+'MECH_CUKUAL','PERF_OHC69R','DEV_LG977R',65.90,3.8,'Optical',21977507,7,'2KRO',95.0,90.4,0.68,1.2,1.7,2.1,3.3,'None','Plate Mount',1.3,'Double Shot PBT','Double Shot',1,'true',0,4
+'MECH_RXS0F2','PERF_ES0H1Z','DEV_Z44DLR',61.70,2.4,'Magnetic',44819048,77,'NKRO',96.5,93.5,0.05,1.8,2.0,1.7,3.6,'Minimal','Screw-in',1.2,'ABS','Laser Etched',8,'true',15,8
+'MECH_FDQS79','PERF_2CMYJK','DEV_T5XOGZ',46.50,2.5,'Optical',35432968,93,'NKRO',96.3,93.3,0.47,1.5,1.2,2.1,3.6,'Minimal','Plate Mount',1.1,'PBT','Double Shot',9,'false',7,5
+'MECH_VG34QU','PERF_K1G1CT','DEV_AQKRJK',50.30,1.5,'Membrane',67458195,96,'NKRO',91.4,98.8,1.12,1.0,1.8,1.9,4.0,'Moderate','PCB Mount',1.4,'Double Shot PBT','Double Shot',9,'false',0,9
+'MECH_TDZ411','PERF_XTMU2P','DEV_09W3KS',69.10,2.5,'Optical',20372466,61,'NKRO',90.8,99.4,0.17,1.5,1.6,2.5,3.5,'Moderate','Plate Mount',1.4,'Double Shot PBT','Laser Etched',6,'false',11,5
+'MECH_MP5MFF','PERF_57RO8C','DEV_Y5U65F',49.70,2.2,'Mechanical',21815168,19,'NKRO',95.3,93.0,0.37,1.3,1.3,2.5,3.7,'Moderate','Screw-in',1.2,'PBT','Dye Sub',4,'false',8,6
+'MECH_VXI7XN','PERF_KHBA4P','DEV_J9L9IF',61.70,3.2,'Optical',99219664,38,'2KRO',99.8,92.5,0.66,1.4,1.9,2.0,3.2,'Minimal','PCB Mount',1.1,'Double Shot PBT','Dye Sub',4,'true',9,5
+'MECH_93UO03','PERF_OZWIKY','DEV_NUO9DA',69.90,1.6,'Optical',78012020,104,'NKRO',93.4,97.8,0.64,1.8,1.9,1.9,3.9,'Minimal','Screw-in',1.5,'Double Shot PBT','Double Shot',4,'false',13,10
+'MECH_S84LMG','PERF_V6GC2M','DEV_E345LX',76.30,3.6,'Magnetic',32949995,38,'2KRO',98.6,97.1,0.63,1.1,1.8,2.1,3.7,'Moderate','Plate Mount',1.0,'Double Shot PBT','Dye Sub',4,'false',15,9
+'MECH_G77JLQ','PERF_VWVJTR','DEV_N7Y1JH',65.00,3.5,'Membrane',58481740,14,'2KRO',95.4,99.1,1.94,2.2,1.5,2.5,3.4,'Minimal','PCB Mount',1.3,'ABS','Dye Sub',3,'true',4,5
+'MECH_YUHHV2','PERF_1BPQ41','DEV_A0YFQ4',62.90,3.0,'Optical',44112726,56,'NKRO',93.8,92.0,1.83,2.2,2.2,1.7,3.0,'Minimal','Plate Mount',1.1,'Double Shot PBT','Double Shot',7,'true',9,7
+'MECH_QSI2JS','PERF_WCNRD8','DEV_WX3AG8',60.40,2.5,'Membrane',90468426,28,'6KRO',96.7,97.2,0.32,1.0,1.4,2.2,3.8,'Minimal','Screw-in',1.5,'ABS','Dye Sub',9,'false',15,6
+'MECH_GSNKKH','PERF_45JP0H','DEV_VQO1YU',74.00,3.2,'Membrane',64523844,67,'6KRO',95.2,94.5,1.64,2.4,1.6,2.0,3.1,'Moderate','PCB Mount',1.5,'PBT','Laser Etched',4,'false',11,4
+'MECH_DTA6CY','PERF_YQE8B7','DEV_UJUDVW',67.40,1.6,'Optical',20836090,4,'6KRO',98.8,91.4,0.28,1.3,2.3,1.6,3.6,'Moderate','Screw-in',1.1,'Double Shot PBT','Dye Sub',1,'false',15,9
+'MECH_95M372','PERF_OQUTD7','DEV_83QF51',67.60,2.0,'Membrane',79104804,45,'NKRO',95.8,94.5,1.24,1.7,2.1,2.0,3.5,'None','PCB Mount',1.3,'ABS','Double Shot',5,'true',7,3
+'MECH_Q6907K','PERF_HCBFSE','DEV_VGNT44',51.10,2.0,'Membrane',58765427,10,'6KRO',99.9,96.8,0.60,2.3,1.3,1.6,3.5,'Moderate','Screw-in',1.2,'Double Shot PBT','Double Shot',8,'true',1,7
+'MECH_CSBT3B','PERF_MDFQCA','DEV_S0OTZE',59.10,3.4,'Mechanical',45985860,35,'2KRO',90.7,94.8,1.62,1.7,2.1,2.2,3.8,'Minimal','PCB Mount',1.5,'Double Shot PBT','Dye Sub',4,'false',6,7
+'MECH_1PBWGS','PERF_YPCZNY','DEV_FPJ87Y',58.80,3.7,'Optical',20036303,6,'NKRO',92.2,93.8,0.61,2.4,2.1,2.4,3.7,'Minimal','PCB Mount',1.3,'PBT','Double Shot',9,'true',2,6
+'MECH_FF9FXZ','PERF_VCGJ8J','DEV_NVDQ67',64.50,2.1,'Magnetic',31872429,41,'2KRO',96.1,97.6,0.05,2.0,1.4,1.7,3.1,'Minimal','Screw-in',1.3,'ABS','Dye Sub',7,'false',1,4
+'MECH_ORV36Q','PERF_ET2OFM','DEV_K3HTXQ',78.10,2.8,'Optical',87712392,48,'NKRO',98.2,98.6,0.44,1.1,2.4,1.7,3.4,'Moderate','PCB Mount',1.4,'Double Shot PBT','Dye Sub',3,'true',14,3
+'MECH_CO142V','PERF_U6YYL4','DEV_ELQZB7',72.60,1.5,'Optical',42598125,52,'NKRO',96.1,90.6,1.22,2.4,1.6,2.5,3.5,'Minimal','Plate Mount',1.2,'PBT','Dye Sub',7,'true',12,2
+'MECH_161S0Z','PERF_IY35IZ','DEV_CUGKVB',54.00,3.1,'Mechanical',43675502,44,'6KRO',99.0,92.4,1.28,1.1,2.3,1.9,3.3,'Minimal','PCB Mount',1.2,'Double Shot PBT','Dye Sub',7,'true',6,5
+'MECH_XS9CCF','PERF_MFT880','DEV_SJ5LLL',53.90,1.6,'Mechanical',48850261,90,'NKRO',99.6,98.4,0.85,1.6,2.0,1.6,3.3,'Minimal','PCB Mount',1.3,'Double Shot PBT','Double Shot',1,'false',7,10
+'MECH_J40J97','PERF_U4N3R0','DEV_38S92W',63.20,3.9,'Membrane',92450766,17,'2KRO',94.6,96.0,0.13,2.2,1.3,1.5,4.0,'Minimal','PCB Mount',1.4,'Double Shot PBT','Double Shot',9,'false',1,7
+'MECH_U869QB','PERF_FGTWDZ','DEV_MI60UP',63.10,1.7,'Membrane',91531355,14,'2KRO',98.6,99.2,0.49,2.0,2.1,2.3,3.2,'Moderate','Plate Mount',1.3,'Double Shot PBT','Laser Etched',2,'false',0,6
+'MECH_FEYB5J','PERF_5NL7B1','DEV_E2BXO8',63.20,2.2,'Mechanical',98650364,13,'NKRO',95.4,92.8,0.68,2.3,2.0,2.0,3.2,'Moderate','Plate Mount',1.4,'ABS','Double Shot',1,'false',2,3
+'MECH_Z4V4CQ','PERF_2B5EA2','DEV_QCOBMZ',79.00,3.1,'Membrane',30922712,84,'NKRO',97.9,90.8,0.09,1.8,2.5,2.2,3.8,'Minimal','Screw-in',1.2,'Double Shot PBT','Dye Sub',3,'false',11,2
+'MECH_TKDLV8','PERF_7PI6UO','DEV_80P32W',52.20,3.8,'Membrane',98680912,5,'NKRO',98.4,94.8,0.43,1.4,1.5,2.1,3.1,'Moderate','Plate Mount',1.5,'Double Shot PBT','Dye Sub',9,'true',10,9
+'MECH_A4IWWF','PERF_3IV32W','DEV_LQPB7C',65.80,3.7,'Membrane',25600735,32,'NKRO',92.4,95.2,0.02,1.6,1.3,2.3,3.0,'Minimal','Plate Mount',1.3,'Double Shot PBT','Double Shot',1,'false',4,1
+'MECH_DP41AO','PERF_FWDKLC','DEV_4979VF',72.40,3.3,'Mechanical',48314288,6,'NKRO',96.1,94.2,1.43,2.1,2.5,1.6,3.3,'Minimal','Screw-in',1.3,'Double Shot PBT','Double Shot',1,'true',13,10
+'MECH_WBW1DE','PERF_XSBRGL','DEV_W4IOOW',75.20,2.9,'Membrane',29814949,58,'6KRO',97.9,90.1,0.88,1.4,1.6,2.2,3.1,'Moderate','Plate Mount',1.3,'PBT','Double Shot',6,'false',0,1
+'MECH_DF80CS','PERF_UJ1U1L','DEV_XK37RO',66.50,2.0,'Magnetic',33497909,46,'2KRO',90.7,100.0,1.67,1.1,1.1,1.6,3.1,'Minimal','Screw-in',1.0,'PBT','Dye Sub',8,'true',10,10
+'MECH_UPWDES','PERF_XAR9M1','DEV_FUF39B',55.30,2.6,'Magnetic',56890049,100,'6KRO',98.5,97.0,1.58,1.1,1.0,2.0,3.6,'Moderate','Screw-in',1.1,'PBT','Laser Etched',6,'true',11,9
+'MECH_J4MV6P','PERF_Q1QZHT','DEV_KKNLZS',71.90,2.2,'Optical',37688364,50,'NKRO',91.2,99.2,1.69,1.9,1.5,1.8,3.8,'Minimal','Plate Mount',1.5,'PBT','Laser Etched',0,'false',0,9
+'MECH_ZI0FE8','PERF_6OTZGH','DEV_MOPY78',58.30,2.0,'Optical',39164674,14,'NKRO',97.8,93.1,1.07,1.5,2.4,1.8,3.7,'None','Plate Mount',1.3,'ABS','Double Shot',4,'true',0,4
+'MECH_OO5J8D','PERF_YDNTA1','DEV_SRC99P',75.80,3.7,'Mechanical',90005990,55,'2KRO',91.8,91.7,1.74,1.8,1.5,1.5,3.3,'Minimal','PCB Mount',1.3,'PBT','Laser Etched',9,'false',0,9
+'MECH_CKHSDJ','PERF_CDF9Y1','DEV_E390OY',70.60,2.8,'Membrane',21015889,39,'2KRO',90.4,92.5,1.45,2.0,1.8,1.5,3.1,'Moderate','Screw-in',1.4,'PBT','Dye Sub',1,'false',12,5
+'MECH_Q45T79','PERF_3RIUHK','DEV_SJF8VS',48.00,2.1,'Mechanical',30758150,52,'2KRO',92.7,98.6,1.61,1.9,1.7,2.3,3.6,'Minimal','PCB Mount',1.4,'Double Shot PBT','Dye Sub',0,'true',8,7
+'MECH_5TS5YQ','PERF_PZ63Y2','DEV_MM7YQH',73.80,3.5,'Mechanical',79047893,78,'2KRO',95.4,90.3,0.20,1.6,2.1,2.2,3.8,'Moderate','Screw-in',1.1,'Double Shot PBT','Laser Etched',7,'true',10,1
+'MECH_EXU9F4','PERF_W2GCZZ','DEV_M7BLJT',59.20,3.3,'Mechanical',27366395,104,'2KRO',94.8,93.4,0.55,1.1,2.3,2.1,4.0,'Minimal','Plate Mount',1.5,'PBT','Laser Etched',2,'true',2,9
+'MECH_6VA2Z8','PERF_QZK9QE','DEV_B61W8I',70.80,3.5,'Mechanical',45301883,80,'2KRO',91.7,99.5,0.66,1.7,1.6,1.9,3.5,'Minimal','Plate Mount',1.1,'PBT','Double Shot',1,'false',3,9
+'MECH_S00B3Q','PERF_T09Y47','DEV_4D2UNM',75.70,3.5,'Mechanical',95079905,65,'NKRO',90.1,90.4,1.70,2.3,1.1,1.7,3.3,'Minimal','PCB Mount',1.2,'ABS','Laser Etched',3,'false',11,1
+'MECH_QA73GR','PERF_D96LTN','DEV_1B07RN',69.00,2.4,'Mechanical',23820264,58,'2KRO',97.5,90.4,0.73,1.1,2.0,2.2,3.4,'Moderate','Screw-in',1.5,'PBT','Double Shot',6,'true',5,1
+'MECH_AEDPOZ','PERF_7A563Z','DEV_6LDTJ0',69.60,1.8,'Membrane',50335512,13,'6KRO',91.6,93.1,0.05,1.1,2.1,1.6,3.7,'Minimal','PCB Mount',1.2,'PBT','Laser Etched',9,'true',4,1
+'MECH_2TNZWI','PERF_FHREMN','DEV_4VU250',49.60,2.0,'Optical',96794306,2,'NKRO',93.3,96.4,0.83,1.3,2.0,1.6,3.9,'Minimal','Screw-in',1.3,'ABS','Double Shot',4,'true',1,5
+'MECH_MGKCD9','PERF_E1A571','DEV_UCEXXR',71.30,3.9,'Membrane',77541264,97,'2KRO',95.5,95.8,1.70,1.1,2.4,1.9,3.3,'Moderate','Screw-in',1.1,'ABS','Dye Sub',0,'true',10,5
+'MECH_ASPXNC','PERF_PDRO3H','DEV_46IJRG',74.60,2.9,'Mechanical',82290852,43,'2KRO',93.6,97.0,1.17,2.1,1.7,1.7,3.6,'Moderate','PCB Mount',1.4,'PBT','Dye Sub',8,'false',2,5
+'MECH_5LWOBJ','PERF_I9QUER','DEV_YQII04',68.90,2.5,'Membrane',53949767,103,'NKRO',91.2,95.2,0.37,1.9,1.7,2.3,3.1,'Moderate','PCB Mount',1.4,'ABS','Laser Etched',9,'true',1,5
+'MECH_AUW5HG','PERF_3W07E4','DEV_LZASQV',70.70,2.8,'Membrane',58437492,97,'6KRO',97.4,96.0,0.89,1.5,2.1,2.3,3.2,'Minimal','PCB Mount',1.2,'ABS','Dye Sub',1,'false',8,3
+'MECH_N54Y3I','PERF_0OUF3K','DEV_RLMYID',65.30,1.9,'Membrane',87308891,10,'6KRO',94.4,91.7,1.97,2.1,1.7,1.7,3.3,'Moderate','Plate Mount',1.2,'ABS','Dye Sub',4,'true',5,3
+'MECH_YTUR5M','PERF_UN32JB','DEV_5JUNNG',70.30,3.1,'Mechanical',83648172,97,'6KRO',97.9,94.7,1.22,1.2,1.2,2.1,3.8,'Minimal','Plate Mount',1.1,'PBT','Dye Sub',7,'true',8,8
+'MECH_TAIE0S','PERF_5N0QFF','DEV_SCBSAP',78.60,1.8,'Membrane',60126631,51,'NKRO',90.2,99.6,1.04,1.0,2.3,1.8,3.9,'Moderate','Screw-in',1.2,'Double Shot PBT','Dye Sub',7,'false',13,10
+'MECH_LBACVJ','PERF_X695QB','DEV_E7790Q',59.80,3.4,'Membrane',65817959,28,'NKRO',99.1,97.1,0.52,1.1,2.0,2.1,3.6,'Moderate','Screw-in',1.0,'PBT','Laser Etched',0,'false',13,3
+'MECH_6DUAS3','PERF_1AZIIQ','DEV_R5BKBZ',68.60,2.2,'Magnetic',45608848,12,'6KRO',91.9,93.8,0.03,2.3,1.3,2.2,3.4,'Minimal','PCB Mount',1.0,'ABS','Laser Etched',5,'true',8,4
+'MECH_UUUO4C','PERF_SF04IL','DEV_8OGI93',72.00,3.8,'Optical',24911338,67,'2KRO',99.4,93.8,1.37,1.3,1.9,2.3,3.3,'Minimal','Screw-in',1.4,'Double Shot PBT','Double Shot',8,'true',5,2
+'MECH_E7OSIR','PERF_WP6VKW','DEV_BHEU3H',64.30,2.1,'Magnetic',41837639,96,'2KRO',98.5,94.7,1.29,2.3,1.5,2.2,3.0,'Moderate','Screw-in',1.5,'Double Shot PBT','Laser Etched',7,'true',6,8
+'MECH_NZ5DBY','PERF_DGY24S','DEV_FQG4RQ',58.00,2.9,'Membrane',67202712,43,'6KRO',90.1,95.0,0.91,1.9,2.1,1.9,3.3,'None','Screw-in',1.3,'PBT','Double Shot',8,'false',10,1
+'MECH_K2I4HN','PERF_4WMQ3V','DEV_2S3TVH',64.30,2.4,'Optical',66201683,26,'NKRO',91.4,99.3,1.43,2.0,1.4,1.9,3.1,'Moderate','PCB Mount',1.2,'PBT','Laser Etched',1,'false',15,7
+'MECH_U9EWYV','PERF_9DP5EE','DEV_I4XMYL',60.30,1.7,'Mechanical',28714239,6,'NKRO',99.1,98.0,1.66,1.8,1.3,1.9,3.8,'Minimal','Screw-in',1.5,'PBT','Double Shot',0,'true',5,5
+'MECH_UR9R3U','PERF_0SUNZ8','DEV_3FTCQ2',45.80,1.8,'Optical',65009080,83,'NKRO',97.7,90.5,1.96,1.9,1.2,2.1,4.0,'Minimal','Screw-in',1.3,'ABS','Double Shot',7,'true',12,8
+'MECH_QTEORZ','PERF_Q7BGWS','DEV_FLEBSQ',64.00,1.6,'Magnetic',56108484,104,'NKRO',99.2,93.9,0.66,2.0,1.2,2.1,3.0,'Minimal','PCB Mount',1.4,'Double Shot PBT','Double Shot',2,'true',2,2
+'MECH_7KJ605','PERF_CRLUKN','DEV_FFJEYS',75.60,1.8,'Mechanical',87519228,84,'2KRO',93.4,93.8,1.60,1.8,1.3,2.3,3.9,'Moderate','Screw-in',1.3,'PBT','Dye Sub',1,'false',3,9
+'MECH_3BKZB4','PERF_VQP3G6','DEV_FRQWGI',68.80,2.3,'Optical',82687409,97,'NKRO',98.6,90.5,1.05,1.5,2.3,1.9,3.8,'Minimal','Screw-in',1.2,'PBT','Laser Etched',6,'false',0,2
+'MECH_98EP3D','PERF_83F16K','DEV_OC6HZ2',45.20,1.5,'Magnetic',28143740,65,'6KRO',95.2,92.4,1.87,1.2,1.2,2.2,3.4,'Minimal','PCB Mount',1.4,'ABS','Dye Sub',9,'false',3,7
+'MECH_OECVS7','PERF_XBNZ4V','DEV_CHADET',66.40,2.7,'Magnetic',27324014,10,'6KRO',90.6,98.1,1.63,1.9,1.8,2.5,3.8,'Minimal','Screw-in',1.2,'ABS','Laser Etched',3,'false',14,8
+'MECH_RMYHOE','PERF_ZHO8P5','DEV_R7IHVY',54.90,3.9,'Mechanical',61058991,68,'NKRO',95.2,90.9,1.26,2.5,2.1,1.7,3.2,'Moderate','Plate Mount',1.2,'ABS','Double Shot',5,'true',3,9
+'MECH_2DQR5N','PERF_FY27RN','DEV_E3A5JR',50.30,2.4,'Mechanical',28759750,30,'2KRO',94.8,99.1,1.03,1.3,1.7,1.9,3.0,'Minimal','Screw-in',1.3,'Double Shot PBT','Dye Sub',0,'false',10,3
+'MECH_TMITSL','PERF_Y22C5E','DEV_DXURJL',58.60,2.3,'Optical',48673544,75,'2KRO',96.2,95.8,0.09,2.2,1.3,2.0,3.1,'Minimal','Screw-in',1.0,'PBT','Dye Sub',7,'true',12,8
+'MECH_EMQY5Y','PERF_ZR4SHP','DEV_B5MOGE',52.20,3.8,'Membrane',53302583,2,'NKRO',96.8,97.2,0.49,1.0,2.1,2.2,3.9,'Minimal','Screw-in',1.3,'Double Shot PBT','Double Shot',2,'true',10,1
+'MECH_T7B40M','PERF_58QCZL','DEV_QNRGUJ',50.90,3.0,'Magnetic',76023726,68,'2KRO',92.8,92.7,1.83,2.2,2.4,1.5,3.9,'Minimal','PCB Mount',1.1,'PBT','Dye Sub',0,'true',3,7
+'MECH_L159Q9','PERF_RP0JHD','DEV_NFIGCO',50.10,1.9,'Mechanical',70215982,34,'6KRO',94.6,96.3,1.51,1.7,1.6,2.2,3.2,'Minimal','Plate Mount',1.1,'Double Shot PBT','Double Shot',3,'true',15,8
+'MECH_9NEG1L','PERF_SLW0RH','DEV_DP3X7V',72.70,1.9,'Optical',65880257,90,'6KRO',90.4,90.5,0.44,1.9,2.0,2.0,3.5,'Moderate','PCB Mount',1.2,'PBT','Laser Etched',3,'true',8,2
+'MECH_IPG8A1','PERF_BP66ZF','DEV_PVJPYT',60.50,2.1,'Optical',88919046,69,'6KRO',98.5,95.4,1.92,1.3,1.8,2.0,3.5,'Minimal','Plate Mount',1.2,'ABS','Laser Etched',2,'false',7,5
+'MECH_8YJWCK','PERF_1WADOP','DEV_UYU43G',62.80,3.6,'Magnetic',56011331,44,'6KRO',93.1,94.1,0.07,1.9,1.9,2.5,3.3,'Minimal','Screw-in',1.2,'ABS','Double Shot',6,'false',15,10
+'MECH_CBU367','PERF_7VJRSI','DEV_GZ6M71',77.50,1.7,'Mechanical',83627244,41,'2KRO',94.0,91.7,0.33,2.4,1.9,1.9,3.3,'None','Screw-in',1.2,'Double Shot PBT','Double Shot',5,'true',14,1
+'MECH_B9KRDF','PERF_C6CT5N','DEV_N3C4ND',64.90,3.1,'Optical',53283369,96,'2KRO',91.7,94.2,1.95,1.0,2.3,1.8,3.9,'Minimal','Plate Mount',1.2,'PBT','Laser Etched',3,'true',11,4
+'MECH_00DB97','PERF_32BC8S','DEV_JTAVI2',52.60,2.6,'Optical',24377473,10,'2KRO',98.0,98.9,1.73,2.1,1.3,1.6,3.2,'Moderate','PCB Mount',1.4,'PBT','Double Shot',6,'false',1,2
+'MECH_314860','PERF_DC62X2','DEV_BEQUVQ',54.50,3.8,'Magnetic',93096138,60,'NKRO',98.1,98.6,1.55,1.2,1.1,2.5,3.1,'Moderate','Screw-in',1.2,'PBT','Dye Sub',4,'true',1,2
+'MECH_JISNW7','PERF_ZSJHIG','DEV_0XE4QF',53.10,3.4,'Mechanical',31187425,91,'6KRO',92.4,97.1,1.61,2.1,1.1,1.5,3.2,'Minimal','Screw-in',1.1,'Double Shot PBT','Laser Etched',9,'false',2,1
+'MECH_93WJWY','PERF_6MBULX','DEV_JGZ0MW',59.00,2.2,'Mechanical',22594737,63,'2KRO',99.9,94.8,1.75,1.6,1.9,2.1,3.1,'Moderate','PCB Mount',1.1,'ABS','Laser Etched',6,'true',8,4
+'MECH_39XY9Y','PERF_VPBTRB','DEV_8JXZ5T',48.70,3.6,'Optical',42329340,13,'6KRO',97.0,92.7,1.89,2.2,2.2,1.5,3.8,'Moderate','Plate Mount',1.1,'PBT','Double Shot',3,'true',15,7
+'MECH_5NHPLT','PERF_76QD81','DEV_FEDFT9',62.50,3.3,'Mechanical',77191257,73,'NKRO',94.6,91.5,0.89,2.0,1.9,1.7,3.1,'Moderate','Screw-in',1.4,'Double Shot PBT','Laser Etched',6,'true',14,8
+'MECH_88NQ4K','PERF_WE1ORF','DEV_MJN5BE',60.70,3.4,'Mechanical',69086289,64,'NKRO',92.9,97.8,0.90,1.7,1.8,2.0,3.1,'Minimal','Plate Mount',1.5,'PBT','Double Shot',8,'false',1,9
+'MECH_ZSVNO7','PERF_NEOOTC','DEV_386A98',53.90,2.7,'Membrane',94840662,86,'2KRO',97.5,96.9,1.57,1.7,1.3,2.4,3.7,'Minimal','Plate Mount',1.4,'ABS','Double Shot',8,'true',11,10
+'MECH_ZYXXAG','PERF_72X6Y4','DEV_E4TLFI',70.00,2.3,'Membrane',20746058,84,'6KRO',96.7,91.7,0.64,1.2,1.4,2.1,3.4,'None','Screw-in',1.1,'PBT','Laser Etched',0,'true',3,6
+'MECH_PGL9FM','PERF_7RITNF','DEV_YG9JCB',78.40,1.5,'Optical',31270952,84,'2KRO',98.8,91.2,1.02,2.3,2.2,1.7,3.1,'Minimal','Plate Mount',1.5,'Double Shot PBT','Dye Sub',7,'true',3,9
+'MECH_KHU696','PERF_7JM3V4','DEV_6NX7LG',46.00,3.5,'Magnetic',55649870,84,'6KRO',93.3,90.1,0.39,2.1,1.6,2.2,4.0,'Minimal','PCB Mount',1.2,'ABS','Dye Sub',8,'true',13,10
+'MECH_3KPKH8','PERF_FOGZXA','DEV_3DPEVW',61.30,3.2,'Magnetic',51101338,40,'6KRO',93.7,95.5,0.80,1.5,1.4,1.7,3.5,'Moderate','Plate Mount',1.3,'Double Shot PBT','Dye Sub',4,'true',8,10
+'MECH_89SRBR','PERF_4SWS77','DEV_OHY0ZL',74.60,2.8,'Membrane',30554374,86,'2KRO',92.1,93.7,0.81,1.4,1.1,2.5,3.7,'Moderate','PCB Mount',1.0,'ABS','Double Shot',7,'true',12,1
+'MECH_XGKY3H','PERF_K1GDOB','DEV_HL1IOI',52.70,3.4,'Membrane',51040100,24,'6KRO',90.2,93.5,0.51,1.7,1.1,2.4,3.4,'Moderate','PCB Mount',1.5,'PBT','Laser Etched',9,'false',7,6
+'MECH_3QA8A7','PERF_IJRT20','DEV_VGSDL0',64.40,1.5,'Membrane',28701784,13,'NKRO',95.5,96.3,1.37,2.0,1.5,1.5,3.5,'Moderate','Plate Mount',1.1,'PBT','Laser Etched',8,'false',14,2
+'MECH_8PKGK7','PERF_28F43U','DEV_A7NM5O',75.10,2.4,'Optical',65379841,45,'2KRO',93.3,97.9,1.19,1.7,1.7,2.0,3.2,'Moderate','PCB Mount',1.3,'PBT','Dye Sub',7,'false',12,6
+'MECH_COM553','PERF_Q9OJSN','DEV_WKGTNP',78.90,2.4,'Membrane',28423700,16,'6KRO',94.9,99.5,0.43,1.9,1.6,2.1,3.7,'Minimal','Plate Mount',1.2,'PBT','Dye Sub',6,'false',8,10
+'MECH_VXHMXB','PERF_9X28FT','DEV_U7OG34',46.60,3.8,'Magnetic',59936269,93,'2KRO',92.6,93.4,0.18,1.4,2.4,2.4,3.7,'Minimal','PCB Mount',1.2,'PBT','Laser Etched',4,'false',10,6
+'MECH_G07XO5','PERF_KWA0MF','DEV_LPOCPI',68.20,1.8,'Membrane',68498650,2,'6KRO',98.1,97.1,0.77,1.7,1.3,2.3,3.8,'Moderate','Plate Mount',1.2,'ABS','Double Shot',2,'false',3,9
+'MECH_2IOSQF','PERF_TU3M23','DEV_4QZR5N',55.10,3.0,'Mechanical',69532736,11,'NKRO',92.6,91.9,0.11,2.3,1.8,2.3,3.4,'None','Plate Mount',1.2,'Double Shot PBT','Double Shot',3,'false',10,6
+'MECH_71DRHM','PERF_0MJDSC','DEV_YNQ9VB',75.10,3.6,'Magnetic',52547605,51,'6KRO',98.9,94.0,0.12,2.0,2.4,2.3,3.3,'Minimal','Screw-in',1.3,'Double Shot PBT','Double Shot',1,'false',8,9
+'MECH_RZLSRF','PERF_4V3K70','DEV_ULNWE8',55.20,4.0,'Mechanical',79949328,73,'6KRO',92.8,93.1,0.74,1.8,1.4,2.4,3.9,'Minimal','PCB Mount',1.2,'PBT','Double Shot',9,'false',6,5
+'MECH_3ZP5Q4','PERF_FQVVND','DEV_S3UZBW',60.80,2.0,'Mechanical',90357491,58,'6KRO',90.5,98.0,1.66,2.2,1.0,1.6,3.8,'Moderate','PCB Mount',1.1,'ABS','Laser Etched',4,'false',1,3
+'MECH_B8YTUK','PERF_YXF6WA','DEV_BY6CVN',69.90,2.9,'Mechanical',59010759,92,'6KRO',96.8,94.5,0.31,1.9,1.7,2.4,3.0,'Minimal','Plate Mount',1.4,'Double Shot PBT','Laser Etched',6,'false',0,1
+'MECH_8VNU4A','PERF_CTND6Q','DEV_EDJRAE',47.00,3.9,'Mechanical',26911594,44,'6KRO',92.3,96.8,1.64,1.7,1.4,1.9,3.6,'Minimal','Screw-in',1.2,'Double Shot PBT','Laser Etched',6,'true',1,4
+'MECH_TGIEQ6','PERF_77MAMN','DEV_23O57O',48.20,2.4,'Mechanical',47802257,16,'6KRO',93.6,98.3,0.39,2.2,2.0,1.6,3.1,'Moderate','PCB Mount',1.2,'PBT','Laser Etched',8,'true',3,1
+'MECH_CTA3KI','PERF_US1DXT','DEV_BVNMJ1',66.80,2.8,'Optical',92201531,2,'6KRO',90.6,97.1,0.73,1.1,1.3,1.6,3.7,'Minimal','Screw-in',1.1,'PBT','Dye Sub',1,'false',9,6
+'MECH_9KUODS','PERF_2TEFPS','DEV_E0JLH6',76.10,2.9,'Mechanical',82012992,52,'2KRO',97.7,92.0,0.55,1.4,2.4,2.2,3.5,'Minimal','Screw-in',1.3,'Double Shot PBT','Double Shot',9,'true',4,10
+'MECH_PUYD23','PERF_MF1YGK','DEV_NT35P9',48.70,2.0,'Magnetic',25795031,51,'NKRO',99.0,93.5,1.13,1.8,1.0,2.0,3.7,'Moderate','Plate Mount',1.3,'ABS','Dye Sub',8,'true',13,4
+'MECH_GZW4XG','PERF_V7IKUT','DEV_J8PQGM',58.80,3.4,'Membrane',70845348,51,'6KRO',99.2,100.0,0.21,1.2,1.4,2.5,4.0,'Moderate','PCB Mount',1.5,'ABS','Dye Sub',1,'true',2,1
+'MECH_0ZCRYH','PERF_EGFEYW','DEV_RQB99P',69.40,3.0,'Magnetic',88334377,80,'6KRO',98.0,97.3,0.84,1.5,1.9,2.2,3.4,'Minimal','Screw-in',1.4,'PBT','Double Shot',8,'false',5,8
+'MECH_MRH7RV','PERF_VCV2PK','DEV_7NGVZK',50.50,2.7,'Magnetic',70207396,96,'6KRO',95.4,94.3,0.50,1.4,2.4,2.4,3.9,'Minimal','Screw-in',1.3,'ABS','Dye Sub',4,'true',14,9
+'MECH_377NND','PERF_S3RU49','DEV_OQ1UWV',57.80,1.9,'Optical',45978511,96,'6KRO',100.0,98.0,1.97,1.7,1.2,1.5,3.6,'Minimal','Plate Mount',1.3,'PBT','Double Shot',2,'false',14,8
+'MECH_IXN2VA','PERF_NFJLS1','DEV_08SKMD',55.50,2.9,'Membrane',21606691,72,'NKRO',91.7,94.8,0.74,1.8,1.0,1.7,3.6,'Moderate','PCB Mount',1.0,'ABS','Dye Sub',2,'false',3,3
+'MECH_WE2KOY','PERF_MRB525','DEV_029ZOH',59.10,3.5,'Optical',47829286,64,'NKRO',90.3,97.7,1.15,2.3,2.3,2.1,3.5,'Moderate','Screw-in',1.2,'ABS','Double Shot',9,'false',9,7
+'MECH_HVE80J','PERF_2B3MBQ','DEV_GFFFWR',64.70,3.7,'Magnetic',56775169,23,'2KRO',100.0,98.0,0.61,2.4,2.1,2.2,3.4,'Moderate','Screw-in',1.2,'PBT','Double Shot',9,'true',13,9
+'MECH_YTCZ9L','PERF_P34KF0','DEV_6T5QKE',61.70,1.8,'Optical',91080870,75,'2KRO',94.9,96.5,1.73,1.7,1.0,1.9,3.3,'Moderate','PCB Mount',1.0,'PBT','Dye Sub',8,'true',2,9
+'MECH_JJI8ZU','PERF_YXGNU3','DEV_E2BAMG',69.90,3.0,'Optical',39637754,72,'2KRO',90.9,92.0,0.11,2.2,2.0,1.6,3.6,'Moderate','Screw-in',1.2,'PBT','Double Shot',2,'false',11,3
+'MECH_ZZ6KJS','PERF_J3UG6E','DEV_RVPFTD',50.10,2.7,'Mechanical',83570618,40,'6KRO',91.2,90.5,0.11,1.1,1.3,1.8,3.3,'Moderate','PCB Mount',1.4,'Double Shot PBT','Double Shot',4,'true',12,6
+'MECH_TB80NQ','PERF_ZGNB7T','DEV_Y0X575',70.50,2.4,'Magnetic',31539048,17,'2KRO',95.2,91.7,1.24,1.1,1.9,1.8,3.4,'None','Screw-in',1.3,'Double Shot PBT','Dye Sub',7,'false',3,1
+'MECH_EY39BS','PERF_MX4PYS','DEV_UOXJMQ',53.60,2.9,'Membrane',34201216,75,'NKRO',93.3,98.2,0.30,2.2,1.8,2.0,3.4,'Minimal','PCB Mount',1.3,'ABS','Double Shot',2,'true',9,3
+'MECH_003FVR','PERF_S50YY8','DEV_8KY4XF',45.00,1.8,'Optical',37919383,99,'2KRO',93.8,95.7,1.16,1.6,1.1,2.0,3.5,'Minimal','PCB Mount',1.5,'ABS','Dye Sub',2,'true',15,4
+'MECH_GAC0XZ','PERF_BFZVGT','DEV_6AV9YH',75.70,1.5,'Membrane',67504067,38,'NKRO',90.3,91.8,1.73,1.5,2.1,2.1,3.2,'Minimal','Screw-in',1.4,'Double Shot PBT','Double Shot',3,'true',11,7
+'MECH_GBJIOM','PERF_IDQKUU','DEV_6GTW01',68.10,3.7,'Magnetic',24084148,84,'NKRO',90.0,93.3,1.64,2.2,1.3,2.3,3.3,'Moderate','Screw-in',1.3,'Double Shot PBT','Double Shot',1,'false',14,5
+'MECH_2CLSA8','PERF_11EJPK','DEV_6K1JP8',77.90,2.9,'Membrane',34156030,6,'NKRO',90.9,95.0,1.38,1.8,1.8,2.0,3.5,'Moderate','Plate Mount',1.2,'PBT','Double Shot',0,'false',13,9
+'MECH_KZDNOH','PERF_649P8K','DEV_8AAK48',55.00,2.8,'Membrane',37081776,54,'NKRO',97.1,90.7,1.11,1.0,2.0,2.3,3.2,'Minimal','PCB Mount',1.4,'Double Shot PBT','Double Shot',3,'false',3,3
+'MECH_DTWTLH','PERF_IGAZTT','DEV_JW2DL6',47.50,1.7,'Optical',76893289,52,'6KRO',97.7,95.7,0.19,2.1,2.1,1.8,3.4,'None','Plate Mount',1.0,'Double Shot PBT','Double Shot',8,'false',15,5
+'MECH_QLWGGJ','PERF_4SKG9A','DEV_J0PWZ9',57.60,3.7,'Membrane',22827248,98,'NKRO',98.3,91.9,1.79,1.1,1.0,1.8,3.4,'Moderate','Screw-in',1.4,'ABS','Laser Etched',1,'true',9,10
+'MECH_6I5T4C','PERF_JIB9DO','DEV_X1EBHD',52.60,2.5,'Magnetic',50283097,39,'NKRO',98.0,95.3,1.57,1.1,1.9,1.5,3.4,'Moderate','Plate Mount',1.4,'ABS','Double Shot',2,'false',4,7
+'MECH_DGB21T','PERF_XEPOSU','DEV_M2FRI4',79.70,1.6,'Mechanical',33680969,73,'2KRO',94.5,94.0,1.00,1.1,1.1,2.1,3.6,'Moderate','Plate Mount',1.2,'PBT','Dye Sub',7,'false',13,3
+'MECH_JHU2H8','PERF_HLWDRM','DEV_1NK28O',48.60,3.5,'Magnetic',29891868,32,'NKRO',90.6,90.8,0.66,1.1,2.0,2.3,3.6,'Moderate','Screw-in',1.0,'Double Shot PBT','Dye Sub',2,'true',1,2
+'MECH_QCGFYE','PERF_ZTLP81','DEV_8MRHWR',61.00,2.6,'Optical',68994425,77,'6KRO',94.4,91.1,0.65,1.4,2.5,1.7,3.6,'Minimal','PCB Mount',1.4,'Double Shot PBT','Double Shot',8,'false',13,8
+'MECH_XPBXCI','PERF_0ETAC5','DEV_6LEU5Z',53.60,2.9,'Optical',29675961,52,'2KRO',97.6,92.2,1.98,2.0,1.1,1.6,3.7,'Minimal','Plate Mount',1.1,'PBT','Dye Sub',7,'false',2,5
+'MECH_RMAIEO','PERF_ITC1D7','DEV_TLDBF5',67.30,2.1,'Membrane',95215551,53,'6KRO',92.3,92.7,1.98,1.7,1.4,2.4,3.1,'None','Screw-in',1.3,'PBT','Dye Sub',2,'false',0,3
+'MECH_FCV4QG','PERF_3CS9A1','DEV_VWU0XV',68.60,3.4,'Mechanical',53994965,86,'6KRO',98.6,97.2,1.26,1.6,2.1,1.9,3.4,'Minimal','PCB Mount',1.2,'PBT','Dye Sub',1,'false',13,7
+'MECH_HK8JFH','PERF_QSX05I','DEV_1B9C0C',50.80,2.8,'Membrane',73744890,60,'6KRO',98.4,91.7,1.37,1.5,1.7,2.1,3.9,'Moderate','Plate Mount',1.2,'ABS','Dye Sub',1,'true',3,3
+'MECH_8L8TDH','PERF_E5DIKG','DEV_BC6E43',65.00,3.2,'Membrane',67107116,21,'NKRO',94.0,98.6,1.24,2.4,1.7,1.9,3.3,'Moderate','Screw-in',1.1,'PBT','Dye Sub',6,'true',1,8
+'MECH_62FBJJ','PERF_4O10M0','DEV_Q2YNT2',71.30,3.1,'Optical',75929743,64,'2KRO',98.6,96.0,1.63,2.4,1.1,1.9,3.1,'Moderate','Plate Mount',1.2,'PBT','Double Shot',1,'true',9,6
+'MECH_EXIH2U','PERF_VHVKZZ','DEV_LJK95V',45.60,1.8,'Mechanical',40440165,5,'6KRO',90.5,93.7,1.15,1.6,2.2,1.7,3.9,'Minimal','Screw-in',1.1,'Double Shot PBT','Dye Sub',5,'true',12,4
+'MECH_76RJD3','PERF_Q27WLF','DEV_OEV9CN',66.40,3.0,'Mechanical',64873942,4,'NKRO',97.1,95.0,1.09,1.2,1.5,2.4,3.9,'Minimal','Screw-in',1.1,'Double Shot PBT','Laser Etched',0,'false',4,5
+'MECH_HUKOCF','PERF_O4TM73','DEV_ASMTQ4',69.70,1.5,'Magnetic',42817347,53,'6KRO',91.0,99.5,0.13,2.2,2.1,2.4,3.2,'Moderate','PCB Mount',1.5,'ABS','Double Shot',7,'false',4,7
+'MECH_WD6TK5','PERF_JGM07C','DEV_OHME7D',71.00,2.3,'Optical',73121115,27,'NKRO',98.6,99.9,1.42,2.3,2.3,2.4,3.7,'Minimal','PCB Mount',1.4,'ABS','Laser Etched',7,'false',0,2
+'MECH_W4HT0O','PERF_8KOXFC','DEV_UGMXGW',67.40,2.2,'Membrane',96377229,5,'2KRO',98.5,98.8,0.11,1.6,1.6,1.7,3.6,'Moderate','Screw-in',1.1,'ABS','Dye Sub',2,'true',7,6
+'MECH_B74LBG','PERF_GDHU2K','DEV_PK0J4Z',47.50,3.6,'Mechanical',20861753,22,'NKRO',98.7,94.1,1.18,1.2,2.1,1.7,3.9,'None','PCB Mount',1.3,'PBT','Double Shot',7,'false',4,4
+'MECH_467JKK','PERF_M1OO81','DEV_29SBLA',75.70,2.0,'Magnetic',35150092,13,'NKRO',97.2,99.1,1.34,1.8,1.3,2.4,3.5,'Minimal','PCB Mount',1.0,'ABS','Dye Sub',8,'false',14,9
+'MECH_1T2W17','PERF_1INPDL','DEV_TGB1T9',57.60,2.2,'Membrane',95816594,102,'2KRO',97.3,97.3,0.73,1.2,1.5,2.1,3.3,'Minimal','PCB Mount',1.1,'ABS','Laser Etched',0,'true',13,7
+'MECH_5Q5V1Q','PERF_SWGD4O','DEV_HC1EO1',45.00,1.5,'Magnetic',21243601,12,'2KRO',92.8,92.7,0.00,1.7,2.4,2.3,3.7,'Minimal','PCB Mount',1.2,'ABS','Double Shot',6,'true',2,3
+'MECH_EAZUU2','PERF_LWVFWS','DEV_A9KGTA',49.60,2.9,'Mechanical',84863252,22,'6KRO',90.9,90.5,1.26,1.2,1.1,2.1,4.0,'Minimal','PCB Mount',1.0,'ABS','Dye Sub',3,'true',13,9
+'MECH_E4YG1M','PERF_PX6XV6','DEV_0H1XKS',52.10,3.6,'Membrane',99662592,72,'NKRO',97.5,98.3,0.50,1.8,2.2,2.1,3.8,'Moderate','Plate Mount',1.5,'PBT','Dye Sub',1,'true',10,2
+'MECH_XPXKVO','PERF_I0OBPS','DEV_HYHYRW',53.70,4.0,'Membrane',58071815,13,'2KRO',96.4,97.0,1.97,2.5,1.8,1.7,3.5,'Moderate','Plate Mount',1.1,'Double Shot PBT','Laser Etched',5,'true',0,2
+'MECH_91HS5H','PERF_SZJTB3','DEV_DT5PD1',54.70,3.3,'Membrane',98533856,18,'NKRO',98.0,98.5,0.15,1.6,1.4,2.1,4.0,'Moderate','Screw-in',1.1,'Double Shot PBT','Dye Sub',4,'false',14,1
+'MECH_ZLNYRF','PERF_L80C9T','DEV_QB2OO9',64.40,1.7,'Mechanical',26067750,18,'6KRO',97.1,96.3,0.82,2.5,2.4,2.2,3.6,'Moderate','Plate Mount',1.4,'PBT','Laser Etched',0,'true',12,5
+'MECH_LCG0PU','PERF_5F8MWA','DEV_AV2OAW',65.00,2.3,'Optical',46544184,16,'NKRO',98.7,96.3,0.38,2.1,2.1,2.3,3.7,'Moderate','PCB Mount',1.5,'PBT','Double Shot',0,'true',11,8
+'MECH_AH4JPJ','PERF_R8P8FG','DEV_FEKM6C',59.00,3.7,'Optical',31496290,51,'2KRO',97.7,92.0,1.29,2.1,1.8,2.1,3.7,'Moderate','Screw-in',1.3,'Double Shot PBT','Laser Etched',6,'false',5,2
+'MECH_PFX32X','PERF_5E16B3','DEV_AQMU5S',67.10,2.3,'Magnetic',80150824,43,'NKRO',94.6,99.0,1.12,1.9,2.2,2.0,3.9,'Minimal','Screw-in',1.4,'ABS','Double Shot',8,'false',9,7
+'MECH_Q8OQL7','PERF_9S01G6','DEV_A6MRQZ',67.60,3.4,'Mechanical',69323995,98,'6KRO',91.9,99.0,1.97,2.0,2.4,1.5,3.8,'Minimal','Screw-in',1.4,'Double Shot PBT','Dye Sub',8,'true',1,6
+'MECH_0MX0O0','PERF_Y8K98P','DEV_TEG7QZ',68.70,1.9,'Magnetic',55102634,9,'NKRO',93.6,99.3,1.27,1.1,2.0,2.0,3.0,'Moderate','Plate Mount',1.1,'ABS','Laser Etched',4,'true',10,7
+'MECH_KZGV94','PERF_1KAAN9','DEV_RCNUYF',64.10,2.7,'Membrane',54730111,100,'NKRO',96.1,91.8,0.65,1.8,1.1,2.5,3.4,'Moderate','Screw-in',1.5,'ABS','Laser Etched',9,'false',14,6
+'MECH_HKZ6D0','PERF_3XQJRA','DEV_1QESX3',57.20,2.6,'Membrane',36030925,54,'NKRO',95.0,91.6,0.29,1.6,2.2,2.4,3.0,'Minimal','Plate Mount',1.5,'ABS','Dye Sub',8,'true',7,9
+'MECH_75QL2W','PERF_JRI5CV','DEV_FP4I9V',59.60,2.8,'Magnetic',75453547,28,'NKRO',96.3,91.5,0.56,1.3,2.4,1.8,3.0,'Moderate','PCB Mount',1.4,'PBT','Laser Etched',1,'true',10,2
+'MECH_K07I2E','PERF_HVGOS4','DEV_JQY7C9',56.40,3.9,'Magnetic',34689698,7,'2KRO',99.6,97.0,1.60,1.2,2.2,2.5,3.0,'Moderate','Plate Mount',1.2,'PBT','Dye Sub',3,'false',11,1
+'MECH_HDUID0','PERF_EBYQ61','DEV_E12XIX',75.70,1.8,'Membrane',26622916,67,'NKRO',96.0,99.9,1.04,1.6,1.4,2.4,3.8,'Minimal','Screw-in',1.3,'Double Shot PBT','Dye Sub',3,'true',0,5
+'MECH_2K4BAX','PERF_E94GZ9','DEV_SRJKI0',66.50,2.0,'Membrane',79822359,31,'NKRO',94.7,96.0,0.48,1.7,1.2,1.6,3.9,'Moderate','PCB Mount',1.1,'Double Shot PBT','Laser Etched',9,'false',15,7
+'MECH_WJ33NV','PERF_ULK4MU','DEV_HNU5RU',50.40,1.9,'Mechanical',64376250,68,'6KRO',90.8,94.3,0.68,1.7,2.3,2.2,3.6,'Moderate','Plate Mount',1.4,'PBT','Double Shot',2,'false',5,6
+'MECH_TMOKLS','PERF_W4RPRZ','DEV_YT70FG',72.90,3.2,'Mechanical',79235670,45,'NKRO',98.7,96.4,0.60,1.6,2.0,1.5,3.4,'Moderate','Plate Mount',1.0,'ABS','Laser Etched',7,'false',2,3
+'MECH_UYKK22','PERF_WJB77T','DEV_J0VLKS',58.30,1.8,'Membrane',28056026,35,'6KRO',94.5,98.9,0.78,2.5,1.4,2.2,3.3,'Moderate','Screw-in',1.1,'ABS','Dye Sub',2,'false',10,9
+'MECH_L5DO59','PERF_D1MM65','DEV_4EHQJ5',55.20,2.7,'Optical',52837281,7,'2KRO',96.6,97.6,1.04,1.8,1.1,1.7,3.2,'None','Plate Mount',1.3,'ABS','Laser Etched',4,'false',10,7
+'MECH_W5HH38','PERF_NHGRR9','DEV_DDGOG9',47.50,2.1,'Mechanical',90966764,48,'NKRO',94.0,94.0,0.46,1.4,2.0,2.5,3.7,'Minimal','Plate Mount',1.5,'PBT','Dye Sub',7,'true',9,4
+'MECH_1RC4FM','PERF_AUF6CG','DEV_0D4XIE',60.40,1.6,'Optical',95366590,86,'6KRO',98.8,97.1,0.57,2.2,2.4,2.3,3.7,'Moderate','Plate Mount',1.4,'PBT','Dye Sub',2,'false',14,7
+'MECH_55YC5U','PERF_1OYQ9V','DEV_SZ8LUJ',64.90,1.8,'Optical',97317408,56,'NKRO',96.5,92.7,0.15,1.2,1.1,1.8,3.7,'Minimal','Plate Mount',1.3,'ABS','Double Shot',2,'true',15,1
+'MECH_FONPHX','PERF_AWMGNY','DEV_HWR36U',59.20,2.9,'Magnetic',37084373,93,'6KRO',93.5,95.0,1.33,1.5,1.7,2.4,3.1,'Moderate','PCB Mount',1.4,'ABS','Dye Sub',2,'true',15,3
+'MECH_IKOUIX','PERF_ITIGH8','DEV_H0JJU0',61.30,3.3,'Optical',24841837,56,'6KRO',91.6,94.7,1.86,2.0,1.9,1.6,3.3,'Minimal','Screw-in',1.4,'PBT','Laser Etched',3,'true',2,2
+'MECH_MMQTGM','PERF_A59V9Y','DEV_JEGG1H',74.40,2.6,'Magnetic',98625617,92,'6KRO',99.8,97.3,1.89,2.1,1.4,1.8,4.0,'None','Screw-in',1.5,'Double Shot PBT','Double Shot',5,'true',6,5
+'MECH_LKIR5S','PERF_1Z1VLT','DEV_2D167O',74.80,3.3,'Mechanical',65137509,103,'NKRO',94.4,93.0,1.39,2.1,1.6,1.5,3.2,'Moderate','Plate Mount',1.2,'Double Shot PBT','Double Shot',4,'true',1,2
+'MECH_6T5AOP','PERF_HDCAFC','DEV_TNDPV3',51.30,2.3,'Membrane',32288215,38,'NKRO',97.7,91.1,1.45,2.3,2.0,2.1,3.5,'Minimal','PCB Mount',1.4,'ABS','Double Shot',3,'true',1,10
+'MECH_9U7PPT','PERF_5TYO7O','DEV_ASU0Z3',60.10,3.2,'Magnetic',62465356,59,'6KRO',93.7,94.6,1.19,1.8,1.9,2.4,3.5,'Minimal','Screw-in',1.4,'PBT','Double Shot',5,'false',7,9
+'MECH_6JIN9X','PERF_NODC9J','DEV_Y0A4P2',76.80,2.4,'Magnetic',53728363,34,'2KRO',96.3,90.3,0.69,1.4,2.5,2.4,3.7,'Minimal','Screw-in',1.0,'Double Shot PBT','Laser Etched',1,'true',12,5
+'MECH_QP0XSC','PERF_UN7A5H','DEV_RTYWLS',47.20,3.9,'Membrane',43795513,76,'2KRO',99.8,99.8,0.67,1.1,1.3,2.0,3.3,'Minimal','Plate Mount',1.1,'PBT','Laser Etched',8,'true',6,9
+'MECH_XAR1YB','PERF_CR3XXS','DEV_Z8KY4H',46.40,2.7,'Membrane',54306199,33,'2KRO',96.5,96.8,1.52,1.6,1.2,2.1,3.5,'Minimal','PCB Mount',1.2,'Double Shot PBT','Dye Sub',3,'true',5,9
+'MECH_MBTP44','PERF_R5JPBL','DEV_XJB3H8',52.30,1.9,'Mechanical',88408487,63,'2KRO',96.7,93.4,1.90,2.0,1.6,1.9,3.4,'Minimal','Screw-in',1.1,'Double Shot PBT','Double Shot',1,'true',0,4
+'MECH_BCJS8A','PERF_OADZMR','DEV_FX0S37',51.50,3.9,'Magnetic',45123417,63,'6KRO',91.7,91.5,1.35,1.0,2.2,2.5,3.9,'Minimal','Screw-in',1.2,'PBT','Laser Etched',9,'true',3,10
+'MECH_9GMQ6P','PERF_MP0WWU','DEV_H4E0JB',64.70,3.7,'Mechanical',46045556,41,'NKRO',92.8,96.8,1.36,1.9,1.1,2.0,3.7,'Minimal','Plate Mount',1.3,'PBT','Double Shot',4,'false',5,2
+'MECH_LNT4MU','PERF_LQX0AZ','DEV_RJ7UYG',65.00,2.3,'Optical',55582798,5,'2KRO',90.0,91.9,0.68,2.5,1.5,2.1,3.1,'Minimal','Plate Mount',1.2,'ABS','Laser Etched',3,'true',5,9
+'MECH_9IJ2V2','PERF_01U390','DEV_5IUJ3E',48.40,2.0,'Membrane',92077738,72,'NKRO',92.1,95.8,0.96,1.3,1.1,1.7,3.3,'Moderate','Screw-in',1.2,'ABS','Dye Sub',5,'true',5,4
+'MECH_T3LPPL','PERF_FN5EWE','DEV_UOZV4S',69.90,2.1,'Membrane',86455242,9,'2KRO',94.4,90.1,0.71,1.0,1.7,2.1,3.5,'None','Plate Mount',1.2,'ABS','Double Shot',1,'true',5,1
+'MECH_49D6GN','PERF_W9CIFO','DEV_QWUUF7',48.80,3.0,'Mechanical',50008673,42,'NKRO',93.4,93.0,0.92,1.2,1.5,2.3,3.7,'Minimal','Plate Mount',1.5,'PBT','Double Shot',9,'false',3,10
+'MECH_X6Z5IF','PERF_LMKQCJ','DEV_Q6BWRG',67.20,3.8,'Mechanical',57439249,47,'6KRO',95.7,97.8,1.60,2.1,1.7,2.2,3.9,'Moderate','PCB Mount',1.5,'Double Shot PBT','Laser Etched',4,'true',2,5
+'MECH_KZXZZ4','PERF_WWNKX3','DEV_877W8J',54.80,2.9,'Magnetic',69222772,76,'2KRO',92.9,94.4,1.14,1.6,1.5,2.4,3.7,'Minimal','PCB Mount',1.0,'PBT','Double Shot',5,'false',4,5
+'MECH_83RQZD','PERF_JKT5MT','DEV_G0NLUL',52.40,2.2,'Magnetic',83557315,13,'6KRO',98.1,94.0,0.46,2.5,1.4,1.9,4.0,'Moderate','Screw-in',1.2,'ABS','Laser Etched',5,'false',15,9
+'MECH_048PEJ','PERF_9OPA0L','DEV_GJN1SB',48.80,2.2,'Optical',98144401,93,'2KRO',99.9,97.3,1.62,2.4,2.2,1.8,3.8,'Moderate','Plate Mount',1.2,'PBT','Double Shot',9,'false',15,5
+'MECH_LAQDHN','PERF_B10011','DEV_2MVN6I',45.90,3.1,'Magnetic',78740185,23,'NKRO',91.1,90.5,0.65,2.1,2.4,1.7,4.0,'Moderate','Screw-in',1.2,'PBT','Laser Etched',4,'true',6,6
+'MECH_FV3XKW','PERF_4LGQ91','DEV_OL8Z2J',57.70,3.6,'Membrane',70225071,3,'NKRO',93.3,99.5,0.51,1.7,1.6,2.2,3.7,'Minimal','Screw-in',1.2,'ABS','Laser Etched',0,'false',12,7
+'MECH_RQ9GDP','PERF_LNU2UK','DEV_DV5MQW',47.60,2.8,'Optical',72559273,42,'2KRO',94.4,90.3,0.47,2.1,1.9,2.4,4.0,'Minimal','Plate Mount',1.1,'PBT','Double Shot',7,'true',6,9
+'MECH_MXNIA4','PERF_BI1B1T','DEV_EO8H21',67.30,3.3,'Magnetic',80467631,59,'6KRO',92.4,99.6,0.28,2.2,2.0,1.5,3.7,'Minimal','Screw-in',1.2,'ABS','Laser Etched',3,'false',11,8
+'MECH_N5S1D8','PERF_50QBG5','DEV_MNMSXG',65.20,1.7,'Membrane',62841647,101,'2KRO',94.4,90.3,0.60,1.6,2.4,2.3,3.9,'Minimal','Screw-in',1.2,'ABS','Double Shot',7,'false',0,6
+'MECH_D7R3I7','PERF_SMRUY4','DEV_PVUBGQ',48.60,1.9,'Optical',55023494,8,'2KRO',99.6,94.7,1.71,1.6,1.2,1.8,3.7,'Moderate','Screw-in',1.1,'PBT','Laser Etched',7,'false',13,10
+'MECH_BI488N','PERF_9VINVZ','DEV_2MLLYA',45.60,3.3,'Membrane',25687190,31,'NKRO',93.8,92.6,1.79,1.2,1.8,1.8,3.3,'Minimal','Screw-in',1.2,'ABS','Laser Etched',1,'true',8,3
+'MECH_AMPEEK','PERF_BTEB73','DEV_R766CT',66.50,3.4,'Mechanical',45197548,79,'6KRO',91.9,99.0,1.07,1.6,1.9,1.5,3.2,'None','Screw-in',1.4,'Double Shot PBT','Dye Sub',6,'true',12,6
+'MECH_T25M0W','PERF_QA90DC','DEV_4W6O3W',53.70,3.2,'Membrane',82155074,44,'6KRO',99.7,93.5,0.64,1.7,1.1,2.3,3.5,'Minimal','Plate Mount',1.2,'Double Shot PBT','Double Shot',9,'true',0,7
+'MECH_BYL0XN','PERF_YLN56D','DEV_SA3V1F',56.20,2.8,'Magnetic',68848341,54,'NKRO',95.3,92.7,0.59,2.1,1.5,2.5,3.3,'Minimal','Plate Mount',1.1,'PBT','Double Shot',5,'true',1,4
+'MECH_96GB42','PERF_JWO75K','DEV_P820UF',65.70,2.8,'Magnetic',24196739,53,'2KRO',91.7,91.1,0.81,1.2,1.5,2.2,3.5,'Moderate','PCB Mount',1.0,'PBT','Double Shot',2,'true',11,5
+'MECH_FFZW1F','PERF_J2C28T','DEV_X0W0US',64.90,1.9,'Mechanical',51589337,18,'NKRO',92.4,90.7,0.96,1.3,1.4,2.4,3.2,'Minimal','Plate Mount',1.2,'ABS','Laser Etched',7,'false',13,6
+'MECH_EH8443','PERF_9YQ8IV','DEV_PV9NYR',65.10,3.2,'Magnetic',64580191,70,'6KRO',90.6,94.7,1.83,2.4,1.3,1.6,3.6,'Moderate','PCB Mount',1.1,'Double Shot PBT','Double Shot',9,'true',7,7
+'MECH_0H740R','PERF_ISQP38','DEV_4HP93B',73.10,2.5,'Mechanical',52092200,55,'NKRO',99.0,99.9,1.77,1.8,1.2,2.1,4.0,'Minimal','Plate Mount',1.2,'PBT','Laser Etched',8,'true',1,5
+'MECH_T7M5BX','PERF_ZYLSQ1','DEV_HW1Y4S',51.30,1.9,'Membrane',60299681,102,'NKRO',92.9,99.7,0.87,1.4,1.3,1.5,3.3,'Minimal','Plate Mount',1.2,'Double Shot PBT','Laser Etched',7,'false',6,8
+'MECH_JLJ4IN','PERF_O06WCS','DEV_B8TO5V',67.90,1.8,'Mechanical',48832186,88,'NKRO',94.5,93.5,0.36,2.5,2.1,2.3,3.4,'Moderate','PCB Mount',1.2,'ABS','Laser Etched',0,'false',3,10
+'MECH_TLUZXR','PERF_U1953E','DEV_HU35FP',68.60,3.5,'Optical',95634165,37,'6KRO',96.7,97.3,1.72,2.2,1.0,1.7,3.1,'Minimal','Plate Mount',1.1,'Double Shot PBT','Laser Etched',0,'false',11,8
+'MECH_YXZDIJ','PERF_0EQDDY','DEV_Q4HCV2',63.20,3.7,'Magnetic',94177444,63,'NKRO',91.6,93.6,1.80,2.1,2.2,1.9,3.6,'Moderate','Screw-in',1.0,'PBT','Laser Etched',3,'true',3,3
+'MECH_389G0C','PERF_SAF2SS','DEV_PXW2Z0',54.50,2.6,'Mechanical',63527376,60,'NKRO',99.1,99.4,1.35,2.3,1.3,2.4,3.4,'None','Plate Mount',1.1,'ABS','Laser Etched',5,'true',2,8
+'MECH_F8WUVR','PERF_UJPHN9','DEV_P8TPLB',62.60,1.7,'Magnetic',76354904,89,'6KRO',99.5,96.8,1.94,1.4,1.4,1.8,3.3,'Minimal','PCB Mount',1.2,'ABS','Dye Sub',4,'true',7,4
+'MECH_NYIKMP','PERF_JTN00O','DEV_X81O5H',72.30,3.3,'Mechanical',68014426,68,'NKRO',91.8,98.4,0.70,1.5,2.1,2.2,3.2,'Minimal','PCB Mount',1.4,'PBT','Dye Sub',0,'true',15,8
+'MECH_1KETC6','PERF_ELXUH1','DEV_32HGQA',72.00,1.7,'Optical',30541738,31,'NKRO',97.5,97.0,0.02,1.6,1.2,1.6,3.4,'Minimal','PCB Mount',1.3,'PBT','Laser Etched',5,'false',9,7
+'MECH_4YGQNN','PERF_FSEAWK','DEV_1ZS4V1',61.90,2.9,'Mechanical',65017408,60,'6KRO',92.7,96.0,0.24,1.5,1.8,2.1,3.4,'Minimal','Screw-in',1.1,'ABS','Laser Etched',7,'true',15,2
+'MECH_7Y5YH7','PERF_S8X0IV','DEV_ZPZPLM',50.90,2.9,'Membrane',30998924,22,'2KRO',95.3,91.7,1.53,1.9,2.3,2.1,3.7,'Minimal','PCB Mount',1.5,'Double Shot PBT','Dye Sub',4,'false',8,4
+'MECH_7CFQ02','PERF_8A80KB','DEV_SSBH70',58.70,1.8,'Membrane',94526735,104,'2KRO',95.2,94.0,0.55,1.7,1.3,2.1,3.6,'Minimal','PCB Mount',1.3,'PBT','Double Shot',5,'false',13,10
+'MECH_9Q9BJB','PERF_Z815P5','DEV_D284X1',71.00,3.0,'Mechanical',55173523,4,'2KRO',91.1,98.2,1.13,2.4,1.8,2.4,3.3,'Moderate','PCB Mount',1.3,'PBT','Laser Etched',7,'true',12,7
+'MECH_PWQ2AY','PERF_6M6SH8','DEV_2IKXR7',51.60,2.9,'Mechanical',82818712,86,'NKRO',99.0,99.2,1.77,1.6,2.3,1.7,3.1,'None','Screw-in',1.4,'ABS','Double Shot',7,'false',12,8
+'MECH_1BELFN','PERF_15IN3G','DEV_GCOVFF',51.90,3.1,'Optical',67568087,52,'NKRO',94.0,97.9,1.57,2.1,1.1,2.1,3.6,'None','Screw-in',1.4,'ABS','Double Shot',5,'false',7,3
+'MECH_C98BW9','PERF_8SIDYS','DEV_RDSZTE',47.20,2.3,'Optical',61688109,97,'2KRO',91.0,95.3,1.38,1.9,1.8,1.6,3.6,'Minimal','PCB Mount',1.3,'ABS','Laser Etched',9,'true',10,7
+'MECH_RG8TB5','PERF_KESTEK','DEV_OPZA6C',46.10,3.8,'Membrane',78812395,61,'6KRO',91.1,95.6,1.46,2.1,2.0,1.9,3.6,'None','Plate Mount',1.3,'PBT','Double Shot',9,'true',11,8
+'MECH_E07OW3','PERF_0H2T17','DEV_T3AGX9',57.20,2.9,'Optical',49190432,60,'6KRO',91.0,93.2,1.61,1.1,2.0,2.1,3.5,'Moderate','PCB Mount',1.2,'PBT','Laser Etched',2,'true',7,2
+'MECH_3ZWVOB','PERF_VV0WIF','DEV_NU3DUN',55.50,2.8,'Magnetic',33489946,100,'2KRO',94.4,90.9,0.28,1.9,1.4,2.0,3.8,'Minimal','Plate Mount',1.3,'ABS','Dye Sub',0,'false',9,10
+'MECH_NXRKBX','PERF_BQKVPB','DEV_W0WGAY',63.40,3.2,'Membrane',80174255,5,'6KRO',94.9,98.4,1.44,2.2,1.3,1.5,3.6,'None','PCB Mount',1.1,'PBT','Laser Etched',2,'true',4,7
+'MECH_65JIWL','PERF_2Q13N3','DEV_OFIKEW',60.80,3.6,'Mechanical',42415952,12,'2KRO',94.7,90.8,1.32,2.3,2.4,1.6,3.9,'Minimal','PCB Mount',1.3,'PBT','Dye Sub',3,'true',7,4
+'MECH_3XHHH8','PERF_LG2MM5','DEV_3POTG8',54.50,2.3,'Magnetic',30686363,86,'2KRO',92.4,90.2,1.11,2.0,1.4,1.5,3.4,'Moderate','PCB Mount',1.1,'ABS','Dye Sub',8,'false',6,6
+'MECH_IQBDSB','PERF_TTAOLN','DEV_QGAT7A',55.50,3.0,'Optical',44104988,98,'6KRO',92.9,99.6,1.95,1.1,1.5,2.1,3.8,'Moderate','PCB Mount',1.4,'Double Shot PBT','Double Shot',1,'true',1,2
+'MECH_58NBDA','PERF_HSM5E3','DEV_OYW85P',69.30,3.9,'Optical',91363131,77,'NKRO',91.4,93.0,0.29,1.7,1.8,2.4,3.8,'Minimal','Plate Mount',1.1,'PBT','Laser Etched',8,'true',15,7
+'MECH_6AJQ9I','PERF_YDOB74','DEV_G8WX1D',58.60,2.8,'Magnetic',91714367,31,'NKRO',98.4,99.5,1.50,2.2,1.3,2.2,3.8,'Minimal','PCB Mount',1.3,'Double Shot PBT','Laser Etched',9,'false',10,1
+'MECH_MQ9O4T','PERF_QHDTET','DEV_O1WQSZ',78.10,2.2,'Optical',88166989,10,'6KRO',91.2,93.1,0.80,1.2,1.5,1.5,3.0,'Minimal','PCB Mount',1.2,'Double Shot PBT','Double Shot',6,'true',0,8
+'MECH_A9S47B','PERF_ZZJUD9','DEV_UPGK1J',57.80,3.9,'Magnetic',82683637,71,'6KRO',95.1,96.8,1.55,1.0,2.4,1.8,3.5,'Minimal','PCB Mount',1.4,'ABS','Dye Sub',0,'false',5,10
+'MECH_K4M09U','PERF_9EWR3B','DEV_B5KN4A',68.00,2.4,'Membrane',54735133,58,'NKRO',93.2,98.0,0.99,1.2,1.5,2.5,3.9,'Moderate','Plate Mount',1.3,'Double Shot PBT','Dye Sub',6,'false',10,1
+'MECH_QFWLEA','PERF_QLZJWY','DEV_8ST3QM',76.20,2.8,'Optical',63132832,7,'NKRO',92.8,99.2,1.64,1.3,1.1,2.4,3.9,'Moderate','Plate Mount',1.0,'PBT','Double Shot',9,'true',11,3
+'MECH_Z008YU','PERF_FISACS','DEV_DTDZU4',74.70,3.6,'Magnetic',58791323,19,'NKRO',98.4,96.7,1.22,1.0,2.0,1.7,3.4,'Minimal','Plate Mount',1.4,'PBT','Laser Etched',7,'true',8,6
+'MECH_4BN5MK','PERF_FMFU1M','DEV_Y6DXE7',67.60,2.5,'Magnetic',40694433,33,'6KRO',93.6,97.4,0.69,1.2,2.4,2.4,3.0,'Moderate','PCB Mount',1.2,'PBT','Laser Etched',4,'false',3,1
+'MECH_3XT26L','PERF_AW3RAJ','DEV_3IVLQ5',65.70,3.6,'Magnetic',64463960,57,'2KRO',95.7,91.5,0.20,1.8,2.5,2.2,3.3,'Moderate','PCB Mount',1.2,'ABS','Dye Sub',5,'false',13,9
+'MECH_6INPI4','PERF_NHL1JB','DEV_DMXSO6',62.40,2.6,'Magnetic',72869148,85,'2KRO',96.4,90.3,0.34,1.4,1.3,1.8,3.1,'Moderate','Screw-in',1.5,'ABS','Double Shot',8,'true',3,3
+'MECH_NAE8ZF','PERF_DJ76V2','DEV_7XUGFP',49.90,2.7,'Membrane',37562253,70,'2KRO',99.7,97.1,0.38,2.3,1.7,1.9,3.9,'Moderate','Screw-in',1.1,'ABS','Dye Sub',8,'false',2,4
+'MECH_LTO9EO','PERF_KH97NW','DEV_71LYTR',49.70,2.5,'Optical',45451832,92,'NKRO',97.9,90.1,0.58,2.3,1.5,1.6,3.6,'Moderate','Screw-in',1.5,'ABS','Laser Etched',5,'true',5,9
+'MECH_GAZL6T','PERF_CEZVDT','DEV_EJBODX',73.20,3.5,'Optical',86927564,51,'6KRO',91.8,93.0,0.57,1.6,1.8,2.3,3.1,'Moderate','PCB Mount',1.1,'PBT','Laser Etched',2,'false',4,4
+'MECH_K8I6Y9','PERF_BM7GIZ','DEV_0KBG0R',56.00,2.2,'Mechanical',22914870,36,'2KRO',97.3,97.8,1.33,2.0,1.1,2.2,3.3,'Minimal','Screw-in',1.5,'PBT','Double Shot',8,'true',5,2
+'MECH_SLYPT1','PERF_OOODF3','DEV_VTY86B',76.00,3.2,'Optical',72791611,6,'NKRO',94.1,95.3,1.03,1.5,1.9,1.6,3.4,'None','Plate Mount',1.0,'PBT','Laser Etched',8,'false',10,5
+'MECH_CHF6GT','PERF_2353Z7','DEV_KDG705',68.10,1.5,'Membrane',66775753,90,'NKRO',94.4,99.3,0.06,1.8,1.3,1.7,3.4,'Minimal','Plate Mount',1.4,'PBT','Double Shot',2,'false',10,2
+'MECH_3UL2C9','PERF_S0SHTW','DEV_41S1SC',53.50,3.1,'Membrane',98078269,78,'6KRO',99.8,93.4,0.39,1.9,2.3,2.4,3.9,'Minimal','PCB Mount',1.4,'ABS','Laser Etched',3,'true',3,3
+'MECH_VUBCFF','PERF_NWJXVD','DEV_SKLAFS',76.50,3.8,'Magnetic',51865255,36,'2KRO',96.5,93.6,1.36,1.2,2.1,2.2,3.3,'Moderate','Screw-in',1.2,'PBT','Laser Etched',5,'false',14,9
+'MECH_APYNA5','PERF_PBZATU','DEV_FVWUOV',71.20,2.5,'Magnetic',62263371,17,'6KRO',95.5,94.5,0.48,1.1,1.7,1.8,3.4,'Moderate','PCB Mount',1.1,'PBT','Double Shot',6,'true',7,10
+'MECH_BZ93Y4','PERF_XO67XK','DEV_DOKUR3',71.10,3.1,'Membrane',29581598,15,'6KRO',93.4,95.1,0.95,2.4,2.1,2.0,3.9,'None','Plate Mount',1.3,'PBT','Dye Sub',1,'false',4,10
+'MECH_FWGFNI','PERF_6B9IXE','DEV_1AVAD7',66.90,2.9,'Mechanical',65797340,69,'NKRO',92.5,98.6,0.85,1.5,1.6,2.4,3.2,'Moderate','PCB Mount',1.4,'Double Shot PBT','Double Shot',9,'true',1,9
+'MECH_8DASBL','PERF_X29WYQ','DEV_SYNS7D',54.10,2.8,'Membrane',27097593,44,'NKRO',95.9,97.3,0.93,1.5,2.2,1.8,3.5,'Moderate','Screw-in',1.1,'Double Shot PBT','Double Shot',9,'false',1,4
+'MECH_D8G8QY','PERF_5LXIZM','DEV_6GEWK1',66.10,2.1,'Magnetic',63840620,48,'NKRO',97.3,98.0,0.93,2.4,1.7,1.6,3.6,'None','Plate Mount',1.3,'PBT','Double Shot',5,'true',6,1
+'MECH_W64ZFP','PERF_MXU13X','DEV_WRH02D',60.60,3.1,'Magnetic',82836561,28,'NKRO',93.5,96.0,0.88,1.2,1.3,2.5,3.4,'Moderate','Screw-in',1.4,'PBT','Laser Etched',3,'false',0,6
+'MECH_OAEJTH','PERF_UKW1I8','DEV_WLJ1E3',76.60,2.1,'Magnetic',92017385,63,'2KRO',98.6,91.5,1.89,1.3,1.5,1.7,4.0,'Minimal','Plate Mount',1.2,'Double Shot PBT','Double Shot',5,'true',4,4
+'MECH_6BGHAI','PERF_1DPJOW','DEV_UU1SO8',65.90,3.0,'Membrane',67236789,3,'2KRO',91.0,92.0,0.49,2.1,1.1,2.4,3.3,'Minimal','Plate Mount',1.3,'Double Shot PBT','Dye Sub',1,'true',6,3
+'MECH_NNVUOM','PERF_8GJGBY','DEV_Y88FY0',55.30,1.5,'Mechanical',90909300,62,'6KRO',99.6,96.3,0.95,1.8,1.6,2.5,3.6,'Minimal','Plate Mount',1.2,'Double Shot PBT','Dye Sub',0,'false',9,1
+'MECH_GKPPD6','PERF_IMSO8H','DEV_6TBUUD',48.20,3.8,'Membrane',44272104,38,'2KRO',92.0,90.9,1.61,2.5,2.4,2.3,3.3,'Minimal','Plate Mount',1.4,'PBT','Dye Sub',4,'true',8,6
+'MECH_NXEX7V','PERF_H5HZHM','DEV_GXPFK6',66.40,2.5,'Optical',24739585,28,'6KRO',96.4,93.3,0.97,2.0,2.4,2.4,3.7,'Moderate','Plate Mount',1.4,'Double Shot PBT','Laser Etched',2,'false',6,2
+'MECH_2AL1DY','PERF_7KRXD8','DEV_6CZ1TN',54.30,4.0,'Optical',37144650,10,'NKRO',94.6,96.7,1.96,2.3,1.5,2.1,3.6,'Moderate','PCB Mount',1.1,'ABS','Double Shot',1,'true',10,3
+'MECH_1KFR5C','PERF_Y78YCR','DEV_A9XBJW',76.50,3.2,'Mechanical',35801383,56,'6KRO',98.6,98.4,1.67,1.2,1.1,2.0,3.3,'Minimal','Screw-in',1.4,'ABS','Laser Etched',2,'false',14,2
+'MECH_MHWCI3','PERF_0U88DN','DEV_WOZ51F',49.20,3.2,'Mechanical',31488998,55,'NKRO',94.1,90.4,1.74,1.2,1.9,1.8,3.7,'Moderate','Plate Mount',1.4,'ABS','Dye Sub',0,'false',13,3
+'MECH_8QF5MJ','PERF_O74TVF','DEV_UNE6FZ',73.80,2.4,'Mechanical',72269921,34,'NKRO',95.6,98.6,0.68,1.7,2.1,2.1,3.3,'Minimal','Plate Mount',1.5,'Double Shot PBT','Dye Sub',9,'true',13,6
+'MECH_EGF2C1','PERF_2WRJQ1','DEV_NBTI7I',70.10,3.1,'Membrane',51536615,8,'NKRO',91.9,97.9,0.74,2.4,1.7,2.4,3.1,'Minimal','PCB Mount',1.3,'ABS','Laser Etched',8,'false',6,8
+'MECH_R0AA51','PERF_UJPCLZ','DEV_YG92HC',68.50,1.6,'Optical',81741513,7,'6KRO',94.8,95.7,1.48,2.3,1.1,1.7,3.6,'Minimal','Plate Mount',1.2,'PBT','Double Shot',8,'false',4,3
+'MECH_4C670V','PERF_18JUP4','DEV_FC5QNP',51.70,3.7,'Magnetic',20968442,101,'2KRO',95.1,99.7,0.23,2.0,1.7,2.1,3.8,'Minimal','PCB Mount',1.5,'PBT','Double Shot',6,'false',14,1
+'MECH_NZZZJU','PERF_7I7EHO','DEV_MWOLQ9',49.00,1.8,'Optical',35038582,26,'6KRO',90.6,96.4,1.81,1.1,2.1,2.5,3.8,'Minimal','Screw-in',1.3,'ABS','Laser Etched',3,'false',8,5
+'MECH_NF4QRV','PERF_26HEC6','DEV_O9Z8XK',66.70,3.8,'Mechanical',58037013,65,'NKRO',95.4,93.9,1.70,1.5,1.3,1.8,3.1,'None','Plate Mount',1.3,'Double Shot PBT','Laser Etched',3,'true',11,8
+'MECH_IE3U3H','PERF_5NLUS9','DEV_S0BRQ0',71.00,3.4,'Optical',78268408,9,'6KRO',97.4,96.8,0.56,1.1,1.7,1.5,3.4,'Minimal','Screw-in',1.5,'ABS','Double Shot',1,'false',0,5
+'MECH_3H5KKL','PERF_07MYOK','DEV_6TDPFB',64.80,2.0,'Optical',84049394,50,'NKRO',94.0,94.7,1.73,1.2,1.5,1.6,3.9,'Moderate','PCB Mount',1.5,'ABS','Laser Etched',2,'true',0,5
+'MECH_SHIPYG','PERF_Y0M8IN','DEV_42C9A5',59.60,3.1,'Magnetic',70153499,71,'NKRO',91.8,91.6,1.31,2.1,2.2,2.1,3.6,'Minimal','Plate Mount',1.2,'PBT','Laser Etched',4,'false',9,2
+'MECH_MYCTZ2','PERF_RI18ZS','DEV_YWMA0G',68.50,3.0,'Magnetic',94367970,11,'NKRO',95.6,98.4,1.57,2.2,2.0,2.5,4.0,'Moderate','Screw-in',1.0,'PBT','Double Shot',8,'true',13,8
+'MECH_IL1DY7','PERF_J1Y3L2','DEV_AUS6CI',47.90,1.8,'Mechanical',96491260,88,'NKRO',97.9,97.6,1.53,2.1,1.8,1.7,3.6,'Minimal','Screw-in',1.4,'ABS','Double Shot',2,'true',10,9
+'MECH_40TUU9','PERF_09HBNM','DEV_B0DAHI',75.40,2.9,'Membrane',99197528,24,'6KRO',97.9,97.1,0.32,2.1,1.6,2.2,3.7,'Minimal','Screw-in',1.3,'ABS','Double Shot',8,'false',13,7
+'MECH_4BEDLU','PERF_GORTKV','DEV_CHBHCY',73.80,2.5,'Mechanical',87204286,80,'6KRO',98.1,98.0,1.51,1.8,1.5,2.2,3.0,'Moderate','Screw-in',1.4,'ABS','Dye Sub',9,'true',1,7
+'MECH_YQH6NF','PERF_TARKHO','DEV_OKLZ7O',46.00,1.8,'Magnetic',59349177,31,'2KRO',91.1,99.5,0.16,1.5,1.1,2.4,3.6,'Moderate','Screw-in',1.1,'ABS','Dye Sub',2,'false',1,6
+'MECH_6FG9UN','PERF_FUP3AC','DEV_6ITLI5',62.70,2.5,'Magnetic',64239112,15,'NKRO',96.9,98.2,1.86,2.1,1.7,2.2,3.6,'Moderate','PCB Mount',1.0,'ABS','Dye Sub',2,'false',8,8
+'MECH_5I7C7M','PERF_GGSUO0','DEV_NWJ62Y',59.50,3.5,'Membrane',27002737,79,'6KRO',99.9,96.2,0.27,1.0,2.4,1.6,3.5,'Minimal','Plate Mount',1.2,'PBT','Laser Etched',8,'true',7,10
+'MECH_HSOASE','PERF_1S24XG','DEV_YNR28X',56.60,2.0,'Membrane',31016068,4,'2KRO',90.9,94.3,0.60,1.3,2.2,2.5,3.1,'None','Plate Mount',1.4,'Double Shot PBT','Laser Etched',8,'false',4,1
+'MECH_WRCNUS','PERF_FYNU4X','DEV_76QUGM',70.00,2.7,'Mechanical',55956228,65,'NKRO',92.4,97.0,0.95,2.2,1.3,2.3,3.5,'Moderate','Plate Mount',1.0,'ABS','Double Shot',0,'false',9,4
+'MECH_M0Q69Y','PERF_D5B8M0','DEV_4B2N9Z',48.40,3.0,'Mechanical',92583238,72,'2KRO',92.7,95.2,0.76,2.0,1.9,2.4,3.2,'Minimal','Screw-in',1.4,'ABS','Laser Etched',6,'false',1,6
+'MECH_734JO3','PERF_KPM05N','DEV_J8QRRK',73.60,3.2,'Membrane',36000843,59,'6KRO',95.2,95.6,0.87,1.5,1.6,2.0,3.4,'Minimal','Plate Mount',1.3,'ABS','Dye Sub',3,'false',12,1
+'MECH_FO711Y','PERF_3P3SGD','DEV_956854',60.00,3.2,'Membrane',41618932,18,'6KRO',94.3,98.4,1.13,1.4,1.5,1.6,3.5,'Minimal','Screw-in',1.2,'PBT','Double Shot',4,'true',0,8
+'MECH_EY8PZ1','PERF_L54NXA','DEV_IL79E2',59.50,2.7,'Optical',72125192,86,'2KRO',97.3,95.7,0.72,1.5,2.4,2.0,3.9,'Moderate','PCB Mount',1.3,'Double Shot PBT','Double Shot',1,'false',1,3
+'MECH_OP4H7E','PERF_XKYRCR','DEV_O6MFEM',69.30,3.5,'Mechanical',91843949,85,'NKRO',99.1,90.2,0.76,2.1,1.3,2.3,3.8,'None','Plate Mount',1.2,'ABS','Double Shot',2,'true',14,4
+'MECH_SPO4EH','PERF_TDD3CT','DEV_T0953R',57.60,1.7,'Optical',40707697,87,'NKRO',91.9,95.2,1.55,1.6,1.9,2.0,3.1,'None','Plate Mount',1.1,'ABS','Dye Sub',1,'false',12,8
+'MECH_DA4EEO','PERF_JH78GG','DEV_DXZFOM',56.70,2.5,'Membrane',27418201,73,'NKRO',91.3,98.2,0.70,1.1,2.3,2.0,3.8,'Moderate','Screw-in',1.1,'PBT','Dye Sub',2,'true',2,5
+'MECH_60706R','PERF_N6DQ94','DEV_O7T3P5',72.50,3.9,'Magnetic',76193415,101,'6KRO',93.4,92.1,1.14,1.2,2.5,2.1,3.8,'Moderate','Plate Mount',1.5,'ABS','Dye Sub',4,'false',3,10
+'MECH_0VEB4D','PERF_TWPD8G','DEV_21TWC8',77.30,2.2,'Magnetic',22807995,52,'NKRO',99.9,98.7,0.46,2.3,1.9,1.7,3.2,'Minimal','PCB Mount',1.4,'Double Shot PBT','Double Shot',6,'true',6,7
+'MECH_U6X4N2','PERF_QQZUW2','DEV_BGJ17G',54.60,2.4,'Mechanical',52292499,5,'6KRO',96.4,99.7,1.07,1.8,1.9,2.4,3.3,'Moderate','PCB Mount',1.1,'PBT','Laser Etched',7,'true',2,9
+'MECH_XQ8XRP','PERF_NXVT6N','DEV_H2UPSN',56.50,1.9,'Membrane',33560977,28,'NKRO',99.8,91.8,1.62,1.9,1.9,2.1,3.6,'Moderate','PCB Mount',1.1,'Double Shot PBT','Laser Etched',0,'true',13,5
+'MECH_W89ANI','PERF_KMK1HS','DEV_IFLBM6',73.20,1.8,'Optical',97647821,54,'6KRO',98.0,95.6,1.42,2.0,1.5,1.6,3.9,'Minimal','Screw-in',1.4,'PBT','Laser Etched',4,'true',12,6
+'MECH_HXXLUU','PERF_1BZOZ8','DEV_OUK8CK',48.30,3.4,'Optical',50614782,70,'6KRO',99.1,93.0,1.65,1.4,2.1,2.0,3.5,'Minimal','Screw-in',1.3,'PBT','Dye Sub',8,'true',11,8
+'MECH_3109OC','PERF_0QT4OU','DEV_UYYSVN',53.80,3.3,'Membrane',55904086,23,'NKRO',90.8,92.8,1.17,2.3,1.5,2.0,3.3,'None','Screw-in',1.2,'PBT','Dye Sub',3,'true',0,1
+'MECH_E53Z2W','PERF_1U4ZGG','DEV_82AV77',70.60,3.1,'Mechanical',38871224,17,'6KRO',96.8,96.9,0.68,2.1,1.0,1.6,3.5,'Minimal','PCB Mount',1.4,'PBT','Laser Etched',4,'true',14,7
+'MECH_LQTQ6L','PERF_F0ZO8Z','DEV_GVTYQ9',76.80,3.8,'Mechanical',69392473,26,'2KRO',90.6,91.3,1.83,1.4,1.0,2.1,3.7,'Moderate','PCB Mount',1.3,'ABS','Dye Sub',3,'false',2,7
+'MECH_AT2QCN','PERF_YOFZZ6','DEV_8LALPO',72.00,3.1,'Membrane',95231110,28,'NKRO',90.8,91.9,1.95,2.1,2.5,2.5,3.1,'Minimal','Plate Mount',1.5,'Double Shot PBT','Dye Sub',3,'false',4,1
+'MECH_SRSRD2','PERF_MLFBNA','DEV_C470QY',57.50,2.9,'Optical',76658609,39,'2KRO',95.4,97.6,1.69,1.4,2.3,2.5,3.7,'Moderate','Plate Mount',1.2,'ABS','Dye Sub',8,'true',13,10
+'MECH_0SATSC','PERF_TS5RMR','DEV_8FMZVE',52.50,3.9,'Magnetic',53383070,62,'6KRO',93.4,91.1,1.12,1.0,1.5,2.4,3.0,'Minimal','PCB Mount',1.1,'PBT','Double Shot',1,'true',12,8
+'MECH_I2WJTQ','PERF_2929Z5','DEV_NY99YF',67.60,1.5,'Membrane',51606759,25,'6KRO',92.1,90.7,0.94,1.2,1.3,2.0,3.6,'Moderate','Screw-in',1.5,'ABS','Dye Sub',1,'true',1,9
+'MECH_2F119B','PERF_85184C','DEV_8VYN7N',75.70,2.4,'Magnetic',24930369,86,'6KRO',91.5,91.1,0.27,1.6,1.8,2.0,3.6,'Moderate','Plate Mount',1.1,'Double Shot PBT','Double Shot',3,'false',14,2
+'MECH_WLC7J4','PERF_0MVSAO','DEV_HC8EMP',49.00,3.6,'Mechanical',20830661,30,'NKRO',94.5,93.7,0.32,2.0,1.8,2.1,3.8,'Minimal','Plate Mount',1.3,'PBT','Laser Etched',5,'true',15,8
+'MECH_59BPTZ','PERF_OIB87W','DEV_0UFIM5',52.10,2.7,'Mechanical',47732088,28,'NKRO',92.8,94.3,0.99,1.4,1.9,2.2,3.8,'Moderate','Screw-in',1.2,'PBT','Double Shot',7,'false',12,1
+'MECH_S8RV78','PERF_XR6CL4','DEV_ZTNXY1',45.30,3.4,'Mechanical',61553595,24,'NKRO',96.7,94.1,1.74,2.4,1.2,1.8,3.3,'Minimal','Plate Mount',1.2,'PBT','Laser Etched',4,'true',5,5
+'MECH_8CK2X9','PERF_HS1ME6','DEV_EWY4NF',48.90,2.2,'Mechanical',91002591,49,'6KRO',90.9,99.0,1.61,1.8,2.4,1.6,3.2,'Moderate','Screw-in',1.3,'ABS','Dye Sub',1,'true',12,7
+'MECH_DZJF0O','PERF_F4CB40','DEV_FWT4K0',70.80,3.4,'Mechanical',86991942,43,'NKRO',94.2,96.8,0.35,2.4,1.7,2.2,3.9,'Moderate','PCB Mount',1.4,'PBT','Dye Sub',3,'true',3,2
+'MECH_2XXHGC','PERF_XOJE5K','DEV_83640O',59.60,2.4,'Mechanical',59209075,65,'2KRO',96.6,97.9,1.07,2.3,1.4,2.2,3.9,'Moderate','Plate Mount',1.3,'PBT','Laser Etched',2,'true',13,3
+'MECH_C3TJE7','PERF_L8802I','DEV_CAGDUY',53.90,3.9,'Magnetic',27829833,98,'6KRO',91.1,96.8,1.14,1.6,1.7,1.6,3.8,'Moderate','Screw-in',1.4,'PBT','Laser Etched',0,'false',3,6
+'MECH_SA1WTT','PERF_XRAD2Q','DEV_YBISEK',49.30,3.1,'Optical',78545492,41,'6KRO',96.8,95.8,1.08,2.3,1.7,1.8,3.2,'Moderate','Plate Mount',1.2,'ABS','Dye Sub',3,'true',15,6
+'MECH_S92SB6','PERF_Z8ZA51','DEV_RXHDYO',55.50,3.3,'Magnetic',22034308,63,'NKRO',91.1,94.7,0.95,1.9,1.1,1.8,3.2,'Moderate','PCB Mount',1.3,'PBT','Dye Sub',1,'false',2,2
+'MECH_CRQ07X','PERF_N38YV8','DEV_IZMISP',69.20,1.5,'Mechanical',22428737,103,'2KRO',93.9,95.8,0.72,1.5,2.4,2.4,3.5,'Minimal','PCB Mount',1.2,'ABS','Dye Sub',5,'false',12,6
+'MECH_1L7TUP','PERF_491ADL','DEV_2S6WGQ',76.50,1.8,'Optical',72233945,1,'6KRO',93.3,93.9,1.76,1.3,1.9,2.1,3.7,'Minimal','Plate Mount',1.0,'Double Shot PBT','Double Shot',0,'false',4,8
+'MECH_G6GG26','PERF_YFZL4T','DEV_4IEU7B',68.30,3.2,'Mechanical',42286737,12,'6KRO',99.5,90.6,1.75,1.7,1.1,2.0,3.4,'Moderate','PCB Mount',1.1,'Double Shot PBT','Laser Etched',1,'false',5,8
+'MECH_8RVSKX','PERF_AFJVHZ','DEV_CMGUWG',51.80,1.7,'Membrane',87513067,83,'2KRO',95.0,96.2,0.31,2.0,1.0,2.4,3.6,'None','Screw-in',1.5,'PBT','Double Shot',9,'false',6,5
+'MECH_QJ7MA2','PERF_XC2065','DEV_1ARGEG',79.50,3.2,'Membrane',85333437,71,'2KRO',98.8,97.4,0.88,1.8,2.0,2.0,3.1,'Moderate','Screw-in',1.1,'Double Shot PBT','Dye Sub',9,'false',8,10
+'MECH_NL8LB8','PERF_BC6L71','DEV_5OO6BJ',57.10,3.7,'Optical',60033077,4,'2KRO',93.5,91.8,0.09,1.6,1.0,2.0,3.6,'Minimal','Screw-in',1.0,'ABS','Dye Sub',9,'true',3,2
+'MECH_2PXR4P','PERF_KDNSUY','DEV_SUKL0C',65.00,3.0,'Optical',77727575,9,'2KRO',97.6,92.4,1.47,2.4,1.1,2.3,3.2,'Minimal','Plate Mount',1.2,'Double Shot PBT','Dye Sub',4,'false',10,5
+'MECH_9TLPMA','PERF_BXDAXL','DEV_VI9ORA',58.50,3.5,'Magnetic',67178117,93,'2KRO',95.4,98.8,1.03,1.7,1.5,2.4,3.2,'Moderate','Plate Mount',1.4,'Double Shot PBT','Double Shot',1,'true',0,2
+'MECH_ZMN6AW','PERF_EVQLEK','DEV_L3ZFCE',69.60,3.6,'Magnetic',96441301,4,'2KRO',90.1,95.8,0.25,1.0,1.2,1.8,3.5,'Minimal','Screw-in',1.0,'PBT','Double Shot',5,'true',12,1
+'MECH_CIBMRE','PERF_G5WC56','DEV_MYR07M',77.20,1.6,'Optical',65235796,20,'6KRO',91.7,98.9,1.81,1.5,1.7,2.4,3.8,'Moderate','PCB Mount',1.1,'PBT','Double Shot',7,'true',1,9
+'MECH_WE0E2Z','PERF_KBENXN','DEV_1TZBIG',78.00,1.6,'Optical',51317003,92,'NKRO',91.6,93.7,1.70,1.7,2.5,2.2,3.6,'Moderate','Plate Mount',1.1,'ABS','Dye Sub',8,'true',11,2
+'MECH_DDU9YR','PERF_CZGP3J','DEV_AN94F4',48.70,1.5,'Optical',90688471,73,'2KRO',96.5,97.0,0.46,2.4,1.7,2.0,3.8,'Moderate','PCB Mount',1.3,'ABS','Laser Etched',0,'false',1,3
+'MECH_SNB28W','PERF_GGFYT9','DEV_QZLQ4O',57.10,2.8,'Membrane',65674739,5,'6KRO',98.2,98.1,1.35,1.5,1.4,1.9,3.5,'Moderate','Screw-in',1.3,'ABS','Double Shot',5,'false',3,8
+'MECH_TFIEB3','PERF_XWK5FM','DEV_95K3FC',46.40,3.6,'Mechanical',83883009,78,'6KRO',99.3,99.0,1.90,2.4,2.3,2.0,3.8,'Minimal','PCB Mount',1.0,'ABS','Dye Sub',5,'false',14,1
+'MECH_I98KDY','PERF_K8VFLC','DEV_RSKSTR',77.40,3.7,'Magnetic',25786841,32,'NKRO',100.0,91.9,0.33,1.4,1.8,2.0,3.0,'Moderate','PCB Mount',1.1,'PBT','Dye Sub',1,'true',6,1
+'MECH_Z3KKHK','PERF_1M2O0H','DEV_DO2ILA',71.60,3.9,'Optical',26390149,51,'2KRO',99.0,93.8,0.31,1.1,1.5,1.9,4.0,'Minimal','PCB Mount',1.1,'PBT','Double Shot',3,'true',15,10
+'MECH_MUC1FM','PERF_4EETTV','DEV_PV18QT',76.10,2.2,'Membrane',35125749,96,'6KRO',93.7,90.1,0.73,1.9,2.1,2.2,3.8,'Moderate','Screw-in',1.3,'ABS','Dye Sub',0,'true',2,9
+'MECH_LDSFPO','PERF_FMCTQE','DEV_1JERI3',73.50,2.0,'Optical',67648189,47,'6KRO',99.8,94.2,1.96,1.1,1.1,1.8,3.7,'Minimal','PCB Mount',1.3,'ABS','Dye Sub',1,'false',3,1
+'MECH_MKN44O','PERF_RR2GFX','DEV_QPJMOP',61.90,2.9,'Optical',67985804,70,'2KRO',98.5,90.3,1.52,2.4,2.4,1.9,3.8,'None','PCB Mount',1.1,'ABS','Laser Etched',2,'false',2,8
+'MECH_BI8NIC','PERF_O2SD3M','DEV_5OYQDZ',53.40,2.6,'Mechanical',92227286,60,'NKRO',90.5,94.1,0.99,1.9,1.8,2.3,3.5,'Minimal','PCB Mount',1.1,'ABS','Double Shot',4,'false',14,9
+'MECH_FAEM02','PERF_I30NS8','DEV_7Z43GR',48.50,3.5,'Optical',86768766,46,'2KRO',94.2,97.1,0.57,1.6,1.5,2.2,3.9,'Moderate','Plate Mount',1.5,'PBT','Dye Sub',6,'true',15,3
+'MECH_AUB42T','PERF_U12F9V','DEV_NEP69U',56.20,2.1,'Mechanical',73579522,66,'6KRO',91.0,98.3,0.33,2.0,1.7,2.5,3.8,'Minimal','Screw-in',1.1,'PBT','Dye Sub',7,'true',12,5
+'MECH_83UVU1','PERF_PPKHLE','DEV_1RX7IQ',77.80,2.5,'Optical',24048871,31,'2KRO',94.5,91.4,1.13,2.2,1.7,2.4,3.2,'Minimal','Screw-in',1.5,'PBT','Laser Etched',8,'false',10,6
+'MECH_OOVIHA','PERF_PIMPOQ','DEV_IFAZO8',55.00,3.1,'Mechanical',86674124,40,'NKRO',92.6,99.2,0.99,1.7,2.3,2.3,3.2,'Moderate','Plate Mount',1.5,'ABS','Dye Sub',1,'false',5,9
+'MECH_TLSUHI','PERF_OM7JQC','DEV_Y4UFZK',67.50,2.5,'Magnetic',30282382,92,'2KRO',92.9,94.8,1.15,2.0,1.6,2.2,3.9,'Minimal','Plate Mount',1.1,'Double Shot PBT','Dye Sub',7,'false',12,1
+'MECH_6VZHXY','PERF_02IPIN','DEV_M74QX6',56.20,2.2,'Membrane',96091476,60,'6KRO',92.4,96.4,1.69,1.2,1.9,1.9,3.8,'Moderate','PCB Mount',1.4,'Double Shot PBT','Dye Sub',9,'false',7,4
+'MECH_T0LEMO','PERF_NF9SF4','DEV_ZUFE36',57.70,2.0,'Mechanical',83061599,49,'6KRO',95.5,92.7,1.32,1.6,2.4,2.2,3.9,'Minimal','Screw-in',1.4,'Double Shot PBT','Laser Etched',7,'false',14,10
+'MECH_QCUTKT','PERF_7T20WA','DEV_DJE0JV',53.50,3.6,'Mechanical',28070073,8,'NKRO',95.5,90.7,0.43,2.4,1.6,2.4,3.7,'Moderate','PCB Mount',1.0,'PBT','Laser Etched',8,'false',4,9
+'MECH_AAE5RZ','PERF_LDCAQN','DEV_6CKVBW',74.40,3.8,'Optical',52738196,76,'6KRO',96.4,97.8,0.59,2.0,1.6,1.6,3.1,'Minimal','PCB Mount',1.1,'PBT','Laser Etched',6,'false',13,9
+'MECH_8TXXRO','PERF_UNSY7L','DEV_RV0EIJ',70.60,1.6,'Mechanical',28131968,62,'2KRO',96.8,98.0,0.72,2.3,2.3,1.9,3.1,'Moderate','Plate Mount',1.2,'Double Shot PBT','Dye Sub',8,'true',12,8
+'MECH_3XRPUO','PERF_LUHLDD','DEV_QIL406',55.10,2.4,'Optical',47947123,52,'NKRO',99.9,99.0,1.50,1.9,1.9,2.0,3.3,'Minimal','Plate Mount',1.2,'PBT','Dye Sub',1,'false',5,4
+'MECH_89RAEL','PERF_SGSR4O','DEV_DRCSQ8',52.60,1.6,'Mechanical',95855337,36,'6KRO',95.6,99.8,0.25,1.8,2.0,1.9,3.7,'None','Plate Mount',1.4,'Double Shot PBT','Dye Sub',5,'true',1,5
+'MECH_5P8RIH','PERF_2E4PML','DEV_1TCBBX',50.40,3.5,'Mechanical',52884907,71,'NKRO',90.3,92.4,0.58,1.9,2.2,2.2,3.4,'Minimal','Plate Mount',1.3,'Double Shot PBT','Dye Sub',5,'false',3,4
+'MECH_5UR7LZ','PERF_J9Q5ID','DEV_BKWW3W',55.50,2.3,'Mechanical',58316035,59,'2KRO',90.6,91.8,1.89,1.5,1.9,2.1,4.0,'Moderate','PCB Mount',1.2,'PBT','Laser Etched',1,'true',1,5
+'MECH_N2ADKL','PERF_CUBK6I','DEV_35WSZC',79.40,3.9,'Membrane',99520697,32,'6KRO',99.7,92.5,1.08,1.2,1.6,1.7,3.2,'Minimal','Plate Mount',1.4,'ABS','Laser Etched',0,'false',1,1
+'MECH_1UPBI3','PERF_S7L4IR','DEV_MGPFLM',67.40,1.9,'Optical',71480770,98,'2KRO',92.7,96.7,0.57,2.1,1.3,2.4,3.3,'None','Plate Mount',1.2,'PBT','Laser Etched',1,'true',12,1
+'MECH_7PQZ81','PERF_XL5FYH','DEV_HTVHHX',76.50,3.3,'Optical',95161837,72,'6KRO',91.4,99.9,1.12,2.2,1.6,2.0,3.1,'None','PCB Mount',1.3,'PBT','Double Shot',5,'true',10,4
+'MECH_BBGGL2','PERF_SP5EQU','DEV_AZI4HT',71.80,3.9,'Magnetic',97560181,86,'NKRO',93.1,94.4,1.09,1.9,1.9,1.8,3.3,'Moderate','Plate Mount',1.1,'PBT','Dye Sub',1,'false',2,5
+'MECH_HRM3T1','PERF_WWHJXT','DEV_UF57FW',47.10,3.0,'Membrane',58039299,97,'2KRO',97.7,93.5,0.98,2.5,2.3,1.5,3.9,'Minimal','PCB Mount',1.2,'PBT','Laser Etched',8,'false',13,4
+'MECH_FO4Q8H','PERF_E9A0ML','DEV_WLH9NT',71.10,1.7,'Optical',58159931,7,'6KRO',97.4,95.8,1.13,2.1,1.8,2.0,3.5,'Minimal','PCB Mount',1.4,'PBT','Laser Etched',8,'true',4,2
+'MECH_W938WU','PERF_RAFPT4','DEV_ET52NO',64.40,1.7,'Membrane',59902073,25,'6KRO',92.4,98.1,1.82,1.2,1.9,1.7,3.6,'Minimal','Screw-in',1.3,'PBT','Laser Etched',3,'true',0,2
+'MECH_A004FP','PERF_SWEBN8','DEV_5J59FO',74.10,2.0,'Mechanical',60707471,10,'NKRO',91.8,95.7,0.71,1.6,2.0,1.7,3.4,'Minimal','Plate Mount',1.1,'PBT','Double Shot',1,'true',15,3
+'MECH_L010QC','PERF_X3H5EZ','DEV_Z57U0N',76.70,2.0,'Magnetic',23947062,53,'6KRO',95.4,91.5,1.96,2.1,2.2,1.6,3.4,'Moderate','Plate Mount',1.1,'ABS','Laser Etched',6,'false',12,3
+'MECH_3X0SO0','PERF_S0CW2P','DEV_89DV2I',53.50,3.8,'Mechanical',26474182,58,'6KRO',99.9,97.1,0.26,1.6,2.0,1.8,3.9,'Moderate','PCB Mount',1.4,'ABS','Dye Sub',7,'true',3,3
+'MECH_PN6AH9','PERF_6YWTCN','DEV_0Q5W3F',73.40,2.0,'Membrane',68432804,38,'2KRO',99.0,95.2,1.19,2.3,1.2,1.8,3.2,'Minimal','PCB Mount',1.4,'Double Shot PBT','Dye Sub',6,'true',0,7
+'MECH_NGN4ZI','PERF_APCER2','DEV_3BXCHB',52.70,2.0,'Mechanical',42777164,49,'2KRO',94.3,91.1,0.52,2.4,2.3,1.6,3.1,'Moderate','PCB Mount',1.4,'Double Shot PBT','Dye Sub',8,'true',6,6
+'MECH_D97Y40','PERF_HKKO03','DEV_8FB5E8',79.60,2.7,'Mechanical',59846102,77,'6KRO',92.7,97.6,1.97,1.2,1.1,2.1,3.2,'Moderate','Plate Mount',1.2,'PBT','Dye Sub',8,'false',0,5
+'MECH_5U42P4','PERF_P02EOU','DEV_NWCE5K',68.50,2.3,'Membrane',89399993,95,'2KRO',93.0,96.1,1.35,1.1,2.1,1.7,3.9,'Minimal','PCB Mount',1.2,'ABS','Laser Etched',3,'true',15,8
+'MECH_8P8AJC','PERF_LTXY3J','DEV_TG3HOX',48.30,3.5,'Magnetic',40431354,81,'2KRO',99.2,90.1,1.57,1.0,1.0,1.6,3.4,'Minimal','Screw-in',1.4,'Double Shot PBT','Dye Sub',5,'true',10,8
+'MECH_XUDXNI','PERF_0JF1R4','DEV_ZI28ZY',50.20,3.6,'Mechanical',54918833,61,'NKRO',96.8,90.4,1.75,1.1,2.0,2.4,3.5,'None','Plate Mount',1.2,'ABS','Laser Etched',5,'true',11,9
+'MECH_MY12IR','PERF_1K2FAA','DEV_KK1DG7',73.50,1.5,'Membrane',56266590,83,'6KRO',97.5,90.7,0.12,1.5,2.1,2.4,3.0,'Moderate','Plate Mount',1.0,'PBT','Double Shot',2,'true',14,1
+'MECH_85HXXX','PERF_DHO4IW','DEV_FM68KS',49.50,2.7,'Mechanical',82604986,69,'NKRO',94.1,90.9,1.90,1.5,1.3,1.7,3.3,'None','PCB Mount',1.5,'PBT','Laser Etched',1,'false',3,5
+'MECH_22SD8W','PERF_ZCKUOZ','DEV_WNQI0L',69.90,1.6,'Mechanical',49440223,45,'2KRO',92.6,97.9,1.93,1.8,2.3,2.2,4.0,'Minimal','PCB Mount',1.1,'PBT','Dye Sub',2,'true',5,3
+'MECH_ZSJ8ZJ','PERF_MQKLYU','DEV_S6Z7Y7',45.50,2.6,'Magnetic',50540903,30,'6KRO',91.6,93.1,1.19,1.3,1.2,1.8,3.5,'None','PCB Mount',1.0,'PBT','Laser Etched',3,'false',13,4
+'MECH_WFKPI9','PERF_RIJCY8','DEV_CYKB36',47.30,2.8,'Membrane',42576336,100,'NKRO',95.1,100.0,1.48,1.5,1.3,1.9,3.5,'Moderate','PCB Mount',1.0,'ABS','Double Shot',8,'true',12,6
+'MECH_KZXJHX','PERF_LMW196','DEV_OLW4DX',79.20,2.2,'Membrane',95304344,64,'2KRO',93.8,93.7,1.88,1.1,1.1,2.3,3.7,'Moderate','Plate Mount',1.3,'PBT','Laser Etched',8,'false',3,6
+'MECH_5DMKKD','PERF_UTYE65','DEV_ELQEGB',54.90,3.6,'Magnetic',78962670,33,'NKRO',99.2,90.7,1.25,1.3,2.4,2.5,3.2,'Minimal','Screw-in',1.1,'ABS','Laser Etched',3,'true',9,10
+'MECH_CKG4D9','PERF_XAASE9','DEV_T68ZOB',49.10,3.1,'Magnetic',55069437,12,'6KRO',94.4,91.1,1.55,2.3,2.4,2.2,3.9,'Moderate','PCB Mount',1.4,'ABS','Double Shot',1,'true',15,9
+'MECH_1T9AYB','PERF_2J210H','DEV_E27S9P',52.60,1.8,'Membrane',39728293,29,'NKRO',90.3,92.3,1.28,2.1,2.3,2.1,3.2,'Minimal','PCB Mount',1.4,'Double Shot PBT','Laser Etched',8,'false',8,7
+'MECH_5GTIGW','PERF_JSLZX9','DEV_8LPGQY',58.60,3.2,'Optical',41731011,28,'6KRO',91.4,96.9,1.32,1.7,2.0,2.1,3.6,'Minimal','PCB Mount',1.5,'Double Shot PBT','Laser Etched',1,'true',10,1
+'MECH_6ZPBRL','PERF_PPW718','DEV_JMJN4J',47.80,3.3,'Magnetic',33873425,84,'NKRO',93.1,91.7,1.60,1.9,1.8,2.2,3.1,'Moderate','PCB Mount',1.5,'PBT','Double Shot',5,'false',4,8
+'MECH_VPEGL6','PERF_6CEJRS','DEV_18XY8F',52.40,2.2,'Optical',30758335,83,'6KRO',94.0,95.0,0.93,1.3,1.1,1.6,3.6,'Minimal','PCB Mount',1.2,'Double Shot PBT','Laser Etched',2,'false',9,6
+'MECH_Y73CX1','PERF_BRBAZL','DEV_JKAN5E',48.90,2.4,'Magnetic',40298994,79,'NKRO',99.3,97.2,0.20,2.1,1.6,1.8,3.7,'Moderate','Screw-in',1.3,'ABS','Dye Sub',0,'true',15,8
+'MECH_BZIBIU','PERF_GPOMP3','DEV_SGXHCC',79.80,2.3,'Magnetic',63934271,90,'6KRO',93.1,95.9,0.20,2.3,2.1,1.7,3.1,'Minimal','Screw-in',1.1,'PBT','Laser Etched',3,'false',2,1
+'MECH_THU5RC','PERF_PVG3VS','DEV_K6UEXU',70.00,2.0,'Membrane',25396645,31,'6KRO',98.7,90.6,0.30,2.1,1.6,2.4,3.2,'Minimal','PCB Mount',1.3,'PBT','Double Shot',4,'false',11,4
+'MECH_HJF85X','PERF_OJ98U0','DEV_0ZJBIG',57.60,3.7,'Magnetic',34543895,16,'NKRO',95.6,99.3,0.44,1.1,1.5,1.6,3.3,'Moderate','PCB Mount',1.2,'ABS','Dye Sub',0,'true',13,3
+'MECH_R6255F','PERF_DPGN2R','DEV_D9FCJS',62.30,3.9,'Magnetic',74804474,8,'6KRO',98.9,96.7,0.08,1.5,1.1,2.3,3.4,'Minimal','PCB Mount',1.4,'Double Shot PBT','Dye Sub',2,'false',5,7
+'MECH_V2JT4N','PERF_QE09CP','DEV_CDFFQ4',52.50,3.8,'Membrane',76306455,46,'NKRO',90.8,92.0,1.42,1.9,1.7,2.1,3.1,'Minimal','PCB Mount',1.5,'PBT','Double Shot',1,'true',14,6
+'MECH_ACGW4B','PERF_6RMT3G','DEV_J5R90Y',55.20,2.9,'Membrane',84252011,68,'6KRO',99.0,98.9,0.84,2.3,2.4,2.3,3.8,'Moderate','PCB Mount',1.5,'ABS','Dye Sub',2,'false',15,5
+'MECH_AP1MTF','PERF_H5JSSA','DEV_J8TXBI',55.20,2.6,'Mechanical',54472138,6,'2KRO',93.5,93.2,1.83,1.1,2.3,1.8,3.1,'Minimal','PCB Mount',1.1,'PBT','Laser Etched',8,'false',3,10
+'MECH_LLUU84','PERF_V6QVT7','DEV_M2777O',69.20,3.5,'Mechanical',29098182,54,'2KRO',93.8,93.5,1.83,2.1,2.3,1.7,3.6,'Moderate','Screw-in',1.1,'Double Shot PBT','Laser Etched',5,'true',6,6
+'MECH_7EARQ7','PERF_QJ0HYF','DEV_FLLGM4',77.20,1.7,'Optical',75390571,99,'NKRO',99.5,99.1,1.65,2.4,1.7,2.0,3.2,'None','PCB Mount',1.3,'ABS','Dye Sub',3,'true',0,2
+'MECH_PAPUGD','PERF_0TN848','DEV_8BTMNT',55.60,2.1,'Optical',57014347,72,'2KRO',92.0,99.4,1.04,1.3,1.2,2.1,3.3,'Minimal','Plate Mount',1.2,'ABS','Dye Sub',6,'false',7,5
+'MECH_1031FG','PERF_QCFB36','DEV_8HIMJ8',48.00,1.7,'Optical',98396426,50,'NKRO',90.8,93.7,0.46,1.1,1.4,2.4,3.6,'Minimal','Screw-in',1.4,'ABS','Laser Etched',5,'false',14,3
+'MECH_N06116','PERF_BKX8SO','DEV_Z8W6SW',59.70,2.6,'Membrane',74055662,86,'NKRO',93.8,95.1,1.28,1.4,1.6,1.9,3.6,'Moderate','Plate Mount',1.3,'PBT','Dye Sub',9,'false',5,7
+'MECH_P2T789','PERF_IBLDW4','DEV_UX7DL5',50.80,1.9,'Membrane',52763428,31,'2KRO',90.9,97.7,1.94,2.3,1.8,2.1,3.6,'Minimal','Screw-in',1.1,'ABS','Double Shot',8,'true',14,2
+'MECH_07SA1M','PERF_O5298W','DEV_CW84PJ',54.70,3.2,'Mechanical',22076086,50,'NKRO',90.8,92.3,0.64,1.3,1.5,2.0,3.5,'Moderate','Screw-in',1.4,'PBT','Dye Sub',8,'false',5,7
+'MECH_KC5YWS','PERF_KSO4RP','DEV_YUBVZS',63.90,3.2,'Optical',78330589,89,'NKRO',90.2,95.1,0.59,1.4,1.3,2.4,3.7,'None','PCB Mount',1.2,'PBT','Laser Etched',3,'true',0,3
+'MECH_R9W06W','PERF_NH9NJS','DEV_FFDQ0J',62.10,1.7,'Magnetic',85308058,60,'2KRO',90.1,93.4,0.74,1.7,1.6,1.9,3.6,'Minimal','Screw-in',1.3,'Double Shot PBT','Laser Etched',6,'false',8,10
+'MECH_L9SDZE','PERF_ENLLR0','DEV_5NKFPH',68.10,3.6,'Optical',42061801,64,'2KRO',96.8,99.3,1.73,1.7,2.2,1.5,3.6,'None','Plate Mount',1.1,'Double Shot PBT','Double Shot',2,'false',12,9
+'MECH_96WY0R','PERF_N3IRJA','DEV_A64D86',72.00,1.8,'Magnetic',32399676,52,'2KRO',99.3,93.5,0.66,1.7,1.6,2.0,3.7,'Minimal','PCB Mount',1.4,'PBT','Double Shot',2,'false',2,10
+'MECH_WEMLLW','PERF_KGJQEF','DEV_IZX864',63.50,3.0,'Optical',68184357,3,'6KRO',98.1,99.1,0.81,1.7,1.2,2.0,3.9,'Minimal','Screw-in',1.4,'Double Shot PBT','Laser Etched',7,'false',12,9
+'MECH_RKW331','PERF_T1SINU','DEV_ECOTQQ',62.00,2.5,'Membrane',72899706,102,'2KRO',93.8,93.8,1.60,1.2,2.1,1.9,3.1,'Minimal','Plate Mount',1.3,'PBT','Double Shot',5,'false',4,6
+'MECH_MKNN45','PERF_T1FI6W','DEV_7AUZ9O',66.10,1.6,'Membrane',33454754,11,'2KRO',96.5,93.8,1.53,1.5,1.1,2.2,3.3,'Minimal','Plate Mount',1.2,'ABS','Double Shot',9,'true',4,4
+'MECH_EWAK26','PERF_HKKOH4','DEV_HOOKV7',71.10,2.0,'Optical',85946164,96,'NKRO',93.1,99.5,0.13,2.0,1.6,2.4,3.3,'None','Screw-in',1.4,'PBT','Laser Etched',7,'false',13,6
+'MECH_EOTKY4','PERF_10M5NH','DEV_USTQHB',63.40,3.1,'Magnetic',80140566,38,'2KRO',91.5,94.5,1.99,1.5,2.3,1.6,3.9,'Minimal','Plate Mount',1.0,'ABS','Double Shot',5,'true',8,1
+'MECH_TUVFGL','PERF_1JL0JB','DEV_4UIINW',70.40,2.9,'Membrane',63536202,89,'NKRO',94.6,94.9,1.66,1.1,1.7,1.9,3.4,'Moderate','PCB Mount',1.2,'Double Shot PBT','Dye Sub',6,'false',8,8
+'MECH_MNABQE','PERF_MU9DOV','DEV_0FKSVK',61.80,2.8,'Magnetic',61775693,101,'6KRO',96.3,93.8,0.84,2.2,1.4,2.1,3.1,'Minimal','Plate Mount',1.1,'PBT','Laser Etched',0,'true',7,3
+'MECH_4NB34Z','PERF_6FI6NT','DEV_20E7HD',52.50,3.1,'Membrane',58037579,88,'6KRO',93.3,97.4,1.33,1.7,2.2,2.1,4.0,'None','PCB Mount',1.1,'PBT','Dye Sub',9,'false',14,5
+'MECH_UB42YN','PERF_ZV04YM','DEV_SP6EKB',53.20,2.5,'Mechanical',73715771,26,'6KRO',90.1,93.1,1.04,2.3,1.9,2.3,3.2,'Minimal','Screw-in',1.2,'PBT','Dye Sub',5,'true',15,7
+'MECH_SFUVQR','PERF_TZ9QZ4','DEV_BB7TBZ',67.90,3.0,'Magnetic',88498800,28,'NKRO',99.0,90.4,0.13,2.0,1.8,2.0,3.4,'Minimal','PCB Mount',1.5,'ABS','Dye Sub',1,'true',0,4
+'MECH_CMEM23','PERF_N9N5NI','DEV_HYLC44',47.10,2.9,'Membrane',73228284,102,'6KRO',99.5,90.6,1.29,1.2,1.2,2.0,3.3,'None','PCB Mount',1.1,'ABS','Dye Sub',1,'true',12,7
+'MECH_XRG540','PERF_1173BN','DEV_WXBOI8',63.90,4.0,'Optical',26195562,11,'NKRO',91.9,96.5,0.87,2.1,1.5,2.2,3.0,'Moderate','Plate Mount',1.1,'Double Shot PBT','Laser Etched',6,'false',6,3
+'MECH_OOXA7C','PERF_N5K3K8','DEV_KGJMVB',73.80,1.9,'Membrane',46792495,12,'2KRO',96.6,95.9,1.22,1.6,1.1,2.3,3.4,'Minimal','Plate Mount',1.4,'PBT','Double Shot',8,'false',6,3
+'MECH_JR5L5D','PERF_W84S8V','DEV_NQ19L6',49.50,2.9,'Magnetic',88132400,93,'6KRO',97.1,90.8,1.97,1.1,1.0,2.0,3.5,'Moderate','PCB Mount',1.3,'PBT','Double Shot',3,'true',5,7
+'MECH_KQOL8C','PERF_0MRZZB','DEV_1J5N7G',49.60,2.2,'Magnetic',23406609,82,'2KRO',94.7,94.9,1.66,2.0,1.5,1.5,3.4,'Minimal','Plate Mount',1.0,'ABS','Dye Sub',8,'false',11,6
+'MECH_OJHAMW','PERF_REUKR1','DEV_WVDSB0',62.80,3.5,'Mechanical',63119030,60,'2KRO',95.3,90.5,0.51,2.1,2.1,2.2,3.5,'Moderate','Plate Mount',1.4,'ABS','Laser Etched',1,'true',9,2
+'MECH_18T3FZ','PERF_MGC88B','DEV_2528QI',67.60,2.4,'Mechanical',97006914,13,'2KRO',90.5,97.7,1.73,1.5,2.1,2.0,3.8,'Moderate','PCB Mount',1.0,'ABS','Dye Sub',0,'false',14,8
+'MECH_8DNSCI','PERF_TZBELS','DEV_PGIIDP',56.40,2.5,'Mechanical',55514991,10,'NKRO',94.1,99.4,1.46,1.0,2.0,2.3,3.2,'Minimal','Screw-in',1.3,'Double Shot PBT','Dye Sub',0,'true',6,6
+'MECH_JVT2V0','PERF_TZY9FF','DEV_FBZWW8',60.60,3.1,'Magnetic',53500698,58,'6KRO',94.9,93.6,1.15,1.2,2.2,2.3,4.0,'Minimal','PCB Mount',1.1,'PBT','Laser Etched',1,'false',8,2
+'MECH_WSOZQC','PERF_KURUT3','DEV_SI5TS2',61.10,3.6,'Mechanical',63628771,24,'2KRO',96.5,90.1,0.21,1.5,2.4,2.2,3.7,'Moderate','Screw-in',1.2,'Double Shot PBT','Double Shot',0,'false',5,1
+'MECH_DR3DBF','PERF_S8PZKF','DEV_GRNKJD',53.80,3.2,'Membrane',62795948,17,'2KRO',94.6,95.1,1.12,1.3,1.8,2.3,3.9,'Minimal','Screw-in',1.4,'Double Shot PBT','Double Shot',9,'false',15,3
+'MECH_BZO2U2','PERF_7FBXL8','DEV_18B77N',79.60,2.0,'Membrane',77656496,52,'NKRO',99.8,99.3,1.42,1.2,2.2,2.2,3.7,'Moderate','PCB Mount',1.1,'ABS','Dye Sub',4,'false',2,2
+'MECH_LX1GMK','PERF_TDPTRU','DEV_NQE97Y',48.40,2.5,'Optical',81114730,55,'2KRO',98.0,99.3,1.40,1.9,2.2,2.2,3.0,'Minimal','Plate Mount',1.4,'PBT','Double Shot',0,'true',4,2
+'MECH_OFD8V2','PERF_PJGW37','DEV_K4ERNI',73.40,3.2,'Mechanical',96600671,36,'2KRO',96.1,97.7,0.52,1.6,2.2,2.4,3.2,'Moderate','Screw-in',1.3,'PBT','Dye Sub',4,'false',11,3
+'MECH_QUFM45','PERF_BHJ05W','DEV_SB72XP',66.40,2.3,'Membrane',79829584,23,'6KRO',97.4,94.2,0.73,1.5,1.6,1.8,3.1,'Moderate','Screw-in',1.2,'ABS','Double Shot',3,'true',6,2
+'MECH_28MGIC','PERF_DVGD7H','DEV_V8H9BJ',76.80,1.9,'Mechanical',21392943,41,'NKRO',90.6,96.1,1.60,1.6,1.6,1.7,3.6,'Moderate','Plate Mount',1.0,'PBT','Dye Sub',2,'true',0,5
+'MECH_NCQQA6','PERF_XN82KP','DEV_B8COWQ',77.40,1.5,'Mechanical',65668771,17,'NKRO',95.6,90.8,0.13,1.3,1.0,2.0,3.4,'Minimal','PCB Mount',1.4,'ABS','Dye Sub',7,'true',3,10
+'MECH_4DTF06','PERF_B8G464','DEV_XUHMKI',67.50,2.8,'Mechanical',41724641,31,'6KRO',91.2,98.4,0.53,2.5,1.2,2.5,3.3,'Minimal','PCB Mount',1.1,'ABS','Double Shot',2,'false',3,9
+'MECH_DVZ0CZ','PERF_XWXOTX','DEV_XV2JEU',48.10,3.3,'Optical',79568290,24,'6KRO',99.4,91.8,0.99,2.1,1.9,2.1,3.7,'Minimal','PCB Mount',1.2,'Double Shot PBT','Laser Etched',2,'false',7,3
+'MECH_1KS24C','PERF_P5DNR6','DEV_B44L43',50.80,3.2,'Magnetic',23699208,54,'NKRO',93.7,93.3,1.51,1.4,2.1,2.4,3.7,'Minimal','PCB Mount',1.2,'ABS','Dye Sub',8,'false',12,8
+'MECH_WIL4BW','PERF_R9LOVN','DEV_1RQESV',52.30,3.9,'Magnetic',61048701,77,'NKRO',90.9,91.0,1.26,1.4,1.4,1.8,3.6,'Moderate','Screw-in',1.0,'Double Shot PBT','Laser Etched',5,'false',10,9
+'MECH_HK7ALF','PERF_2V3ZP8','DEV_04UK2B',73.90,3.7,'Magnetic',46502513,53,'NKRO',94.3,96.9,0.15,1.7,1.9,2.4,3.7,'Minimal','Screw-in',1.2,'Double Shot PBT','Laser Etched',8,'false',4,5
+'MECH_P0A8QQ','PERF_ZUM77X','DEV_RIEYIJ',47.30,3.2,'Membrane',62796872,59,'6KRO',93.5,97.3,0.06,2.2,1.7,1.9,3.5,'Moderate','Plate Mount',1.5,'ABS','Double Shot',1,'true',2,7
+'MECH_YA7QCT','PERF_BMD2MX','DEV_UULUU0',64.90,1.9,'Optical',73369918,95,'6KRO',92.3,94.7,0.32,1.7,2.1,1.7,3.1,'Minimal','PCB Mount',1.3,'ABS','Double Shot',5,'true',5,4
+'MECH_KJGF2Y','PERF_NL0792','DEV_Y1T150',66.00,3.8,'Membrane',62972450,57,'6KRO',98.1,95.6,1.61,1.2,2.0,2.1,3.2,'None','PCB Mount',1.2,'ABS','Dye Sub',2,'false',14,4
+'MECH_CP2BYC','PERF_UT57AN','DEV_7TNSFR',57.00,2.3,'Magnetic',33887346,48,'2KRO',94.8,98.5,1.75,1.1,1.9,2.1,3.6,'Minimal','Screw-in',1.2,'PBT','Dye Sub',4,'true',10,8
+'MECH_84ZJFD','PERF_WENAZ0','DEV_Q3FN5W',60.50,2.2,'Mechanical',22390488,85,'NKRO',95.0,91.7,0.78,1.2,2.3,1.9,3.9,'Minimal','PCB Mount',1.4,'Double Shot PBT','Laser Etched',4,'true',12,5
+'MECH_4FCQX0','PERF_U97BJJ','DEV_D2JRPP',56.30,2.2,'Membrane',54078546,9,'NKRO',93.3,99.5,0.96,1.7,1.6,2.2,3.6,'Minimal','Plate Mount',1.1,'Double Shot PBT','Dye Sub',9,'false',13,8
+'MECH_26F4P3','PERF_R648OB','DEV_KBBCCL',49.90,2.3,'Optical',65708920,41,'2KRO',94.8,90.8,1.18,2.3,1.9,2.1,3.1,'Moderate','Plate Mount',1.3,'Double Shot PBT','Laser Etched',3,'false',4,8
+'MECH_M5KUSD','PERF_8P4LKE','DEV_BDNW2O',46.20,2.5,'Membrane',33480059,84,'NKRO',91.9,90.7,1.89,1.8,1.2,2.3,3.9,'Minimal','PCB Mount',1.3,'ABS','Dye Sub',3,'false',8,9
+'MECH_ZPVPJW','PERF_S5FDKT','DEV_XJ4BA9',60.00,3.4,'Optical',47933372,80,'NKRO',92.0,97.6,1.07,2.5,1.0,2.3,3.3,'None','Plate Mount',1.5,'PBT','Laser Etched',3,'false',0,3
+'MECH_RKO59H','PERF_8L2GGJ','DEV_HZD31H',64.30,3.8,'Mechanical',59709512,80,'6KRO',98.5,92.4,1.00,1.3,2.4,2.5,3.3,'Moderate','Plate Mount',1.4,'ABS','Dye Sub',5,'false',4,2
+'MECH_8XRZ1C','PERF_Z5MFBC','DEV_1DDSF0',67.50,3.1,'Magnetic',49060272,100,'6KRO',97.2,95.2,0.13,2.2,2.4,1.6,3.1,'Minimal','Plate Mount',1.4,'PBT','Double Shot',0,'false',0,4
+'MECH_O1U4F1','PERF_EY4KWV','DEV_ZGYVM1',72.40,2.9,'Membrane',31309948,63,'NKRO',99.4,91.6,0.91,1.9,1.8,2.4,3.4,'Moderate','PCB Mount',1.3,'ABS','Dye Sub',2,'true',6,5
+'MECH_PDXG4D','PERF_QYNSE7','DEV_6H43LS',45.90,1.6,'Membrane',73486655,47,'NKRO',90.2,98.6,1.06,2.3,1.8,1.7,3.8,'Minimal','Screw-in',1.2,'ABS','Laser Etched',4,'true',9,5
+'MECH_2BQYF6','PERF_MZLH92','DEV_ZPXZYE',45.30,3.0,'Mechanical',23025080,43,'6KRO',92.4,93.4,1.33,1.3,1.7,1.9,3.5,'Moderate','Screw-in',1.0,'ABS','Dye Sub',9,'false',2,10
+'MECH_W4MZZ0','PERF_7VIWUM','DEV_B1AU4I',48.70,2.1,'Magnetic',51817444,45,'2KRO',97.7,99.6,0.26,1.1,1.7,1.7,3.1,'Moderate','Plate Mount',1.2,'PBT','Dye Sub',5,'false',11,3
+'MECH_5R3MU6','PERF_WUQEKK','DEV_9UDY2L',66.80,3.3,'Mechanical',46532587,61,'NKRO',93.9,90.6,1.19,2.3,1.8,1.5,3.1,'Minimal','Screw-in',1.2,'PBT','Double Shot',4,'false',3,4
+'MECH_O2EJMO','PERF_YZZHLX','DEV_R04MTD',50.40,2.9,'Membrane',53780389,24,'NKRO',99.8,95.5,0.86,1.8,1.9,2.0,3.6,'Moderate','Screw-in',1.0,'PBT','Dye Sub',9,'false',11,5
+'MECH_N5KAOR','PERF_X8URT6','DEV_QFLKJ1',78.10,2.2,'Magnetic',73773284,26,'NKRO',94.4,93.5,0.37,1.9,1.6,1.7,3.5,'Minimal','Screw-in',1.4,'ABS','Double Shot',4,'true',6,6
+'MECH_ZU25VW','PERF_BE4ZOJ','DEV_LQMQG5',57.00,2.8,'Magnetic',89335414,89,'2KRO',98.3,92.2,1.86,1.0,1.4,1.8,3.6,'Moderate','Plate Mount',1.4,'Double Shot PBT','Dye Sub',8,'true',8,1
+'MECH_QNY6AQ','PERF_I2CE6X','DEV_OHOBH0',54.20,3.5,'Magnetic',83274899,79,'2KRO',98.3,93.4,0.84,1.6,1.3,1.8,3.4,'Minimal','Screw-in',1.5,'Double Shot PBT','Double Shot',7,'true',12,10
+'MECH_P1XWKD','PERF_KK8YNL','DEV_UDJ5B5',78.10,3.0,'Optical',68038507,7,'2KRO',97.1,98.0,1.12,1.7,1.5,1.9,3.5,'Moderate','Screw-in',1.4,'ABS','Laser Etched',7,'true',13,3
+'MECH_TLGXF0','PERF_JM1K6R','DEV_8BGYRN',78.90,2.3,'Magnetic',72272622,34,'2KRO',96.2,98.2,1.31,1.9,1.4,2.1,3.2,'Minimal','PCB Mount',1.4,'Double Shot PBT','Laser Etched',3,'false',9,7
+'MECH_QL522S','PERF_FRJNAT','DEV_J3UZLH',59.60,3.1,'Mechanical',61810235,82,'6KRO',98.2,90.5,1.91,2.3,2.2,1.6,3.0,'Moderate','Screw-in',1.4,'ABS','Laser Etched',7,'false',1,10
+'MECH_JFOXVJ','PERF_CBD4BV','DEV_S9H7RT',56.10,4.0,'Optical',26229823,34,'2KRO',99.9,97.7,0.46,2.2,1.3,1.5,3.1,'None','Screw-in',1.1,'ABS','Double Shot',1,'false',0,6
+'MECH_8D5ZWT','PERF_LUX8OL','DEV_VFEVBI',70.50,3.3,'Membrane',69434421,101,'6KRO',93.2,96.8,0.66,2.2,1.4,2.0,3.1,'Moderate','Screw-in',1.3,'Double Shot PBT','Double Shot',2,'true',4,6
+'MECH_HDQ4VT','PERF_TV84X4','DEV_1Q127S',78.30,2.8,'Optical',28843466,90,'2KRO',99.1,98.8,1.21,1.3,1.2,2.4,3.1,'None','PCB Mount',1.4,'PBT','Double Shot',6,'true',11,8
+'MECH_CTWB8P','PERF_4PY68C','DEV_5SKG30',53.70,1.7,'Optical',61719270,82,'6KRO',93.1,99.4,1.47,1.4,1.4,2.4,3.5,'Moderate','PCB Mount',1.3,'Double Shot PBT','Dye Sub',3,'true',9,4
+'MECH_QDRUX1','PERF_CFH5YN','DEV_SLZIG6',67.40,3.2,'Optical',61002533,52,'NKRO',96.5,93.7,1.39,1.0,2.3,1.5,3.9,'Minimal','PCB Mount',1.1,'ABS','Laser Etched',0,'false',0,10
+'MECH_D4K498','PERF_KPDSNA','DEV_MT3HX8',69.60,2.4,'Membrane',70430701,30,'2KRO',96.3,91.1,1.01,2.1,1.2,1.7,3.1,'None','PCB Mount',1.3,'Double Shot PBT','Double Shot',6,'false',10,1
+'MECH_CE61Y6','PERF_A82KWG','DEV_1AK1XO',54.40,2.5,'Optical',96072417,86,'2KRO',91.5,97.3,0.12,1.0,2.5,1.7,3.8,'None','PCB Mount',1.1,'Double Shot PBT','Double Shot',3,'false',3,1
+'MECH_LK8RNS','PERF_4XG871','DEV_5CNSR0',45.90,2.5,'Membrane',43766008,2,'NKRO',93.8,92.0,1.40,1.0,2.1,2.4,3.1,'Minimal','Plate Mount',1.4,'ABS','Laser Etched',7,'true',0,3
+'MECH_7S2RSZ','PERF_HV6LBJ','DEV_AAVFLL',45.90,3.8,'Optical',53385948,104,'6KRO',96.8,94.3,0.13,1.6,2.1,2.2,3.0,'Moderate','PCB Mount',1.4,'PBT','Dye Sub',9,'false',0,9
+'MECH_SA49D7','PERF_5FF9LJ','DEV_UNL3ES',47.10,2.1,'Mechanical',42204806,14,'2KRO',99.7,92.4,1.24,1.8,1.5,1.6,3.9,'Moderate','Plate Mount',1.3,'PBT','Dye Sub',0,'false',13,1
+'MECH_DJ1JDJ','PERF_PWGG6L','DEV_3HKTWR',80.00,3.1,'Membrane',63416027,67,'2KRO',95.9,98.1,1.59,2.3,2.3,2.3,3.7,'Minimal','Plate Mount',1.3,'Double Shot PBT','Double Shot',3,'true',4,3
+'MECH_DB4RL7','PERF_SY5FKE','DEV_ET3UVP',68.50,3.5,'Optical',96577292,43,'6KRO',97.7,96.3,0.68,1.2,1.6,2.4,3.6,'Moderate','Plate Mount',1.2,'PBT','Dye Sub',0,'true',3,7
+'MECH_K39HC8','PERF_CS8OW8','DEV_1AQSVZ',74.70,3.7,'Mechanical',68801730,94,'2KRO',92.5,96.4,1.69,1.2,1.3,2.0,3.4,'None','Plate Mount',1.4,'ABS','Dye Sub',7,'true',3,1
+'MECH_C2DQDM','PERF_3MN2EF','DEV_W610YS',54.20,2.3,'Optical',35467886,77,'2KRO',99.5,98.9,1.31,2.0,2.1,2.2,3.4,'Minimal','Screw-in',1.4,'Double Shot PBT','Double Shot',6,'false',13,2
+'MECH_K6S6OQ','PERF_FAR999','DEV_RS8IZA',73.60,2.2,'Membrane',45540485,29,'2KRO',98.5,95.5,0.95,1.7,1.2,2.5,3.1,'Minimal','PCB Mount',1.4,'Double Shot PBT','Laser Etched',6,'false',15,2
+'MECH_K8FJOR','PERF_OAG2W5','DEV_N3R47Q',53.70,3.8,'Mechanical',29017200,15,'2KRO',94.8,98.1,1.35,2.1,1.9,1.5,3.8,'Moderate','Screw-in',1.3,'PBT','Dye Sub',3,'true',2,9
+'MECH_DVXANR','PERF_5K9C4S','DEV_LPBSO4',64.00,3.3,'Mechanical',46333208,13,'2KRO',96.6,93.5,1.12,2.5,2.4,1.6,3.9,'Moderate','Screw-in',1.4,'PBT','Laser Etched',1,'true',5,1
+'MECH_UGIXE1','PERF_FLVE0N','DEV_TNDNM2',79.10,3.3,'Mechanical',32767395,49,'NKRO',93.9,90.6,0.40,1.3,1.0,1.6,3.6,'Moderate','Screw-in',1.1,'PBT','Laser Etched',5,'false',8,5
+'MECH_7OX4AF','PERF_QWMV3C','DEV_ACRGJ3',55.90,3.2,'Mechanical',31645329,64,'NKRO',95.5,91.0,0.91,1.3,1.7,2.4,3.9,'Minimal','Screw-in',1.1,'ABS','Laser Etched',6,'true',13,9
+'MECH_QGVK7O','PERF_OGLNSX','DEV_F68UR2',56.60,3.2,'Magnetic',85093337,41,'2KRO',92.5,98.5,1.92,1.6,1.9,2.2,3.3,'None','Plate Mount',1.4,'PBT','Dye Sub',8,'false',5,9
+'MECH_X34932','PERF_QX2Y4G','DEV_YOOL40',76.80,2.4,'Optical',84672193,19,'2KRO',91.0,98.2,1.23,1.9,1.8,2.3,3.1,'Minimal','Plate Mount',1.0,'PBT','Double Shot',7,'false',2,6
+'MECH_Y67JJX','PERF_IITUJ3','DEV_VZDV83',79.70,2.0,'Mechanical',83579667,42,'2KRO',90.3,95.2,1.27,2.3,2.0,1.5,3.3,'Moderate','PCB Mount',1.1,'ABS','Dye Sub',8,'true',5,7
+'MECH_331KPQ','PERF_SWIZ83','DEV_R4S0U0',53.80,3.0,'Membrane',64910429,21,'6KRO',99.6,93.6,0.42,2.3,1.8,2.1,3.6,'Moderate','Screw-in',1.0,'PBT','Double Shot',0,'true',8,3
+'MECH_072CT9','PERF_9BCDV2','DEV_XRQD56',61.50,1.7,'Optical',54674538,42,'6KRO',97.8,94.9,0.46,1.2,1.1,1.8,3.0,'Minimal','Plate Mount',1.2,'Double Shot PBT','Laser Etched',1,'true',14,2
+'MECH_BTW6EN','PERF_I8K69R','DEV_1HSQCB',59.60,2.7,'Membrane',85245935,3,'6KRO',90.7,90.4,1.74,1.3,1.6,1.7,3.3,'Minimal','Plate Mount',1.0,'ABS','Dye Sub',2,'true',15,10
+'MECH_33KLP2','PERF_KYJSJQ','DEV_ICAYY9',48.80,3.9,'Magnetic',73180415,56,'2KRO',91.3,96.2,0.24,1.4,2.3,1.8,3.6,'Moderate','PCB Mount',1.2,'ABS','Double Shot',9,'false',3,7
+'MECH_JLHFXZ','PERF_GYYBVI','DEV_LD4TE7',76.30,3.4,'Magnetic',26955158,29,'6KRO',99.0,97.0,1.74,2.0,1.7,2.2,3.8,'None','Plate Mount',1.2,'ABS','Dye Sub',9,'true',2,8
+'MECH_S6X5D3','PERF_U2YZP5','DEV_L87SSX',61.90,1.8,'Membrane',58303355,84,'NKRO',91.5,94.9,0.88,1.6,1.4,2.2,3.2,'None','PCB Mount',1.4,'ABS','Laser Etched',9,'true',10,6
+'MECH_BDNJ4T','PERF_HYZGK6','DEV_3UCOIK',69.40,3.9,'Optical',54068615,17,'NKRO',95.9,95.0,1.08,1.5,1.5,2.1,3.8,'Moderate','Screw-in',1.2,'PBT','Laser Etched',4,'false',8,3
+'MECH_WRM5EC','PERF_RGJHJX','DEV_W3E69W',53.10,3.0,'Mechanical',48190475,24,'6KRO',93.7,95.6,1.17,2.3,2.0,1.8,3.0,'Moderate','Plate Mount',1.3,'ABS','Laser Etched',6,'true',15,2
+'MECH_HA8558','PERF_9ESAPR','DEV_X4ZS08',63.90,1.9,'Membrane',44185087,7,'2KRO',96.5,99.7,1.27,1.9,1.2,1.6,3.2,'Moderate','Plate Mount',1.3,'ABS','Dye Sub',6,'true',6,2
+'MECH_JVTWWJ','PERF_SU09MX','DEV_CGRCDX',66.70,2.3,'Magnetic',42420844,51,'2KRO',93.6,92.6,1.60,2.4,1.6,1.8,3.0,'Minimal','Plate Mount',1.3,'Double Shot PBT','Double Shot',8,'false',15,2
+'MECH_4XNEDI','PERF_GI957V','DEV_MXF2D0',50.60,2.4,'Magnetic',81946740,68,'2KRO',93.8,98.8,1.79,1.0,2.5,2.1,3.5,'Moderate','PCB Mount',1.2,'Double Shot PBT','Dye Sub',2,'true',1,1
+'MECH_IUGFC9','PERF_O3I0XO','DEV_6DMBK0',50.60,2.1,'Magnetic',68844786,1,'6KRO',92.9,96.2,0.31,2.2,1.3,1.6,3.5,'Minimal','PCB Mount',1.4,'ABS','Laser Etched',7,'false',11,4
+'MECH_FPQ001','PERF_PZP11Z','DEV_LDSHDY',78.70,3.9,'Optical',81692774,92,'6KRO',93.8,94.7,1.74,1.8,1.1,2.3,3.8,'Minimal','Screw-in',1.2,'PBT','Laser Etched',5,'false',13,8
+'MECH_VY1DN7','PERF_67MXM3','DEV_QTP8R2',49.10,2.9,'Optical',54820369,41,'2KRO',99.3,97.7,0.32,1.9,2.2,1.9,4.0,'Moderate','Screw-in',1.0,'ABS','Laser Etched',5,'true',13,10
+'MECH_9Y77FC','PERF_AAN5D3','DEV_RFE0M8',48.00,2.4,'Optical',84685849,92,'NKRO',93.3,94.7,0.93,2.2,1.2,2.1,3.9,'Minimal','PCB Mount',1.4,'ABS','Double Shot',9,'false',14,10
+'MECH_V6HINH','PERF_1YFK2D','DEV_QIMQ78',45.50,4.0,'Magnetic',89602632,31,'NKRO',95.5,96.3,0.25,1.8,1.1,2.4,3.5,'Minimal','Plate Mount',1.5,'PBT','Laser Etched',1,'false',12,7
+'MECH_IZD1QP','PERF_84D3W3','DEV_ZJ8U9O',57.80,1.9,'Magnetic',51862225,8,'6KRO',91.2,91.1,0.07,2.4,1.9,1.9,3.8,'Moderate','Plate Mount',1.3,'PBT','Double Shot',5,'false',8,3
+'MECH_7UKDBF','PERF_H691VP','DEV_MMGQ6O',73.60,2.3,'Optical',92551104,103,'2KRO',93.5,96.5,0.99,1.4,1.3,2.5,3.9,'Minimal','Plate Mount',1.2,'PBT','Laser Etched',6,'false',2,2
+'MECH_68RTEM','PERF_J3BW71','DEV_9Y7AQN',62.30,2.8,'Membrane',87473301,74,'NKRO',92.1,90.8,0.31,1.7,1.3,2.4,3.5,'None','Screw-in',1.2,'ABS','Laser Etched',8,'true',14,9
+'MECH_87PTWQ','PERF_3B7XW1','DEV_SPMKL6',73.40,2.7,'Membrane',63645776,71,'NKRO',93.2,96.9,0.62,2.3,1.1,1.9,3.4,'Moderate','Screw-in',1.0,'Double Shot PBT','Double Shot',8,'true',7,9
+'MECH_AB369O','PERF_75R0P9','DEV_MCDC6M',52.30,2.7,'Membrane',59510912,59,'NKRO',91.1,99.7,0.62,1.0,1.8,2.3,3.0,'Minimal','PCB Mount',1.3,'PBT','Double Shot',4,'true',0,8
+'MECH_9W8HGK','PERF_Y4V5VN','DEV_P008BX',50.80,2.3,'Optical',40154578,91,'2KRO',93.5,92.5,0.80,1.7,2.0,2.5,3.4,'Moderate','PCB Mount',1.3,'ABS','Laser Etched',9,'false',4,8
+'MECH_P7H2JA','PERF_DZWXQ2','DEV_L5RVTP',54.70,2.2,'Mechanical',53688471,59,'2KRO',95.4,90.5,0.42,1.2,1.3,1.5,3.7,'Minimal','Plate Mount',1.1,'Double Shot PBT','Dye Sub',4,'true',5,10
+'MECH_2IMS1E','PERF_J3BJ50','DEV_FCK9ZR',69.40,1.6,'Optical',74539205,28,'2KRO',93.9,91.5,1.18,2.4,2.0,2.5,3.5,'Moderate','Screw-in',1.1,'Double Shot PBT','Laser Etched',5,'true',3,9
+'MECH_JN4SBI','PERF_N8NWJF','DEV_CUAE7P',65.20,1.9,'Optical',39777820,47,'6KRO',96.7,94.1,0.20,1.6,1.6,2.2,3.8,'Minimal','Plate Mount',1.2,'ABS','Laser Etched',4,'false',14,3
+'MECH_PLOR3J','PERF_QZG37U','DEV_P7J376',47.50,2.2,'Membrane',57832837,85,'NKRO',97.4,92.0,1.43,1.2,1.8,2.1,4.0,'Minimal','Screw-in',1.0,'PBT','Laser Etched',9,'true',2,3
+'MECH_YI8FE2','PERF_WVOGML','DEV_JSWG16',63.50,3.4,'Optical',92285775,34,'2KRO',92.3,90.1,0.62,1.1,1.1,1.7,3.3,'Minimal','Screw-in',1.4,'Double Shot PBT','Laser Etched',0,'false',7,2
+'MECH_Q1W6SW','PERF_E24L6V','DEV_FTNAN2',53.80,2.5,'Membrane',82827854,43,'2KRO',91.2,93.3,0.58,2.4,2.0,1.9,3.4,'Minimal','PCB Mount',1.1,'ABS','Double Shot',1,'true',8,9
+'MECH_TGCQLY','PERF_9S6OFB','DEV_MGR982',52.10,1.8,'Membrane',21568657,68,'NKRO',92.6,98.1,0.02,1.6,2.4,2.0,3.8,'Minimal','Plate Mount',1.2,'Double Shot PBT','Laser Etched',5,'true',10,7
+'MECH_ZF5EW2','PERF_DRH5EH','DEV_PJC49H',70.20,3.1,'Optical',32381972,91,'2KRO',96.3,99.4,0.18,2.0,1.3,2.5,3.4,'Moderate','Screw-in',1.4,'ABS','Double Shot',5,'false',12,4
+'MECH_0DLHV8','PERF_0N5B1T','DEV_7RVIMY',78.20,4.0,'Magnetic',87620183,96,'6KRO',91.9,90.7,0.31,1.2,1.1,1.6,3.6,'None','PCB Mount',1.0,'PBT','Dye Sub',2,'false',6,8
+'MECH_QQ1YBZ','PERF_6B996Z','DEV_MEPNNH',49.00,1.7,'Magnetic',96911651,41,'2KRO',93.2,90.1,0.62,2.3,1.4,2.3,3.7,'Minimal','Plate Mount',1.4,'Double Shot PBT','Dye Sub',6,'false',12,6
+'MECH_4I1FJA','PERF_GGOM44','DEV_03OB9I',60.70,4.0,'Mechanical',51713292,18,'NKRO',93.0,91.8,0.94,1.9,1.1,1.7,3.9,'Moderate','Screw-in',1.4,'Double Shot PBT','Laser Etched',7,'false',10,5
+'MECH_CIY57Y','PERF_N5PVTX','DEV_QBBKG9',50.20,2.3,'Magnetic',57480333,94,'NKRO',90.9,95.5,1.41,1.1,1.5,2.1,4.0,'Moderate','Screw-in',1.2,'ABS','Dye Sub',4,'true',7,2
+'MECH_WTHIQC','PERF_AY32YP','DEV_KVYWSS',76.30,3.8,'Magnetic',35440288,100,'2KRO',96.8,98.7,0.75,1.0,1.2,2.2,3.2,'None','Screw-in',1.2,'Double Shot PBT','Laser Etched',5,'false',13,2
+'MECH_6O009A','PERF_F5F030','DEV_14VPJ2',69.30,2.4,'Magnetic',41623855,104,'6KRO',98.2,94.6,1.68,1.1,1.5,1.5,3.8,'Moderate','Screw-in',1.2,'Double Shot PBT','Double Shot',2,'true',5,9
+'MECH_QFLQ7M','PERF_KX2L8K','DEV_JJT1NA',68.50,2.1,'Membrane',80445147,45,'2KRO',94.5,96.6,1.87,1.1,2.3,2.4,3.2,'None','Screw-in',1.4,'Double Shot PBT','Dye Sub',0,'false',4,3
+'MECH_54RMTB','PERF_74YZAZ','DEV_8V3ITP',53.10,3.6,'Membrane',94154417,89,'2KRO',94.5,90.7,0.59,1.7,2.3,2.2,3.1,'Minimal','Screw-in',1.5,'PBT','Double Shot',5,'false',8,6
+'MECH_IRD2BZ','PERF_5FE7UG','DEV_KWEXI1',74.70,2.9,'Membrane',30483908,86,'NKRO',93.8,94.5,1.42,1.6,1.6,2.2,3.9,'Minimal','PCB Mount',1.1,'ABS','Dye Sub',2,'false',14,2
+'MECH_V2NERZ','PERF_BNRA9Y','DEV_999R2B',73.00,3.8,'Mechanical',89884238,3,'NKRO',92.0,97.2,1.02,2.1,1.1,2.4,3.2,'Moderate','Plate Mount',1.2,'PBT','Double Shot',3,'true',9,6
+'MECH_BTI3FR','PERF_3563ZD','DEV_QOAQWB',45.50,3.7,'Magnetic',37107299,45,'NKRO',94.4,91.5,1.62,2.0,2.0,1.5,3.8,'Moderate','Plate Mount',1.4,'ABS','Double Shot',3,'true',8,4
+'MECH_XMY1OW','PERF_VK2GWF','DEV_1N46WP',48.40,2.0,'Membrane',77256642,62,'2KRO',99.5,96.5,0.78,2.0,1.3,2.4,3.8,'Minimal','PCB Mount',1.3,'ABS','Double Shot',3,'true',12,9
+'MECH_ICW7VR','PERF_VEVAWR','DEV_84LA31',60.70,3.0,'Optical',96950304,37,'2KRO',96.4,91.7,0.75,1.0,1.4,2.5,3.8,'Minimal','Screw-in',1.2,'Double Shot PBT','Laser Etched',4,'true',6,5
+'MECH_0BCPMQ','PERF_I7MY1T','DEV_RWRMC2',67.40,3.3,'Mechanical',66820025,63,'2KRO',94.0,96.0,1.64,1.5,2.5,1.9,3.7,'Moderate','Screw-in',1.0,'Double Shot PBT','Laser Etched',5,'true',13,5
+'MECH_SQ023A','PERF_CJ3YTD','DEV_VH6RJA',50.00,2.3,'Optical',63132256,91,'NKRO',97.8,90.5,0.46,2.1,2.1,1.7,3.0,'None','Plate Mount',1.3,'ABS','Laser Etched',6,'true',9,4
+'MECH_S1VB4I','PERF_TXDTNP','DEV_3FELCY',70.80,2.2,'Membrane',20030032,19,'6KRO',92.5,92.0,0.85,1.0,1.9,1.6,3.4,'Moderate','PCB Mount',1.0,'Double Shot PBT','Double Shot',6,'false',1,1
+'MECH_P8MLMU','PERF_5DQPMX','DEV_1K9R4B',48.50,2.2,'Membrane',77467971,23,'NKRO',98.5,92.6,1.93,1.4,1.1,1.6,3.2,'Moderate','Plate Mount',1.4,'Double Shot PBT','Dye Sub',5,'true',6,3
+'MECH_8EFDAI','PERF_8T6AR8','DEV_7BWA19',51.20,3.5,'Membrane',86519138,102,'2KRO',99.7,91.5,0.54,1.2,1.4,2.0,3.8,'Moderate','Screw-in',1.2,'Double Shot PBT','Laser Etched',5,'false',9,3
+'MECH_RMMC8J','PERF_U7T2Z1','DEV_YB2RG1',71.10,2.4,'Mechanical',54620125,37,'6KRO',92.7,96.7,1.93,1.2,2.4,1.8,3.3,'Moderate','PCB Mount',1.3,'PBT','Laser Etched',7,'false',3,1
+'MECH_QRCENI','PERF_7CKOY7','DEV_3H3KAC',54.40,1.8,'Mechanical',73878906,73,'6KRO',96.0,99.6,0.76,2.0,1.8,1.7,3.8,'Moderate','PCB Mount',1.1,'ABS','Laser Etched',2,'true',13,5
+'MECH_BWG45O','PERF_CEUPXC','DEV_APRERS',55.50,2.5,'Membrane',56209982,39,'2KRO',93.6,92.8,0.08,1.2,1.7,1.6,3.6,'Moderate','Plate Mount',1.2,'Double Shot PBT','Laser Etched',2,'false',1,10
+'MECH_D0JVDR','PERF_ZCMEA1','DEV_T1PFAS',50.10,2.0,'Optical',42998597,91,'NKRO',94.5,96.0,0.01,1.8,1.6,1.6,3.1,'Moderate','PCB Mount',1.2,'ABS','Laser Etched',5,'false',8,7
+'MECH_7E16TN','PERF_ZWFSMD','DEV_D63213',66.90,2.7,'Optical',28174737,33,'NKRO',97.4,97.3,1.87,2.2,2.2,2.1,3.1,'Minimal','PCB Mount',1.5,'ABS','Dye Sub',1,'false',14,8
+'MECH_T4A0ZA','PERF_GGCUN2','DEV_H5TTQV',55.90,2.1,'Optical',54208646,21,'6KRO',96.0,94.2,1.74,2.3,1.3,2.4,3.9,'Moderate','Plate Mount',1.5,'ABS','Double Shot',6,'true',11,2
+'MECH_91RFH9','PERF_UCIVJW','DEV_9BUJ79',69.60,2.9,'Mechanical',25444367,43,'6KRO',97.1,98.2,1.63,1.8,1.1,2.0,3.6,'None','Plate Mount',1.1,'ABS','Double Shot',0,'true',1,7
+'MECH_UWATG5','PERF_1K5OYN','DEV_UL0I4W',57.60,1.9,'Membrane',85970186,4,'2KRO',91.5,92.3,1.39,1.1,1.3,2.1,3.0,'None','Screw-in',1.1,'ABS','Double Shot',8,'true',7,8
+'MECH_NF8SHZ','PERF_LTCCO9','DEV_243JMB',69.70,2.7,'Membrane',70361154,47,'6KRO',95.7,99.8,0.57,1.6,2.0,2.4,3.4,'Minimal','Screw-in',1.4,'Double Shot PBT','Laser Etched',4,'true',7,2
+'MECH_32SU05','PERF_9ZEZJY','DEV_A0VU32',61.40,1.9,'Mechanical',88638499,100,'6KRO',96.2,93.7,0.32,2.0,1.8,1.6,4.0,'Minimal','Plate Mount',1.4,'Double Shot PBT','Laser Etched',8,'true',11,2
+'MECH_BQZGUO','PERF_JMSISR','DEV_AEC15C',76.20,3.8,'Mechanical',85548383,41,'2KRO',90.7,90.9,0.96,1.8,1.6,2.1,3.3,'Minimal','PCB Mount',1.3,'PBT','Laser Etched',1,'true',13,7
+'MECH_USTXA3','PERF_ETL1SV','DEV_9APQP7',73.70,3.2,'Optical',76605089,11,'2KRO',96.0,91.3,1.15,2.0,2.3,1.6,3.8,'Minimal','Screw-in',1.1,'ABS','Laser Etched',4,'true',5,9
+'MECH_WAGQZB','PERF_XGTBDM','DEV_MU9MIK',54.70,3.2,'Magnetic',63095029,26,'2KRO',90.0,93.3,0.17,2.2,2.4,1.7,3.5,'Minimal','Plate Mount',1.2,'ABS','Double Shot',7,'false',14,10
+'MECH_UQZ599','PERF_KAIEJG','DEV_V9T7HF',61.80,2.9,'Membrane',82331520,80,'6KRO',91.8,99.3,1.77,1.7,1.6,2.0,3.4,'Minimal','PCB Mount',1.4,'PBT','Dye Sub',7,'true',11,8
+'MECH_EOWP6Q','PERF_IED213','DEV_0GX2E8',57.50,2.4,'Optical',92382666,58,'NKRO',90.8,99.8,0.22,2.2,2.3,2.3,3.7,'Moderate','Plate Mount',1.3,'ABS','Laser Etched',0,'true',3,9
+'MECH_L7XXZT','PERF_FRO3KB','DEV_X0ZT9P',68.10,1.9,'Membrane',66548632,47,'2KRO',92.2,90.5,1.81,1.1,2.1,1.9,3.8,'Moderate','PCB Mount',1.4,'Double Shot PBT','Dye Sub',7,'true',2,7
+'MECH_3JY5FQ','PERF_BF2FBT','DEV_V9VAIX',75.50,3.6,'Magnetic',22261073,39,'6KRO',96.6,91.5,0.63,1.9,1.7,2.3,3.2,'Minimal','PCB Mount',1.1,'ABS','Double Shot',4,'false',9,2
+'MECH_U9H18H','PERF_O3S7V2','DEV_PUQ5BD',65.80,1.8,'Magnetic',73164034,2,'NKRO',92.1,91.2,0.97,1.8,1.3,1.8,3.8,'None','Screw-in',1.3,'Double Shot PBT','Dye Sub',0,'false',5,6
+'MECH_AQCG6Y','PERF_CUF1IS','DEV_C8YYLC',76.30,3.8,'Membrane',95543537,76,'NKRO',99.8,99.1,1.30,1.3,1.1,2.3,3.0,'Minimal','PCB Mount',1.1,'Double Shot PBT','Laser Etched',4,'false',2,1
+'MECH_BMAFG7','PERF_4BDAO3','DEV_EV1E20',69.70,3.5,'Mechanical',58022892,42,'NKRO',97.7,94.6,0.24,1.9,2.0,1.6,3.0,'Minimal','PCB Mount',1.2,'PBT','Laser Etched',2,'false',5,4
+'MECH_TV3YTX','PERF_BUCJAT','DEV_EXHO6C',48.20,3.1,'Magnetic',86344129,23,'6KRO',95.9,91.4,1.92,1.7,1.0,2.2,3.1,'Moderate','Plate Mount',1.3,'PBT','Laser Etched',1,'false',12,8
+'MECH_XAN61C','PERF_LG1Z8H','DEV_E58F96',66.00,2.9,'Mechanical',21708723,18,'2KRO',95.9,98.5,1.59,2.3,1.5,2.4,3.2,'Minimal','Screw-in',1.2,'PBT','Dye Sub',3,'false',14,2
+'MECH_K7OTCI','PERF_QTNZ9J','DEV_VCS88F',45.70,1.9,'Membrane',68515687,79,'2KRO',94.1,93.5,0.31,2.0,1.7,2.1,3.6,'Minimal','Screw-in',1.4,'ABS','Laser Etched',7,'false',0,2
+'MECH_46QRK9','PERF_WHMYJY','DEV_IUJSYB',45.20,3.9,'Membrane',50393925,37,'2KRO',95.5,92.9,0.22,1.4,2.4,2.1,3.0,'None','Screw-in',1.3,'ABS','Laser Etched',0,'false',11,1
+'MECH_JU3MA1','PERF_RIL8DX','DEV_ZXSO5C',53.90,3.0,'Membrane',54385199,71,'6KRO',93.7,96.6,1.56,1.9,2.3,2.3,3.0,'Moderate','PCB Mount',1.0,'Double Shot PBT','Laser Etched',7,'true',5,9
+'MECH_TW3O6N','PERF_DDRZUY','DEV_E4KUSP',60.70,2.1,'Magnetic',98683291,27,'2KRO',94.4,95.4,1.91,1.2,2.3,1.5,3.2,'Minimal','PCB Mount',1.4,'PBT','Dye Sub',6,'false',11,7
+'MECH_9V5EXE','PERF_FOXP8A','DEV_HT4V2K',61.30,3.4,'Optical',47310610,2,'2KRO',91.3,90.3,1.91,1.1,1.4,1.6,3.5,'Moderate','PCB Mount',1.1,'PBT','Double Shot',9,'false',13,9
+'MECH_C1NE9Z','PERF_ZBR0AC','DEV_46TXB2',73.70,3.5,'Magnetic',40720676,87,'6KRO',90.4,98.4,1.34,1.9,2.2,2.1,3.4,'Minimal','PCB Mount',1.2,'PBT','Double Shot',2,'true',14,6
+'MECH_JLXCN6','PERF_3GP54S','DEV_67MOIH',70.10,1.6,'Mechanical',71662511,56,'2KRO',91.0,96.7,0.16,2.2,1.6,1.5,3.4,'Minimal','Plate Mount',1.1,'Double Shot PBT','Laser Etched',5,'true',15,2
+'MECH_F7RFXS','PERF_MG3XPY','DEV_WEBGT1',75.60,3.0,'Optical',87968881,65,'2KRO',97.2,96.3,1.78,2.2,2.5,2.0,3.1,'Moderate','PCB Mount',1.4,'Double Shot PBT','Dye Sub',6,'true',12,1
+'MECH_CLI694','PERF_9P3FA2','DEV_KTUEJ7',51.30,3.3,'Optical',23981787,57,'2KRO',94.1,94.8,0.27,1.2,1.2,2.1,3.8,'Minimal','PCB Mount',1.0,'Double Shot PBT','Laser Etched',9,'false',0,10
+'MECH_XNU1HE','PERF_CWF8L6','DEV_Z24HDU',48.80,3.5,'Magnetic',66804485,71,'6KRO',95.5,99.2,0.11,2.1,2.4,1.8,3.8,'Minimal','Screw-in',1.1,'ABS','Dye Sub',0,'false',12,3
+'MECH_39A8EF','PERF_YGR1M1','DEV_IG4OLU',63.00,3.4,'Mechanical',87765376,89,'2KRO',92.9,90.0,0.79,1.4,1.3,1.8,3.4,'None','Screw-in',1.5,'ABS','Laser Etched',5,'true',14,7
+'MECH_TSUK9X','PERF_K4RROL','DEV_R13G3D',68.90,3.8,'Membrane',74613163,79,'NKRO',99.7,92.5,1.58,1.7,1.1,2.2,3.8,'Moderate','Screw-in',1.2,'Double Shot PBT','Double Shot',9,'true',1,10
+'MECH_XCZ6YJ','PERF_R0DHLA','DEV_3HL3NO',77.70,3.1,'Mechanical',48324136,44,'2KRO',99.6,98.4,1.86,2.1,1.4,2.0,3.9,'Minimal','PCB Mount',1.2,'ABS','Laser Etched',6,'false',9,5
+'MECH_TOXRFV','PERF_4V7L0E','DEV_Y4VGOZ',71.20,3.9,'Membrane',91885028,21,'2KRO',92.5,95.7,1.35,1.0,2.4,1.5,3.6,'Minimal','PCB Mount',1.3,'Double Shot PBT','Laser Etched',3,'false',14,3
+'MECH_85EW2A','PERF_O26RVL','DEV_6S4Y9M',45.70,2.7,'Mechanical',85041317,15,'NKRO',91.2,99.8,1.86,1.4,2.4,1.9,3.8,'None','Plate Mount',1.0,'ABS','Dye Sub',7,'true',4,9
+'MECH_XGSQHZ','PERF_8YTVWW','DEV_85C0X5',64.50,1.7,'Optical',88785850,11,'NKRO',93.7,92.5,0.23,1.0,2.1,1.6,3.5,'Moderate','Screw-in',1.5,'Double Shot PBT','Double Shot',6,'true',0,7
+'MECH_O76T2J','PERF_AW6T7X','DEV_OJ1332',54.00,3.2,'Membrane',90262844,45,'NKRO',91.4,91.4,0.45,2.2,1.2,2.4,3.2,'Moderate','PCB Mount',1.3,'ABS','Laser Etched',0,'false',13,6
+'MECH_M7R0WC','PERF_VP5C12','DEV_NMKWET',49.00,1.6,'Membrane',58103942,8,'2KRO',97.9,93.6,1.07,1.8,2.3,2.1,3.4,'Minimal','Screw-in',1.3,'ABS','Dye Sub',0,'false',13,7
+'MECH_E2SA1J','PERF_5OQ0A6','DEV_UEAMJO',47.80,2.0,'Magnetic',65972739,26,'6KRO',99.0,93.5,1.30,2.2,1.0,1.7,3.6,'Moderate','Plate Mount',1.0,'PBT','Dye Sub',7,'true',4,1
+'MECH_VRFBLI','PERF_OORLFQ','DEV_EX83W0',67.20,3.4,'Optical',75629362,80,'2KRO',93.5,90.3,0.01,1.5,2.0,2.1,3.6,'Minimal','PCB Mount',1.2,'PBT','Laser Etched',2,'true',0,10
+'MECH_NMVL00','PERF_4WJW79','DEV_MUDBHU',78.00,4.0,'Optical',30384235,15,'NKRO',92.8,95.7,1.07,2.1,1.0,1.8,3.7,'Minimal','Screw-in',1.3,'PBT','Double Shot',9,'false',10,1
+'MECH_OHVW3S','PERF_V35ERX','DEV_Q6FPUF',53.00,2.9,'Magnetic',69531653,30,'6KRO',95.2,99.1,0.01,2.5,1.7,2.3,3.6,'Moderate','Screw-in',1.1,'PBT','Laser Etched',5,'true',2,2
+'MECH_K3HSEO','PERF_NDNJM7','DEV_HYO2X5',75.50,2.8,'Membrane',54750191,98,'2KRO',92.6,99.6,1.80,1.8,2.2,2.4,3.2,'Minimal','PCB Mount',1.3,'PBT','Double Shot',4,'false',12,6
+'MECH_9W43ST','PERF_LB11BT','DEV_JSV80M',60.40,2.5,'Mechanical',28157112,86,'2KRO',93.5,92.2,0.49,2.1,1.0,2.5,3.9,'Minimal','Plate Mount',1.3,'PBT','Double Shot',1,'true',3,6
+'MECH_ZQU7UP','PERF_X3J2XH','DEV_NXQK6Z',78.30,3.4,'Magnetic',87003093,76,'2KRO',96.6,99.4,0.39,1.6,1.0,1.9,3.3,'None','Screw-in',1.4,'Double Shot PBT','Dye Sub',2,'true',4,7
+'MECH_ZFIT39','PERF_Y3MYUB','DEV_SDE01H',78.50,2.7,'Magnetic',58723416,68,'2KRO',98.5,95.8,1.42,1.0,2.3,2.5,3.6,'Minimal','Plate Mount',1.2,'Double Shot PBT','Laser Etched',5,'false',11,9
+'MECH_X9SIMJ','PERF_T2WOUM','DEV_0OX843',68.00,3.6,'Membrane',40164037,64,'2KRO',99.9,90.9,1.15,1.4,1.4,2.5,3.6,'Moderate','Plate Mount',1.3,'ABS','Dye Sub',7,'false',10,1
+'MECH_XIBHTZ','PERF_1CMCHH','DEV_CZKFFP',49.60,3.0,'Mechanical',43943787,24,'2KRO',93.2,99.0,1.74,1.4,2.0,1.8,3.3,'Minimal','Plate Mount',1.4,'PBT','Dye Sub',9,'false',13,1
+'MECH_P4PGZ7','PERF_3DXLTN','DEV_6K43WE',76.40,2.4,'Optical',60531598,58,'6KRO',91.2,91.7,0.75,1.0,2.5,1.9,3.8,'Minimal','Screw-in',1.4,'ABS','Dye Sub',2,'false',11,5
+'MECH_4OBXDC','PERF_XJQI1I','DEV_PR4ZM8',71.70,2.5,'Membrane',71071076,101,'NKRO',99.3,92.6,1.05,2.3,1.5,1.7,3.4,'Moderate','Screw-in',1.2,'PBT','Laser Etched',0,'true',0,10
+'MECH_7UPQFF','PERF_G4L5J0','DEV_GIJHHF',49.60,2.4,'Membrane',97470259,39,'2KRO',90.1,98.0,0.62,2.1,1.3,1.8,3.5,'Moderate','Screw-in',1.3,'PBT','Laser Etched',0,'true',14,10
+'MECH_6BBT5G','PERF_HCAECF','DEV_6PCIX6',68.90,1.7,'Membrane',85760837,16,'6KRO',97.7,97.2,1.79,1.4,1.3,2.1,3.6,'Moderate','Plate Mount',1.5,'Double Shot PBT','Double Shot',0,'true',1,6
+'MECH_HPIVX6','PERF_I2B79J','DEV_PHI6I8',46.50,3.2,'Magnetic',77005612,2,'6KRO',90.6,97.2,1.53,1.2,1.3,2.0,3.7,'Minimal','PCB Mount',1.3,'ABS','Double Shot',2,'true',5,1
+'MECH_XRRHAO','PERF_LLAHKF','DEV_FHNB34',54.80,3.7,'Membrane',22944710,15,'6KRO',92.7,91.4,1.17,1.6,1.9,1.9,3.9,'Minimal','Screw-in',1.4,'Double Shot PBT','Dye Sub',5,'false',10,9
+'MECH_L0ZKNA','PERF_R0NBE4','DEV_E36LF2',50.50,2.2,'Membrane',83809246,41,'NKRO',97.3,92.8,1.56,2.0,2.2,1.7,3.4,'Minimal','PCB Mount',1.0,'ABS','Laser Etched',8,'true',14,2
+'MECH_Q404MX','PERF_L05JH6','DEV_IZF86F',45.90,3.3,'Optical',30326793,4,'2KRO',92.0,97.9,0.69,1.2,1.2,2.2,3.8,'Minimal','Screw-in',1.4,'ABS','Double Shot',1,'true',4,10
+'MECH_7O9WI7','PERF_5S9A4T','DEV_5CGPHJ',67.20,2.1,'Mechanical',67236465,40,'NKRO',97.6,90.4,0.45,2.0,2.5,2.1,3.1,'Moderate','Screw-in',1.1,'ABS','Laser Etched',7,'false',4,10
+'MECH_R9PDLW','PERF_HL50TH','DEV_NCCGM7',50.50,3.3,'Mechanical',68541204,11,'NKRO',96.0,92.6,0.64,1.5,2.1,2.0,3.8,'Minimal','PCB Mount',1.3,'Double Shot PBT','Double Shot',5,'false',15,2
+'MECH_DM0IW1','PERF_6E6H7M','DEV_5FMMRG',65.50,2.4,'Mechanical',46971246,79,'NKRO',95.8,94.2,1.12,1.8,1.9,1.7,3.9,'Minimal','Screw-in',1.4,'ABS','Laser Etched',3,'true',7,1
+'MECH_7ESMHY','PERF_9IWWPN','DEV_LNLNEN',72.30,3.3,'Magnetic',63977349,98,'2KRO',99.0,93.8,1.90,1.5,2.3,1.9,3.9,'Minimal','Plate Mount',1.4,'PBT','Laser Etched',0,'true',0,4
+'MECH_VCJMYW','PERF_A6J65S','DEV_AQZRNT',47.80,2.8,'Optical',96524871,88,'NKRO',90.7,92.6,0.49,2.5,1.9,1.8,3.8,'Minimal','PCB Mount',1.4,'PBT','Double Shot',8,'false',12,2
+'MECH_NPN919','PERF_1E7VMQ','DEV_AJFMOT',55.00,2.8,'Magnetic',29459579,82,'NKRO',90.2,95.0,0.78,1.9,1.8,2.2,3.2,'None','PCB Mount',1.2,'PBT','Double Shot',4,'false',4,3
+'MECH_NS6J8Q','PERF_XRW3X8','DEV_RWLV6M',45.60,1.7,'Magnetic',79565567,42,'6KRO',91.6,96.6,1.66,1.4,1.1,1.5,3.6,'Moderate','Plate Mount',1.3,'ABS','Laser Etched',7,'true',4,5
+'MECH_AM8TBT','PERF_RPWLGK','DEV_IQ1NY2',73.60,3.7,'Mechanical',60705458,21,'2KRO',90.2,95.4,0.15,2.1,1.7,1.9,3.7,'Minimal','Plate Mount',1.1,'ABS','Double Shot',2,'false',8,4
+'MECH_34JWVM','PERF_4VMRLM','DEV_G1TYBI',46.40,2.6,'Optical',23574656,62,'NKRO',93.5,90.7,0.39,1.5,1.2,1.7,3.5,'Moderate','PCB Mount',1.1,'ABS','Double Shot',2,'false',7,8
+'MECH_A82VWZ','PERF_GZA7I5','DEV_XUL3RS',46.90,3.6,'Magnetic',89892971,19,'NKRO',90.8,98.0,0.19,2.2,1.6,2.3,4.0,'Moderate','Screw-in',1.0,'PBT','Dye Sub',4,'false',6,10
+'MECH_TB42FG','PERF_G1NKY1','DEV_5V4RQF',51.20,2.6,'Mechanical',27422546,29,'2KRO',93.4,94.4,0.05,1.4,1.7,1.6,3.1,'Moderate','Plate Mount',1.1,'Double Shot PBT','Laser Etched',7,'false',1,4
+'MECH_32C9E3','PERF_YJ4EDS','DEV_VYQSKS',51.90,2.2,'Magnetic',88938897,62,'2KRO',97.0,98.4,2.00,1.3,1.2,2.1,3.1,'Moderate','Plate Mount',1.4,'ABS','Laser Etched',4,'false',2,9
+'MECH_MXOW0F','PERF_M2BC7U','DEV_QMRYNT',59.20,2.5,'Optical',54401584,1,'NKRO',94.1,98.6,1.87,1.6,1.4,1.6,3.5,'Minimal','Plate Mount',1.5,'Double Shot PBT','Laser Etched',0,'false',15,8
+'MECH_LSI9VE','PERF_XZ2U5O','DEV_F0SJ4M',58.10,2.4,'Magnetic',90240453,63,'6KRO',94.5,94.0,0.43,2.3,2.3,1.6,3.0,'Moderate','Screw-in',1.4,'ABS','Double Shot',5,'true',4,9
+'MECH_7FQI4E','PERF_ZIOAWB','DEV_TT1FCR',68.00,1.8,'Optical',54284332,13,'6KRO',91.1,93.3,1.80,2.0,2.2,2.1,3.7,'Minimal','PCB Mount',1.3,'ABS','Dye Sub',7,'false',12,8
+'MECH_SKSXM6','PERF_23O1H9','DEV_H4K47L',49.70,3.5,'Membrane',37109832,31,'2KRO',98.5,97.2,0.82,1.5,1.3,1.6,3.6,'Minimal','Plate Mount',1.0,'Double Shot PBT','Laser Etched',6,'true',5,1
+'MECH_LYZRS8','PERF_2MCKGU','DEV_L4YZDS',68.70,1.8,'Magnetic',69872711,56,'6KRO',95.3,91.2,0.13,1.0,1.7,2.4,3.2,'Moderate','PCB Mount',1.3,'ABS','Laser Etched',4,'true',2,5
+'MECH_FRQ6WW','PERF_QPPIHW','DEV_NIMI9V',54.80,2.3,'Magnetic',71461741,61,'2KRO',95.7,95.6,1.84,1.0,1.4,1.9,3.7,'Moderate','PCB Mount',1.0,'PBT','Laser Etched',9,'true',3,1
+'MECH_RZMPOI','PERF_J02MQW','DEV_RLZH27',56.90,3.8,'Optical',23699798,87,'2KRO',99.6,92.8,0.81,2.1,1.7,2.4,3.1,'Moderate','PCB Mount',1.5,'ABS','Double Shot',1,'false',13,4
+'MECH_LXCWGX','PERF_SUU6XR','DEV_5VUABC',68.00,3.9,'Magnetic',53509074,19,'2KRO',90.7,95.4,0.48,1.8,1.9,2.2,3.5,'Minimal','Screw-in',1.2,'ABS','Dye Sub',1,'true',10,6
+'MECH_EN3UFC','PERF_HH58R6','DEV_NAWWYY',76.10,3.1,'Magnetic',54676360,32,'NKRO',91.6,94.0,1.96,1.8,2.1,1.7,3.6,'None','Screw-in',1.2,'PBT','Dye Sub',2,'true',12,5
+'MECH_WD80YJ','PERF_WIJSOX','DEV_5DU2CC',69.40,3.1,'Membrane',56238888,89,'2KRO',96.8,97.9,1.16,2.1,1.2,2.1,3.8,'Minimal','Screw-in',1.4,'PBT','Double Shot',2,'false',10,9
+'MECH_VVAGTW','PERF_BVB05U','DEV_CC6MFK',48.10,3.2,'Optical',68021022,58,'2KRO',94.5,96.2,1.46,2.4,1.2,2.0,3.5,'Moderate','Screw-in',1.0,'ABS','Dye Sub',2,'true',11,1
+'MECH_3C1U2K','PERF_97EC67','DEV_32UR1R',63.10,2.0,'Magnetic',43112467,51,'6KRO',99.3,93.2,0.73,1.1,1.6,1.9,3.7,'Minimal','Screw-in',1.2,'ABS','Double Shot',0,'true',5,2
+'MECH_XSDID6','PERF_L6QC1I','DEV_R4GYXZ',60.80,4.0,'Optical',61634784,17,'2KRO',98.1,93.1,1.53,1.8,2.0,1.6,3.8,'Minimal','Screw-in',1.5,'ABS','Double Shot',0,'false',6,9
+'MECH_BRCXHZ','PERF_QHQ55P','DEV_3KVOWP',79.10,3.3,'Magnetic',67241490,41,'2KRO',99.9,90.8,1.77,1.8,1.8,2.0,3.0,'Minimal','Screw-in',1.2,'PBT','Laser Etched',5,'true',2,6
+'MECH_J2QZ7U','PERF_W8DVC7','DEV_J53Z37',67.40,1.7,'Membrane',76661286,83,'2KRO',92.7,91.0,0.25,2.3,1.4,1.6,3.1,'Minimal','Screw-in',1.2,'PBT','Dye Sub',3,'false',15,4
+'MECH_KKGJ3Z','PERF_0VN7UP','DEV_7RALKW',68.30,2.6,'Mechanical',94865352,27,'6KRO',91.4,94.9,0.38,1.6,1.2,2.4,3.2,'Moderate','Screw-in',1.1,'ABS','Dye Sub',5,'false',10,2
+'MECH_X27C2U','PERF_RJ3U0N','DEV_T3PAZ7',58.90,1.6,'Mechanical',53383590,96,'6KRO',96.3,93.3,0.20,1.2,2.3,2.3,3.0,'None','Plate Mount',1.5,'ABS','Laser Etched',9,'false',12,6
+'MECH_0AE0YG','PERF_FPRCWM','DEV_5FFAAH',49.00,3.1,'Membrane',28969344,86,'6KRO',90.3,96.4,1.98,1.1,1.7,2.0,3.1,'Minimal','Plate Mount',1.4,'ABS','Laser Etched',3,'true',13,1
+'MECH_ESZWFJ','PERF_BJFCDF','DEV_VQLW3R',56.80,2.8,'Magnetic',79501365,72,'6KRO',94.3,96.9,0.91,1.2,1.2,2.0,3.2,'Minimal','Plate Mount',1.2,'ABS','Laser Etched',7,'false',4,8
+'MECH_51J9WL','PERF_WMEN03','DEV_IYXD5E',79.60,2.6,'Membrane',33600838,75,'2KRO',93.5,95.9,1.61,1.3,2.3,1.5,4.0,'None','Screw-in',1.5,'ABS','Laser Etched',5,'true',3,6
+'MECH_2IWAWV','PERF_MHVROQ','DEV_7RJNY3',70.30,1.6,'Membrane',98645997,16,'6KRO',95.9,99.2,1.31,2.2,2.2,2.0,3.5,'Moderate','Plate Mount',1.0,'Double Shot PBT','Laser Etched',3,'true',11,10
+'MECH_XS94AL','PERF_WGGQ5B','DEV_WDLKKN',52.80,3.9,'Optical',66590981,61,'2KRO',96.4,93.6,0.25,1.8,1.5,2.2,3.2,'Moderate','Plate Mount',1.0,'ABS','Laser Etched',4,'false',1,9
+'MECH_4IWZXT','PERF_JTX9Y2','DEV_U0MB0E',77.80,2.6,'Mechanical',50389986,3,'NKRO',93.9,93.7,0.55,2.0,1.2,2.2,3.6,'Moderate','Plate Mount',1.2,'Double Shot PBT','Laser Etched',6,'true',4,10
+'MECH_5FJ02C','PERF_FHYJJB','DEV_H35FFV',58.30,2.0,'Membrane',36393180,45,'2KRO',90.2,91.9,0.67,1.4,2.4,2.4,3.3,'Minimal','Screw-in',1.1,'ABS','Laser Etched',9,'true',3,9
+'MECH_P0POCW','PERF_BGTRZW','DEV_DAYVFJ',48.70,3.7,'Membrane',31257724,2,'2KRO',94.3,93.4,0.86,1.6,2.3,1.7,3.2,'Minimal','Screw-in',1.4,'PBT','Double Shot',7,'false',2,7
+'MECH_7BAJ0J','PERF_NCGEMP','DEV_XGXA1D',57.50,3.2,'Membrane',89706448,37,'2KRO',94.4,96.4,0.14,1.5,2.2,1.8,3.4,'Moderate','Screw-in',1.2,'Double Shot PBT','Double Shot',9,'false',9,4
+'MECH_NXS8VR','PERF_R84F1Q','DEV_QV313K',65.50,3.7,'Mechanical',67301309,6,'2KRO',98.0,91.0,1.21,1.6,1.2,2.5,3.8,'Moderate','Screw-in',1.2,'ABS','Double Shot',0,'false',3,4
+'MECH_UGEJC5','PERF_CV4A46','DEV_GPJGIN',52.90,3.7,'Mechanical',81212754,1,'2KRO',99.0,97.7,0.40,1.2,1.4,1.7,3.2,'Minimal','Screw-in',1.4,'PBT','Laser Etched',7,'false',3,9
+'MECH_U18Y81','PERF_JNJSYT','DEV_BZTCTV',49.40,2.5,'Membrane',75295260,71,'NKRO',97.5,91.6,1.71,2.1,1.7,2.3,3.5,'Minimal','PCB Mount',1.3,'Double Shot PBT','Double Shot',3,'false',2,4
+'MECH_DNU4E9','PERF_CYMNIX','DEV_UTBUF4',71.70,3.6,'Optical',43916858,74,'NKRO',99.6,94.4,0.11,1.1,2.3,1.8,3.6,'Moderate','Plate Mount',1.2,'ABS','Double Shot',1,'true',12,7
+'MECH_1DWFBH','PERF_UEYTP7','DEV_2PH2TF',53.90,3.0,'Magnetic',29696407,19,'6KRO',97.3,96.1,0.15,2.2,1.5,2.3,3.9,'Moderate','PCB Mount',1.0,'PBT','Laser Etched',3,'false',2,6
+'MECH_XB2AWM','PERF_4M9WDW','DEV_WCZOGU',58.40,1.9,'Optical',96228941,62,'NKRO',91.6,97.3,1.46,2.0,2.4,2.3,3.8,'Moderate','Plate Mount',1.0,'Double Shot PBT','Dye Sub',5,'false',4,3
+'MECH_B337VX','PERF_Z9HPUN','DEV_EZOBV1',53.40,2.8,'Membrane',49414803,26,'2KRO',99.4,94.7,1.28,2.4,1.4,1.8,3.6,'Minimal','Plate Mount',1.1,'ABS','Double Shot',6,'false',2,5
+'MECH_NMM45P','PERF_K4QYHH','DEV_SSAQZT',64.20,2.6,'Membrane',66018263,48,'6KRO',96.5,94.7,0.37,2.1,1.8,2.5,3.0,'Minimal','PCB Mount',1.1,'Double Shot PBT','Double Shot',6,'true',6,8
+'MECH_PRF2Z4','PERF_ZS4VNT','DEV_8LVWD5',63.40,2.5,'Magnetic',26664733,10,'NKRO',95.2,91.3,0.96,1.7,1.6,2.0,3.9,'Moderate','PCB Mount',1.2,'Double Shot PBT','Double Shot',6,'true',11,3
+'MECH_9BDHSI','PERF_0P0N4P','DEV_RIMSAE',73.40,1.5,'Mechanical',45960818,53,'NKRO',95.4,97.7,0.11,1.6,1.8,2.2,3.5,'Moderate','Screw-in',1.1,'Double Shot PBT','Dye Sub',0,'true',1,8
+'MECH_9DXZKD','PERF_GD8TXM','DEV_FVYYV5',69.90,3.1,'Membrane',23230416,42,'2KRO',96.8,94.6,0.98,1.3,2.5,1.5,3.1,'Minimal','PCB Mount',1.0,'Double Shot PBT','Laser Etched',6,'true',12,10
+'MECH_KU7Z1E','PERF_IBLX8B','DEV_RL443G',55.20,2.4,'Optical',32925171,47,'NKRO',92.8,94.4,1.42,2.3,1.2,1.6,3.7,'Moderate','Plate Mount',1.4,'PBT','Laser Etched',6,'false',6,7
+'MECH_HPDIQ1','PERF_IP8P8R','DEV_512WXB',58.70,3.6,'Mechanical',36111793,36,'NKRO',96.0,96.4,1.86,2.0,2.2,1.7,3.8,'None','Plate Mount',1.2,'ABS','Double Shot',9,'true',4,9
+'MECH_FW8SZ4','PERF_THSDMO','DEV_DBXBKC',48.90,2.1,'Magnetic',67166446,96,'NKRO',94.7,92.2,0.40,1.5,2.0,1.6,3.6,'Minimal','PCB Mount',1.2,'PBT','Dye Sub',7,'true',12,5
+'MECH_6BLW1Z','PERF_5KEI7S','DEV_HCWRGF',69.60,2.6,'Membrane',69618022,49,'6KRO',98.6,94.8,0.90,2.5,1.9,2.3,3.7,'Minimal','Screw-in',1.0,'Double Shot PBT','Double Shot',3,'true',5,3
+'MECH_VINWGL','PERF_1AIMAU','DEV_U0HQN8',65.60,3.3,'Magnetic',23010873,61,'6KRO',93.8,95.8,0.87,1.0,1.8,2.4,3.3,'Moderate','Screw-in',1.1,'Double Shot PBT','Double Shot',8,'true',11,9
+'MECH_T4YNEX','PERF_BW6ZRC','DEV_X4G5X7',58.10,2.3,'Magnetic',34806491,81,'2KRO',98.0,95.2,0.66,2.2,1.9,2.4,4.0,'None','Plate Mount',1.4,'ABS','Laser Etched',7,'false',8,9
+'MECH_N2HI12','PERF_VBA9R2','DEV_8HZRZQ',65.90,3.5,'Magnetic',22861070,44,'NKRO',92.9,91.9,0.01,2.3,1.3,2.1,3.7,'Minimal','Screw-in',1.3,'Double Shot PBT','Dye Sub',0,'true',13,2
+'MECH_J5DFKJ','PERF_9DEXLP','DEV_M0NAY0',77.40,2.2,'Mechanical',92131086,54,'NKRO',95.4,98.9,0.63,2.1,1.9,1.7,3.3,'Minimal','Screw-in',1.2,'Double Shot PBT','Laser Etched',0,'false',10,5
+'MECH_JJM5HB','PERF_W8YIX7','DEV_K75DMW',51.50,3.8,'Magnetic',30274261,36,'2KRO',98.4,91.8,1.32,2.3,2.2,2.4,3.2,'Moderate','PCB Mount',1.3,'ABS','Dye Sub',6,'true',2,8
+'MECH_25QC57','PERF_NIKZFX','DEV_FUU9SG',54.90,1.8,'Mechanical',86649354,9,'NKRO',97.7,98.6,1.15,1.7,1.9,2.0,3.4,'Minimal','Screw-in',1.5,'Double Shot PBT','Laser Etched',1,'true',14,9
+'MECH_5JTA2A','PERF_A1NKVY','DEV_M13R47',72.50,1.6,'Mechanical',84597199,36,'NKRO',94.8,99.9,0.08,1.1,1.9,2.1,3.5,'Minimal','Plate Mount',1.3,'PBT','Double Shot',8,'false',3,6
+'MECH_EIMKDG','PERF_ETZ029','DEV_FAVQJM',78.10,1.8,'Optical',61192297,48,'6KRO',92.9,93.8,1.13,1.6,1.7,1.9,3.9,'Moderate','PCB Mount',1.1,'ABS','Dye Sub',0,'false',6,9
+'MECH_V1KCM7','PERF_HKZNCH','DEV_2L7D72',66.40,2.3,'Magnetic',92360817,2,'2KRO',93.6,91.7,0.97,2.3,2.5,2.2,3.4,'None','Screw-in',1.2,'Double Shot PBT','Dye Sub',0,'false',8,2
+'MECH_4JJJ73','PERF_IYDKNI','DEV_UDU6VL',62.20,1.9,'Magnetic',80519870,75,'2KRO',94.8,91.3,1.91,1.1,1.1,1.5,3.8,'Minimal','Screw-in',1.4,'Double Shot PBT','Dye Sub',1,'true',6,6
+'MECH_Z7CKUA','PERF_UBLF7O','DEV_SU93R1',69.90,2.7,'Magnetic',84900546,11,'NKRO',98.7,91.5,1.65,2.0,2.1,1.5,3.4,'Moderate','PCB Mount',1.2,'PBT','Double Shot',5,'false',2,1
+'MECH_V3ZX1C','PERF_LPGIE7','DEV_IITU42',56.00,3.1,'Optical',27591833,44,'NKRO',94.2,98.5,0.56,1.7,1.9,2.3,3.2,'Moderate','Plate Mount',1.3,'ABS','Dye Sub',9,'true',4,6
+'MECH_B55PA1','PERF_AKQ72N','DEV_7QV7KI',48.40,3.8,'Mechanical',52407319,42,'NKRO',96.1,93.8,0.42,2.2,1.1,2.0,3.6,'Moderate','Plate Mount',1.3,'Double Shot PBT','Laser Etched',7,'false',5,7
+'MECH_5QAHPV','PERF_5SNVXH','DEV_50R3BK',53.50,1.7,'Membrane',75243044,17,'2KRO',96.1,98.4,1.07,2.0,2.4,1.6,3.8,'Moderate','PCB Mount',1.2,'Double Shot PBT','Double Shot',7,'true',15,8
+'MECH_U1HGL0','PERF_DF4WFH','DEV_6V5EM6',75.50,1.8,'Optical',35799751,4,'6KRO',90.3,97.5,1.56,1.1,1.2,2.0,3.6,'Moderate','PCB Mount',1.4,'ABS','Laser Etched',5,'true',15,9
+'MECH_XV1X8H','PERF_KG38A2','DEV_LOIU0T',55.50,2.2,'Mechanical',69728763,22,'2KRO',97.4,93.0,1.86,2.0,1.2,2.5,3.4,'Minimal','Plate Mount',1.0,'PBT','Dye Sub',6,'true',2,9
+'MECH_1NOWOB','PERF_UAK5OU','DEV_HBD02E',45.90,3.9,'Optical',52000687,19,'2KRO',98.0,93.8,1.65,2.4,1.2,1.9,3.0,'None','PCB Mount',1.2,'ABS','Double Shot',7,'false',4,7
+'MECH_EEFE3O','PERF_3ZU21T','DEV_GJGT0E',70.20,2.6,'Mechanical',31272601,70,'NKRO',92.5,93.1,0.55,1.8,1.7,1.5,3.9,'Minimal','Plate Mount',1.2,'PBT','Double Shot',2,'true',13,2
+'MECH_OB5BDR','PERF_9VW9PW','DEV_MMLNKV',68.80,1.9,'Optical',41685351,52,'2KRO',99.3,96.9,1.46,2.4,1.8,2.1,3.3,'Moderate','Screw-in',1.4,'PBT','Laser Etched',6,'false',0,6
+'MECH_0ACVKY','PERF_Z1JE7T','DEV_SR7C35',76.50,3.4,'Membrane',49228837,76,'6KRO',95.1,98.0,1.78,2.1,1.9,2.4,3.8,'Minimal','Screw-in',1.1,'PBT','Dye Sub',5,'false',3,4
+'MECH_PH24CO','PERF_9IE6TX','DEV_8WOJOU',73.20,2.5,'Magnetic',50318459,11,'NKRO',94.7,94.6,1.18,2.2,1.5,1.6,3.6,'Moderate','PCB Mount',1.4,'PBT','Double Shot',2,'true',6,10
+'MECH_6M6N9W','PERF_RO5GWW','DEV_8DEANT',56.10,2.0,'Mechanical',77562017,3,'NKRO',91.0,97.0,0.23,1.4,1.7,2.2,3.6,'Moderate','PCB Mount',1.2,'PBT','Dye Sub',5,'false',9,7
+'MECH_7XYF92','PERF_H3QF7N','DEV_GS275D',66.00,3.2,'Optical',43142971,48,'2KRO',97.2,97.0,1.54,1.2,1.1,2.1,4.0,'Minimal','Screw-in',1.3,'ABS','Laser Etched',0,'true',3,7
+'MECH_MO3OFY','PERF_Q73T1E','DEV_GE0DJF',72.20,2.3,'Membrane',80031159,87,'6KRO',94.0,90.5,0.09,1.2,1.4,1.6,3.3,'Moderate','Screw-in',1.2,'ABS','Dye Sub',0,'false',5,4
+'MECH_GX5TZ6','PERF_QR8B5O','DEV_W77ZBA',61.30,1.6,'Mechanical',50080846,90,'NKRO',97.9,93.4,1.75,1.2,2.1,2.4,3.9,'Moderate','PCB Mount',1.1,'ABS','Double Shot',3,'true',14,8
+'MECH_PWZQRJ','PERF_7GSFLW','DEV_KTM9O2',57.90,3.6,'Membrane',41080768,25,'6KRO',94.5,94.2,0.96,1.6,2.4,2.5,3.5,'Minimal','Screw-in',1.1,'Double Shot PBT','Laser Etched',6,'true',5,1
+'MECH_1S5NG0','PERF_FI0IXI','DEV_JRX5T3',48.40,2.0,'Optical',80639899,80,'NKRO',90.7,98.6,0.89,1.4,2.3,2.3,3.9,'Minimal','PCB Mount',1.4,'ABS','Double Shot',7,'true',11,1
+'MECH_JUEV2K','PERF_437ZXG','DEV_QONYSC',53.30,2.2,'Magnetic',33904650,23,'NKRO',96.9,99.7,1.70,2.2,1.8,2.3,3.7,'None','PCB Mount',1.3,'PBT','Double Shot',1,'true',8,3
+'MECH_L7RX03','PERF_UL8QMW','DEV_ASLDO7',69.40,2.7,'Mechanical',80840142,40,'2KRO',90.8,99.3,0.01,2.2,1.9,2.3,3.1,'Moderate','Plate Mount',1.3,'Double Shot PBT','Laser Etched',6,'false',5,6
+'MECH_0D55LM','PERF_AA8T6W','DEV_T6KQI4',55.90,2.9,'Optical',45942153,84,'2KRO',94.5,92.9,0.67,1.3,1.5,2.1,3.7,'Minimal','Plate Mount',1.3,'ABS','Laser Etched',5,'true',6,9
+'MECH_RKIHR4','PERF_SOZAZJ','DEV_PKXOAR',74.70,2.6,'Magnetic',64507439,68,'6KRO',95.2,95.2,1.72,1.0,1.2,1.6,3.6,'Moderate','PCB Mount',1.2,'PBT','Dye Sub',8,'false',7,5
+'MECH_TD3A34','PERF_SJHADY','DEV_HVOOXQ',69.20,3.9,'Membrane',59472639,54,'6KRO',99.6,97.8,1.49,2.2,1.0,1.9,3.7,'Minimal','Plate Mount',1.4,'PBT','Laser Etched',2,'true',15,1
+'MECH_7K4BUY','PERF_KUK7AP','DEV_UCFG9W',49.40,3.0,'Magnetic',68084893,52,'2KRO',96.1,94.6,1.23,1.1,1.0,2.0,3.6,'None','PCB Mount',1.4,'Double Shot PBT','Laser Etched',6,'true',15,6
+'MECH_TL310Q','PERF_S60SMT','DEV_0AVGKT',49.10,1.6,'Optical',30121994,44,'6KRO',94.3,96.0,1.54,1.4,2.1,1.7,3.6,'Minimal','PCB Mount',1.5,'Double Shot PBT','Dye Sub',0,'true',7,6
+'MECH_7TK49W','PERF_IDEZZZ','DEV_901B9P',58.60,3.2,'Magnetic',63675486,56,'2KRO',93.0,97.7,0.99,1.7,2.0,2.3,3.9,'Moderate','Screw-in',1.3,'ABS','Double Shot',9,'false',8,9
+'MECH_2DDWFT','PERF_TI9HYI','DEV_D0MWLU',60.60,3.9,'Membrane',46289270,41,'NKRO',94.3,91.2,0.50,2.1,1.9,1.7,4.0,'Moderate','Screw-in',1.1,'Double Shot PBT','Dye Sub',8,'true',4,1
+'MECH_YCEYKR','PERF_CMVKWX','DEV_LCJYHI',72.90,3.5,'Magnetic',42970637,43,'6KRO',94.1,97.4,1.20,2.2,1.8,2.5,3.6,'Minimal','Plate Mount',1.1,'ABS','Dye Sub',3,'true',8,3
+'MECH_AUEY8K','PERF_IW5ADC','DEV_3W3UJH',63.00,3.2,'Optical',60182082,65,'2KRO',99.7,94.9,1.02,2.4,1.5,1.6,3.4,'Moderate','Screw-in',1.0,'ABS','Double Shot',5,'true',9,9
+'MECH_RKEDUK','PERF_1B3VZI','DEV_V8HDJ5',58.50,3.0,'Optical',71146068,88,'6KRO',93.2,96.5,1.78,1.5,2.4,2.0,3.2,'Minimal','Plate Mount',1.5,'Double Shot PBT','Double Shot',1,'true',13,1
+'MECH_5PCLX5','PERF_WAL24T','DEV_6MS5S0',60.20,1.8,'Mechanical',45732430,84,'6KRO',97.0,96.3,0.65,2.4,1.6,2.2,3.8,'Moderate','PCB Mount',1.0,'ABS','Double Shot',2,'true',7,1
+'MECH_5UWB5L','PERF_51ND3H','DEV_C7JY8C',52.30,3.8,'Mechanical',77008529,58,'2KRO',95.0,93.7,1.50,2.1,1.3,1.6,3.1,'Minimal','Plate Mount',1.5,'PBT','Double Shot',6,'false',10,4
+'MECH_TIF59D','PERF_0VNHSE','DEV_V9UY1G',72.50,2.7,'Membrane',64490292,9,'2KRO',93.5,91.4,0.07,1.5,2.2,2.5,3.3,'Moderate','PCB Mount',1.3,'Double Shot PBT','Dye Sub',3,'true',5,3
+'MECH_121U41','PERF_BQLVDU','DEV_AVO0TM',67.20,3.5,'Optical',27217888,75,'6KRO',96.1,95.9,1.84,1.4,1.8,1.8,3.1,'None','Screw-in',1.5,'PBT','Double Shot',0,'true',10,9
+'MECH_TTMKYG','PERF_TX7M06','DEV_Y6BEOQ',62.50,1.5,'Magnetic',44527886,91,'NKRO',90.9,93.2,0.96,1.4,1.6,1.7,3.1,'Minimal','PCB Mount',1.4,'PBT','Laser Etched',1,'false',8,1
+'MECH_YUUT8T','PERF_1UZCM9','DEV_6DOZQO',74.00,3.5,'Mechanical',70910605,102,'2KRO',99.2,99.4,1.20,1.9,2.3,1.9,3.5,'Moderate','PCB Mount',1.2,'Double Shot PBT','Laser Etched',6,'false',13,3
+'MECH_YMTDVL','PERF_U3CUIY','DEV_KENZVN',72.40,2.7,'Magnetic',22802152,87,'6KRO',99.1,98.8,1.09,1.6,1.3,1.7,3.9,'Moderate','PCB Mount',1.0,'PBT','Double Shot',9,'false',8,3
+'MECH_ZAA4WY','PERF_6OQHN1','DEV_7I08LJ',58.50,2.1,'Magnetic',98559276,47,'6KRO',93.5,92.0,0.37,1.8,2.0,2.1,3.8,'Minimal','PCB Mount',1.4,'ABS','Double Shot',7,'true',5,6
+'MECH_BS42BU','PERF_JU8PAK','DEV_SPMJVJ',50.00,4.0,'Membrane',89034654,44,'2KRO',92.2,91.7,0.61,1.1,2.4,2.1,3.9,'Moderate','Screw-in',1.3,'Double Shot PBT','Double Shot',4,'false',2,6
+'MECH_VYDUBN','PERF_06T4AX','DEV_FO96II',61.90,2.1,'Optical',66284710,34,'NKRO',95.4,97.4,0.87,1.5,1.3,1.6,3.5,'Minimal','Plate Mount',1.3,'PBT','Double Shot',8,'true',13,1
+'MECH_3VSRP5','PERF_0M2JVT','DEV_E9HA5Q',69.60,1.9,'Membrane',27080819,35,'2KRO',94.4,95.9,1.10,2.0,1.7,2.2,3.3,'Moderate','Screw-in',1.4,'PBT','Double Shot',1,'false',5,8
+'MECH_SML506','PERF_PALI3B','DEV_9MPUC2',73.90,3.4,'Magnetic',82232028,68,'NKRO',95.6,93.4,0.51,2.3,1.7,2.4,3.1,'Moderate','PCB Mount',1.0,'ABS','Dye Sub',6,'false',13,9
+'MECH_8CHT1H','PERF_Y10RFK','DEV_LNTSSK',52.30,3.3,'Optical',73821225,94,'NKRO',94.2,92.7,0.51,1.1,2.2,1.6,3.8,'None','Screw-in',1.2,'PBT','Dye Sub',0,'false',3,5
+'MECH_PEL80S','PERF_9ZQN9K','DEV_JTIAGE',58.20,1.9,'Optical',59650324,49,'2KRO',91.2,95.7,1.67,1.6,1.7,2.2,3.1,'None','Screw-in',1.4,'PBT','Laser Etched',5,'true',1,1
+'MECH_AWSECF','PERF_GN58NE','DEV_4SR4KS',59.90,1.7,'Membrane',68361879,61,'NKRO',92.7,95.7,0.74,1.9,2.1,2.1,3.7,'Minimal','Plate Mount',1.2,'ABS','Dye Sub',2,'false',13,9
+'MECH_Y5D2KR','PERF_DTPPZ1','DEV_PYAD3D',46.40,3.6,'Membrane',57976641,12,'NKRO',96.9,99.9,1.90,2.0,2.2,2.1,3.6,'Minimal','PCB Mount',1.2,'Double Shot PBT','Laser Etched',9,'false',7,3
+'MECH_DNGKGZ','PERF_FZGQA2','DEV_ETTE4K',67.10,3.7,'Membrane',22472733,63,'2KRO',97.6,99.0,1.99,1.7,2.4,2.4,3.2,'Moderate','Screw-in',1.3,'Double Shot PBT','Double Shot',2,'true',8,7
+'MECH_31GLZP','PERF_T2GQ2P','DEV_O62GXL',47.60,2.2,'Mechanical',64983159,46,'2KRO',98.9,97.5,1.06,2.0,1.6,1.9,3.3,'None','Screw-in',1.3,'ABS','Laser Etched',8,'false',0,1
+'MECH_3ZPQ0S','PERF_43MK9O','DEV_1RX4O2',79.30,3.4,'Optical',37610053,102,'2KRO',92.5,91.6,1.56,1.4,1.3,1.6,3.6,'Minimal','Screw-in',1.0,'ABS','Double Shot',5,'false',15,3
+'MECH_YYW1GR','PERF_AQ6824','DEV_AJKCPR',61.40,3.9,'Membrane',30789697,15,'2KRO',91.8,97.4,1.16,1.8,2.4,1.7,3.4,'Minimal','PCB Mount',1.3,'PBT','Laser Etched',5,'false',9,5
+'MECH_CPAMTQ','PERF_CKH3ML','DEV_7W1RQL',56.70,3.2,'Mechanical',83649308,13,'NKRO',94.1,95.7,0.13,2.4,2.0,1.9,3.3,'Moderate','Plate Mount',1.1,'ABS','Double Shot',8,'true',4,8
+'MECH_01UXL6','PERF_9PKSAH','DEV_WBVXB3',72.70,3.9,'Membrane',36258634,14,'NKRO',94.4,98.0,0.34,1.9,2.1,1.5,3.6,'Minimal','Plate Mount',1.5,'Double Shot PBT','Dye Sub',5,'true',15,7
+'MECH_0FBCC3','PERF_LN56VA','DEV_07P80P',52.60,3.0,'Magnetic',86574391,70,'6KRO',98.0,96.1,1.69,2.3,2.3,2.3,3.9,'Minimal','PCB Mount',1.0,'Double Shot PBT','Laser Etched',9,'true',0,7
+'MECH_T1FRAN','PERF_R1QT1V','DEV_94YWO3',59.90,2.8,'Mechanical',97961499,48,'NKRO',98.1,98.5,0.39,1.6,1.8,1.6,3.7,'Moderate','Screw-in',1.1,'ABS','Dye Sub',0,'true',15,7
+'MECH_5WCDP2','PERF_FMFQM5','DEV_48C1R4',47.60,2.9,'Magnetic',95475401,56,'2KRO',90.1,94.2,1.05,1.9,1.9,1.7,3.9,'Moderate','Plate Mount',1.4,'Double Shot PBT','Laser Etched',7,'false',3,10
+'MECH_1J56Y0','PERF_P0E055','DEV_G2F1YD',77.50,3.5,'Optical',47920276,33,'NKRO',92.1,95.6,0.66,1.4,1.5,1.6,3.6,'Moderate','PCB Mount',1.2,'PBT','Dye Sub',6,'true',14,3
+'MECH_L69YLP','PERF_BMD2R0','DEV_ADXBMK',56.00,3.3,'Optical',85522489,9,'NKRO',99.0,99.2,0.89,1.9,2.3,1.9,3.1,'None','Screw-in',1.5,'Double Shot PBT','Dye Sub',3,'false',1,2
+'MECH_2W29B5','PERF_61OKBN','DEV_U4VZU3',47.00,2.3,'Mechanical',79498275,85,'2KRO',91.0,90.5,0.46,1.3,1.5,2.4,3.5,'Moderate','Screw-in',1.4,'PBT','Laser Etched',2,'true',10,1
+'MECH_LC5ZSQ','PERF_EPBRY6','DEV_XVCIMJ',47.80,2.2,'Optical',96899714,35,'NKRO',90.8,95.1,1.40,2.3,1.0,2.3,3.0,'Moderate','PCB Mount',1.1,'PBT','Dye Sub',7,'true',13,8
+'MECH_7U29UT','PERF_ODKS78','DEV_I89NSW',45.40,2.1,'Membrane',22321773,84,'NKRO',99.2,93.6,0.80,2.5,2.1,2.1,3.7,'Minimal','Screw-in',1.4,'ABS','Dye Sub',2,'false',7,6
+'MECH_G3OC2C','PERF_KPN6JQ','DEV_V3KTLV',75.10,2.2,'Mechanical',50237249,27,'6KRO',90.1,94.1,1.49,2.1,1.4,1.5,3.8,'Moderate','Plate Mount',1.3,'Double Shot PBT','Double Shot',6,'false',6,6
+'MECH_J8XG4E','PERF_2510SF','DEV_KBZZN7',50.60,3.5,'Membrane',67140358,31,'6KRO',98.3,99.0,1.75,1.2,2.2,2.0,3.9,'Moderate','PCB Mount',1.2,'Double Shot PBT','Dye Sub',9,'false',12,1
+'MECH_4VZZSM','PERF_0JSQR2','DEV_VS8CH2',76.50,3.6,'Membrane',54657464,24,'2KRO',96.0,95.5,0.87,1.6,1.8,1.5,3.0,'Minimal','Screw-in',1.5,'PBT','Double Shot',9,'false',8,7
+'MECH_9FT1GG','PERF_0OURTM','DEV_P869DW',76.20,2.8,'Optical',96400165,72,'2KRO',99.2,91.3,1.61,2.1,2.1,2.0,3.7,'Minimal','Plate Mount',1.1,'PBT','Double Shot',0,'true',11,5
+'MECH_P1X664','PERF_YLB42M','DEV_L802E1',63.20,3.9,'Membrane',89378376,61,'6KRO',97.2,95.4,1.27,1.1,2.1,2.2,3.6,'Moderate','PCB Mount',1.4,'ABS','Dye Sub',6,'true',3,8
+'MECH_FY3IM9','PERF_EPBM5Q','DEV_E5RCDU',49.30,2.3,'Membrane',55829618,43,'NKRO',94.8,92.5,0.63,2.1,1.2,1.9,3.9,'Moderate','Screw-in',1.4,'Double Shot PBT','Laser Etched',1,'false',9,6
+'MECH_0EQ45L','PERF_516BHS','DEV_AEW2DQ',46.60,1.6,'Mechanical',78136850,56,'NKRO',99.3,96.5,1.00,1.1,2.2,1.9,3.3,'Moderate','PCB Mount',1.0,'Double Shot PBT','Laser Etched',2,'true',7,5
+'MECH_1L0NCO','PERF_20R87Q','DEV_B58OOC',79.90,1.8,'Magnetic',85437692,36,'NKRO',93.7,99.9,1.52,2.0,1.0,1.7,3.8,'Moderate','Plate Mount',1.5,'ABS','Dye Sub',0,'false',15,1
+'MECH_7PO9AM','PERF_YRGV51','DEV_QEU28K',45.70,2.9,'Magnetic',45774232,67,'6KRO',96.9,95.5,0.22,1.8,2.4,2.4,3.8,'Moderate','PCB Mount',1.2,'ABS','Double Shot',0,'false',10,7
+'MECH_KJXC9I','PERF_IHX2KR','DEV_HXPG1V',49.50,3.3,'Membrane',97053440,51,'2KRO',98.3,90.9,1.67,2.0,2.1,1.8,3.8,'Moderate','Plate Mount',1.4,'ABS','Laser Etched',0,'true',3,10
+'MECH_NKQGZN','PERF_PVNHMD','DEV_MY0VCQ',67.60,3.5,'Optical',33143121,78,'2KRO',94.4,91.4,1.65,1.5,1.5,1.7,3.4,'Moderate','Plate Mount',1.4,'Double Shot PBT','Double Shot',0,'true',7,8
+'MECH_07DZX0','PERF_YCQMDG','DEV_9M3B4K',64.30,3.3,'Mechanical',30910901,95,'NKRO',97.0,98.5,0.74,2.5,1.5,1.9,3.5,'Moderate','PCB Mount',1.1,'ABS','Laser Etched',5,'false',2,4
+'MECH_M5IXRF','PERF_P3FNTO','DEV_8JKQ30',54.60,2.0,'Optical',89059333,101,'2KRO',94.5,97.5,1.68,1.2,1.1,1.5,3.6,'Moderate','Screw-in',1.4,'ABS','Laser Etched',7,'false',1,1
+'MECH_W8VFO9','PERF_YTA25J','DEV_U6MVUL',53.20,2.3,'Membrane',70522787,90,'2KRO',93.7,94.1,1.17,2.1,2.4,1.7,3.4,'Minimal','Screw-in',1.2,'PBT','Double Shot',5,'false',4,10
+'MECH_7J2R4Y','PERF_G4PFR2','DEV_98GEEA',64.50,2.2,'Mechanical',50102170,102,'6KRO',99.4,93.2,1.46,1.4,1.5,1.7,3.5,'Moderate','Screw-in',1.4,'ABS','Double Shot',0,'true',14,6
+'MECH_O592GQ','PERF_8SI5SK','DEV_90AZB8',72.20,4.0,'Magnetic',77330592,38,'NKRO',95.3,95.8,1.67,2.3,1.7,1.6,4.0,'Moderate','PCB Mount',1.4,'PBT','Double Shot',3,'false',9,1
+'MECH_L82DI3','PERF_8OKTHX','DEV_Z0BNKM',77.90,2.5,'Membrane',38891377,45,'NKRO',95.9,93.3,0.45,2.0,2.4,2.2,3.7,'Minimal','PCB Mount',1.1,'Double Shot PBT','Dye Sub',0,'false',0,1
+'MECH_OJYX9H','PERF_VD23U4','DEV_AEJOO3',47.70,2.6,'Magnetic',67595761,12,'NKRO',99.4,92.7,0.52,1.4,2.2,1.8,3.2,'Minimal','Screw-in',1.1,'Double Shot PBT','Double Shot',0,'true',7,10
+'MECH_SS3M2V','PERF_1OJIVH','DEV_7MMP2A',73.30,2.6,'Membrane',54523955,52,'6KRO',97.8,93.5,0.41,1.8,2.3,2.4,3.4,'Moderate','Plate Mount',1.1,'ABS','Double Shot',3,'false',10,6
+'MECH_CP2FQV','PERF_RBHA1Y','DEV_XY264L',47.50,3.6,'Optical',62997048,11,'2KRO',90.5,92.0,0.75,1.2,1.3,1.5,3.0,'Minimal','Plate Mount',1.3,'PBT','Dye Sub',9,'false',15,5
+'MECH_QX616V','PERF_8RQNZS','DEV_JLS9YZ',70.20,3.4,'Membrane',92751893,56,'6KRO',94.4,99.2,0.15,1.1,1.6,1.7,3.9,'Minimal','PCB Mount',1.1,'PBT','Laser Etched',9,'false',2,9
+'MECH_3GE7MA','PERF_P248YL','DEV_MYVTW9',69.80,2.9,'Membrane',53236504,5,'2KRO',98.6,96.7,1.21,2.0,1.5,1.6,3.7,'Minimal','PCB Mount',1.2,'PBT','Dye Sub',1,'false',1,1
+'MECH_SLA5NC','PERF_3FWPQN','DEV_86VLMC',46.30,2.5,'Mechanical',51454131,64,'6KRO',95.7,94.1,1.60,2.0,2.0,2.3,3.2,'Minimal','Plate Mount',1.1,'ABS','Laser Etched',6,'false',13,2
+'MECH_C42IJ4','PERF_RCBNVZ','DEV_68GNXB',54.80,2.6,'Magnetic',86384436,98,'2KRO',95.4,98.4,0.96,1.7,1.7,1.8,3.8,'Minimal','Screw-in',1.4,'ABS','Double Shot',4,'false',9,9
+'MECH_QFOKH2','PERF_U8GVGE','DEV_JOICOM',76.60,2.5,'Mechanical',37008542,19,'NKRO',98.0,93.1,1.29,1.5,1.8,1.5,3.2,'None','Plate Mount',1.4,'ABS','Laser Etched',1,'true',2,9
+'MECH_VXW3K1','PERF_JJ0VHV','DEV_O982G5',47.50,3.3,'Mechanical',84137567,35,'NKRO',90.0,96.4,1.05,1.0,1.6,2.0,4.0,'Minimal','Screw-in',1.1,'ABS','Dye Sub',4,'true',0,7
+'MECH_Y3QLHU','PERF_CA9Q5M','DEV_F9TSAO',62.10,2.6,'Mechanical',40268356,50,'6KRO',94.0,95.3,1.67,2.4,2.3,2.4,3.6,'Minimal','Plate Mount',1.5,'ABS','Double Shot',4,'true',15,1
+'MECH_GK4J6I','PERF_24TXF6','DEV_HUNVEJ',45.60,2.4,'Membrane',96947106,71,'2KRO',97.2,100.0,1.28,1.1,1.7,2.5,3.9,'Minimal','PCB Mount',1.4,'ABS','Double Shot',6,'false',6,2
+'MECH_9XTJ52','PERF_K04MH0','DEV_8SI0KK',79.10,2.1,'Magnetic',40965528,102,'NKRO',94.1,98.4,0.34,1.2,2.0,1.8,3.1,'Minimal','Screw-in',1.1,'Double Shot PBT','Laser Etched',9,'true',11,3
+'MECH_MVPEP9','PERF_HUYV25','DEV_IFEP4M',66.30,3.8,'Optical',43454431,65,'6KRO',97.6,90.6,0.38,2.5,2.5,1.7,3.5,'None','Plate Mount',1.5,'ABS','Dye Sub',4,'true',9,10
+'MECH_MKXZGC','PERF_JAWEAT','DEV_FJ4VNM',46.00,2.0,'Magnetic',85974415,47,'2KRO',98.7,91.9,1.71,2.3,2.1,1.7,3.9,'Minimal','Plate Mount',1.4,'Double Shot PBT','Dye Sub',1,'true',6,3
+'MECH_Q7ZIPE','PERF_XI5YJJ','DEV_J3ATLD',53.50,3.3,'Membrane',44603869,40,'6KRO',96.0,90.3,0.90,1.8,1.1,1.7,3.6,'Minimal','Screw-in',1.3,'ABS','Laser Etched',3,'true',12,6
+'MECH_H1DHI2','PERF_AJI9PU','DEV_GIL65E',77.90,1.8,'Membrane',60376541,59,'2KRO',96.1,97.9,0.75,1.6,1.1,2.3,4.0,'None','PCB Mount',1.1,'Double Shot PBT','Laser Etched',7,'false',12,6
+'MECH_ORU9V0','PERF_YLFIJH','DEV_XL9O3P',47.20,3.8,'Optical',63450783,31,'2KRO',97.2,95.7,1.47,1.3,2.3,1.8,3.4,'None','Plate Mount',1.4,'ABS','Laser Etched',4,'true',6,7
+'MECH_6QG1Q1','PERF_ELMSL4','DEV_K1JPVH',59.70,1.8,'Membrane',38519425,93,'2KRO',99.5,94.2,0.84,1.4,2.4,2.4,3.6,'None','Screw-in',1.0,'Double Shot PBT','Laser Etched',1,'false',10,10
+'MECH_6AB562','PERF_O3MD8X','DEV_LDMM5J',57.90,3.8,'Magnetic',38561596,49,'2KRO',99.6,97.8,1.56,2.1,2.0,1.5,3.7,'Moderate','PCB Mount',1.1,'Double Shot PBT','Laser Etched',7,'false',9,3
+'MECH_L4RTLJ','PERF_U28B2F','DEV_6Q2AO6',70.40,3.9,'Optical',59127995,24,'NKRO',93.6,94.0,0.82,1.4,2.0,2.0,3.2,'Minimal','Plate Mount',1.4,'ABS','Double Shot',5,'false',14,1
+'MECH_DT0X8W','PERF_UDED4X','DEV_LWXRJW',54.00,1.5,'Mechanical',42575721,32,'6KRO',99.4,99.5,1.99,1.7,1.9,1.7,3.8,'Moderate','Screw-in',1.3,'PBT','Laser Etched',5,'false',13,9
+'MECH_DLXP8T','PERF_I66K9Y','DEV_PTTOMZ',65.00,2.3,'Membrane',69596159,37,'6KRO',95.9,96.9,0.15,1.5,2.3,2.3,3.3,'Minimal','Plate Mount',1.4,'Double Shot PBT','Dye Sub',9,'false',7,2
+'MECH_RAJZZ1','PERF_PXC3PB','DEV_E4XCQ5',46.10,3.0,'Membrane',49244564,53,'2KRO',91.2,95.7,1.75,1.5,2.3,2.1,3.9,'Moderate','Plate Mount',1.1,'ABS','Dye Sub',9,'false',14,7
+'MECH_43FEIS','PERF_FAN3WV','DEV_58NDWQ',51.20,3.1,'Mechanical',33960816,45,'6KRO',96.0,98.0,1.65,1.1,1.4,2.3,3.5,'Moderate','Plate Mount',1.0,'ABS','Dye Sub',4,'true',10,5
+'MECH_SUNC6U','PERF_EZWIL4','DEV_0QIN9I',49.20,1.5,'Membrane',32662464,54,'2KRO',95.4,99.7,1.68,1.9,2.3,2.1,3.7,'Minimal','Plate Mount',1.1,'PBT','Dye Sub',4,'true',11,7
+'MECH_67I5XI','PERF_F405TT','DEV_J2O0SA',58.40,3.7,'Mechanical',48660191,72,'NKRO',90.8,91.2,1.73,1.7,1.9,1.9,3.0,'Moderate','Screw-in',1.2,'PBT','Double Shot',1,'true',3,4
+'MECH_6NSLND','PERF_5LJYH4','DEV_AB74DA',70.20,3.3,'Optical',55924076,90,'6KRO',94.4,93.3,1.40,1.6,1.0,2.3,3.8,'Moderate','Screw-in',1.1,'ABS','Dye Sub',3,'false',6,1
+'MECH_LJ3DF2','PERF_ECAI7S','DEV_W4HZTM',61.40,3.8,'Membrane',34598376,9,'2KRO',95.3,99.0,0.68,1.8,2.1,2.1,3.2,'None','Plate Mount',1.1,'PBT','Dye Sub',2,'false',0,6
+'MECH_5DZ3E1','PERF_AVUDPS','DEV_X9EDGS',60.60,2.0,'Mechanical',25090436,96,'NKRO',91.1,96.3,1.23,1.0,1.6,2.3,3.8,'Minimal','PCB Mount',1.5,'ABS','Laser Etched',3,'false',9,8
+'MECH_K11382','PERF_PW8FJ9','DEV_8ZTOJV',56.60,3.1,'Membrane',55274078,83,'NKRO',98.1,94.8,1.44,2.4,2.2,2.0,3.7,'Moderate','PCB Mount',1.3,'Double Shot PBT','Dye Sub',9,'false',6,8
+'MECH_9MZ5YY','PERF_4TDEOO','DEV_4A9L1P',48.80,1.9,'Mechanical',59046986,50,'6KRO',90.6,95.9,1.23,2.4,1.1,2.0,3.2,'Moderate','Plate Mount',1.4,'ABS','Dye Sub',9,'false',0,10
+'MECH_QC6JZ5','PERF_FZJ513','DEV_QI6COJ',58.70,3.2,'Mechanical',99645708,98,'NKRO',97.8,91.1,0.57,1.5,1.4,2.0,3.8,'Minimal','Plate Mount',1.3,'ABS','Double Shot',9,'false',6,10
+'MECH_TCOVYN','PERF_YCXV1O','DEV_9T3TB8',52.60,1.9,'Membrane',34512887,26,'2KRO',94.6,99.2,1.63,2.5,2.3,2.0,3.9,'None','Screw-in',1.4,'ABS','Double Shot',7,'true',15,8
+'MECH_LF2NRP','PERF_SV36ZY','DEV_S6NSPM',53.20,2.9,'Mechanical',77235291,8,'6KRO',99.1,99.8,1.03,1.5,1.4,1.9,3.5,'Moderate','Plate Mount',1.4,'ABS','Dye Sub',1,'true',1,2
+'MECH_0Z60LL','PERF_9RG6VT','DEV_LBJCKZ',45.10,4.0,'Membrane',98164621,39,'2KRO',93.2,93.3,1.15,1.2,2.1,2.0,3.1,'None','Screw-in',1.4,'ABS','Laser Etched',8,'false',15,2
+'MECH_P4KYKO','PERF_E4YI1B','DEV_57IAEV',46.80,1.9,'Mechanical',72932893,31,'NKRO',93.1,94.3,1.88,2.3,1.1,1.8,3.3,'Minimal','PCB Mount',1.4,'Double Shot PBT','Double Shot',5,'true',15,7
+'MECH_9Z02D8','PERF_JH1IIW','DEV_RAWOZV',55.10,2.9,'Optical',77957975,58,'NKRO',94.5,100.0,1.87,2.2,2.0,1.5,3.0,'Moderate','Screw-in',1.4,'Double Shot PBT','Laser Etched',0,'false',9,4
+'MECH_TXWAWW','PERF_IWQZYH','DEV_0I3S83',73.10,2.0,'Membrane',57038978,103,'2KRO',93.1,90.0,0.90,1.8,1.4,1.9,3.6,'Minimal','Plate Mount',1.1,'ABS','Laser Etched',6,'true',11,6
+'MECH_ZZSDZZ','PERF_Y2ZLU9','DEV_7C09SJ',56.40,1.7,'Magnetic',97876395,52,'2KRO',91.8,99.9,0.10,2.5,1.7,2.0,3.2,'Moderate','Plate Mount',1.4,'ABS','Double Shot',2,'false',5,9
+'MECH_QQP7MQ','PERF_HDOKIV','DEV_N6U4UJ',57.60,3.3,'Mechanical',82307452,80,'2KRO',92.1,98.7,1.61,1.0,1.8,2.1,3.4,'Moderate','Screw-in',1.3,'Double Shot PBT','Laser Etched',8,'true',8,6
+'MECH_ZS83J0','PERF_Z4CK7R','DEV_38GPMJ',71.10,3.1,'Optical',36259966,52,'6KRO',97.3,93.7,0.74,2.0,2.4,2.1,3.6,'Minimal','Plate Mount',1.1,'ABS','Laser Etched',8,'false',13,9
+'MECH_WZZ4HX','PERF_EAUMJJ','DEV_AGWW24',77.80,3.1,'Membrane',26044714,7,'2KRO',96.3,93.9,1.21,2.2,1.7,2.4,3.7,'Minimal','Plate Mount',1.2,'ABS','Dye Sub',8,'true',11,7
+'MECH_NYUIIW','PERF_19PCEV','DEV_3ZKMHH',75.70,3.2,'Membrane',45646128,25,'2KRO',92.8,90.3,1.24,2.0,1.2,2.1,3.5,'None','Plate Mount',1.4,'PBT','Double Shot',8,'false',11,2
+'MECH_VZ22QN','PERF_4QVISM','DEV_PLZZPV',71.40,2.5,'Magnetic',47961135,84,'NKRO',99.7,90.0,1.38,2.1,1.2,2.3,3.1,'Moderate','Screw-in',1.0,'PBT','Dye Sub',9,'true',4,4
+'MECH_MSQ8JZ','PERF_UL7SSU','DEV_ZHPRIT',52.50,2.9,'Mechanical',52960755,2,'2KRO',90.5,100.0,1.44,2.5,1.2,1.9,3.0,'Moderate','Plate Mount',1.4,'Double Shot PBT','Laser Etched',5,'false',1,8
+'MECH_2HDDUQ','PERF_A76SSH','DEV_V31SW2',69.80,2.5,'Mechanical',93059046,25,'2KRO',91.4,96.3,1.38,1.5,1.4,1.9,3.8,'Moderate','PCB Mount',1.5,'Double Shot PBT','Laser Etched',0,'false',7,9
+'MECH_4EQL6S','PERF_55RVUR','DEV_6SEZBJ',76.80,3.1,'Membrane',53019795,88,'2KRO',99.6,90.0,1.60,1.7,1.3,2.4,3.1,'None','Plate Mount',1.0,'PBT','Laser Etched',4,'true',9,2
+'MECH_16X70H','PERF_7U42IN','DEV_H0O1MJ',73.70,3.4,'Magnetic',40081770,63,'2KRO',99.4,93.2,1.64,1.3,1.3,2.1,3.6,'Minimal','PCB Mount',1.4,'Double Shot PBT','Dye Sub',6,'true',2,8
+'MECH_B0QNSG','PERF_U6QRT6','DEV_UVZ8KC',65.10,3.1,'Magnetic',47652143,27,'2KRO',97.9,93.2,0.17,2.0,2.5,1.6,3.5,'Minimal','Screw-in',1.4,'ABS','Laser Etched',7,'true',8,8
+'MECH_JGIZUU','PERF_QXMDZF','DEV_TTD0F1',76.70,2.9,'Membrane',78010221,10,'NKRO',92.6,90.3,1.64,1.2,2.1,1.8,3.2,'Minimal','Screw-in',1.4,'ABS','Double Shot',7,'true',3,1
+'MECH_KB4RAY','PERF_DS9P74','DEV_VDX0XJ',71.90,3.9,'Membrane',95965785,79,'2KRO',99.8,93.1,1.32,1.3,1.2,2.4,3.0,'None','Screw-in',1.2,'Double Shot PBT','Dye Sub',3,'false',1,2
+'MECH_IU219Q','PERF_FPD8L8','DEV_68UFIL',73.80,1.7,'Optical',62491846,32,'2KRO',92.2,97.9,0.23,2.1,1.1,2.3,3.3,'Moderate','Screw-in',1.4,'PBT','Double Shot',0,'false',8,6
+'MECH_VJPJTU','PERF_BZQA5Y','DEV_D0N1KH',77.30,3.6,'Membrane',38265941,28,'NKRO',93.7,92.1,0.89,2.3,2.1,1.6,3.6,'Minimal','Plate Mount',1.2,'PBT','Double Shot',5,'true',0,8
+'MECH_5GLEQ6','PERF_JXDPCA','DEV_NBDJUZ',53.80,3.2,'Membrane',79534678,81,'NKRO',98.3,97.4,0.05,2.4,2.5,2.3,3.7,'None','PCB Mount',1.1,'Double Shot PBT','Double Shot',4,'true',6,2
+'MECH_E76TD8','PERF_TJNZ4H','DEV_SA5RLB',47.70,2.0,'Membrane',73180561,100,'2KRO',99.5,94.1,1.49,2.4,1.3,1.8,3.6,'Minimal','Plate Mount',1.1,'ABS','Double Shot',9,'true',2,9
+'MECH_PB4P5Z','PERF_XTVPTF','DEV_D22UEA',59.50,3.0,'Optical',45441924,98,'2KRO',94.7,91.4,0.88,1.0,1.9,2.1,3.6,'Minimal','Plate Mount',1.4,'PBT','Double Shot',5,'false',13,10
+'MECH_0K67LA','PERF_KOXIPG','DEV_BSOHYI',64.40,2.8,'Optical',54885740,93,'NKRO',96.6,99.0,0.87,1.9,1.9,2.1,3.9,'Moderate','PCB Mount',1.1,'ABS','Double Shot',0,'false',8,7
+'MECH_SHDSII','PERF_0LSQ2I','DEV_SNVX5T',60.30,3.4,'Magnetic',94281723,12,'2KRO',99.6,90.2,0.69,2.3,1.8,2.2,3.5,'Minimal','PCB Mount',1.3,'ABS','Double Shot',4,'false',11,1
+'MECH_1CST8Z','PERF_CG0MG7','DEV_JYIOFG',57.60,3.4,'Magnetic',40067313,84,'NKRO',94.9,94.4,1.82,1.4,1.9,1.8,3.6,'Moderate','Screw-in',1.3,'ABS','Dye Sub',6,'true',13,1
+'MECH_1TSEB2','PERF_BZEHMD','DEV_DUVLV3',51.10,3.7,'Membrane',63881001,16,'6KRO',93.0,90.4,1.80,2.3,1.7,2.2,3.2,'Minimal','PCB Mount',1.1,'PBT','Double Shot',3,'false',3,8
+'MECH_8NM6TN','PERF_BQOSYE','DEV_7N7OB2',80.00,3.0,'Magnetic',81770461,85,'2KRO',97.9,90.3,1.97,2.0,1.2,1.5,4.0,'Moderate','Plate Mount',1.1,'PBT','Dye Sub',4,'false',7,7
+'MECH_HG6928','PERF_B5H50X','DEV_LD5JWX',70.00,3.0,'Mechanical',35281545,65,'6KRO',95.8,97.4,0.62,1.6,2.3,1.9,3.8,'Moderate','PCB Mount',1.3,'ABS','Double Shot',1,'false',8,9
+'MECH_9C04MO','PERF_263L3Q','DEV_DR00M9',60.80,1.5,'Membrane',63134465,78,'6KRO',98.1,98.0,0.95,1.1,2.3,2.0,3.0,'Minimal','Screw-in',1.4,'PBT','Laser Etched',2,'false',12,6
+'MECH_UEZG0N','PERF_BM6PU4','DEV_QGDLRO',65.30,3.1,'Membrane',36403302,54,'NKRO',96.4,90.9,0.96,2.0,1.8,1.8,3.1,'None','PCB Mount',1.3,'ABS','Dye Sub',2,'false',13,3
+'MECH_7LK8Y5','PERF_52A1HU','DEV_CCOELH',79.50,3.7,'Mechanical',94484349,7,'6KRO',96.8,93.8,1.74,1.2,2.0,1.6,4.0,'Minimal','Plate Mount',1.3,'ABS','Dye Sub',2,'false',9,3
+'MECH_WQLTJ2','PERF_BUEHHE','DEV_AOQTAV',73.50,2.1,'Mechanical',25967514,16,'NKRO',94.5,93.0,1.14,2.2,2.1,1.9,3.1,'None','Screw-in',1.5,'PBT','Laser Etched',5,'true',4,10
+'MECH_QDG1RA','PERF_IU7LP6','DEV_ZAWBTR',74.10,1.8,'Magnetic',31764843,89,'2KRO',97.2,93.7,1.98,1.9,1.7,2.0,3.4,'Minimal','PCB Mount',1.5,'ABS','Double Shot',2,'false',7,9
+'MECH_DMUXY9','PERF_JSPU37','DEV_7367ID',46.50,3.3,'Membrane',42187332,6,'NKRO',100.0,94.7,0.67,2.2,1.7,2.1,3.3,'Minimal','Screw-in',1.2,'Double Shot PBT','Dye Sub',1,'false',10,3
+'MECH_RWRXB5','PERF_65L1E6','DEV_M575LV',51.10,3.5,'Membrane',66608260,45,'2KRO',92.7,95.8,0.96,1.5,1.5,1.6,3.8,'Moderate','Screw-in',1.1,'ABS','Laser Etched',2,'false',14,8
+'MECH_AVLN35','PERF_YAV8NM','DEV_90GRVO',65.40,2.1,'Optical',98590674,27,'2KRO',93.1,94.6,0.27,2.2,2.2,1.8,3.6,'Moderate','Screw-in',1.2,'ABS','Laser Etched',4,'false',8,4
+'MECH_ICTBAE','PERF_OM8JUV','DEV_9YHCAA',49.60,1.8,'Magnetic',73508326,3,'2KRO',97.4,99.5,1.58,1.0,1.9,2.5,3.0,'Minimal','Plate Mount',1.2,'PBT','Dye Sub',0,'true',14,5
+'MECH_R7O9QP','PERF_BY8FOI','DEV_ATY8QQ',73.50,2.3,'Membrane',90630196,90,'2KRO',95.4,97.9,1.26,2.3,2.4,1.9,3.2,'None','Plate Mount',1.5,'Double Shot PBT','Dye Sub',8,'false',8,5
+'MECH_EJV5H9','PERF_9BTA4D','DEV_61CTLL',47.60,2.5,'Magnetic',76362650,70,'NKRO',91.6,98.1,1.22,2.5,1.6,1.6,3.7,'Minimal','Screw-in',1.3,'PBT','Double Shot',5,'true',4,6
+'MECH_HUUYGZ','PERF_3A3JKN','DEV_S11ETL',61.20,1.6,'Membrane',27183087,21,'NKRO',95.8,93.9,0.05,2.4,1.9,1.9,3.7,'Moderate','Plate Mount',1.0,'Double Shot PBT','Dye Sub',8,'false',6,2
+'MECH_0NY9B7','PERF_DQLLKF','DEV_4Y3XW7',67.70,3.8,'Magnetic',91211181,82,'6KRO',91.2,94.7,1.65,2.3,1.5,2.3,3.8,'Minimal','Screw-in',1.5,'ABS','Double Shot',2,'false',4,2
+'MECH_Y9YR9G','PERF_G7C9HE','DEV_ACD685',66.90,3.3,'Membrane',95595696,40,'2KRO',95.3,96.7,1.98,2.3,1.7,1.7,3.8,'None','Plate Mount',1.0,'ABS','Laser Etched',0,'true',5,3
+'MECH_NRDOEJ','PERF_NN2BTL','DEV_SR7X4W',70.20,2.2,'Magnetic',84261953,47,'2KRO',100.0,94.1,1.67,1.1,1.8,1.8,3.6,'Moderate','PCB Mount',1.1,'PBT','Double Shot',2,'true',11,7
+'MECH_3FF1W3','PERF_QPZRXL','DEV_W4V80X',79.80,3.3,'Mechanical',90127717,93,'NKRO',94.9,95.9,0.19,1.8,1.3,1.6,3.5,'Moderate','Plate Mount',1.1,'PBT','Dye Sub',5,'true',11,5
+'MECH_O8Y8I4','PERF_3YF817','DEV_EJKD6B',67.20,3.8,'Membrane',24334075,1,'NKRO',97.5,93.0,1.15,1.2,2.1,1.6,3.6,'Moderate','PCB Mount',1.4,'PBT','Double Shot',7,'false',2,1
+'MECH_R7P6GH','PERF_JMN7ZJ','DEV_XDQIOY',69.30,3.4,'Mechanical',97348890,16,'NKRO',92.6,92.6,1.70,1.2,1.5,2.0,3.1,'Moderate','Plate Mount',1.1,'PBT','Dye Sub',7,'true',13,9
+'MECH_YAC2QJ','PERF_EHRNSV','DEV_OSAW3A',74.50,2.2,'Mechanical',54424088,44,'6KRO',97.9,91.0,1.38,1.7,2.1,1.5,3.4,'Minimal','Screw-in',1.4,'ABS','Double Shot',5,'false',6,7
+'MECH_GRF9T1','PERF_J7BAXK','DEV_IUGK1N',62.90,3.4,'Magnetic',72473807,80,'NKRO',92.3,93.0,1.33,2.4,1.8,1.6,3.7,'Minimal','Plate Mount',1.3,'PBT','Double Shot',6,'false',9,9
+'MECH_E70YL3','PERF_8S9SWN','DEV_AES8BF',68.30,2.4,'Membrane',62000996,104,'6KRO',90.8,99.4,1.64,1.2,1.9,1.6,3.3,'Minimal','PCB Mount',1.3,'PBT','Laser Etched',4,'false',0,10
+'MECH_HHZFV2','PERF_MH1W2R','DEV_749I9U',76.40,1.6,'Membrane',44299838,23,'6KRO',99.7,93.8,1.54,1.3,1.9,2.1,3.1,'Moderate','PCB Mount',1.2,'PBT','Dye Sub',4,'true',10,8
+'MECH_RUS4WC','PERF_68743F','DEV_JTQU5D',71.70,2.8,'Membrane',87132805,12,'NKRO',98.6,96.5,0.87,2.0,1.2,2.2,3.0,'Minimal','Plate Mount',1.1,'ABS','Dye Sub',2,'false',10,9
+'MECH_13L2VX','PERF_3EJRP0','DEV_9ZIRII',45.50,3.7,'Membrane',53757149,18,'2KRO',95.8,91.2,0.41,2.1,1.1,1.6,4.0,'Minimal','Screw-in',1.3,'ABS','Dye Sub',9,'false',14,9
+'MECH_X7U56G','PERF_YBU2GP','DEV_WZLTGI',52.20,1.9,'Optical',77997426,73,'NKRO',99.0,97.2,1.96,1.2,2.1,2.3,3.3,'Minimal','Screw-in',1.2,'Double Shot PBT','Double Shot',5,'true',15,2
+'MECH_KS7GLQ','PERF_V7M12U','DEV_H2NRMY',49.30,1.5,'Mechanical',31232804,11,'2KRO',97.4,91.2,0.65,2.4,1.1,1.8,3.7,'Moderate','Plate Mount',1.3,'Double Shot PBT','Laser Etched',4,'true',3,3
+'MECH_3572LF','PERF_SU6U60','DEV_HVAMPH',52.00,3.6,'Magnetic',25497406,78,'NKRO',92.7,92.6,0.67,1.7,2.4,1.5,4.0,'Moderate','PCB Mount',1.2,'ABS','Laser Etched',9,'true',10,1
+'MECH_19Q2PN','PERF_I26FAJ','DEV_XF0MDO',69.20,2.2,'Magnetic',56855140,54,'2KRO',94.4,97.9,0.58,2.2,1.8,2.2,3.4,'Minimal','Screw-in',1.3,'Double Shot PBT','Dye Sub',7,'false',5,2
+'MECH_UNUGTA','PERF_F86BK8','DEV_TVK0TQ',54.30,3.5,'Optical',76619067,62,'NKRO',96.0,91.0,1.16,2.1,1.8,2.4,3.2,'Minimal','Screw-in',1.1,'ABS','Double Shot',8,'false',8,8
+'MECH_8AHBDD','PERF_1578PF','DEV_QZ7MH9',77.60,3.6,'Magnetic',32034771,14,'6KRO',96.1,92.8,0.30,2.4,1.9,2.4,3.9,'Moderate','Screw-in',1.4,'Double Shot PBT','Laser Etched',2,'true',4,2
+'MECH_E1UXM9','PERF_VV0ZOM','DEV_QMQ89D',68.50,3.3,'Magnetic',66867909,6,'2KRO',93.7,90.5,0.74,2.3,1.0,2.3,3.9,'None','Screw-in',1.1,'Double Shot PBT','Double Shot',2,'true',15,8
+'MECH_PZ2F5F','PERF_IB2ZK9','DEV_KULJE3',62.30,2.7,'Optical',95148506,40,'NKRO',98.6,96.3,1.90,1.0,2.1,2.4,3.3,'Minimal','PCB Mount',1.2,'ABS','Dye Sub',5,'true',5,4
+'MECH_DA1L09','PERF_XZ9R4L','DEV_8BKWWO',58.70,3.3,'Optical',35686956,30,'NKRO',95.0,94.5,1.86,1.7,1.6,2.2,3.9,'Minimal','Screw-in',1.1,'PBT','Laser Etched',7,'false',2,3
+'MECH_Q85WD7','PERF_DZ0MRW','DEV_TXERQ0',46.90,3.7,'Membrane',54270085,45,'6KRO',96.1,96.7,0.42,1.3,1.9,2.0,4.0,'None','PCB Mount',1.2,'PBT','Laser Etched',1,'true',3,1
+'MECH_3YS2Q0','PERF_9JRFE3','DEV_94JQH9',60.60,2.0,'Mechanical',56791381,94,'6KRO',98.1,99.9,0.34,1.2,1.6,2.2,3.8,'Minimal','Screw-in',1.0,'PBT','Dye Sub',8,'true',14,5
+'MECH_STML7O','PERF_1BUHD7','DEV_5X3KFQ',54.50,3.3,'Magnetic',83998377,23,'NKRO',93.7,92.2,0.87,1.5,1.9,1.7,3.8,'None','PCB Mount',1.4,'PBT','Laser Etched',1,'true',1,8
+'MECH_S0F6VU','PERF_TFKIZA','DEV_7YGUT9',45.90,3.8,'Magnetic',20670074,21,'NKRO',95.2,96.2,0.77,1.8,2.0,2.1,3.0,'Moderate','PCB Mount',1.0,'PBT','Dye Sub',0,'false',7,1
+'MECH_VLIAV2','PERF_ON79C3','DEV_3RP47F',61.80,2.8,'Membrane',94071750,56,'NKRO',98.3,99.5,1.47,1.4,2.1,2.5,3.7,'Minimal','Plate Mount',1.2,'Double Shot PBT','Double Shot',3,'true',9,1
+'MECH_S9EVZY','PERF_YNW0R9','DEV_O329SF',77.00,2.7,'Optical',39774310,49,'2KRO',91.3,97.5,0.28,1.5,1.5,1.9,3.4,'Moderate','Screw-in',1.1,'ABS','Dye Sub',8,'true',4,5
+'MECH_MYDM7B','PERF_RE927U','DEV_TV5614',46.70,2.6,'Membrane',95312097,23,'NKRO',95.0,97.6,0.60,2.2,1.5,1.8,3.2,'Moderate','Plate Mount',1.0,'ABS','Laser Etched',3,'false',13,10
+'MECH_8ZTDR5','PERF_U7AMY6','DEV_LGS9GS',79.40,2.5,'Mechanical',71625507,38,'6KRO',93.0,90.9,0.94,1.8,1.7,2.1,3.8,'Minimal','PCB Mount',1.2,'PBT','Dye Sub',0,'true',14,4
+'MECH_OLKK1J','PERF_E1A6QQ','DEV_ZSWMOQ',67.20,3.3,'Magnetic',28548159,36,'2KRO',95.7,96.2,0.68,2.4,1.4,2.2,3.3,'Minimal','PCB Mount',1.5,'PBT','Dye Sub',8,'true',12,10
+'MECH_CXI6VO','PERF_LIKAL1','DEV_IEZ7DC',51.00,3.7,'Mechanical',27240754,76,'2KRO',99.1,99.7,1.24,1.8,2.1,2.4,3.2,'Minimal','Plate Mount',1.4,'ABS','Laser Etched',9,'false',5,1
+'MECH_BJ6PUR','PERF_L7MMQZ','DEV_F80ERJ',72.60,2.4,'Membrane',82931283,91,'2KRO',94.8,95.9,1.84,2.4,1.4,1.5,3.5,'Minimal','Plate Mount',1.0,'Double Shot PBT','Laser Etched',8,'true',2,4
+'MECH_VLMD06','PERF_41JFKG','DEV_9QDNTQ',78.40,3.5,'Mechanical',24753220,90,'6KRO',91.8,94.0,1.35,1.8,1.2,2.0,3.4,'Moderate','Screw-in',1.0,'PBT','Laser Etched',4,'false',11,3
+'MECH_WB7G73','PERF_F9SEXL','DEV_0T6VS0',49.60,3.9,'Mechanical',99471443,38,'6KRO',93.2,99.1,1.36,2.4,1.2,2.5,3.5,'Minimal','Plate Mount',1.4,'PBT','Double Shot',2,'true',2,7
+'MECH_PN8LK8','PERF_F3MI6C','DEV_B6NQ63',60.00,1.7,'Mechanical',60039140,4,'6KRO',90.9,94.9,0.52,1.5,1.2,1.7,3.3,'Moderate','Plate Mount',1.2,'ABS','Dye Sub',5,'false',11,10
+'MECH_YCQZAD','PERF_M7J1OC','DEV_STIL9I',52.00,3.9,'Mechanical',71152600,78,'2KRO',99.7,96.5,0.32,2.3,2.0,2.0,3.2,'Minimal','Plate Mount',1.4,'PBT','Double Shot',9,'true',6,3
+'MECH_4A4YFU','PERF_SI7H5W','DEV_7BFWL8',74.50,4.0,'Magnetic',42912129,103,'2KRO',97.6,90.4,0.05,1.2,2.3,2.1,3.9,'None','PCB Mount',1.5,'Double Shot PBT','Double Shot',8,'false',15,10
+'MECH_1DD8Y6','PERF_POIVCG','DEV_5N4HS0',78.90,1.7,'Mechanical',74481915,54,'NKRO',98.5,95.7,1.67,2.4,1.8,2.0,4.0,'Moderate','Screw-in',1.4,'ABS','Laser Etched',6,'true',7,3
+'MECH_ZAZHLU','PERF_6OASOG','DEV_WE1C3N',66.50,2.3,'Magnetic',23410153,72,'6KRO',98.8,95.0,1.19,2.4,2.0,2.2,3.4,'Moderate','PCB Mount',1.4,'ABS','Dye Sub',5,'true',1,8
+'MECH_SDBSSC','PERF_6BFR9I','DEV_CFM7AC',63.80,2.8,'Optical',26458702,60,'NKRO',91.9,98.8,0.17,1.3,1.8,1.5,3.1,'Minimal','PCB Mount',1.4,'Double Shot PBT','Dye Sub',1,'true',8,9
+'MECH_QD2AGF','PERF_1FBIT8','DEV_KBAXZ6',63.50,2.4,'Optical',87010980,75,'6KRO',99.8,98.5,1.32,2.0,2.0,2.0,4.0,'Minimal','Screw-in',1.1,'Double Shot PBT','Dye Sub',8,'false',3,4
+'MECH_B2M9SU','PERF_K3SN8J','DEV_J4JCAU',79.30,1.7,'Optical',80443945,51,'2KRO',96.3,97.0,0.46,2.5,1.2,1.8,3.8,'Minimal','Screw-in',1.1,'Double Shot PBT','Dye Sub',2,'false',5,3
+'MECH_I6Y314','PERF_ZX65O1','DEV_LFSNPB',47.70,1.7,'Membrane',35725511,70,'2KRO',96.9,91.4,0.34,2.1,2.1,2.0,3.6,'Moderate','Screw-in',1.0,'PBT','Laser Etched',2,'true',10,10
+'MECH_FSDP35','PERF_BFEZ77','DEV_0IUSN9',53.70,3.0,'Mechanical',98683613,90,'2KRO',95.7,96.1,0.35,2.3,1.7,1.6,3.1,'Moderate','Plate Mount',1.4,'Double Shot PBT','Dye Sub',2,'false',7,3
+'MECH_Z03H7T','PERF_SBHNMB','DEV_HF1F2U',66.00,2.9,'Magnetic',22647768,72,'NKRO',92.9,99.4,0.65,1.5,1.5,2.1,3.6,'Moderate','PCB Mount',1.1,'Double Shot PBT','Dye Sub',2,'false',2,5
+'MECH_8P9Y93','PERF_CPJJTB','DEV_81YBLJ',56.20,3.5,'Mechanical',64730686,14,'2KRO',96.6,97.4,0.01,2.2,1.2,2.1,3.4,'Moderate','Screw-in',1.2,'PBT','Laser Etched',9,'true',5,2
+'MECH_J10GQ8','PERF_E26898','DEV_DTR2N4',58.10,2.4,'Magnetic',54811393,37,'2KRO',99.0,90.9,1.61,1.0,1.7,1.8,3.3,'Minimal','Plate Mount',1.2,'ABS','Double Shot',8,'false',7,3
+'MECH_DASUE3','PERF_V6R93M','DEV_XBXJPX',47.20,4.0,'Membrane',30582162,102,'2KRO',91.3,94.7,0.39,1.7,1.1,2.5,3.2,'Moderate','PCB Mount',1.4,'PBT','Laser Etched',9,'false',8,5
+'MECH_6LKFEU','PERF_DNJHEZ','DEV_QWP50S',54.00,3.7,'Optical',60222875,13,'2KRO',98.0,93.2,1.48,1.6,2.4,2.5,3.0,'None','PCB Mount',1.0,'Double Shot PBT','Dye Sub',2,'false',0,9
+'MECH_4XBGEI','PERF_DMCFPQ','DEV_FJUQ5I',54.40,2.0,'Optical',64463222,70,'6KRO',99.4,90.2,0.15,1.9,2.3,1.9,3.3,'Minimal','PCB Mount',1.1,'ABS','Dye Sub',0,'true',14,2
+'MECH_Y0PIQX','PERF_JZ31RH','DEV_YQ8L38',45.70,2.5,'Magnetic',21283521,45,'6KRO',93.6,90.0,1.32,2.2,2.1,2.0,3.0,'Moderate','Screw-in',1.2,'ABS','Double Shot',9,'true',6,8
+'MECH_NIG2K9','PERF_1H7NEP','DEV_Y3K8BE',66.70,1.6,'Magnetic',36640579,57,'NKRO',95.4,90.6,1.10,2.3,2.4,1.7,3.9,'Minimal','PCB Mount',1.0,'PBT','Double Shot',3,'true',1,8
+'MECH_K6IB1X','PERF_0KZN55','DEV_PLUKGK',68.10,1.6,'Membrane',26883779,91,'NKRO',96.0,99.0,1.59,1.5,1.4,1.9,4.0,'Minimal','Plate Mount',1.1,'Double Shot PBT','Laser Etched',4,'true',15,1
+'MECH_ZFOPCP','PERF_6PZP61','DEV_N2E216',47.70,1.5,'Membrane',48941645,32,'2KRO',96.4,92.3,1.02,2.4,1.2,2.1,3.1,'Moderate','Screw-in',1.0,'PBT','Double Shot',0,'true',9,2
+'MECH_IHMYH9','PERF_0EKV2E','DEV_3A2Z4S',50.50,2.9,'Membrane',23978739,60,'NKRO',93.0,96.4,1.88,1.9,1.8,2.0,3.1,'Moderate','Screw-in',1.3,'ABS','Double Shot',6,'true',11,9
+'MECH_WPV983','PERF_B2KKA5','DEV_PIHT8D',63.40,2.6,'Membrane',31381834,71,'NKRO',92.1,94.9,0.54,2.4,1.7,1.6,3.2,'Moderate','PCB Mount',1.4,'Double Shot PBT','Dye Sub',6,'true',8,9
+'MECH_TM76L5','PERF_65WY5V','DEV_THJ19W',71.80,3.3,'Mechanical',45680469,67,'2KRO',98.9,94.7,1.22,2.0,1.3,1.9,3.9,'Minimal','Screw-in',1.1,'Double Shot PBT','Laser Etched',6,'false',8,9
+'MECH_S7BPY1','PERF_KDUK2B','DEV_DMIZJK',53.10,3.2,'Magnetic',28839677,5,'NKRO',92.8,94.1,1.13,1.8,1.2,1.6,3.2,'None','Plate Mount',1.2,'ABS','Dye Sub',0,'false',9,6
+'MECH_PHK2FY','PERF_LQ7FOE','DEV_32P2JI',51.80,2.8,'Mechanical',39689020,100,'2KRO',96.1,93.7,0.41,1.5,2.2,1.5,3.5,'Minimal','PCB Mount',1.2,'ABS','Laser Etched',8,'true',5,1
+'MECH_2MROIC','PERF_GP8ME4','DEV_8WE1I8',68.50,2.1,'Optical',45552332,54,'2KRO',99.1,93.9,0.44,1.0,2.3,2.1,3.8,'Minimal','Screw-in',1.0,'ABS','Laser Etched',2,'true',15,4
+'MECH_0HIZW7','PERF_C3HM4Y','DEV_J82AO9',73.80,2.3,'Optical',26221146,100,'NKRO',96.0,96.4,0.09,2.1,2.3,2.0,3.7,'Minimal','Screw-in',1.1,'Double Shot PBT','Double Shot',7,'false',1,2
+'MECH_6D9MH9','PERF_AQTVAO','DEV_IZQQPP',69.50,3.8,'Mechanical',56001408,61,'2KRO',96.0,97.7,0.40,2.1,1.8,1.6,3.9,'Minimal','Screw-in',1.2,'ABS','Laser Etched',7,'false',12,2
+'MECH_G8Q0N4','PERF_NQ5D9G','DEV_ADAP4C',67.90,3.4,'Mechanical',72745279,89,'6KRO',97.0,98.3,0.47,2.1,1.5,2.2,3.5,'None','PCB Mount',1.4,'ABS','Laser Etched',9,'true',5,4
+'MECH_WPV9QD','PERF_VP5W0Z','DEV_3DKEFL',67.90,2.4,'Mechanical',52616213,5,'2KRO',91.8,99.0,1.92,1.5,1.2,2.4,3.3,'Moderate','PCB Mount',1.2,'Double Shot PBT','Laser Etched',2,'false',6,8
+'MECH_BI9KIB','PERF_WNTRKD','DEV_5YU10Z',73.70,3.0,'Magnetic',71778733,62,'NKRO',91.7,98.1,1.99,2.3,2.0,2.3,3.3,'Minimal','Plate Mount',1.2,'PBT','Laser Etched',1,'false',9,1
+'MECH_WBIBVX','PERF_ZQ4NFL','DEV_WKZ52Y',46.70,3.1,'Optical',31458768,58,'2KRO',97.2,92.8,0.80,2.0,2.4,2.1,3.8,'Minimal','Plate Mount',1.2,'ABS','Laser Etched',2,'false',8,3
+'MECH_YQZPRQ','PERF_4HPQTT','DEV_ANRBNN',46.30,3.0,'Optical',52792367,72,'NKRO',96.2,96.7,0.85,1.5,1.4,1.7,3.8,'Moderate','PCB Mount',1.2,'Double Shot PBT','Laser Etched',5,'true',2,1
+'MECH_1CRVTP','PERF_3ABAK6','DEV_VDCV1F',61.20,2.1,'Membrane',24234484,45,'NKRO',93.1,98.2,0.11,1.4,2.1,1.6,3.2,'Moderate','Screw-in',1.0,'PBT','Laser Etched',9,'true',7,6
+'MECH_46CIGN','PERF_DYZC77','DEV_C3D0DL',77.50,2.6,'Magnetic',29732282,15,'2KRO',96.4,91.5,0.51,1.9,1.3,2.2,4.0,'Minimal','Screw-in',1.3,'PBT','Laser Etched',3,'false',11,4
+'MECH_ZM0S7L','PERF_KSVJ9B','DEV_GMXQX4',50.40,1.7,'Magnetic',68812712,50,'6KRO',91.3,90.5,0.25,1.3,1.4,2.1,3.3,'Minimal','Screw-in',1.5,'ABS','Dye Sub',5,'false',3,2
+'MECH_5J0TK0','PERF_G6XWB6','DEV_36KXQL',67.20,3.5,'Optical',48779811,83,'NKRO',92.6,97.0,1.07,2.1,1.4,2.3,3.1,'Moderate','Plate Mount',1.4,'Double Shot PBT','Laser Etched',3,'true',15,8
+'MECH_AS5GR8','PERF_L34HOI','DEV_8NJ9VK',75.20,2.6,'Magnetic',63736854,39,'NKRO',96.2,90.6,1.19,2.3,1.0,2.0,3.4,'Minimal','Plate Mount',1.1,'ABS','Laser Etched',5,'false',1,9
+'MECH_8BFDZB','PERF_POKB6E','DEV_TCCD3Z',67.10,2.7,'Membrane',73278661,31,'NKRO',97.6,92.2,0.08,1.8,2.3,1.5,3.7,'Minimal','PCB Mount',1.4,'PBT','Double Shot',7,'true',11,3
+'MECH_KONBX0','PERF_DIV7GH','DEV_TDMA8L',72.80,2.6,'Magnetic',40061402,52,'NKRO',92.5,92.0,0.12,2.3,1.3,2.5,3.2,'Minimal','Screw-in',1.4,'Double Shot PBT','Dye Sub',3,'false',6,8
+'MECH_6HU8VQ','PERF_I4PH6J','DEV_EPBKA4',57.00,3.8,'Magnetic',94158177,104,'NKRO',96.4,96.4,1.44,1.8,2.1,1.7,4.0,'None','Plate Mount',1.3,'PBT','Dye Sub',0,'false',12,10
+'MECH_ROPJ4T','PERF_IDUIWK','DEV_50LFVE',76.40,2.5,'Membrane',27365694,101,'NKRO',96.4,91.6,0.41,1.9,1.6,1.9,3.1,'None','Plate Mount',1.3,'PBT','Laser Etched',5,'false',8,8
+'MECH_DF0JYD','PERF_L62XOP','DEV_2BETH1',68.20,3.2,'Membrane',77833426,5,'NKRO',99.7,93.2,0.10,1.6,1.3,1.6,4.0,'Moderate','Screw-in',1.4,'ABS','Dye Sub',7,'true',11,9
+'MECH_Q1Z91I','PERF_1YJXPY','DEV_0IK6QJ',72.30,3.7,'Membrane',46380328,7,'NKRO',96.7,97.7,0.14,1.7,1.8,2.4,3.6,'Minimal','Screw-in',1.2,'PBT','Dye Sub',3,'true',14,5
+'MECH_BZBJX4','PERF_33RXHP','DEV_J6QHLO',67.10,3.1,'Magnetic',62651407,97,'6KRO',92.9,93.6,0.90,1.6,2.2,1.8,3.5,'Moderate','PCB Mount',1.4,'ABS','Dye Sub',0,'true',14,7
+'MECH_F08HYJ','PERF_CKUE6M','DEV_SRDR8W',61.00,3.0,'Mechanical',57239178,38,'NKRO',90.7,99.9,1.06,2.2,2.4,1.5,3.1,'Minimal','PCB Mount',1.3,'ABS','Laser Etched',8,'true',7,7
+'MECH_X8HEI8','PERF_UJAWJI','DEV_NJ09FM',78.80,3.4,'Magnetic',55091157,16,'2KRO',94.1,99.2,1.77,1.4,2.3,1.7,3.1,'Minimal','Screw-in',1.1,'ABS','Dye Sub',3,'true',13,5
+'MECH_Q229ET','PERF_JG0II3','DEV_7DB2JH',47.60,2.0,'Membrane',81453490,72,'NKRO',97.8,90.9,1.63,1.8,2.5,1.6,3.9,'Minimal','Plate Mount',1.0,'ABS','Laser Etched',3,'true',8,2
+'MECH_JJMU9C','PERF_GZSUUP','DEV_9Q0S15',47.90,3.7,'Magnetic',89680957,68,'6KRO',97.6,94.7,0.45,2.1,2.1,2.2,3.2,'None','Plate Mount',1.3,'Double Shot PBT','Double Shot',9,'true',7,3
+'MECH_SKW5KA','PERF_1HMAO0','DEV_S6Z9HN',49.90,2.8,'Membrane',43457615,28,'2KRO',99.2,99.4,1.18,1.9,1.0,1.8,3.0,'Minimal','Screw-in',1.4,'ABS','Double Shot',3,'false',5,7
+'MECH_CQE33R','PERF_A0CBSU','DEV_1SX22U',54.60,2.5,'Membrane',84613619,36,'6KRO',96.5,95.6,0.18,2.3,1.3,2.0,3.0,'Moderate','Screw-in',1.2,'PBT','Laser Etched',1,'true',8,3
+'MECH_SG745Y','PERF_UT88YM','DEV_N969YB',69.50,1.9,'Membrane',84186800,90,'6KRO',98.2,92.0,0.65,2.1,1.7,2.2,3.3,'Moderate','Screw-in',1.3,'PBT','Laser Etched',5,'false',13,7
+'MECH_GYWIR9','PERF_YOOP55','DEV_RFI4M9',73.00,2.2,'Mechanical',45536252,94,'2KRO',92.3,93.4,0.32,2.1,1.8,2.4,3.9,'Moderate','Plate Mount',1.4,'PBT','Double Shot',9,'false',6,3
+'MECH_AKIM56','PERF_UMHBYT','DEV_213SJQ',60.50,1.7,'Magnetic',50334517,45,'NKRO',95.9,92.7,0.90,1.2,1.8,2.0,3.6,'Moderate','Plate Mount',1.4,'Double Shot PBT','Laser Etched',6,'false',7,4
+'MECH_EVPDL4','PERF_K30RKE','DEV_UFVWAR',62.40,3.5,'Membrane',32354530,24,'NKRO',98.4,98.0,1.31,1.9,1.7,1.7,3.9,'Moderate','PCB Mount',1.1,'Double Shot PBT','Double Shot',4,'false',13,8
+'MECH_S2GE1I','PERF_DDBHTH','DEV_39E7SH',68.40,2.9,'Mechanical',81225485,99,'NKRO',91.3,97.5,1.77,2.5,1.0,2.4,3.6,'Minimal','Plate Mount',1.1,'ABS','Laser Etched',3,'false',10,3
+'MECH_G3IYIL','PERF_82WSZD','DEV_2NG8NS',47.90,3.9,'Mechanical',78568185,19,'6KRO',96.3,92.7,0.39,2.2,1.6,1.7,3.1,'Moderate','Screw-in',1.5,'PBT','Double Shot',3,'true',15,7
+'MECH_EWQA0Y','PERF_E9LMB2','DEV_RZC3H3',55.10,2.2,'Membrane',61654223,29,'2KRO',96.5,99.3,0.75,1.5,2.0,1.9,4.0,'Moderate','Screw-in',1.2,'Double Shot PBT','Dye Sub',4,'false',14,1
+'MECH_OJ8FVN','PERF_9YY2FA','DEV_OATFDB',49.40,2.9,'Membrane',82326103,17,'2KRO',92.0,98.3,0.50,1.4,2.0,2.3,3.4,'Moderate','PCB Mount',1.4,'PBT','Laser Etched',5,'true',1,9
+'MECH_8ZMGSR','PERF_2OUMYV','DEV_AQUTPP',73.80,1.9,'Mechanical',47147608,57,'NKRO',97.1,95.0,1.75,2.2,1.3,1.5,3.7,'None','PCB Mount',1.2,'Double Shot PBT','Laser Etched',1,'true',2,5
+'MECH_M9JSFR','PERF_V3DUUE','DEV_IOSWGI',57.60,3.1,'Optical',62946348,35,'NKRO',93.6,93.3,0.06,2.1,2.4,1.7,3.4,'Moderate','Plate Mount',1.3,'PBT','Double Shot',7,'true',8,7
+'MECH_UAJ026','PERF_0JSUBN','DEV_FTT96W',45.90,2.0,'Mechanical',23638165,30,'2KRO',98.8,98.9,1.65,1.5,2.4,2.2,3.8,'Minimal','Plate Mount',1.4,'PBT','Dye Sub',0,'false',14,5
+'MECH_JQ2SFC','PERF_UE069I','DEV_E1YVPM',75.10,3.6,'Optical',36307921,70,'NKRO',90.3,93.6,1.61,1.9,2.3,2.5,3.9,'Minimal','PCB Mount',1.3,'PBT','Dye Sub',0,'true',9,9
+'MECH_G677SN','PERF_E2QLF4','DEV_SUTNKA',77.30,3.7,'Optical',44318340,10,'2KRO',91.0,95.7,1.25,1.5,1.6,2.0,3.3,'Minimal','PCB Mount',1.4,'PBT','Dye Sub',9,'true',15,10
+'MECH_JUM0DV','PERF_VYCXHC','DEV_L0L6CG',57.50,4.0,'Mechanical',39791289,92,'2KRO',93.1,95.7,1.95,2.1,2.0,1.7,3.2,'Minimal','PCB Mount',1.3,'Double Shot PBT','Double Shot',6,'true',13,5
+'MECH_L9E62M','PERF_NQCE94','DEV_UDBB86',73.00,3.9,'Magnetic',81814942,54,'NKRO',90.5,96.2,0.75,1.6,2.2,1.8,3.1,'Moderate','Screw-in',1.5,'ABS','Laser Etched',2,'false',13,8
+'MECH_O4YFLV','PERF_YTR2QS','DEV_X2N0TV',71.00,3.2,'Optical',24317521,10,'6KRO',96.5,97.5,1.63,1.2,1.0,2.2,3.8,'Minimal','PCB Mount',1.2,'Double Shot PBT','Laser Etched',4,'false',7,7
+'MECH_INI19M','PERF_UBZ9GV','DEV_U66QUH',65.30,3.9,'Optical',70375861,68,'6KRO',93.0,95.9,1.71,1.4,2.3,2.4,3.2,'Minimal','Plate Mount',1.5,'PBT','Laser Etched',4,'false',1,9
+'MECH_JCMBD6','PERF_AYHUCJ','DEV_NZK3W8',50.70,1.8,'Magnetic',90560257,37,'2KRO',91.3,99.1,1.31,1.2,2.4,2.2,3.1,'Minimal','Screw-in',1.1,'ABS','Dye Sub',5,'true',8,8
+'MECH_7JQGLN','PERF_18TWOX','DEV_9H07PP',74.20,3.6,'Mechanical',82709356,101,'2KRO',97.5,98.8,1.71,2.3,2.1,2.1,3.0,'Moderate','Plate Mount',1.4,'Double Shot PBT','Double Shot',6,'false',11,5
+'MECH_25IV9O','PERF_V49540','DEV_KZFNQB',52.00,3.1,'Mechanical',42093276,94,'6KRO',91.2,97.2,0.15,1.4,1.3,2.4,3.3,'Minimal','Screw-in',1.3,'PBT','Dye Sub',4,'true',6,2
+'MECH_IIEN2B','PERF_Z2L8JB','DEV_PT18NR',47.90,2.8,'Mechanical',81469911,103,'NKRO',96.2,98.2,1.24,2.0,1.2,1.7,3.2,'Minimal','Screw-in',1.0,'ABS','Dye Sub',9,'true',8,6
+'MECH_18DA3N','PERF_ESI0QK','DEV_UFOP25',67.80,3.4,'Magnetic',76472380,49,'6KRO',99.6,91.1,0.61,2.2,1.8,1.6,3.5,'Moderate','Screw-in',1.1,'PBT','Double Shot',6,'true',12,4
+'MECH_THS2V3','PERF_B56PQ6','DEV_OG1HUJ',49.80,2.9,'Magnetic',82215638,18,'NKRO',99.7,95.5,0.70,1.2,2.3,2.1,3.2,'Minimal','PCB Mount',1.2,'Double Shot PBT','Dye Sub',4,'true',5,10
+'MECH_10ZKS1','PERF_52IGV2','DEV_NJ1OEU',57.20,2.3,'Mechanical',47569834,67,'6KRO',90.4,93.0,1.73,2.3,1.7,1.9,3.7,'Moderate','Screw-in',1.0,'Double Shot PBT','Double Shot',7,'true',10,6
+'MECH_959G6S','PERF_R36ZGK','DEV_EPVMB3',45.50,2.7,'Membrane',96221631,41,'NKRO',92.1,98.7,0.50,1.1,1.3,1.5,3.7,'Moderate','Plate Mount',1.3,'ABS','Double Shot',4,'false',14,9
+'MECH_GW5KWM','PERF_JAWUOL','DEV_3Y8IQC',49.10,3.9,'Membrane',33275284,24,'NKRO',96.6,93.2,1.03,1.4,1.1,1.6,3.1,'Minimal','Screw-in',1.0,'ABS','Laser Etched',4,'true',10,3
+'MECH_VZOSV2','PERF_5KJ0Q0','DEV_PHOFT4',52.10,2.6,'Magnetic',77988385,72,'6KRO',94.8,100.0,0.97,2.4,1.5,2.1,3.0,'Moderate','Plate Mount',1.5,'PBT','Double Shot',1,'true',3,9
+'MECH_WIZ7XX','PERF_L3GLYI','DEV_K0H51H',58.60,2.5,'Magnetic',99148225,87,'2KRO',93.7,93.7,1.84,1.3,1.1,1.9,3.8,'Moderate','PCB Mount',1.2,'Double Shot PBT','Double Shot',1,'true',7,2
+'MECH_Y8H9JF','PERF_PS0W3F','DEV_4V19RE',78.30,2.7,'Optical',94014325,83,'NKRO',97.9,97.2,1.73,2.0,1.5,1.7,3.4,'Moderate','Plate Mount',1.0,'PBT','Double Shot',9,'true',12,5
+'MECH_EUXFES','PERF_O4R1XR','DEV_G5W1GI',67.70,2.4,'Mechanical',40934532,93,'NKRO',95.3,92.4,1.49,1.1,2.2,2.4,3.6,'Minimal','Plate Mount',1.4,'ABS','Dye Sub',4,'true',9,7
+'MECH_ZM9Q7G','PERF_LBXVHM','DEV_JPBIEW',70.90,3.5,'Optical',67100516,87,'2KRO',90.2,99.8,0.67,2.1,1.6,2.4,3.6,'Minimal','Screw-in',1.3,'Double Shot PBT','Double Shot',8,'false',1,2
+'MECH_8KZ0R4','PERF_RXK9E3','DEV_SD4AN9',61.20,2.4,'Optical',90814343,5,'NKRO',94.7,95.7,0.93,1.1,1.4,1.8,3.5,'Minimal','PCB Mount',1.1,'ABS','Laser Etched',5,'false',0,1
+'MECH_G09R56','PERF_IZQCE3','DEV_6VDSFX',73.10,3.2,'Membrane',69553627,34,'2KRO',91.5,90.2,0.11,2.3,1.7,2.4,3.3,'None','Screw-in',1.1,'Double Shot PBT','Laser Etched',3,'true',4,3
+'MECH_N8JE21','PERF_C0T51J','DEV_CUG9RL',68.40,2.5,'Membrane',23850895,102,'6KRO',98.1,94.0,0.64,1.5,2.4,1.8,3.3,'None','Plate Mount',1.3,'ABS','Laser Etched',5,'true',11,6
+'MECH_64Q50I','PERF_7KVR5A','DEV_PLIWOP',66.30,1.8,'Magnetic',52771862,41,'NKRO',90.4,96.1,1.29,1.6,2.1,2.1,3.1,'Minimal','Screw-in',1.1,'Double Shot PBT','Dye Sub',0,'false',10,5
+'MECH_71ETGB','PERF_AK59X8','DEV_4V5BY0',74.30,2.8,'Optical',80036915,20,'6KRO',92.1,97.2,1.96,1.4,1.3,2.0,3.6,'None','Screw-in',1.3,'PBT','Laser Etched',7,'true',6,9
+'MECH_WJS80G','PERF_YIE15K','DEV_1YV9HT',52.30,3.5,'Mechanical',23069746,69,'6KRO',94.2,98.1,0.81,1.7,2.3,2.5,3.8,'Moderate','Screw-in',1.4,'Double Shot PBT','Dye Sub',0,'true',11,4
+'MECH_ZIPJ20','PERF_0EPM8W','DEV_MEVHY7',46.80,3.2,'Magnetic',24730261,24,'NKRO',98.4,90.3,0.16,1.6,1.0,2.2,4.0,'Moderate','Screw-in',1.1,'ABS','Dye Sub',7,'false',3,9
+'MECH_A9ZAL9','PERF_4EVKQJ','DEV_HVS584',47.30,1.6,'Magnetic',50194128,33,'6KRO',90.4,91.0,1.14,1.6,2.3,2.0,3.6,'Minimal','Screw-in',1.1,'PBT','Laser Etched',8,'true',8,9
+'MECH_5O6883','PERF_OD8KD0','DEV_83ZVLK',65.30,2.6,'Magnetic',74865598,6,'6KRO',95.5,97.4,1.09,1.6,1.1,2.4,4.0,'Moderate','Plate Mount',1.5,'PBT','Laser Etched',3,'true',7,9
+'MECH_JDFUU3','PERF_D40VDN','DEV_CSQ0B7',76.80,3.8,'Optical',23933277,76,'6KRO',97.0,99.9,1.73,1.3,2.5,1.7,3.3,'Minimal','Screw-in',1.4,'Double Shot PBT','Laser Etched',5,'true',2,3
+'MECH_I8R8L9','PERF_W6FWNG','DEV_3J0BIM',46.60,3.7,'Mechanical',90214029,51,'2KRO',99.1,98.1,0.42,1.4,1.4,1.5,3.1,'Moderate','PCB Mount',1.4,'PBT','Laser Etched',8,'false',3,10
+'MECH_5NTWV5','PERF_UJPDXR','DEV_N5V0P4',50.10,2.5,'Optical',91254485,24,'NKRO',91.0,92.3,0.93,2.3,1.5,2.2,3.4,'Moderate','PCB Mount',1.0,'ABS','Dye Sub',4,'true',15,7
+'MECH_RJVBIK','PERF_MUJBB4','DEV_S4O6NP',50.60,2.5,'Magnetic',75297596,19,'NKRO',93.2,92.8,0.28,1.8,2.2,2.0,3.9,'Moderate','PCB Mount',1.1,'Double Shot PBT','Double Shot',9,'true',2,7
+'MECH_5RA5DP','PERF_YWT7YC','DEV_PD6PDK',69.60,2.9,'Magnetic',53434486,67,'2KRO',99.8,91.3,1.00,1.7,2.5,1.6,3.9,'Minimal','Screw-in',1.4,'Double Shot PBT','Double Shot',1,'true',1,1
+'MECH_Y4D5S7','PERF_3H9EUM','DEV_1AT1GF',69.90,2.5,'Magnetic',73429480,76,'NKRO',98.9,90.9,1.80,1.7,2.5,1.8,4.0,'Minimal','PCB Mount',1.4,'ABS','Laser Etched',3,'false',12,7
+'MECH_ZFU9H1','PERF_L6GOIZ','DEV_UPQ6MY',57.80,2.5,'Membrane',83912859,103,'6KRO',96.1,98.6,1.79,2.0,2.4,1.8,3.2,'None','PCB Mount',1.2,'ABS','Dye Sub',1,'true',11,10
+'MECH_1KBTDD','PERF_XNA0BR','DEV_6NUY6Y',49.60,2.4,'Optical',33304715,67,'2KRO',90.4,94.5,1.44,1.7,1.8,2.4,3.5,'Minimal','Screw-in',1.2,'PBT','Double Shot',7,'false',2,8
+'MECH_XOMFUY','PERF_YUFUEX','DEV_6GC46X',61.70,3.9,'Membrane',30224994,19,'6KRO',91.0,99.8,1.57,1.5,1.8,2.1,3.8,'Minimal','Plate Mount',1.2,'Double Shot PBT','Laser Etched',0,'true',2,6
+'MECH_RYE2U8','PERF_GZIOGG','DEV_D12YP0',53.40,2.3,'Mechanical',85911518,24,'NKRO',92.0,99.6,1.86,1.9,2.4,2.4,3.5,'Minimal','PCB Mount',1.2,'PBT','Dye Sub',8,'false',5,7
+'MECH_79FTN5','PERF_RPTQSQ','DEV_ZZ7O6O',48.00,3.3,'Membrane',92338318,75,'2KRO',94.8,93.4,1.11,1.2,1.3,1.7,3.3,'Minimal','Plate Mount',1.2,'Double Shot PBT','Dye Sub',5,'true',11,10
+'MECH_D2Y0TR','PERF_HZ4814','DEV_RXQZ2R',61.10,2.4,'Optical',55349951,69,'NKRO',99.9,90.9,1.97,2.0,1.7,2.2,3.3,'None','PCB Mount',1.4,'ABS','Laser Etched',3,'true',6,10
+'MECH_NEU88I','PERF_6M1ENM','DEV_6F8KCO',56.80,1.8,'Optical',74514875,83,'2KRO',91.7,93.7,1.16,1.7,2.5,2.0,3.8,'Minimal','Screw-in',1.2,'Double Shot PBT','Double Shot',8,'false',11,9
+'MECH_KAXTRN','PERF_P5AB1F','DEV_LE3QTB',54.60,1.9,'Optical',58809640,57,'NKRO',95.2,94.7,0.81,1.7,2.3,1.7,3.8,'Minimal','PCB Mount',1.1,'PBT','Laser Etched',1,'true',10,7
+'MECH_EIZ5SE','PERF_YT9NPB','DEV_FZTWEB',76.60,3.5,'Magnetic',44609568,63,'6KRO',90.2,95.1,1.22,1.8,2.0,2.3,3.9,'Minimal','Plate Mount',1.3,'PBT','Dye Sub',2,'true',4,5
+'MECH_FDPLYR','PERF_7EJPXY','DEV_TRLLF9',58.00,2.1,'Mechanical',90106138,45,'2KRO',99.3,95.8,1.94,1.4,1.5,2.3,3.3,'Moderate','PCB Mount',1.3,'Double Shot PBT','Laser Etched',9,'true',4,6
+'MECH_Z2544G','PERF_67P5Z5','DEV_JD9JOW',66.00,2.8,'Mechanical',99917893,64,'6KRO',94.1,93.1,0.19,2.2,2.0,1.6,3.4,'None','PCB Mount',1.1,'ABS','Double Shot',4,'true',11,10
+'MECH_XHQQOI','PERF_6A6ZKU','DEV_1KFNCS',67.60,2.6,'Membrane',85526160,63,'6KRO',98.3,91.5,0.96,2.1,2.0,2.3,3.7,'Moderate','PCB Mount',1.3,'ABS','Laser Etched',8,'true',7,9
+'MECH_LDP8Z5','PERF_KFTX15','DEV_QWEJHI',76.70,2.4,'Membrane',24704755,99,'2KRO',99.3,98.1,0.14,1.7,1.1,1.5,3.8,'Moderate','Screw-in',1.4,'PBT','Laser Etched',5,'true',12,7
+'MECH_SXWKWI','PERF_6R62WO','DEV_G4N4XG',75.10,3.9,'Mechanical',81469657,49,'6KRO',96.7,95.4,1.21,2.1,1.4,1.6,3.8,'Minimal','PCB Mount',1.3,'Double Shot PBT','Laser Etched',5,'false',3,2
+'MECH_TPO6VH','PERF_SB8DBR','DEV_HKM1MZ',72.50,2.6,'Membrane',72162458,38,'6KRO',96.7,99.2,1.42,2.3,1.0,2.4,3.0,'Moderate','Plate Mount',1.5,'ABS','Double Shot',3,'true',11,7
+'MECH_9CJQGL','PERF_UMOKCA','DEV_QBWQ6L',47.20,3.4,'Mechanical',79157083,4,'2KRO',91.3,96.0,1.69,1.5,2.0,1.7,3.3,'Minimal','Screw-in',1.4,'PBT','Double Shot',1,'false',4,6
+'MECH_LOOW77','PERF_48TZAS','DEV_P04AFT',71.40,3.0,'Membrane',54742752,77,'NKRO',97.9,98.1,1.45,2.4,1.5,2.0,3.8,'Minimal','Screw-in',1.1,'PBT','Dye Sub',3,'false',14,7
+'MECH_C0OU8L','PERF_74SJLG','DEV_U8I9AC',60.20,2.2,'Optical',75501128,14,'2KRO',91.9,92.5,0.49,1.4,2.0,2.4,3.5,'None','PCB Mount',1.3,'Double Shot PBT','Double Shot',6,'false',1,9
+'MECH_VUM9J8','PERF_ILGHZ4','DEV_C2DVI2',72.50,3.9,'Membrane',77349359,23,'2KRO',95.2,94.7,1.86,2.5,1.4,1.8,3.1,'None','Plate Mount',1.0,'ABS','Double Shot',0,'true',2,6
+'MECH_O11XDK','PERF_04TU9W','DEV_66ATDU',64.70,2.1,'Magnetic',49804154,26,'2KRO',95.4,99.0,1.86,1.4,2.4,2.3,3.8,'None','PCB Mount',1.4,'ABS','Double Shot',7,'true',12,6
+'MECH_6B6TKX','PERF_9C1H9Z','DEV_0WXL5U',52.70,3.0,'Mechanical',40773464,88,'2KRO',96.1,91.8,0.46,2.1,1.2,2.1,4.0,'Minimal','PCB Mount',1.1,'PBT','Double Shot',9,'true',0,9
+'MECH_98ZROY','PERF_T2NWUY','DEV_WIGIAO',75.00,1.9,'Membrane',33782492,40,'2KRO',94.5,93.6,1.30,1.8,2.1,1.7,3.5,'Moderate','Screw-in',1.1,'Double Shot PBT','Double Shot',5,'false',1,4
+'MECH_GIL0LX','PERF_7RE7RX','DEV_E8JDMA',57.00,2.0,'Mechanical',49767371,69,'6KRO',97.3,98.2,1.16,1.4,2.0,2.2,3.1,'Moderate','PCB Mount',1.1,'ABS','Laser Etched',7,'true',4,1
+'MECH_DOZTTZ','PERF_DMFITP','DEV_YFT57F',61.10,3.1,'Optical',39021114,59,'6KRO',95.4,95.2,0.90,2.2,1.6,1.9,3.0,'Minimal','PCB Mount',1.2,'PBT','Laser Etched',3,'false',7,10
+'MECH_5N3V62','PERF_WSSIWR','DEV_JY9DUN',73.90,2.4,'Optical',52693754,37,'NKRO',91.6,97.0,1.42,1.6,2.1,2.2,3.6,'Moderate','Plate Mount',1.4,'Double Shot PBT','Dye Sub',0,'true',7,4
+'MECH_VOKY07','PERF_LKFT6O','DEV_O40IQ5',72.30,3.1,'Magnetic',63980688,69,'6KRO',97.2,98.9,0.85,2.3,1.1,2.1,3.4,'None','Plate Mount',1.5,'Double Shot PBT','Double Shot',7,'false',6,3
+'MECH_2FKOZ2','PERF_2URAEJ','DEV_7580Z8',77.30,1.8,'Optical',31814913,24,'6KRO',99.0,94.0,1.24,2.2,2.0,1.7,3.9,'Minimal','Plate Mount',1.2,'Double Shot PBT','Dye Sub',3,'true',12,1
+'MECH_KZFLXM','PERF_Q8ZML3','DEV_0TZ8KQ',48.90,2.2,'Membrane',97880894,2,'NKRO',94.6,95.5,0.15,1.7,1.3,1.8,3.4,'None','Plate Mount',1.2,'PBT','Laser Etched',8,'false',3,1
+'MECH_5UTE56','PERF_LQTC8B','DEV_ZN625H',79.40,1.8,'Mechanical',36366374,97,'NKRO',97.3,91.9,1.95,2.3,2.2,2.0,3.9,'Moderate','Plate Mount',1.0,'PBT','Dye Sub',4,'true',9,2
+'MECH_I456XH','PERF_E1LDCE','DEV_1A1Q1Z',78.00,2.5,'Optical',30702081,63,'2KRO',94.2,97.9,0.44,2.1,1.5,2.1,3.2,'Moderate','Plate Mount',1.4,'PBT','Dye Sub',7,'false',13,5
+'MECH_ZPI7H2','PERF_44U0FO','DEV_FZVVDT',59.70,2.2,'Optical',50830263,74,'6KRO',96.9,99.5,0.02,2.2,1.2,1.8,3.2,'Minimal','Plate Mount',1.1,'ABS','Double Shot',5,'true',12,1
+'MECH_4UXH13','PERF_4WJDYS','DEV_7MRX69',47.80,2.9,'Magnetic',70076864,6,'6KRO',90.8,99.8,1.70,1.8,1.9,1.9,3.3,'Moderate','Plate Mount',1.3,'PBT','Double Shot',9,'true',4,6
+'MECH_HP6Q4C','PERF_ZCWWZJ','DEV_JBHYLU',58.90,2.9,'Mechanical',82573418,60,'NKRO',97.7,91.4,0.28,1.7,1.3,2.0,3.7,'Minimal','Plate Mount',1.2,'ABS','Laser Etched',5,'false',11,4
+'MECH_HKQJYS','PERF_WAPJVW','DEV_BTXBMM',56.80,3.3,'Optical',86079783,45,'6KRO',95.8,94.4,0.38,2.4,1.1,2.1,3.1,'Moderate','Plate Mount',1.1,'PBT','Double Shot',8,'true',6,10
+'MECH_IYJU4B','PERF_59WPYZ','DEV_61LU22',47.90,2.3,'Optical',61559479,53,'2KRO',91.4,92.6,0.99,1.3,2.1,2.2,3.2,'Minimal','Plate Mount',1.2,'ABS','Dye Sub',9,'false',9,2
+'MECH_0ZYRJG','PERF_MGCF6Y','DEV_RX1R1L',57.70,3.0,'Magnetic',72465044,10,'6KRO',99.4,92.1,1.30,2.5,1.8,2.4,3.2,'None','Plate Mount',1.2,'ABS','Double Shot',8,'false',3,2
+'MECH_TZHWD8','PERF_Y2I1KR','DEV_NHMP9Y',68.10,4.0,'Mechanical',51144057,5,'6KRO',96.6,99.6,0.65,1.0,2.2,2.1,3.8,'Moderate','PCB Mount',1.3,'Double Shot PBT','Dye Sub',0,'false',1,5
+'MECH_HR7FIC','PERF_TNNBM6','DEV_NW9QGK',75.60,3.5,'Membrane',32283089,102,'6KRO',94.3,97.8,1.44,2.2,1.2,2.5,3.0,'Minimal','Screw-in',1.2,'ABS','Double Shot',9,'false',0,4
+'MECH_RRP0HH','PERF_IH7TU9','DEV_00ZEAE',48.80,3.3,'Mechanical',64449724,100,'NKRO',95.6,90.5,0.31,2.1,1.6,2.3,3.6,'Moderate','PCB Mount',1.4,'PBT','Double Shot',0,'false',2,9
+'MECH_BNZ2UL','PERF_M932E7','DEV_90OHCC',58.90,1.7,'Magnetic',77731766,34,'6KRO',94.1,94.2,0.35,1.4,1.3,1.9,3.2,'Moderate','Plate Mount',1.5,'Double Shot PBT','Dye Sub',9,'true',9,2
+'MECH_5ZAWD1','PERF_FONKZS','DEV_I28KWG',72.70,2.1,'Optical',90238549,16,'6KRO',93.4,94.6,1.20,1.8,1.1,1.6,3.6,'None','Screw-in',1.1,'Double Shot PBT','Dye Sub',8,'false',12,3
+'MECH_QI168H','PERF_QCSV0W','DEV_Y87SR2',79.90,3.0,'Magnetic',32588010,42,'6KRO',95.0,91.2,0.60,1.0,2.0,1.8,4.0,'Moderate','PCB Mount',1.1,'PBT','Double Shot',1,'false',1,4
+'MECH_8T5YXI','PERF_MFI92Q','DEV_QDKPXQ',79.80,3.3,'Magnetic',44113766,51,'NKRO',98.3,96.8,0.84,1.6,2.4,2.2,3.6,'None','PCB Mount',1.1,'PBT','Dye Sub',8,'false',13,5
+'MECH_7PPQCC','PERF_RETLI0','DEV_GPN1A9',55.70,3.1,'Magnetic',67465274,96,'NKRO',95.5,92.2,0.53,1.3,1.2,2.3,3.8,'Minimal','PCB Mount',1.3,'ABS','Dye Sub',4,'false',11,6
+'MECH_G8VBW1','PERF_369PKZ','DEV_JN0W24',59.90,2.5,'Magnetic',36340848,92,'2KRO',98.1,95.9,0.17,1.7,1.7,1.9,3.7,'Minimal','Screw-in',1.2,'ABS','Dye Sub',2,'true',11,1
+'MECH_RHCMX2','PERF_AKVUCE','DEV_JYV0G0',74.50,2.0,'Magnetic',34796795,60,'6KRO',95.3,93.7,0.68,2.1,2.2,2.0,3.2,'Moderate','Plate Mount',1.3,'PBT','Double Shot',8,'true',5,6
+'MECH_LA8QPA','PERF_WRYX1Q','DEV_JK5YMK',77.20,2.2,'Membrane',34942205,97,'6KRO',99.8,96.6,0.22,2.2,1.8,1.6,3.8,'Minimal','Plate Mount',1.5,'ABS','Laser Etched',8,'false',13,10
+'MECH_C456IK','PERF_1CSZEP','DEV_0VN57I',66.50,3.9,'Optical',23386096,48,'NKRO',96.7,95.2,0.14,2.3,1.1,1.8,3.9,'None','PCB Mount',1.3,'ABS','Dye Sub',9,'false',3,4
+'MECH_AN2IQV','PERF_MLK14A','DEV_NARRJ4',65.60,2.9,'Magnetic',81119698,80,'NKRO',97.4,92.8,0.71,1.7,1.7,2.2,3.6,'Moderate','PCB Mount',1.5,'Double Shot PBT','Double Shot',8,'false',0,4
+'MECH_351582','PERF_EOIWM5','DEV_O7RQSY',72.20,3.5,'Membrane',95511946,41,'2KRO',92.8,91.2,0.73,1.7,2.1,2.3,3.9,'Minimal','PCB Mount',1.4,'PBT','Double Shot',4,'false',1,9
+'MECH_08A81W','PERF_QDQ04N','DEV_FGCGFE',78.60,3.5,'Mechanical',77315977,2,'2KRO',95.5,98.2,1.13,1.2,1.0,2.4,3.5,'Minimal','PCB Mount',1.1,'Double Shot PBT','Laser Etched',9,'true',3,6
+'MECH_WBZGZ3','PERF_LW44CL','DEV_T32BER',67.70,2.3,'Magnetic',38976145,3,'2KRO',99.9,91.1,0.21,1.1,1.4,1.8,3.4,'Moderate','Plate Mount',1.5,'Double Shot PBT','Double Shot',1,'true',1,3
+'MECH_5NJM7O','PERF_IKEVFE','DEV_7606HD',73.40,3.5,'Magnetic',90730320,96,'2KRO',99.6,99.4,1.18,1.5,1.2,1.8,3.9,'None','PCB Mount',1.2,'Double Shot PBT','Dye Sub',8,'true',10,1
+'MECH_GNAGXJ','PERF_EJB1AB','DEV_F8EG2J',60.40,1.8,'Mechanical',82884147,12,'NKRO',95.3,94.6,1.98,1.9,1.5,2.4,3.8,'Minimal','PCB Mount',1.4,'ABS','Double Shot',7,'false',12,2
+'MECH_WUFDS8','PERF_QUJDIW','DEV_7DKIX2',68.60,1.7,'Optical',22473926,93,'6KRO',91.5,96.8,0.87,2.2,2.1,1.6,3.7,'Minimal','PCB Mount',1.1,'PBT','Dye Sub',3,'true',4,10
+'MECH_50HZAV','PERF_39Q1TU','DEV_XGV7XP',68.60,3.9,'Optical',99446929,92,'6KRO',97.7,95.6,0.83,2.3,1.4,1.5,3.2,'Moderate','PCB Mount',1.2,'ABS','Dye Sub',4,'true',8,9
+'MECH_YLFKN6','PERF_V5ZUNI','DEV_ONWZQ6',58.90,3.2,'Mechanical',31486803,35,'NKRO',95.7,90.1,1.28,1.6,2.2,1.8,3.5,'Moderate','Screw-in',1.2,'Double Shot PBT','Laser Etched',8,'true',7,1
+'MECH_O4B7EL','PERF_QVQZFL','DEV_CF9TCA',46.40,4.0,'Mechanical',40009013,80,'2KRO',99.0,94.5,0.37,1.2,1.5,1.9,3.3,'Moderate','Plate Mount',1.2,'Double Shot PBT','Laser Etched',1,'true',15,8
+'MECH_HKPE6D','PERF_QS5P40','DEV_CQAW64',58.30,2.6,'Optical',69823385,2,'NKRO',98.6,96.5,0.36,2.2,1.4,1.6,3.6,'Minimal','PCB Mount',1.4,'PBT','Dye Sub',3,'true',11,9
+'MECH_OC7GU5','PERF_WQ1NRX','DEV_YDL83L',77.70,2.5,'Membrane',53659107,54,'2KRO',92.3,97.8,0.46,2.5,1.8,2.4,3.7,'None','PCB Mount',1.0,'ABS','Laser Etched',8,'false',8,6
+'MECH_FP465G','PERF_6YG3ZD','DEV_L9AR54',57.30,2.2,'Optical',20204058,7,'6KRO',98.7,96.2,1.31,1.3,1.7,2.1,3.1,'Moderate','Screw-in',1.4,'PBT','Double Shot',9,'false',12,10
+'MECH_CC4ZDM','PERF_66J12D','DEV_11DMXZ',46.90,2.6,'Mechanical',57981168,72,'NKRO',93.0,94.1,1.88,1.3,2.5,2.1,3.7,'Minimal','PCB Mount',1.2,'ABS','Dye Sub',3,'false',7,9
+'MECH_T4DJMV','PERF_DXTFWT','DEV_RQWH3A',70.60,2.2,'Membrane',85592708,77,'6KRO',93.0,93.2,1.68,1.2,1.3,2.0,3.6,'Moderate','PCB Mount',1.1,'Double Shot PBT','Dye Sub',6,'false',0,7
+'MECH_ZC2VIG','PERF_DQJAW3','DEV_IJZJ80',47.20,1.5,'Optical',21968771,18,'2KRO',91.5,95.4,0.97,1.8,1.4,1.6,3.5,'Moderate','PCB Mount',1.3,'Double Shot PBT','Laser Etched',8,'true',6,5
+'MECH_4XNA6Q','PERF_T9IW1G','DEV_7U28H9',75.30,2.2,'Optical',61937842,11,'NKRO',95.6,91.3,1.24,1.8,1.7,2.2,3.7,'Minimal','Screw-in',1.4,'Double Shot PBT','Dye Sub',1,'true',13,8
+'MECH_8GY7RB','PERF_OACRZY','DEV_AEYGOP',52.50,3.9,'Mechanical',71879934,89,'6KRO',96.4,94.7,1.07,2.1,2.0,1.7,3.4,'Moderate','PCB Mount',1.3,'PBT','Laser Etched',2,'true',14,1
+'MECH_GOFWCW','PERF_P0EQR0','DEV_CWFSJU',66.40,3.5,'Magnetic',66117979,16,'6KRO',95.8,95.7,0.89,2.4,1.0,2.2,3.8,'Moderate','Screw-in',1.4,'ABS','Laser Etched',7,'true',14,10
+'MECH_ZZ2KZJ','PERF_PBYQL8','DEV_DDJPB2',48.70,3.9,'Optical',64538005,40,'NKRO',98.4,96.4,0.58,1.1,1.5,2.3,3.7,'Minimal','Plate Mount',1.3,'ABS','Dye Sub',1,'true',7,4
+'MECH_6PBJ54','PERF_858E2R','DEV_FF5NI4',78.00,2.2,'Membrane',96075386,62,'NKRO',91.0,98.9,0.04,1.6,1.1,1.7,3.2,'Moderate','Screw-in',1.1,'PBT','Dye Sub',3,'true',1,8
+'MECH_QY76IA','PERF_89G9BJ','DEV_PVHDVI',77.80,3.9,'Optical',68115993,63,'NKRO',92.5,95.4,0.89,1.4,2.0,1.6,3.3,'Moderate','Screw-in',1.2,'ABS','Dye Sub',0,'true',4,4
+'MECH_QQLPQD','PERF_CGAYHJ','DEV_KCEUOS',76.40,3.5,'Optical',86819011,92,'2KRO',96.8,90.8,0.89,2.2,1.6,1.8,3.2,'Moderate','Plate Mount',1.5,'PBT','Laser Etched',2,'true',12,1
+'MECH_Y6JMC6','PERF_IW64Q3','DEV_T8ZS6E',64.70,3.6,'Optical',68401237,22,'2KRO',95.5,91.9,0.57,1.7,1.9,1.5,3.9,'Minimal','PCB Mount',1.1,'ABS','Laser Etched',8,'false',11,8
+'MECH_32P9X4','PERF_CNHKW1','DEV_7T2KU6',68.00,2.0,'Membrane',54286226,37,'2KRO',90.9,99.0,1.65,2.1,2.5,2.1,3.9,'Moderate','PCB Mount',1.3,'ABS','Laser Etched',3,'false',3,1
+'MECH_9PMRN5','PERF_3KQRQN','DEV_ADJEV4',62.30,2.1,'Membrane',50888952,26,'NKRO',91.4,97.3,1.10,2.3,2.2,2.1,3.7,'Minimal','Screw-in',1.0,'Double Shot PBT','Laser Etched',6,'false',5,1

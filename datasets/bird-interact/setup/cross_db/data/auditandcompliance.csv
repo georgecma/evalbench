@@ -1,0 +1,1000 @@
+1,1,1,1,'CB932064  ','Complete',3,6,'In Progress','2025-03-16','Not Required','SCCs','Required','Not Met','Partial','Fully Integrated',959,409,76,53,4.5
+2,2,2,2,'CB339111  ','Complete',49,8,'In Progress','2025-04-14','Required','Adequacy Decision','Completed','Met','Partial','Manual',36,326,196,21,13.4
+3,3,3,3,'CB899685  ',NULL,6,5,'Not Started','2025-04-10','Required','Derogations','In Progress','Partial','Partial','Fully Integrated',650,122,0,89,23.2
+4,4,4,4,'CB891187  ',NULL,50,4,'Completed','2025-04-19','Submitted','SCCs','In Progress','Partial','Complete','Partial',17,466,51,34,6.1
+5,5,5,5,'CB879069  ',NULL,37,4,'Completed','2025-04-29','Submitted','Derogations','Required','Met','Outdated','Fully Integrated',75,180,9,38,3.4
+6,6,6,6,'CB760522  ','Complete',34,8,'In Progress','2025-03-14','Submitted','Derogations','Required','Partial','Partial','Partial',116,220,74,14,18.7
+7,7,7,7,'CB987231  ','Complete',50,8,'Completed','2025-03-18','Required','Adequacy Decision','Required','Not Met','Partial','Partial',500,494,33,5,27.0
+8,8,8,8,'CB795498  ',NULL,34,4,'Completed','2025-03-05','Required','BCRs','In Progress','Met','Partial','Manual',369,12,27,99,6.1
+9,9,9,9,'CB182230  ','Complete',40,2,'In Progress','2025-03-30','Required','Adequacy Decision','Completed','Not Met','Complete','Manual',288,157,80,31,8.7
+10,10,10,10,'CB616195  ',NULL,50,6,'Completed','2025-03-03','Required','BCRs','In Progress','Met','Complete','Manual',688,324,37,87,4.9
+11,11,11,11,'CB755070  ',NULL,43,6,'In Progress','2025-03-21','Required','Derogations','Completed','Met','Outdated','Partial',15,113,181,96,15.3
+12,12,12,12,'CB333951  ',NULL,36,10,'In Progress','2025-04-25','Submitted','Adequacy Decision','In Progress','Not Met','Complete','Partial',339,378,77,56,3.8
+13,13,13,13,'CB189595  ',NULL,50,0,'In Progress','2025-04-05','Required','Derogations','Completed','Not Met','Complete','Manual',67,85,187,76,15.8
+14,14,14,14,'CB752021  ','Complete',34,6,'Not Started','2025-03-06','Submitted','Adequacy Decision','Required','Partial','Complete','Fully Integrated',413,223,60,15,4.6
+15,15,15,15,'CB681691  ','Complete',43,9,'Completed','2025-04-25','Submitted','BCRs','Completed','Partial','Outdated','Manual',25,289,69,61,26.2
+16,16,16,16,'CB754483  ',NULL,33,9,'Not Started','2025-02-20','Required','Adequacy Decision','Required','Partial','Outdated','Manual',267,390,140,83,11.5
+17,17,17,17,'CB574043  ','Complete',35,1,'In Progress','2025-03-03','Not Required','Derogations','Completed','Not Met','Partial','Manual',237,405,156,49,2.7
+18,18,18,18,'CB847407  ',NULL,40,2,'Completed','2025-02-28','Not Required','Derogations','Completed','Partial','Partial','Fully Integrated',799,361,140,59,17.6
+19,19,19,19,'CB313620  ',NULL,29,6,'Completed','2025-04-15','Not Required','Adequacy Decision','Completed','Met','Partial','Fully Integrated',963,189,34,34,13.1
+20,20,20,20,'CB494948  ',NULL,12,7,'Completed','2025-04-01','Not Required','SCCs','Required','Met','Outdated','Partial',462,174,117,1,29.1
+21,21,21,21,'CB658848  ',NULL,18,7,'In Progress','2025-02-21','Required','SCCs','In Progress','Met','Outdated','Partial',449,122,109,79,19.1
+22,22,22,22,'CB139645  ','Complete',40,6,'In Progress','2025-02-27','Not Required','Derogations','Completed','Not Met','Complete','Fully Integrated',194,300,65,39,17.0
+23,23,23,23,'CB354081  ','Complete',40,4,'Not Started','2025-02-22','Required','Derogations','In Progress','Not Met','Partial','Manual',415,177,95,37,15.1
+24,24,24,24,'CB709573  ',NULL,2,5,'Not Started','2025-02-27','Submitted','SCCs','Completed','Met','Partial','Partial',770,303,169,73,27.1
+25,25,25,25,'CB350496  ',NULL,7,10,'In Progress','2025-03-22','Submitted','Adequacy Decision','Completed','Met','Partial','Fully Integrated',360,468,170,14,19.8
+26,26,26,26,'CB455586  ',NULL,11,6,'In Progress','2025-04-04','Submitted','Derogations','Completed','Partial','Partial','Partial',663,12,66,91,21.8
+27,27,27,27,'CB380798  ','Complete',48,4,'Not Started','2025-02-26','Required','SCCs','Required','Partial','Outdated','Manual',961,483,56,22,5.0
+28,28,28,28,'CB419499  ',NULL,43,9,'Not Started','2025-03-10','Required','Adequacy Decision','Required','Met','Partial','Partial',570,436,117,26,2.8
+29,29,29,29,'CB224901  ',NULL,41,0,'In Progress','2025-03-04','Submitted','BCRs','Completed','Partial','Complete','Fully Integrated',413,159,169,25,23.0
+30,30,30,30,'CB950713  ','Complete',25,7,'In Progress','2025-03-18','Submitted','BCRs','In Progress','Partial','Partial','Fully Integrated',124,216,183,99,7.4
+31,31,31,31,'CB586302  ',NULL,16,0,'In Progress','2025-03-06','Not Required','SCCs','In Progress','Met','Outdated','Fully Integrated',319,232,153,71,29.0
+32,32,32,32,'CB418225  ',NULL,29,7,'Completed','2025-03-03','Not Required','Derogations','Required','Met','Complete','Manual',84,227,42,20,17.0
+33,33,33,33,'CB413130  ',NULL,30,10,'Not Started','2025-03-21','Submitted','BCRs','In Progress','Not Met','Complete','Manual',53,258,43,44,17.7
+34,34,34,34,'CB457752  ',NULL,39,4,'In Progress','2025-04-02','Not Required','Derogations','Completed','Partial','Outdated','Manual',482,326,136,42,18.1
+35,35,35,35,'CB102232  ',NULL,40,6,'In Progress','2025-05-09','Required','Adequacy Decision','Required','Not Met','Complete','Partial',978,212,182,40,18.9
+36,36,36,36,'CB824373  ','Complete',32,2,'In Progress','2025-05-10','Not Required','SCCs','Completed','Not Met','Outdated','Partial',678,329,28,34,6.3
+37,37,37,37,'CB691369  ',NULL,18,4,'Completed','2025-05-19','Submitted','Adequacy Decision','Completed','Partial','Outdated','Manual',614,103,59,71,10.6
+38,38,38,38,'CB971583  ','Complete',28,9,'Not Started','2025-03-20','Required','SCCs','Required','Partial','Outdated','Fully Integrated',722,471,115,16,21.5
+39,39,39,39,'CB873031  ','Complete',50,2,'In Progress','2025-03-18','Required','BCRs','Required','Not Met','Complete','Manual',58,470,125,63,24.9
+40,40,40,40,'CB236518  ',NULL,41,1,'Completed','2025-05-18','Required','Derogations','In Progress','Partial','Partial','Fully Integrated',33,456,22,3,20.5
+41,41,41,41,'CB771223  ',NULL,43,10,'Completed','2025-03-17','Submitted','BCRs','In Progress','Met','Complete','Fully Integrated',673,202,122,34,2.9
+42,42,42,42,'CB337808  ',NULL,46,0,'In Progress','2025-04-15','Required','BCRs','Required','Partial','Partial','Manual',937,329,105,15,7.5
+43,43,43,43,'CB607937  ','Complete',13,10,'In Progress','2025-03-22','Required','Derogations','In Progress','Partial','Outdated','Fully Integrated',607,42,90,31,20.7
+44,44,44,44,'CB173413  ',NULL,26,6,'Not Started','2025-03-01','Not Required','SCCs','Required','Met','Complete','Fully Integrated',309,262,105,96,12.4
+45,45,45,45,'CB735421  ','Complete',17,8,'Not Started','2025-03-02','Submitted','BCRs','Required','Partial','Outdated','Fully Integrated',411,98,2,60,10.1
+46,46,46,46,'CB165204  ',NULL,3,9,'Completed','2025-05-10','Not Required','BCRs','Completed','Partial','Outdated','Manual',712,14,131,5,29.4
+47,47,47,47,'CB889289  ','Complete',16,4,'In Progress','2025-05-08','Submitted','BCRs','Required','Met','Outdated','Fully Integrated',787,330,170,48,21.7
+48,48,48,48,'CB281082  ',NULL,41,8,'In Progress','2025-02-26','Required','SCCs','In Progress','Not Met','Complete','Manual',690,82,0,47,3.9
+49,49,49,49,'CB490857  ','Complete',15,0,'In Progress','2025-03-08','Required','SCCs','Required','Not Met','Outdated','Partial',717,72,142,27,28.1
+50,50,50,50,'CB294488  ',NULL,21,3,'In Progress','2025-05-14','Not Required','Adequacy Decision','In Progress','Met','Outdated','Manual',428,14,32,8,23.7
+51,51,51,51,'CB566604  ',NULL,39,3,'Completed','2025-04-28','Required','BCRs','Required','Partial','Partial','Partial',187,2,180,78,12.5
+52,52,52,52,'CB303544  ',NULL,1,10,'In Progress','2025-03-27','Required','Adequacy Decision','In Progress','Met','Partial','Partial',729,122,162,25,20.3
+53,53,53,53,'CB794201  ','Complete',28,5,'Completed','2025-03-28','Submitted','BCRs','Required','Partial','Outdated','Partial',989,462,66,42,4.8
+54,54,54,54,'CB380393  ',NULL,12,0,'In Progress','2025-05-05','Not Required','SCCs','In Progress','Met','Outdated','Partial',117,215,146,62,23.9
+55,55,55,55,'CB358163  ',NULL,33,2,'Completed','2025-03-05','Not Required','BCRs','Completed','Not Met','Partial','Partial',706,21,128,89,22.9
+56,56,56,56,'CB860891  ',NULL,14,1,'Not Started','2025-03-28','Required','Adequacy Decision','In Progress','Partial','Outdated','Partial',730,32,99,89,4.4
+57,57,57,57,'CB498297  ','Complete',36,2,'Not Started','2025-03-08','Required','SCCs','Completed','Met','Complete','Manual',274,150,29,58,25.2
+58,58,58,58,'CB688746  ',NULL,7,2,'Not Started','2025-03-07','Submitted','Adequacy Decision','In Progress','Not Met','Complete','Fully Integrated',782,454,106,26,25.0
+59,59,59,59,'CB379370  ','Complete',17,9,'In Progress','2025-05-12','Submitted','SCCs','Required','Met','Partial','Manual',565,196,72,85,18.6
+60,60,60,60,'CB573846  ',NULL,8,7,'Not Started','2025-05-14','Not Required','Derogations','Required','Met','Complete','Fully Integrated',283,435,10,21,11.9
+61,61,61,61,'CB311119  ',NULL,35,5,'Completed','2025-03-20','Not Required','BCRs','In Progress','Partial','Complete','Manual',117,353,160,90,14.5
+62,62,62,62,'CB996808  ',NULL,40,7,'Completed','2025-03-12','Not Required','SCCs','Required','Met','Complete','Fully Integrated',628,370,20,57,29.1
+63,63,63,63,'CB411050  ','Complete',23,10,'Not Started','2025-04-18','Submitted','Adequacy Decision','In Progress','Not Met','Partial','Fully Integrated',558,270,27,73,19.4
+64,64,64,64,'CB379101  ',NULL,29,3,'Not Started','2025-04-19','Not Required','Derogations','In Progress','Partial','Complete','Fully Integrated',382,317,2,26,15.0
+65,65,65,65,'CB675852  ',NULL,19,1,'Completed','2025-04-23','Required','Adequacy Decision','Completed','Partial','Outdated','Fully Integrated',603,44,99,35,3.0
+66,66,66,66,'CB484035  ',NULL,42,9,'Completed','2025-05-13','Not Required','SCCs','Completed','Partial','Complete','Partial',614,32,131,29,4.6
+67,67,67,67,'CB350669  ',NULL,2,7,'Completed','2025-03-31','Submitted','Derogations','Required','Met','Outdated','Fully Integrated',911,500,136,36,19.0
+68,68,68,68,'CB711160  ',NULL,4,7,'In Progress','2025-04-25','Not Required','SCCs','In Progress','Partial','Complete','Partial',168,356,182,66,4.6
+69,69,69,69,'CB990090  ',NULL,30,8,'Not Started','2025-05-18','Not Required','BCRs','Completed','Met','Partial','Partial',282,364,162,25,7.2
+70,70,70,70,'CB894371  ','Complete',38,8,'Completed','2025-03-23','Required','Adequacy Decision','Required','Partial','Outdated','Partial',805,444,198,5,28.2
+71,71,71,71,'CB763289  ',NULL,50,7,'Not Started','2025-03-30','Submitted','SCCs','Required','Not Met','Partial','Manual',565,103,63,36,2.7
+72,72,72,72,'CB552210  ',NULL,15,10,'Not Started','2025-05-14','Not Required','Derogations','Completed','Partial','Complete','Fully Integrated',836,234,74,81,25.3
+73,73,73,73,'CB463115  ','Complete',22,5,'In Progress','2025-03-12','Not Required','Derogations','In Progress','Not Met','Partial','Manual',476,19,21,48,24.2
+74,74,74,74,'CB905684  ',NULL,37,4,'Not Started','2025-04-10','Required','BCRs','Completed','Met','Complete','Partial',460,30,148,71,24.1
+75,75,75,75,'CB211588  ',NULL,48,2,'In Progress','2025-02-27','Not Required','Adequacy Decision','Completed','Not Met','Complete','Manual',6,496,25,58,14.1
+76,76,76,76,'CB527114  ',NULL,50,0,'In Progress','2025-05-09','Required','SCCs','Required','Met','Complete','Partial',621,262,138,79,10.4
+77,77,77,77,'CB388902  ',NULL,26,10,'In Progress','2025-03-14','Required','Derogations','In Progress','Partial','Complete','Fully Integrated',551,93,113,7,4.8
+78,78,78,78,'CB343445  ','Complete',12,10,'In Progress','2025-03-30','Not Required','SCCs','Required','Met','Complete','Manual',996,153,74,10,17.2
+79,79,79,79,'CB246039  ',NULL,9,7,'Not Started','2025-05-18','Not Required','Adequacy Decision','Completed','Met','Partial','Manual',142,311,54,23,19.1
+80,80,80,80,'CB411741  ','Complete',1,0,'Not Started','2025-04-06','Not Required','SCCs','Completed','Not Met','Outdated','Fully Integrated',235,288,165,8,20.4
+81,81,81,81,'CB649976  ','Complete',50,0,'Completed','2025-04-09','Not Required','SCCs','Required','Partial','Partial','Manual',130,297,179,38,11.6
+82,82,82,82,'CB426828  ',NULL,29,7,'In Progress','2025-03-28','Not Required','Derogations','Completed','Not Met','Partial','Manual',183,218,44,29,5.6
+83,83,83,83,'CB909498  ',NULL,43,6,'Completed','2025-03-01','Required','Adequacy Decision','In Progress','Met','Complete','Manual',860,164,0,57,19.4
+84,84,84,84,'CB529449  ',NULL,33,5,'Completed','2025-05-17','Not Required','Adequacy Decision','In Progress','Not Met','Complete','Manual',418,390,148,16,27.2
+85,85,85,85,'CB652531  ',NULL,21,6,'Completed','2025-03-07','Required','Adequacy Decision','Required','Partial','Partial','Fully Integrated',104,117,141,19,15.3
+86,86,86,86,'CB387131  ',NULL,30,10,'Completed','2025-03-25','Required','Derogations','Completed','Met','Partial','Fully Integrated',542,297,89,72,6.1
+87,87,87,87,'CB978890  ','Complete',6,10,'In Progress','2025-02-23','Required','BCRs','Completed','Met','Complete','Partial',968,116,83,97,15.1
+88,88,88,88,'CB676711  ',NULL,4,3,'Not Started','2025-04-18','Not Required','BCRs','Completed','Partial','Complete','Manual',592,173,39,92,22.6
+89,89,89,89,'CB582379  ',NULL,19,2,'In Progress','2025-02-24','Not Required','SCCs','Completed','Not Met','Partial','Partial',110,492,54,1,25.6
+90,90,90,90,'CB137876  ','Complete',7,1,'Completed','2025-05-10','Not Required','SCCs','Completed','Met','Outdated','Fully Integrated',324,36,109,36,6.0
+91,91,91,91,'CB236335  ',NULL,29,7,'Not Started','2025-04-23','Required','Adequacy Decision','Required','Met','Complete','Manual',347,63,119,15,4.0
+92,92,92,92,'CB967126  ',NULL,25,8,'In Progress','2025-02-28','Required','BCRs','Completed','Not Met','Complete','Fully Integrated',817,285,158,79,9.7
+93,93,93,93,'CB438659  ',NULL,37,3,'Completed','2025-03-07','Not Required','Adequacy Decision','Completed','Not Met','Complete','Partial',927,286,93,68,4.3
+94,94,94,94,'CB381335  ',NULL,26,5,'Not Started','2025-03-09','Submitted','Adequacy Decision','Completed','Not Met','Partial','Fully Integrated',625,32,63,73,2.5
+95,95,95,95,'CB621551  ',NULL,44,0,'Not Started','2025-03-07','Submitted','BCRs','In Progress','Partial','Complete','Partial',98,422,21,22,23.5
+96,96,96,96,'CB955788  ','Complete',6,4,'In Progress','2025-05-01','Required','Adequacy Decision','Required','Met','Partial','Manual',834,99,68,66,7.1
+97,97,97,97,'CB365916  ',NULL,16,0,'Not Started','2025-03-09','Not Required','Derogations','Required','Partial','Outdated','Partial',54,380,11,59,5.7
+98,98,98,98,'CB974098  ',NULL,10,0,'Not Started','2025-05-17','Not Required','BCRs','Completed','Met','Complete','Partial',362,30,0,24,7.3
+99,99,99,99,'CB519519  ',NULL,24,7,'Not Started','2025-05-14','Not Required','SCCs','Completed','Not Met','Complete','Fully Integrated',979,270,66,91,29.8
+100,100,100,100,'CB983161  ','Complete',48,7,'In Progress','2025-05-19','Not Required','Derogations','Required','Met','Outdated','Fully Integrated',507,439,87,18,20.4
+101,101,101,101,'CB757654  ','Complete',0,10,'Not Started','2025-04-30','Required','Adequacy Decision','In Progress','Not Met','Outdated','Manual',947,285,181,28,16.8
+102,102,102,102,'CB224860  ','Complete',45,7,'In Progress','2025-05-04','Required','BCRs','In Progress','Not Met','Outdated','Fully Integrated',161,415,55,48,13.5
+103,103,103,103,'CB162395  ','Complete',9,7,'Completed','2025-03-19','Not Required','SCCs','In Progress','Met','Partial','Manual',419,301,59,34,11.7
+104,104,104,104,'CB984966  ',NULL,11,1,'In Progress','2025-03-12','Not Required','Derogations','Completed','Not Met','Complete','Manual',39,398,97,67,3.1
+105,105,105,105,'CB406227  ',NULL,12,0,'Completed','2025-05-06','Submitted','BCRs','Completed','Not Met','Outdated','Manual',34,441,109,26,5.9
+106,106,106,106,'CB145020  ','Complete',37,3,'Not Started','2025-04-30','Submitted','Derogations','Completed','Not Met','Outdated','Manual',679,155,197,51,28.9
+107,107,107,107,'CB648969  ',NULL,30,1,'Completed','2025-05-06','Not Required','Derogations','In Progress','Not Met','Outdated','Fully Integrated',713,245,132,79,3.3
+108,108,108,108,'CB153120  ','Complete',40,10,'Completed','2025-04-16','Submitted','Derogations','In Progress','Partial','Complete','Partial',343,276,14,40,20.1
+109,109,109,109,'CB742061  ','Complete',3,2,'Not Started','2025-05-13','Submitted','Derogations','In Progress','Met','Outdated','Manual',164,317,197,93,12.2
+110,110,110,110,'CB895553  ',NULL,28,5,'Completed','2025-05-02','Not Required','Adequacy Decision','In Progress','Partial','Complete','Partial',389,357,55,29,22.0
+111,111,111,111,'CB744570  ',NULL,36,3,'In Progress','2025-02-23','Required','SCCs','In Progress','Met','Partial','Fully Integrated',860,29,80,10,20.5
+112,112,112,112,'CB243249  ',NULL,36,5,'In Progress','2025-03-14','Required','Adequacy Decision','In Progress','Partial','Outdated','Fully Integrated',486,224,21,58,29.6
+113,113,113,113,'CB558058  ',NULL,32,6,'Completed','2025-03-28','Submitted','Adequacy Decision','Required','Partial','Complete','Partial',234,265,97,9,23.2
+114,114,114,114,'CB175432  ',NULL,15,1,'Completed','2025-03-13','Not Required','Adequacy Decision','In Progress','Met','Outdated','Fully Integrated',659,230,196,28,2.6
+115,115,115,115,'CB958996  ',NULL,1,3,'In Progress','2025-04-19','Submitted','Adequacy Decision','In Progress','Partial','Outdated','Partial',131,357,95,100,25.5
+116,116,116,116,'CB827437  ',NULL,35,10,'In Progress','2025-02-24','Required','Derogations','Completed','Not Met','Complete','Manual',996,369,72,86,16.1
+117,117,117,117,'CB555131  ',NULL,49,9,'In Progress','2025-05-09','Not Required','SCCs','Required','Met','Complete','Manual',159,384,37,91,12.0
+118,118,118,118,'CB271940  ',NULL,23,4,'Completed','2025-04-27','Required','SCCs','In Progress','Not Met','Outdated','Partial',708,130,46,44,16.3
+119,119,119,119,'CB155544  ',NULL,32,4,'In Progress','2025-03-26','Required','Adequacy Decision','Required','Met','Complete','Fully Integrated',531,498,127,93,15.8
+120,120,120,120,'CB380006  ',NULL,30,10,'Not Started','2025-03-08','Required','Adequacy Decision','Required','Met','Outdated','Fully Integrated',587,310,145,84,16.3
+121,121,121,121,'CB644247  ',NULL,13,1,'Completed','2025-04-03','Submitted','Derogations','In Progress','Met','Complete','Manual',683,15,162,88,8.2
+122,122,122,122,'CB924209  ','Complete',40,7,'Not Started','2025-04-12','Submitted','Derogations','Required','Met','Outdated','Manual',467,49,29,12,10.6
+123,123,123,123,'CB518378  ',NULL,24,10,'Not Started','2025-04-16','Not Required','Derogations','In Progress','Not Met','Outdated','Fully Integrated',460,212,118,55,17.6
+124,124,124,124,'CB622929  ',NULL,7,1,'Not Started','2025-03-08','Not Required','Adequacy Decision','Required','Partial','Complete','Partial',280,287,25,14,27.0
+125,125,125,125,'CB987119  ',NULL,11,9,'In Progress','2025-04-20','Submitted','Derogations','In Progress','Not Met','Partial','Fully Integrated',770,255,137,17,11.7
+126,126,126,126,'CB726713  ',NULL,17,9,'Not Started','2025-03-24','Required','Adequacy Decision','Required','Met','Outdated','Manual',965,295,85,9,8.4
+127,127,127,127,'CB448217  ','Complete',11,7,'In Progress','2025-04-07','Not Required','BCRs','Required','Met','Complete','Partial',382,238,198,67,26.4
+128,128,128,128,'CB458061  ',NULL,22,0,'In Progress','2025-04-13','Required','SCCs','In Progress','Partial','Complete','Manual',479,254,120,46,1.3
+129,129,129,129,'CB771070  ',NULL,46,6,'Not Started','2025-04-02','Required','Derogations','In Progress','Not Met','Partial','Fully Integrated',670,438,139,59,11.2
+130,130,130,130,'CB214588  ',NULL,27,2,'Not Started','2025-02-23','Required','Adequacy Decision','Required','Met','Partial','Fully Integrated',120,464,7,22,6.8
+131,131,131,131,'CB640347  ',NULL,12,6,'Completed','2025-04-24','Required','SCCs','Required','Not Met','Partial','Partial',511,490,143,41,19.2
+132,132,132,132,'CB318556  ','Complete',33,7,'In Progress','2025-04-24','Submitted','Adequacy Decision','Completed','Partial','Outdated','Fully Integrated',134,228,124,47,17.3
+133,133,133,133,'CB917502  ','Complete',14,1,'In Progress','2025-03-09','Not Required','BCRs','In Progress','Met','Outdated','Manual',346,17,159,18,17.4
+134,134,134,134,'CB938148  ','Complete',26,1,'Not Started','2025-03-27','Submitted','Adequacy Decision','Required','Partial','Complete','Fully Integrated',601,267,153,57,28.2
+135,135,135,135,'CB847842  ',NULL,48,0,'Completed','2025-04-08','Not Required','Derogations','In Progress','Met','Outdated','Manual',954,174,185,96,29.9
+136,136,136,136,'CB595762  ',NULL,3,6,'Completed','2025-03-13','Required','Derogations','In Progress','Not Met','Partial','Partial',880,441,64,98,13.1
+137,137,137,137,'CB568289  ','Complete',19,9,'Completed','2025-04-27','Submitted','SCCs','In Progress','Not Met','Complete','Manual',19,142,36,47,7.3
+138,138,138,138,'CB642097  ',NULL,14,3,'Not Started','2025-05-02','Not Required','Adequacy Decision','Completed','Not Met','Complete','Partial',485,350,155,51,17.2
+139,139,139,139,'CB914082  ',NULL,8,6,'In Progress','2025-05-12','Required','SCCs','Completed','Met','Partial','Manual',855,11,156,19,25.4
+140,140,140,140,'CB432933  ','Complete',20,9,'Not Started','2025-04-20','Required','Derogations','Completed','Not Met','Complete','Manual',35,94,147,53,9.1
+141,141,141,141,'CB732069  ',NULL,1,5,'Not Started','2025-04-05','Not Required','Derogations','Completed','Partial','Partial','Manual',551,289,23,38,20.5
+142,142,142,142,'CB652130  ','Complete',28,0,'Completed','2025-05-17','Required','BCRs','In Progress','Not Met','Partial','Partial',71,448,44,26,3.0
+143,143,143,143,'CB556665  ',NULL,46,5,'In Progress','2025-04-24','Required','SCCs','Required','Partial','Partial','Fully Integrated',213,220,4,8,14.1
+144,144,144,144,'CB204159  ','Complete',17,10,'Completed','2025-05-09','Required','SCCs','In Progress','Met','Partial','Partial',574,167,107,17,9.0
+145,145,145,145,'CB927475  ','Complete',19,3,'Not Started','2025-05-13','Submitted','Adequacy Decision','In Progress','Not Met','Outdated','Manual',619,19,182,8,24.0
+146,146,146,146,'CB852779  ',NULL,11,6,'Completed','2025-03-04','Required','BCRs','Completed','Partial','Partial','Manual',296,258,10,28,18.1
+147,147,147,147,'CB553500  ',NULL,40,6,'Completed','2025-03-28','Not Required','SCCs','Completed','Met','Partial','Fully Integrated',11,345,200,97,26.5
+148,148,148,148,'CB213363  ',NULL,36,5,'Completed','2025-04-11','Required','Adequacy Decision','In Progress','Partial','Partial','Manual',138,164,13,32,19.5
+149,149,149,149,'CB214564  ','Complete',42,7,'Not Started','2025-04-11','Not Required','SCCs','In Progress','Met','Outdated','Manual',986,276,22,98,4.6
+150,150,150,150,'CB543820  ','Complete',0,0,'Not Started','2025-02-25','Required','SCCs','In Progress','Not Met','Complete','Manual',171,475,88,28,12.7
+151,151,151,151,'CB876134  ',NULL,36,0,'Completed','2025-03-29','Submitted','SCCs','Required','Met','Complete','Partial',665,345,68,42,22.0
+152,152,152,152,'CB171231  ',NULL,18,4,'Not Started','2025-02-22','Not Required','SCCs','Completed','Not Met','Outdated','Fully Integrated',750,88,24,74,28.7
+153,153,153,153,'CB295318  ','Complete',40,9,'In Progress','2025-03-24','Submitted','BCRs','Completed','Not Met','Partial','Partial',474,361,81,77,15.3
+154,154,154,154,'CB865751  ','Complete',14,8,'Not Started','2025-04-29','Not Required','SCCs','In Progress','Met','Partial','Partial',591,357,88,57,7.6
+155,155,155,155,'CB726426  ',NULL,12,3,'In Progress','2025-03-15','Required','Derogations','In Progress','Partial','Outdated','Fully Integrated',818,37,101,3,4.1
+156,156,156,156,'CB303093  ',NULL,3,7,'Completed','2025-05-07','Not Required','BCRs','In Progress','Partial','Partial','Fully Integrated',311,420,194,48,17.0
+157,157,157,157,'CB206552  ','Complete',43,1,'Not Started','2025-05-14','Submitted','Derogations','In Progress','Partial','Partial','Fully Integrated',732,258,193,12,1.4
+158,158,158,158,'CB707728  ',NULL,36,1,'Completed','2025-02-22','Not Required','Adequacy Decision','In Progress','Not Met','Outdated','Fully Integrated',700,236,186,50,5.4
+159,159,159,159,'CB238218  ','Complete',40,0,'In Progress','2025-04-09','Not Required','Derogations','Required','Not Met','Outdated','Fully Integrated',740,390,159,92,4.8
+160,160,160,160,'CB377948  ','Complete',19,1,'Completed','2025-03-27','Required','SCCs','In Progress','Partial','Outdated','Manual',154,87,84,6,28.3
+161,161,161,161,'CB754071  ',NULL,3,7,'Not Started','2025-04-04','Required','BCRs','In Progress','Met','Complete','Fully Integrated',702,247,76,49,5.0
+162,162,162,162,'CB491449  ',NULL,35,4,'In Progress','2025-03-04','Required','Derogations','Required','Partial','Outdated','Manual',187,128,200,94,18.2
+163,163,163,163,'CB146221  ',NULL,33,6,'Not Started','2025-04-02','Submitted','Derogations','Required','Met','Outdated','Fully Integrated',149,474,20,14,25.5
+164,164,164,164,'CB545642  ','Complete',32,9,'In Progress','2025-02-24','Not Required','Derogations','In Progress','Partial','Outdated','Fully Integrated',736,215,164,39,21.9
+165,165,165,165,'CB889386  ','Complete',17,10,'In Progress','2025-05-15','Not Required','SCCs','Completed','Partial','Partial','Manual',167,348,49,51,3.0
+166,166,166,166,'CB520245  ',NULL,3,5,'Not Started','2025-05-06','Not Required','Derogations','In Progress','Not Met','Outdated','Fully Integrated',983,6,31,100,4.8
+167,167,167,167,'CB356431  ',NULL,39,6,'Completed','2025-05-16','Not Required','Derogations','Required','Not Met','Outdated','Fully Integrated',572,365,188,82,29.5
+168,168,168,168,'CB643059  ',NULL,42,5,'Not Started','2025-04-20','Submitted','Derogations','Completed','Met','Outdated','Partial',349,151,21,77,1.3
+169,169,169,169,'CB925597  ','Complete',44,8,'Completed','2025-05-01','Not Required','SCCs','In Progress','Not Met','Complete','Fully Integrated',780,373,1,77,24.9
+170,170,170,170,'CB407645  ','Complete',17,9,'In Progress','2025-03-21','Not Required','Derogations','Required','Not Met','Partial','Fully Integrated',485,247,16,39,17.5
+171,171,171,171,'CB986169  ','Complete',14,6,'Completed','2025-04-27','Not Required','BCRs','In Progress','Not Met','Outdated','Fully Integrated',960,136,45,71,8.5
+172,172,172,172,'CB753194  ',NULL,43,7,'Completed','2025-05-11','Required','BCRs','In Progress','Partial','Outdated','Partial',937,3,82,2,23.6
+173,173,173,173,'CB162735  ',NULL,21,5,'In Progress','2025-03-14','Required','Adequacy Decision','Required','Partial','Partial','Manual',49,449,174,85,24.6
+174,174,174,174,'CB688266  ',NULL,10,5,'In Progress','2025-02-21','Submitted','Derogations','Required','Not Met','Complete','Fully Integrated',237,447,39,85,16.4
+175,175,175,175,'CB643955  ',NULL,50,9,'Not Started','2025-05-06','Submitted','SCCs','Required','Met','Outdated','Manual',208,347,17,31,14.5
+176,176,176,176,'CB888188  ','Complete',11,3,'Not Started','2025-05-16','Required','SCCs','Completed','Met','Partial','Fully Integrated',478,315,172,35,22.3
+177,177,177,177,'CB222883  ',NULL,17,8,'Not Started','2025-04-02','Submitted','Adequacy Decision','In Progress','Partial','Partial','Manual',622,283,14,68,26.5
+178,178,178,178,'CB784966  ',NULL,15,4,'In Progress','2025-03-25','Not Required','SCCs','In Progress','Partial','Complete','Fully Integrated',505,147,146,78,8.0
+179,179,179,179,'CB177361  ','Complete',33,9,'Completed','2025-05-06','Submitted','Derogations','Required','Not Met','Partial','Partial',138,143,25,18,1.7
+180,180,180,180,'CB240151  ',NULL,27,6,'Not Started','2025-02-28','Not Required','BCRs','In Progress','Partial','Complete','Fully Integrated',802,300,51,84,24.6
+181,181,181,181,'CB143488  ',NULL,21,9,'Not Started','2025-03-30','Submitted','BCRs','Required','Met','Outdated','Partial',702,45,122,44,28.0
+182,182,182,182,'CB687797  ','Complete',48,5,'Not Started','2025-05-04','Required','Adequacy Decision','Required','Partial','Outdated','Fully Integrated',938,281,63,90,14.2
+183,183,183,183,'CB383254  ',NULL,45,1,'Not Started','2025-02-24','Not Required','BCRs','Completed','Partial','Outdated','Fully Integrated',521,365,128,10,10.5
+184,184,184,184,'CB894071  ',NULL,20,5,'In Progress','2025-04-18','Submitted','Derogations','In Progress','Met','Outdated','Fully Integrated',898,326,138,90,2.4
+185,185,185,185,'CB371926  ','Complete',50,0,'Completed','2025-04-14','Required','Adequacy Decision','In Progress','Partial','Complete','Fully Integrated',192,204,40,62,2.3
+186,186,186,186,'CB326339  ','Complete',38,8,'Not Started','2025-04-08','Required','SCCs','In Progress','Partial','Outdated','Fully Integrated',683,93,3,36,20.0
+187,187,187,187,'CB263247  ','Complete',1,3,'Completed','2025-05-14','Not Required','Derogations','Completed','Partial','Complete','Fully Integrated',753,316,100,86,3.7
+188,188,188,188,'CB115541  ',NULL,35,0,'Completed','2025-05-01','Not Required','BCRs','Required','Met','Outdated','Partial',295,413,40,0,26.9
+189,189,189,189,'CB133427  ',NULL,5,2,'Completed','2025-03-12','Required','BCRs','In Progress','Not Met','Outdated','Manual',500,357,6,15,2.3
+190,190,190,190,'CB679229  ','Complete',50,1,'Not Started','2025-04-25','Submitted','SCCs','Completed','Met','Outdated','Manual',704,164,83,11,28.2
+191,191,191,191,'CB816336  ','Complete',4,5,'In Progress','2025-05-04','Submitted','BCRs','Completed','Partial','Outdated','Fully Integrated',1,276,95,23,23.9
+192,192,192,192,'CB483280  ','Complete',40,8,'In Progress','2025-04-07','Not Required','Derogations','Required','Not Met','Partial','Manual',227,218,107,55,14.5
+193,193,193,193,'CB700518  ','Complete',41,9,'Not Started','2025-03-04','Required','SCCs','In Progress','Met','Complete','Partial',391,328,67,63,15.7
+194,194,194,194,'CB716665  ',NULL,31,2,'Completed','2025-05-18','Not Required','Adequacy Decision','Completed','Not Met','Complete','Partial',138,188,56,9,17.9
+195,195,195,195,'CB822244  ','Complete',49,8,'Completed','2025-03-26','Submitted','SCCs','Required','Not Met','Complete','Fully Integrated',942,121,78,26,9.0
+196,196,196,196,'CB210105  ','Complete',50,2,'Not Started','2025-02-22','Not Required','SCCs','Required','Met','Partial','Fully Integrated',869,352,184,0,5.6
+197,197,197,197,'CB941940  ','Complete',5,1,'Completed','2025-04-12','Submitted','BCRs','Completed','Partial','Outdated','Manual',290,354,170,14,10.5
+198,198,198,198,'CB746181  ',NULL,22,5,'Completed','2025-03-02','Required','SCCs','Required','Not Met','Complete','Manual',231,50,43,30,14.9
+199,199,199,199,'CB873173  ',NULL,24,9,'In Progress','2025-04-23','Submitted','Derogations','Required','Not Met','Partial','Fully Integrated',423,289,87,48,7.3
+200,200,200,200,'CB391313  ',NULL,1,0,'Not Started','2025-04-08','Submitted','Adequacy Decision','In Progress','Partial','Complete','Fully Integrated',969,378,62,45,11.2
+201,201,201,201,'CB856704  ',NULL,27,6,'In Progress','2025-03-24','Submitted','Adequacy Decision','Required','Not Met','Outdated','Manual',455,390,42,32,14.3
+202,202,202,202,'CB385714  ',NULL,11,2,'Not Started','2025-04-19','Required','Adequacy Decision','In Progress','Met','Outdated','Partial',601,4,185,98,8.1
+203,203,203,203,'CB620036  ',NULL,33,4,'Completed','2025-03-23','Not Required','Derogations','Completed','Met','Partial','Partial',5,68,46,95,20.6
+204,204,204,204,'CB812630  ',NULL,19,8,'Not Started','2025-03-29','Not Required','BCRs','Completed','Not Met','Complete','Fully Integrated',81,465,46,92,16.7
+205,205,205,205,'CB526714  ',NULL,12,3,'Completed','2025-02-21','Submitted','BCRs','In Progress','Not Met','Complete','Fully Integrated',80,299,103,35,6.0
+206,206,206,206,'CB386816  ',NULL,26,6,'Completed','2025-04-25','Submitted','BCRs','In Progress','Met','Partial','Fully Integrated',106,168,139,90,3.0
+207,207,207,207,'CB518054  ',NULL,15,0,'Completed','2025-05-12','Required','Derogations','Completed','Met','Complete','Partial',901,214,140,25,12.3
+208,208,208,208,'CB635507  ','Complete',9,8,'In Progress','2025-03-20','Required','BCRs','Completed','Not Met','Partial','Partial',553,478,119,22,24.7
+209,209,209,209,'CB623083  ','Complete',36,1,'In Progress','2025-05-03','Required','SCCs','In Progress','Met','Outdated','Manual',713,466,59,70,23.6
+210,210,210,210,'CB541945  ',NULL,44,10,'In Progress','2025-05-20','Submitted','BCRs','Required','Partial','Outdated','Partial',948,328,116,61,25.5
+211,211,211,211,'CB523821  ',NULL,44,8,'Completed','2025-04-17','Required','Adequacy Decision','Required','Met','Outdated','Manual',956,150,181,79,16.0
+212,212,212,212,'CB582018  ',NULL,11,2,'In Progress','2025-02-27','Submitted','Adequacy Decision','Required','Partial','Partial','Manual',678,352,8,52,6.1
+213,213,213,213,'CB122034  ','Complete',27,10,'Not Started','2025-03-06','Required','BCRs','In Progress','Partial','Partial','Manual',293,492,100,24,14.7
+214,214,214,214,'CB389929  ',NULL,10,1,'Completed','2025-03-23','Submitted','BCRs','Required','Not Met','Complete','Manual',300,362,121,75,3.8
+215,215,215,215,'CB770914  ','Complete',17,9,'Completed','2025-04-21','Not Required','BCRs','In Progress','Partial','Complete','Manual',383,500,68,59,29.5
+216,216,216,216,'CB574369  ','Complete',25,1,'Completed','2025-03-25','Required','SCCs','Required','Met','Complete','Fully Integrated',998,164,42,13,24.9
+217,217,217,217,'CB473673  ',NULL,8,7,'Completed','2025-04-01','Required','BCRs','Required','Partial','Complete','Partial',657,231,120,75,17.9
+218,218,218,218,'CB435415  ','Complete',3,9,'In Progress','2025-05-05','Required','Adequacy Decision','In Progress','Partial','Partial','Partial',219,366,71,72,16.2
+219,219,219,219,'CB535477  ','Complete',39,1,'In Progress','2025-04-24','Not Required','Derogations','Completed','Met','Complete','Fully Integrated',531,493,131,56,27.7
+220,220,220,220,'CB324610  ',NULL,10,10,'Not Started','2025-03-26','Not Required','Adequacy Decision','Required','Met','Outdated','Fully Integrated',160,473,26,51,2.9
+221,221,221,221,'CB729290  ',NULL,38,3,'Completed','2025-03-30','Not Required','Derogations','In Progress','Met','Outdated','Fully Integrated',468,343,8,36,9.7
+222,222,222,222,'CB123225  ',NULL,14,7,'Not Started','2025-04-02','Submitted','Adequacy Decision','Required','Partial','Outdated','Fully Integrated',416,486,35,65,23.2
+223,223,223,223,'CB723642  ',NULL,8,1,'In Progress','2025-03-30','Required','Adequacy Decision','Completed','Met','Outdated','Manual',485,28,32,62,28.7
+224,224,224,224,'CB272146  ',NULL,0,3,'Not Started','2025-05-06','Submitted','SCCs','Required','Met','Outdated','Manual',837,406,131,83,28.4
+225,225,225,225,'CB282716  ',NULL,12,7,'Not Started','2025-04-13','Submitted','BCRs','Completed','Partial','Outdated','Fully Integrated',614,381,122,8,16.0
+226,226,226,226,'CB189383  ',NULL,45,5,'Completed','2025-04-12','Required','Adequacy Decision','Completed','Not Met','Complete','Partial',835,395,53,18,6.4
+227,227,227,227,'CB531104  ',NULL,10,5,'In Progress','2025-03-25','Submitted','Adequacy Decision','Required','Partial','Complete','Fully Integrated',637,31,138,9,6.3
+228,228,228,228,'CB543839  ',NULL,15,8,'In Progress','2025-04-06','Not Required','Adequacy Decision','Completed','Not Met','Complete','Manual',161,423,23,55,29.7
+229,229,229,229,'CB591520  ',NULL,17,10,'In Progress','2025-02-20','Submitted','SCCs','Required','Not Met','Partial','Partial',955,118,172,31,6.5
+230,230,230,230,'CB434942  ','Complete',13,5,'In Progress','2025-05-06','Not Required','Derogations','Required','Not Met','Complete','Partial',135,263,42,81,24.7
+231,231,231,231,'CB773875  ',NULL,36,5,'Not Started','2025-04-18','Not Required','SCCs','Required','Not Met','Partial','Fully Integrated',435,441,197,98,24.0
+232,232,232,232,'CB404566  ','Complete',50,9,'Completed','2025-02-23','Submitted','Adequacy Decision','Required','Met','Partial','Partial',768,347,188,48,26.7
+233,233,233,233,'CB320043  ',NULL,19,1,'Completed','2025-03-22','Required','Derogations','In Progress','Met','Partial','Partial',884,324,154,24,19.5
+234,234,234,234,'CB108793  ','Complete',12,4,'In Progress','2025-03-14','Required','Adequacy Decision','Completed','Partial','Outdated','Partial',917,195,191,3,28.7
+235,235,235,235,'CB885330  ',NULL,24,5,'In Progress','2025-02-20','Submitted','Derogations','Required','Not Met','Partial','Fully Integrated',527,89,188,14,22.6
+236,236,236,236,'CB699869  ',NULL,0,4,'Not Started','2025-04-16','Required','Adequacy Decision','Required','Met','Outdated','Manual',26,14,10,54,21.1
+237,237,237,237,'CB730919  ',NULL,30,0,'Not Started','2025-05-10','Submitted','BCRs','Completed','Not Met','Partial','Fully Integrated',671,10,81,99,2.0
+238,238,238,238,'CB292392  ',NULL,23,5,'Not Started','2025-05-09','Submitted','SCCs','Completed','Met','Complete','Fully Integrated',582,216,44,84,9.1
+239,239,239,239,'CB255451  ',NULL,12,3,'Not Started','2025-04-06','Not Required','SCCs','Required','Not Met','Outdated','Partial',794,401,24,82,18.8
+240,240,240,240,'CB675423  ','Complete',33,0,'Not Started','2025-03-25','Submitted','Adequacy Decision','Completed','Met','Partial','Manual',355,348,76,2,7.1
+241,241,241,241,'CB930621  ',NULL,11,4,'Completed','2025-04-22','Submitted','BCRs','Required','Not Met','Partial','Fully Integrated',61,157,154,64,19.6
+242,242,242,242,'CB740276  ',NULL,26,1,'In Progress','2025-05-07','Submitted','SCCs','In Progress','Met','Outdated','Partial',354,352,97,60,16.2
+243,243,243,243,'CB598191  ','Complete',25,5,'Not Started','2025-03-28','Submitted','SCCs','Required','Not Met','Outdated','Fully Integrated',137,287,30,96,16.6
+244,244,244,244,'CB538314  ',NULL,5,5,'In Progress','2025-04-11','Not Required','Adequacy Decision','In Progress','Met','Complete','Partial',656,34,140,73,7.6
+245,245,245,245,'CB456176  ',NULL,16,5,'Completed','2025-03-29','Submitted','Adequacy Decision','In Progress','Partial','Partial','Partial',169,373,60,40,23.7
+246,246,246,246,'CB716028  ',NULL,34,5,'In Progress','2025-03-10','Required','BCRs','Required','Not Met','Outdated','Fully Integrated',172,426,14,90,9.8
+247,247,247,247,'CB232415  ',NULL,27,10,'In Progress','2025-03-21','Submitted','Adequacy Decision','Required','Met','Outdated','Fully Integrated',931,149,4,58,4.1
+248,248,248,248,'CB329523  ','Complete',44,7,'Completed','2025-04-13','Required','SCCs','Required','Partial','Partial','Manual',84,198,145,18,28.4
+249,249,249,249,'CB149901  ',NULL,41,4,'Completed','2025-05-18','Not Required','Derogations','In Progress','Met','Outdated','Manual',77,109,16,53,19.4
+250,250,250,250,'CB374515  ',NULL,42,6,'In Progress','2025-05-17','Not Required','Adequacy Decision','In Progress','Met','Complete','Partial',462,495,5,86,4.9
+251,251,251,251,'CB474321  ','Complete',3,2,'Not Started','2025-03-09','Not Required','SCCs','Completed','Not Met','Outdated','Partial',788,16,114,28,10.7
+252,252,252,252,'CB505655  ',NULL,16,1,'Completed','2025-02-26','Required','Derogations','Completed','Partial','Outdated','Manual',554,345,38,76,14.0
+253,253,253,253,'CB996635  ',NULL,30,4,'Completed','2025-05-10','Required','BCRs','In Progress','Not Met','Partial','Partial',343,97,78,9,15.1
+254,254,254,254,'CB237908  ',NULL,29,6,'In Progress','2025-05-12','Submitted','BCRs','Completed','Met','Partial','Manual',22,64,14,29,9.8
+255,255,255,255,'CB621213  ','Complete',25,0,'In Progress','2025-02-21','Required','Derogations','In Progress','Met','Partial','Partial',967,97,11,55,21.8
+256,256,256,256,'CB486070  ','Complete',49,5,'Not Started','2025-04-01','Required','SCCs','Completed','Partial','Outdated','Partial',653,170,190,28,3.0
+257,257,257,257,'CB457265  ',NULL,20,6,'Not Started','2025-03-26','Required','Adequacy Decision','In Progress','Partial','Outdated','Manual',323,317,128,94,19.6
+258,258,258,258,'CB295801  ',NULL,28,10,'In Progress','2025-02-20','Required','Derogations','Completed','Met','Partial','Manual',385,414,189,0,29.7
+259,259,259,259,'CB458004  ',NULL,1,5,'Completed','2025-04-30','Not Required','Derogations','Required','Met','Complete','Manual',549,62,30,30,3.0
+260,260,260,260,'CB839247  ','Complete',35,8,'In Progress','2025-05-07','Required','SCCs','In Progress','Partial','Partial','Manual',231,332,137,51,17.3
+261,261,261,261,'CB426536  ','Complete',42,3,'In Progress','2025-02-22','Submitted','BCRs','Completed','Not Met','Partial','Manual',232,227,129,18,28.7
+262,262,262,262,'CB740562  ','Complete',23,10,'In Progress','2025-03-22','Not Required','Derogations','Required','Not Met','Complete','Partial',48,81,179,55,17.8
+263,263,263,263,'CB214440  ',NULL,33,1,'In Progress','2025-03-05','Required','Adequacy Decision','In Progress','Not Met','Outdated','Manual',872,355,122,94,15.7
+264,264,264,264,'CB245959  ',NULL,16,4,'In Progress','2025-03-15','Required','BCRs','Completed','Not Met','Outdated','Fully Integrated',983,399,2,87,18.4
+265,265,265,265,'CB121824  ',NULL,4,8,'Completed','2025-03-01','Submitted','BCRs','Required','Not Met','Outdated','Manual',736,227,111,60,15.1
+266,266,266,266,'CB111176  ',NULL,34,3,'Completed','2025-04-25','Not Required','BCRs','In Progress','Not Met','Outdated','Manual',197,17,147,84,3.9
+267,267,267,267,'CB604907  ',NULL,42,6,'In Progress','2025-03-16','Submitted','Derogations','In Progress','Partial','Outdated','Fully Integrated',824,162,176,36,4.3
+268,268,268,268,'CB100138  ','Complete',46,9,'In Progress','2025-03-04','Required','SCCs','Required','Met','Partial','Partial',679,279,169,27,15.1
+269,269,269,269,'CB881840  ',NULL,30,9,'In Progress','2025-05-03','Required','Derogations','Completed','Met','Partial','Manual',115,144,138,18,8.3
+270,270,270,270,'CB249634  ','Complete',13,0,'Completed','2025-04-15','Required','SCCs','Required','Not Met','Complete','Partial',689,288,166,2,16.3
+271,271,271,271,'CB207860  ',NULL,1,2,'Completed','2025-03-09','Submitted','Derogations','In Progress','Not Met','Partial','Fully Integrated',348,257,10,97,5.4
+272,272,272,272,'CB957692  ',NULL,15,8,'Completed','2025-03-10','Not Required','SCCs','Required','Met','Complete','Manual',169,435,178,82,14.5
+273,273,273,273,'CB488883  ','Complete',48,2,'Completed','2025-05-11','Submitted','BCRs','Completed','Met','Partial','Fully Integrated',52,260,28,67,4.9
+274,274,274,274,'CB593318  ',NULL,28,7,'Not Started','2025-04-19','Submitted','Adequacy Decision','In Progress','Met','Complete','Partial',1,462,129,51,25.5
+275,275,275,275,'CB969365  ',NULL,19,4,'Not Started','2025-05-15','Required','SCCs','In Progress','Not Met','Outdated','Partial',687,290,185,85,5.1
+276,276,276,276,'CB647353  ','Complete',26,0,'In Progress','2025-05-09','Not Required','Adequacy Decision','Completed','Met','Outdated','Manual',249,273,14,35,18.7
+277,277,277,277,'CB740410  ','Complete',27,6,'In Progress','2025-03-04','Not Required','BCRs','Completed','Not Met','Complete','Fully Integrated',103,306,25,33,12.7
+278,278,278,278,'CB415007  ','Complete',8,2,'In Progress','2025-04-29','Required','Derogations','Completed','Not Met','Partial','Partial',383,30,54,32,23.4
+279,279,279,279,'CB705003  ','Complete',16,1,'Completed','2025-04-29','Required','Derogations','In Progress','Not Met','Outdated','Fully Integrated',265,173,121,66,1.2
+280,280,280,280,'CB175483  ','Complete',31,3,'Completed','2025-03-28','Not Required','BCRs','In Progress','Not Met','Complete','Fully Integrated',663,43,92,19,23.5
+281,281,281,281,'CB794660  ',NULL,12,8,'Not Started','2025-05-07','Not Required','Derogations','Completed','Not Met','Complete','Partial',72,252,11,79,18.0
+282,282,282,282,'CB122110  ','Complete',25,6,'In Progress','2025-02-24','Required','Adequacy Decision','In Progress','Not Met','Partial','Manual',661,256,157,41,22.2
+283,283,283,283,'CB605458  ','Complete',21,6,'Completed','2025-05-05','Submitted','Adequacy Decision','Completed','Not Met','Outdated','Manual',119,276,24,59,17.9
+284,284,284,284,'CB268528  ',NULL,31,2,'Not Started','2025-02-22','Not Required','BCRs','Required','Partial','Outdated','Partial',701,68,157,48,9.4
+285,285,285,285,'CB829905  ',NULL,30,7,'Completed','2025-04-12','Submitted','BCRs','Completed','Met','Outdated','Partial',620,229,80,83,18.0
+286,286,286,286,'CB343831  ',NULL,3,4,'Not Started','2025-03-10','Not Required','BCRs','In Progress','Partial','Outdated','Fully Integrated',102,465,181,7,1.6
+287,287,287,287,'CB816834  ','Complete',43,7,'Completed','2025-02-28','Not Required','Adequacy Decision','In Progress','Partial','Outdated','Fully Integrated',735,68,33,17,14.1
+288,288,288,288,'CB946894  ',NULL,8,10,'In Progress','2025-04-21','Not Required','Derogations','In Progress','Not Met','Partial','Fully Integrated',407,157,82,17,7.0
+289,289,289,289,'CB152835  ','Complete',2,3,'In Progress','2025-05-01','Submitted','BCRs','In Progress','Partial','Outdated','Fully Integrated',545,466,123,87,15.0
+290,290,290,290,'CB367978  ',NULL,39,8,'In Progress','2025-03-18','Required','Adequacy Decision','In Progress','Partial','Outdated','Partial',504,281,140,90,6.7
+291,291,291,291,'CB150562  ',NULL,13,3,'In Progress','2025-04-12','Not Required','Derogations','Completed','Partial','Partial','Partial',612,319,176,10,28.7
+292,292,292,292,'CB157625  ',NULL,38,0,'Completed','2025-03-24','Submitted','Derogations','In Progress','Partial','Complete','Fully Integrated',161,196,97,57,21.8
+293,293,293,293,'CB686103  ','Complete',48,2,'In Progress','2025-03-29','Submitted','BCRs','In Progress','Not Met','Partial','Manual',651,325,140,35,29.5
+294,294,294,294,'CB150278  ','Complete',37,4,'Not Started','2025-04-26','Required','SCCs','In Progress','Not Met','Complete','Fully Integrated',86,123,96,99,11.8
+295,295,295,295,'CB646577  ',NULL,46,5,'In Progress','2025-04-24','Submitted','SCCs','In Progress','Not Met','Complete','Partial',78,442,180,48,3.4
+296,296,296,296,'CB293416  ',NULL,43,2,'Not Started','2025-05-09','Required','BCRs','Required','Not Met','Complete','Manual',261,390,186,91,3.6
+297,297,297,297,'CB740893  ','Complete',45,6,'In Progress','2025-04-13','Required','Derogations','Completed','Met','Complete','Fully Integrated',168,345,77,82,20.8
+298,298,298,298,'CB304436  ',NULL,5,7,'Not Started','2025-04-03','Not Required','SCCs','Required','Partial','Outdated','Manual',709,177,149,60,28.6
+299,299,299,299,'CB213942  ','Complete',21,4,'Completed','2025-02-22','Submitted','BCRs','Required','Partial','Outdated','Partial',982,498,86,94,18.7
+300,300,300,300,'CB835988  ','Complete',12,7,'Completed','2025-04-09','Submitted','BCRs','In Progress','Met','Outdated','Fully Integrated',379,497,54,98,22.1
+301,301,301,301,'CB181909  ','Complete',20,6,'In Progress','2025-03-09','Required','SCCs','Completed','Not Met','Outdated','Partial',794,310,180,65,25.8
+302,302,302,302,'CB652704  ',NULL,39,4,'In Progress','2025-04-07','Submitted','BCRs','In Progress','Not Met','Complete','Manual',368,99,1,91,5.3
+303,303,303,303,'CB556070  ','Complete',46,6,'Not Started','2025-05-17','Not Required','Adequacy Decision','In Progress','Met','Partial','Partial',934,358,143,60,9.4
+304,304,304,304,'CB336196  ',NULL,31,5,'Completed','2025-05-20','Required','Derogations','In Progress','Not Met','Outdated','Manual',212,5,131,88,15.4
+305,305,305,305,'CB971064  ',NULL,22,0,'Not Started','2025-03-06','Submitted','Derogations','Completed','Not Met','Partial','Manual',5,420,142,40,14.5
+306,306,306,306,'CB821725  ','Complete',7,5,'In Progress','2025-02-22','Submitted','Derogations','In Progress','Not Met','Outdated','Fully Integrated',270,283,87,27,15.5
+307,307,307,307,'CB614958  ',NULL,1,7,'In Progress','2025-02-23','Not Required','BCRs','Completed','Not Met','Outdated','Manual',154,339,66,29,25.5
+308,308,308,308,'CB524973  ',NULL,12,0,'Not Started','2025-04-08','Not Required','Adequacy Decision','Completed','Not Met','Outdated','Partial',882,329,49,76,12.4
+309,309,309,309,'CB390837  ',NULL,1,6,'In Progress','2025-03-06','Required','BCRs','In Progress','Not Met','Complete','Partial',168,92,171,79,9.3
+310,310,310,310,'CB131484  ',NULL,40,0,'Not Started','2025-05-08','Not Required','Derogations','Required','Partial','Partial','Partial',262,9,81,89,20.1
+311,311,311,311,'CB865618  ','Complete',28,4,'Not Started','2025-03-07','Submitted','Derogations','In Progress','Partial','Complete','Partial',39,455,90,0,23.9
+312,312,312,312,'CB515240  ','Complete',20,1,'In Progress','2025-03-06','Submitted','Adequacy Decision','Required','Met','Partial','Fully Integrated',434,386,192,71,21.7
+313,313,313,313,'CB102272  ',NULL,34,4,'In Progress','2025-05-01','Not Required','Derogations','Completed','Not Met','Outdated','Manual',504,173,117,24,14.4
+314,314,314,314,'CB695928  ','Complete',21,0,'In Progress','2025-04-30','Not Required','Derogations','Completed','Partial','Complete','Partial',169,154,186,58,12.9
+315,315,315,315,'CB348577  ',NULL,10,0,'Not Started','2025-02-22','Required','Adequacy Decision','In Progress','Partial','Partial','Fully Integrated',307,160,21,99,23.4
+316,316,316,316,'CB744131  ',NULL,35,5,'Not Started','2025-05-17','Not Required','SCCs','Required','Met','Partial','Partial',352,59,15,67,19.8
+317,317,317,317,'CB316179  ','Complete',50,6,'Not Started','2025-03-14','Not Required','SCCs','In Progress','Not Met','Complete','Fully Integrated',789,284,170,35,11.5
+318,318,318,318,'CB605606  ',NULL,11,7,'Not Started','2025-05-14','Not Required','SCCs','In Progress','Met','Complete','Fully Integrated',493,56,85,21,20.8
+319,319,319,319,'CB135909  ',NULL,1,0,'Not Started','2025-03-12','Required','SCCs','In Progress','Not Met','Partial','Fully Integrated',324,401,75,45,2.0
+320,320,320,320,'CB768504  ',NULL,16,8,'Not Started','2025-02-22','Submitted','BCRs','Required','Met','Outdated','Manual',332,488,155,62,13.7
+321,321,321,321,'CB323501  ',NULL,24,1,'Completed','2025-03-12','Not Required','BCRs','In Progress','Partial','Complete','Manual',454,424,1,60,29.3
+322,322,322,322,'CB977025  ','Complete',23,3,'Not Started','2025-04-17','Required','Derogations','Required','Met','Complete','Manual',851,314,176,34,11.3
+323,323,323,323,'CB246509  ',NULL,28,8,'Completed','2025-03-28','Submitted','SCCs','Required','Met','Outdated','Fully Integrated',466,243,117,60,10.2
+324,324,324,324,'CB222293  ','Complete',17,4,'In Progress','2025-04-10','Submitted','Adequacy Decision','In Progress','Not Met','Outdated','Partial',74,346,114,28,15.6
+325,325,325,325,'CB616647  ','Complete',3,3,'Completed','2025-05-03','Not Required','BCRs','Required','Not Met','Partial','Partial',660,15,97,73,28.9
+326,326,326,326,'CB251168  ',NULL,18,0,'Completed','2025-05-13','Required','SCCs','Completed','Not Met','Outdated','Fully Integrated',797,16,38,25,14.2
+327,327,327,327,'CB229170  ','Complete',47,2,'Not Started','2025-05-15','Not Required','Adequacy Decision','Required','Not Met','Complete','Fully Integrated',344,43,128,84,28.7
+328,328,328,328,'CB818306  ','Complete',9,0,'Not Started','2025-02-25','Not Required','Derogations','In Progress','Met','Outdated','Partial',259,243,173,84,24.1
+329,329,329,329,'CB786991  ',NULL,4,4,'Not Started','2025-03-04','Not Required','Adequacy Decision','Required','Partial','Partial','Manual',420,28,163,38,15.2
+330,330,330,330,'CB444512  ',NULL,21,8,'Completed','2025-03-26','Not Required','SCCs','Required','Not Met','Outdated','Manual',143,372,125,65,22.7
+331,331,331,331,'CB790413  ',NULL,40,8,'Not Started','2025-03-11','Submitted','Adequacy Decision','In Progress','Not Met','Complete','Fully Integrated',252,495,199,52,8.3
+332,332,332,332,'CB246735  ','Complete',21,2,'In Progress','2025-03-05','Submitted','Derogations','Completed','Partial','Complete','Manual',466,61,166,42,9.3
+333,333,333,333,'CB291583  ',NULL,18,4,'Completed','2025-04-29','Not Required','Derogations','Completed','Not Met','Complete','Fully Integrated',198,276,180,17,18.8
+334,334,334,334,'CB640170  ','Complete',33,10,'In Progress','2025-05-14','Submitted','Derogations','Completed','Met','Partial','Partial',634,17,116,19,23.0
+335,335,335,335,'CB745089  ',NULL,31,9,'In Progress','2025-04-13','Not Required','BCRs','Completed','Met','Complete','Manual',294,116,169,47,8.8
+336,336,336,336,'CB293511  ',NULL,9,0,'Completed','2025-05-06','Required','Derogations','Completed','Not Met','Complete','Fully Integrated',102,353,123,51,6.9
+337,337,337,337,'CB999870  ','Complete',44,7,'Not Started','2025-03-04','Submitted','SCCs','Completed','Met','Outdated','Fully Integrated',181,483,77,23,10.8
+338,338,338,338,'CB472138  ','Complete',15,5,'In Progress','2025-04-15','Submitted','Adequacy Decision','Completed','Partial','Complete','Manual',22,478,136,75,28.6
+339,339,339,339,'CB677542  ',NULL,37,6,'In Progress','2025-03-25','Required','Adequacy Decision','Required','Partial','Complete','Manual',922,424,94,12,6.5
+340,340,340,340,'CB256541  ',NULL,47,2,'Not Started','2025-04-25','Required','Adequacy Decision','Required','Met','Complete','Manual',494,328,195,61,23.7
+341,341,341,341,'CB354592  ',NULL,6,6,'In Progress','2025-03-19','Not Required','Derogations','Completed','Not Met','Complete','Partial',736,298,165,94,22.2
+342,342,342,342,'CB656131  ',NULL,3,1,'Completed','2025-05-05','Not Required','SCCs','Completed','Partial','Outdated','Partial',952,115,45,56,14.5
+343,343,343,343,'CB206745  ','Complete',6,3,'Completed','2025-03-23','Required','BCRs','In Progress','Partial','Outdated','Fully Integrated',424,134,97,26,16.6
+344,344,344,344,'CB885987  ','Complete',15,4,'Not Started','2025-05-04','Not Required','Adequacy Decision','Required','Partial','Complete','Fully Integrated',939,239,167,63,12.6
+345,345,345,345,'CB514758  ',NULL,10,0,'Completed','2025-05-02','Submitted','Derogations','In Progress','Met','Partial','Partial',172,175,36,8,10.8
+346,346,346,346,'CB396802  ','Complete',18,2,'In Progress','2025-03-27','Not Required','BCRs','Required','Met','Partial','Manual',362,208,54,19,7.4
+347,347,347,347,'CB948987  ','Complete',29,9,'Not Started','2025-04-17','Required','SCCs','Completed','Met','Outdated','Partial',70,385,159,75,27.2
+348,348,348,348,'CB718382  ',NULL,12,3,'In Progress','2025-02-21','Submitted','Derogations','Required','Partial','Complete','Manual',809,130,183,6,14.5
+349,349,349,349,'CB994500  ','Complete',37,3,'In Progress','2025-03-06','Not Required','Derogations','In Progress','Met','Partial','Partial',764,327,184,55,19.6
+350,350,350,350,'CB643347  ',NULL,45,9,'In Progress','2025-04-20','Required','BCRs','Completed','Met','Outdated','Manual',530,125,166,68,7.8
+351,351,351,351,'CB736273  ','Complete',43,7,'In Progress','2025-04-14','Required','BCRs','Required','Met','Partial','Fully Integrated',351,186,76,6,26.6
+352,352,352,352,'CB263492  ',NULL,7,9,'In Progress','2025-05-01','Not Required','SCCs','Completed','Not Met','Complete','Partial',723,122,90,37,4.5
+353,353,353,353,'CB806282  ',NULL,11,7,'In Progress','2025-05-13','Required','SCCs','Completed','Met','Complete','Manual',44,194,132,9,2.5
+354,354,354,354,'CB601888  ',NULL,28,3,'Completed','2025-05-09','Required','Adequacy Decision','Required','Partial','Outdated','Fully Integrated',473,169,21,32,16.1
+355,355,355,355,'CB516015  ',NULL,3,0,'In Progress','2025-05-03','Not Required','Derogations','Required','Met','Complete','Manual',743,210,11,27,23.5
+356,356,356,356,'CB578713  ','Complete',37,1,'Not Started','2025-05-11','Submitted','BCRs','Completed','Partial','Outdated','Partial',93,476,83,52,1.9
+357,357,357,357,'CB150931  ',NULL,23,4,'Not Started','2025-03-31','Submitted','Adequacy Decision','Completed','Met','Partial','Partial',285,409,148,89,25.9
+358,358,358,358,'CB799487  ',NULL,50,2,'In Progress','2025-03-15','Not Required','Derogations','Completed','Not Met','Outdated','Partial',672,123,101,86,4.3
+359,359,359,359,'CB809672  ',NULL,4,2,'Not Started','2025-03-28','Submitted','Derogations','In Progress','Partial','Partial','Partial',504,78,20,31,5.3
+360,360,360,360,'CB330924  ','Complete',48,2,'Not Started','2025-05-05','Not Required','Derogations','Required','Met','Outdated','Fully Integrated',799,342,55,73,17.7
+361,361,361,361,'CB117620  ',NULL,12,2,'Completed','2025-04-27','Required','SCCs','Required','Partial','Partial','Manual',73,153,9,36,25.5
+362,362,362,362,'CB262793  ','Complete',47,8,'Completed','2025-05-10','Submitted','SCCs','In Progress','Met','Outdated','Manual',945,422,118,87,12.7
+363,363,363,363,'CB911395  ',NULL,44,10,'Completed','2025-04-17','Submitted','BCRs','In Progress','Met','Outdated','Manual',29,333,15,24,12.3
+364,364,364,364,'CB353957  ',NULL,30,7,'In Progress','2025-04-12','Not Required','Adequacy Decision','Required','Met','Complete','Manual',998,408,119,100,28.5
+365,365,365,365,'CB940271  ',NULL,10,9,'Not Started','2025-04-01','Submitted','Derogations','Completed','Not Met','Outdated','Partial',896,400,55,45,2.7
+366,366,366,366,'CB191938  ','Complete',10,5,'Not Started','2025-03-31','Required','Adequacy Decision','Completed','Met','Outdated','Manual',204,459,11,57,21.7
+367,367,367,367,'CB529847  ',NULL,12,0,'Completed','2025-03-21','Not Required','Derogations','Required','Not Met','Outdated','Partial',360,433,185,77,1.0
+368,368,368,368,'CB359164  ','Complete',6,6,'Completed','2025-05-20','Submitted','Adequacy Decision','In Progress','Not Met','Partial','Partial',164,356,62,86,28.9
+369,369,369,369,'CB848725  ','Complete',21,7,'Not Started','2025-04-02','Required','Derogations','In Progress','Not Met','Outdated','Manual',673,283,7,22,6.6
+370,370,370,370,'CB400159  ',NULL,17,3,'Completed','2025-03-19','Not Required','Adequacy Decision','In Progress','Partial','Complete','Partial',264,364,100,66,1.3
+371,371,371,371,'CB544297  ','Complete',4,8,'In Progress','2025-03-29','Required','BCRs','In Progress','Not Met','Outdated','Partial',127,278,115,78,19.6
+372,372,372,372,'CB727455  ','Complete',8,8,'Not Started','2025-03-01','Submitted','SCCs','In Progress','Met','Outdated','Fully Integrated',359,202,31,87,4.5
+373,373,373,373,'CB132620  ',NULL,18,7,'Not Started','2025-05-14','Required','BCRs','Required','Not Met','Complete','Fully Integrated',673,323,102,35,6.4
+374,374,374,374,'CB821797  ',NULL,8,9,'Not Started','2025-04-05','Not Required','Derogations','In Progress','Not Met','Complete','Fully Integrated',108,292,139,36,1.1
+375,375,375,375,'CB327518  ',NULL,22,10,'Completed','2025-03-01','Required','SCCs','In Progress','Not Met','Complete','Fully Integrated',365,389,183,15,23.2
+376,376,376,376,'CB529173  ',NULL,4,4,'Not Started','2025-05-20','Required','BCRs','In Progress','Partial','Outdated','Fully Integrated',539,125,156,11,15.7
+377,377,377,377,'CB828883  ',NULL,18,5,'In Progress','2025-05-18','Not Required','Derogations','Completed','Partial','Partial','Manual',66,312,175,52,23.7
+378,378,378,378,'CB155094  ',NULL,44,2,'Not Started','2025-04-21','Not Required','Adequacy Decision','In Progress','Not Met','Outdated','Fully Integrated',5,469,193,16,24.2
+379,379,379,379,'CB213583  ',NULL,47,3,'Completed','2025-03-21','Not Required','SCCs','Completed','Met','Outdated','Partial',985,327,59,57,15.5
+380,380,380,380,'CB429095  ',NULL,0,6,'Completed','2025-04-01','Not Required','SCCs','In Progress','Met','Complete','Fully Integrated',711,317,60,64,25.5
+381,381,381,381,'CB700263  ',NULL,20,4,'In Progress','2025-04-12','Not Required','BCRs','Required','Not Met','Complete','Fully Integrated',181,332,2,22,30.0
+382,382,382,382,'CB639324  ',NULL,14,2,'Not Started','2025-04-09','Not Required','BCRs','Completed','Not Met','Partial','Fully Integrated',420,25,60,29,20.4
+383,383,383,383,'CB117012  ','Complete',32,9,'Not Started','2025-04-22','Required','Derogations','In Progress','Not Met','Outdated','Manual',946,97,7,25,10.2
+384,384,384,384,'CB660990  ','Complete',44,3,'In Progress','2025-02-23','Required','SCCs','In Progress','Met','Outdated','Fully Integrated',981,74,172,98,6.7
+385,385,385,385,'CB470557  ',NULL,0,3,'Not Started','2025-02-28','Required','Adequacy Decision','In Progress','Not Met','Outdated','Manual',122,379,83,55,3.9
+386,386,386,386,'CB318473  ',NULL,49,7,'In Progress','2025-05-15','Submitted','Adequacy Decision','Completed','Partial','Outdated','Partial',120,80,82,95,29.6
+387,387,387,387,'CB886818  ','Complete',7,9,'In Progress','2025-04-20','Submitted','Derogations','Completed','Partial','Complete','Manual',538,59,165,35,3.1
+388,388,388,388,'CB593953  ',NULL,41,2,'Not Started','2025-03-30','Submitted','Derogations','Required','Met','Complete','Fully Integrated',261,393,91,13,17.5
+389,389,389,389,'CB536735  ',NULL,22,5,'Not Started','2025-02-20','Submitted','SCCs','Completed','Met','Complete','Manual',538,405,189,76,21.8
+390,390,390,390,'CB590137  ','Complete',27,5,'In Progress','2025-04-03','Required','Derogations','Required','Met','Outdated','Fully Integrated',986,314,100,99,24.8
+391,391,391,391,'CB799732  ',NULL,3,4,'Completed','2025-04-22','Required','SCCs','In Progress','Partial','Outdated','Manual',233,488,88,74,15.8
+392,392,392,392,'CB632990  ',NULL,10,2,'In Progress','2025-05-08','Submitted','Derogations','Required','Partial','Complete','Fully Integrated',98,450,61,57,16.9
+393,393,393,393,'CB657397  ',NULL,49,4,'Not Started','2025-05-05','Not Required','Derogations','Required','Met','Partial','Manual',117,171,144,33,6.2
+394,394,394,394,'CB143153  ',NULL,1,8,'In Progress','2025-03-09','Submitted','SCCs','In Progress','Partial','Outdated','Partial',936,500,165,11,14.9
+395,395,395,395,'CB639392  ',NULL,36,2,'In Progress','2025-04-30','Required','SCCs','Required','Partial','Outdated','Partial',228,298,125,74,2.7
+396,396,396,396,'CB511866  ',NULL,33,0,'Completed','2025-05-05','Submitted','BCRs','Completed','Partial','Partial','Fully Integrated',323,322,165,71,10.0
+397,397,397,397,'CB287342  ',NULL,48,4,'In Progress','2025-05-13','Not Required','Adequacy Decision','In Progress','Partial','Outdated','Partial',325,152,118,65,29.1
+398,398,398,398,'CB245016  ',NULL,12,8,'Not Started','2025-02-27','Not Required','BCRs','Completed','Met','Complete','Fully Integrated',315,291,169,23,17.5
+399,399,399,399,'CB631529  ','Complete',3,5,'In Progress','2025-04-10','Not Required','Adequacy Decision','Completed','Not Met','Outdated','Partial',712,395,47,66,19.3
+400,400,400,400,'CB670865  ','Complete',42,0,'Completed','2025-05-17','Required','Adequacy Decision','Completed','Met','Complete','Fully Integrated',430,47,130,11,10.0
+401,401,401,401,'CB691372  ',NULL,49,0,'Not Started','2025-02-26','Not Required','BCRs','Required','Not Met','Complete','Manual',598,113,115,35,26.6
+402,402,402,402,'CB515190  ','Complete',14,0,'In Progress','2025-04-23','Not Required','SCCs','Completed','Not Met','Outdated','Fully Integrated',228,480,96,17,24.0
+403,403,403,403,'CB100698  ',NULL,14,5,'Not Started','2025-05-08','Submitted','Derogations','Completed','Met','Complete','Partial',265,370,150,4,16.4
+404,404,404,404,'CB467097  ','Complete',48,7,'In Progress','2025-05-14','Not Required','Adequacy Decision','Completed','Not Met','Partial','Fully Integrated',51,416,175,76,7.5
+405,405,405,405,'CB427669  ',NULL,7,4,'In Progress','2025-04-24','Required','SCCs','In Progress','Partial','Partial','Partial',197,297,103,76,18.7
+406,406,406,406,'CB913040  ',NULL,29,6,'Not Started','2025-04-17','Submitted','SCCs','Completed','Not Met','Outdated','Fully Integrated',512,303,198,89,20.8
+407,407,407,407,'CB148684  ',NULL,23,6,'Completed','2025-04-08','Not Required','Adequacy Decision','Completed','Partial','Partial','Manual',557,88,190,43,21.3
+408,408,408,408,'CB394868  ','Complete',0,2,'In Progress','2025-05-14','Submitted','BCRs','Completed','Not Met','Complete','Fully Integrated',105,220,199,14,23.5
+409,409,409,409,'CB922410  ','Complete',23,7,'In Progress','2025-05-19','Submitted','Derogations','In Progress','Met','Complete','Partial',742,418,114,60,26.5
+410,410,410,410,'CB668001  ',NULL,9,8,'Completed','2025-04-01','Submitted','SCCs','Required','Partial','Outdated','Manual',282,21,181,23,9.3
+411,411,411,411,'CB450443  ','Complete',41,7,'In Progress','2025-04-29','Submitted','SCCs','In Progress','Met','Outdated','Manual',517,135,185,45,11.8
+412,412,412,412,'CB404191  ',NULL,50,3,'In Progress','2025-04-03','Submitted','Adequacy Decision','In Progress','Partial','Complete','Partial',317,499,79,33,15.6
+413,413,413,413,'CB802299  ',NULL,31,3,'Completed','2025-04-04','Required','Adequacy Decision','Required','Partial','Partial','Fully Integrated',370,298,199,8,11.4
+414,414,414,414,'CB295845  ',NULL,35,2,'Completed','2025-05-04','Not Required','BCRs','In Progress','Partial','Complete','Fully Integrated',865,36,44,8,19.0
+415,415,415,415,'CB683547  ',NULL,24,6,'Completed','2025-02-20','Not Required','SCCs','Completed','Partial','Partial','Partial',497,238,10,78,5.2
+416,416,416,416,'CB992859  ',NULL,29,1,'Completed','2025-05-05','Submitted','Derogations','Completed','Not Met','Outdated','Fully Integrated',896,268,129,44,19.4
+417,417,417,417,'CB965688  ',NULL,50,4,'Completed','2025-03-22','Not Required','Adequacy Decision','Completed','Met','Outdated','Fully Integrated',2,138,98,47,27.1
+418,418,418,418,'CB865764  ',NULL,35,6,'Not Started','2025-05-18','Required','BCRs','Required','Met','Complete','Fully Integrated',608,11,187,87,23.9
+419,419,419,419,'CB186550  ','Complete',11,4,'In Progress','2025-04-19','Submitted','Derogations','In Progress','Met','Outdated','Fully Integrated',250,73,95,88,5.6
+420,420,420,420,'CB965106  ',NULL,45,10,'Completed','2025-02-24','Not Required','SCCs','Required','Partial','Outdated','Partial',588,360,68,20,24.9
+421,421,421,421,'CB254190  ','Complete',23,1,'Completed','2025-04-30','Required','SCCs','Required','Met','Partial','Partial',254,462,125,93,11.7
+422,422,422,422,'CB516991  ','Complete',18,10,'Completed','2025-04-05','Required','Adequacy Decision','Required','Met','Partial','Partial',229,190,147,15,23.4
+423,423,423,423,'CB885963  ','Complete',24,1,'In Progress','2025-04-10','Submitted','SCCs','Required','Not Met','Outdated','Manual',482,29,7,88,20.3
+424,424,424,424,'CB805988  ','Complete',42,2,'Not Started','2025-03-10','Not Required','BCRs','Completed','Partial','Partial','Manual',996,54,159,83,6.2
+425,425,425,425,'CB137850  ',NULL,9,1,'Not Started','2025-03-27','Submitted','Adequacy Decision','Required','Met','Complete','Manual',192,188,187,23,5.2
+426,426,426,426,'CB614589  ',NULL,26,6,'In Progress','2025-03-01','Submitted','SCCs','Completed','Not Met','Outdated','Partial',692,343,156,60,22.8
+427,427,427,427,'CB712310  ',NULL,49,5,'Completed','2025-05-07','Not Required','Adequacy Decision','Completed','Partial','Outdated','Fully Integrated',675,113,40,72,23.0
+428,428,428,428,'CB692033  ',NULL,33,2,'Not Started','2025-04-02','Submitted','Adequacy Decision','In Progress','Not Met','Outdated','Manual',847,257,8,94,18.3
+429,429,429,429,'CB362684  ',NULL,24,8,'Completed','2025-03-25','Submitted','BCRs','In Progress','Met','Complete','Fully Integrated',51,178,9,35,8.3
+430,430,430,430,'CB667220  ','Complete',44,5,'Completed','2025-03-06','Submitted','SCCs','Required','Not Met','Partial','Fully Integrated',198,78,78,92,1.1
+431,431,431,431,'CB467196  ',NULL,30,4,'Not Started','2025-03-29','Required','SCCs','Completed','Not Met','Partial','Fully Integrated',894,141,102,90,8.5
+432,432,432,432,'CB261071  ','Complete',13,1,'Completed','2025-04-30','Required','SCCs','Completed','Partial','Complete','Partial',835,43,41,98,7.6
+433,433,433,433,'CB208668  ','Complete',48,6,'Not Started','2025-03-04','Required','Derogations','In Progress','Not Met','Complete','Manual',714,175,169,69,6.1
+434,434,434,434,'CB494015  ','Complete',50,0,'Not Started','2025-03-25','Not Required','Adequacy Decision','In Progress','Not Met','Outdated','Partial',847,198,101,24,19.2
+435,435,435,435,'CB822578  ','Complete',33,6,'Completed','2025-02-24','Not Required','BCRs','Completed','Not Met','Complete','Partial',7,330,105,65,27.9
+436,436,436,436,'CB795329  ',NULL,10,7,'In Progress','2025-03-11','Submitted','Adequacy Decision','Required','Partial','Outdated','Partial',193,424,107,83,7.6
+437,437,437,437,'CB623405  ','Complete',36,9,'In Progress','2025-03-21','Required','BCRs','Required','Not Met','Partial','Partial',324,123,176,40,17.5
+438,438,438,438,'CB430518  ',NULL,13,9,'In Progress','2025-03-02','Submitted','BCRs','Completed','Partial','Complete','Fully Integrated',207,315,51,2,10.6
+439,439,439,439,'CB703306  ',NULL,38,1,'In Progress','2025-04-26','Submitted','SCCs','In Progress','Met','Outdated','Manual',960,440,22,27,29.9
+440,440,440,440,'CB937836  ',NULL,23,10,'In Progress','2025-05-14','Submitted','Adequacy Decision','In Progress','Met','Complete','Partial',541,23,36,71,18.3
+441,441,441,441,'CB229417  ','Complete',34,6,'Not Started','2025-04-09','Submitted','SCCs','In Progress','Partial','Outdated','Partial',639,220,64,66,9.4
+442,442,442,442,'CB658134  ',NULL,10,9,'Completed','2025-03-18','Required','BCRs','Completed','Met','Partial','Manual',260,353,44,61,4.7
+443,443,443,443,'CB528901  ','Complete',42,2,'In Progress','2025-03-09','Required','BCRs','In Progress','Met','Partial','Partial',846,127,95,52,28.6
+444,444,444,444,'CB147041  ','Complete',10,6,'Completed','2025-02-22','Required','Adequacy Decision','Completed','Partial','Complete','Partial',298,294,18,15,4.9
+445,445,445,445,'CB712223  ',NULL,16,4,'Not Started','2025-04-23','Required','SCCs','In Progress','Met','Partial','Manual',909,11,68,34,23.4
+446,446,446,446,'CB159809  ',NULL,9,3,'Completed','2025-05-10','Submitted','SCCs','Required','Met','Outdated','Fully Integrated',600,341,127,69,6.5
+447,447,447,447,'CB723218  ','Complete',37,10,'Completed','2025-03-05','Not Required','Adequacy Decision','In Progress','Not Met','Partial','Fully Integrated',600,308,46,47,19.8
+448,448,448,448,'CB550319  ',NULL,18,4,'Completed','2025-03-02','Required','BCRs','Required','Partial','Outdated','Partial',13,290,75,62,13.1
+449,449,449,449,'CB616550  ','Complete',23,5,'Completed','2025-04-15','Not Required','Adequacy Decision','Completed','Met','Complete','Partial',664,259,127,48,21.5
+450,450,450,450,'CB309384  ',NULL,38,0,'In Progress','2025-03-06','Required','BCRs','Required','Not Met','Complete','Partial',441,194,27,89,4.3
+451,451,451,451,'CB100432  ',NULL,31,10,'In Progress','2025-03-03','Not Required','Adequacy Decision','Completed','Partial','Partial','Manual',29,288,74,98,1.7
+452,452,452,452,'CB351450  ',NULL,5,6,'Completed','2025-02-23','Submitted','Adequacy Decision','In Progress','Partial','Partial','Fully Integrated',505,166,60,94,27.9
+453,453,453,453,'CB997219  ',NULL,35,3,'In Progress','2025-03-06','Required','SCCs','In Progress','Met','Partial','Fully Integrated',700,425,41,0,2.6
+454,454,454,454,'CB693659  ',NULL,25,7,'Not Started','2025-04-07','Submitted','SCCs','Completed','Not Met','Outdated','Partial',459,16,127,0,28.4
+455,455,455,455,'CB948039  ','Complete',8,4,'In Progress','2025-03-24','Required','Derogations','In Progress','Met','Outdated','Manual',866,327,14,19,23.0
+456,456,456,456,'CB644001  ',NULL,26,3,'In Progress','2025-03-26','Not Required','Adequacy Decision','In Progress','Partial','Outdated','Fully Integrated',809,488,86,84,11.3
+457,457,457,457,'CB386653  ',NULL,41,0,'Completed','2025-04-01','Not Required','BCRs','In Progress','Not Met','Complete','Fully Integrated',942,191,160,10,21.4
+458,458,458,458,'CB123342  ',NULL,30,5,'Completed','2025-05-07','Required','SCCs','Completed','Met','Outdated','Fully Integrated',336,322,159,14,26.9
+459,459,459,459,'CB252841  ',NULL,40,6,'Completed','2025-03-11','Required','Adequacy Decision','Required','Partial','Partial','Manual',885,173,17,29,11.9
+460,460,460,460,'CB736702  ',NULL,35,4,'In Progress','2025-03-10','Not Required','Adequacy Decision','In Progress','Not Met','Partial','Manual',63,269,65,61,17.1
+461,461,461,461,'CB303673  ',NULL,10,4,'Not Started','2025-05-20','Required','Derogations','In Progress','Partial','Complete','Partial',72,54,116,75,20.8
+462,462,462,462,'CB508720  ',NULL,35,9,'In Progress','2025-03-22','Not Required','BCRs','Completed','Not Met','Partial','Manual',291,226,175,57,4.6
+463,463,463,463,'CB301091  ','Complete',33,0,'Not Started','2025-03-27','Not Required','BCRs','Completed','Partial','Outdated','Partial',62,324,43,15,13.3
+464,464,464,464,'CB965673  ',NULL,12,2,'Completed','2025-03-21','Required','Derogations','Completed','Met','Complete','Fully Integrated',282,219,167,77,5.8
+465,465,465,465,'CB735161  ',NULL,3,10,'Not Started','2025-05-12','Not Required','Adequacy Decision','Required','Partial','Complete','Manual',846,172,5,97,23.1
+466,466,466,466,'CB328385  ',NULL,17,10,'Not Started','2025-04-04','Required','BCRs','Completed','Not Met','Partial','Partial',673,104,131,25,5.8
+467,467,467,467,'CB587028  ',NULL,24,7,'Not Started','2025-03-14','Not Required','Adequacy Decision','In Progress','Not Met','Complete','Fully Integrated',435,160,128,0,25.3
+468,468,468,468,'CB834810  ',NULL,25,0,'Not Started','2025-03-12','Not Required','SCCs','Required','Met','Partial','Fully Integrated',784,330,175,53,10.5
+469,469,469,469,'CB239281  ',NULL,40,10,'In Progress','2025-04-26','Not Required','BCRs','Completed','Met','Outdated','Partial',781,294,97,85,16.0
+470,470,470,470,'CB475106  ',NULL,11,8,'Completed','2025-03-29','Submitted','Adequacy Decision','Required','Not Met','Outdated','Fully Integrated',389,26,154,54,7.9
+471,471,471,471,'CB105271  ',NULL,46,9,'Completed','2025-03-19','Submitted','Adequacy Decision','Completed','Not Met','Complete','Partial',291,405,83,64,28.4
+472,472,472,472,'CB223526  ',NULL,41,2,'Not Started','2025-04-20','Submitted','Adequacy Decision','Required','Met','Complete','Manual',234,99,142,92,14.8
+473,473,473,473,'CB673838  ',NULL,14,4,'Not Started','2025-03-09','Submitted','Derogations','In Progress','Partial','Outdated','Fully Integrated',583,476,146,26,2.9
+474,474,474,474,'CB769920  ',NULL,14,10,'In Progress','2025-03-29','Not Required','Adequacy Decision','Required','Met','Outdated','Fully Integrated',914,229,164,37,18.6
+475,475,475,475,'CB913331  ',NULL,40,0,'Not Started','2025-03-07','Required','BCRs','Required','Met','Outdated','Fully Integrated',477,382,37,45,29.2
+476,476,476,476,'CB276790  ',NULL,14,3,'In Progress','2025-02-25','Required','Derogations','In Progress','Not Met','Outdated','Manual',298,184,76,94,7.7
+477,477,477,477,'CB872905  ','Complete',29,9,'Completed','2025-05-12','Submitted','Adequacy Decision','Completed','Met','Outdated','Manual',910,345,32,73,2.5
+478,478,478,478,'CB900843  ','Complete',15,3,'In Progress','2025-03-07','Submitted','Adequacy Decision','Required','Not Met','Partial','Partial',15,133,7,7,22.7
+479,479,479,479,'CB904482  ','Complete',40,8,'Not Started','2025-03-23','Submitted','Derogations','In Progress','Not Met','Partial','Partial',946,207,196,2,12.2
+480,480,480,480,'CB608867  ',NULL,11,5,'Completed','2025-02-25','Required','Adequacy Decision','Completed','Met','Complete','Manual',440,119,84,35,4.4
+481,481,481,481,'CB321727  ',NULL,21,1,'Completed','2025-04-18','Submitted','Derogations','Completed','Not Met','Partial','Manual',146,283,64,85,21.1
+482,482,482,482,'CB863259  ','Complete',5,9,'Completed','2025-03-21','Required','BCRs','In Progress','Not Met','Outdated','Partial',584,135,145,78,23.9
+483,483,483,483,'CB435051  ',NULL,2,3,'Not Started','2025-04-02','Not Required','Derogations','Required','Met','Partial','Partial',787,247,96,53,1.1
+484,484,484,484,'CB456763  ',NULL,34,3,'In Progress','2025-03-09','Not Required','Derogations','In Progress','Not Met','Outdated','Fully Integrated',306,142,107,7,13.0
+485,485,485,485,'CB430957  ',NULL,8,10,'Completed','2025-04-13','Not Required','BCRs','Required','Not Met','Outdated','Manual',384,247,71,35,10.4
+486,486,486,486,'CB741311  ','Complete',11,0,'In Progress','2025-04-15','Not Required','BCRs','In Progress','Met','Complete','Fully Integrated',32,112,110,36,14.0
+487,487,487,487,'CB920328  ',NULL,29,1,'Not Started','2025-05-01','Submitted','Derogations','Completed','Partial','Partial','Partial',566,40,163,21,5.2
+488,488,488,488,'CB741528  ','Complete',32,9,'In Progress','2025-05-20','Not Required','Adequacy Decision','Required','Not Met','Partial','Partial',770,334,92,73,23.4
+489,489,489,489,'CB423719  ',NULL,41,4,'Completed','2025-05-08','Not Required','BCRs','Required','Met','Complete','Fully Integrated',303,126,18,87,25.0
+490,490,490,490,'CB227544  ',NULL,17,0,'Not Started','2025-03-19','Required','Adequacy Decision','Completed','Met','Complete','Manual',753,300,80,1,29.5
+491,491,491,491,'CB841291  ',NULL,32,0,'Not Started','2025-05-15','Submitted','Derogations','Completed','Met','Complete','Manual',363,86,131,11,20.1
+492,492,492,492,'CB256021  ',NULL,1,8,'Not Started','2025-04-04','Submitted','BCRs','Required','Partial','Outdated','Manual',314,375,91,80,15.1
+493,493,493,493,'CB236528  ',NULL,20,0,'In Progress','2025-03-17','Not Required','SCCs','In Progress','Partial','Partial','Partial',748,470,74,8,11.9
+494,494,494,494,'CB629729  ',NULL,11,0,'In Progress','2025-05-17','Required','Derogations','Required','Met','Partial','Manual',883,149,123,40,17.3
+495,495,495,495,'CB941417  ','Complete',31,3,'Completed','2025-04-26','Not Required','Adequacy Decision','Required','Met','Outdated','Partial',560,59,180,56,28.4
+496,496,496,496,'CB791994  ',NULL,22,4,'Not Started','2025-05-07','Not Required','BCRs','In Progress','Not Met','Partial','Partial',944,245,0,74,11.2
+497,497,497,497,'CB543411  ',NULL,34,8,'In Progress','2025-04-10','Required','SCCs','Completed','Met','Outdated','Fully Integrated',611,499,87,7,7.5
+498,498,498,498,'CB605437  ',NULL,4,5,'Completed','2025-03-27','Submitted','Adequacy Decision','Required','Partial','Outdated','Fully Integrated',712,455,111,66,1.9
+499,499,499,499,'CB133141  ','Complete',44,7,'Not Started','2025-03-19','Not Required','Derogations','Completed','Met','Outdated','Partial',519,375,90,3,19.1
+500,500,500,500,'CB754842  ',NULL,26,10,'Completed','2025-03-01','Not Required','BCRs','In Progress','Not Met','Partial','Fully Integrated',122,332,32,83,11.8
+501,501,501,501,'CB630529  ',NULL,43,10,'Completed','2025-03-08','Not Required','BCRs','In Progress','Met','Partial','Partial',932,224,142,87,16.8
+502,502,502,502,'CB816129  ',NULL,16,4,'In Progress','2025-05-03','Not Required','Adequacy Decision','Required','Met','Complete','Fully Integrated',135,238,31,7,10.2
+503,503,503,503,'CB554734  ',NULL,45,1,'Not Started','2025-05-20','Required','Adequacy Decision','Completed','Met','Partial','Fully Integrated',279,196,16,80,4.0
+504,504,504,504,'CB262783  ','Complete',25,2,'Not Started','2025-04-08','Submitted','Derogations','In Progress','Not Met','Complete','Manual',216,133,56,37,16.0
+505,505,505,505,'CB869944  ',NULL,30,2,'Completed','2025-05-18','Submitted','Adequacy Decision','In Progress','Partial','Complete','Partial',166,66,63,11,10.4
+506,506,506,506,'CB672645  ',NULL,20,9,'In Progress','2025-03-21','Submitted','Derogations','Completed','Partial','Outdated','Partial',360,398,81,65,17.6
+507,507,507,507,'CB951335  ',NULL,33,4,'Not Started','2025-03-21','Not Required','Derogations','Completed','Not Met','Outdated','Partial',421,22,158,29,14.6
+508,508,508,508,'CB251876  ',NULL,22,9,'Completed','2025-04-17','Required','BCRs','Required','Met','Partial','Manual',512,135,122,48,24.3
+509,509,509,509,'CB561080  ','Complete',32,4,'In Progress','2025-03-22','Submitted','SCCs','In Progress','Not Met','Outdated','Fully Integrated',717,273,103,99,21.8
+510,510,510,510,'CB584780  ',NULL,16,7,'Completed','2025-04-03','Required','SCCs','In Progress','Not Met','Complete','Manual',878,7,128,75,10.3
+511,511,511,511,'CB904159  ',NULL,38,0,'In Progress','2025-04-16','Submitted','BCRs','Completed','Partial','Complete','Manual',353,255,52,97,21.8
+512,512,512,512,'CB639347  ','Complete',50,5,'In Progress','2025-04-08','Required','Derogations','Completed','Met','Outdated','Manual',207,450,13,27,9.2
+513,513,513,513,'CB871963  ',NULL,17,9,'Not Started','2025-04-17','Required','Adequacy Decision','Required','Met','Partial','Manual',433,394,11,17,21.8
+514,514,514,514,'CB889886  ',NULL,7,4,'Not Started','2025-04-30','Submitted','Derogations','In Progress','Met','Partial','Partial',531,125,44,91,20.3
+515,515,515,515,'CB575606  ',NULL,20,0,'Not Started','2025-03-29','Submitted','Derogations','In Progress','Met','Partial','Partial',643,274,114,45,10.2
+516,516,516,516,'CB847515  ',NULL,36,0,'Not Started','2025-03-31','Required','BCRs','In Progress','Not Met','Partial','Fully Integrated',428,120,158,10,20.2
+517,517,517,517,'CB130572  ',NULL,16,3,'Not Started','2025-04-06','Required','BCRs','In Progress','Not Met','Outdated','Fully Integrated',98,225,116,89,11.3
+518,518,518,518,'CB122924  ','Complete',38,10,'Not Started','2025-05-01','Required','BCRs','In Progress','Not Met','Partial','Manual',925,43,152,16,2.1
+519,519,519,519,'CB573122  ',NULL,29,6,'In Progress','2025-04-26','Submitted','BCRs','Required','Not Met','Partial','Partial',988,342,42,59,25.8
+520,520,520,520,'CB246901  ',NULL,29,2,'Not Started','2025-03-25','Required','Adequacy Decision','Completed','Not Met','Partial','Fully Integrated',407,438,0,62,22.8
+521,521,521,521,'CB667927  ','Complete',41,0,'Not Started','2025-04-09','Required','BCRs','Required','Met','Outdated','Manual',957,397,122,33,8.1
+522,522,522,522,'CB956558  ',NULL,43,4,'Not Started','2025-02-25','Not Required','Derogations','In Progress','Met','Outdated','Fully Integrated',564,360,101,90,7.6
+523,523,523,523,'CB450655  ',NULL,37,3,'Completed','2025-02-23','Submitted','SCCs','In Progress','Met','Outdated','Partial',708,449,72,63,1.4
+524,524,524,524,'CB115407  ',NULL,3,5,'Completed','2025-04-05','Not Required','SCCs','Required','Not Met','Complete','Partial',508,1,91,61,26.1
+525,525,525,525,'CB249727  ',NULL,37,6,'Not Started','2025-04-17','Not Required','Adequacy Decision','Required','Not Met','Partial','Manual',740,236,176,60,10.4
+526,526,526,526,'CB484481  ',NULL,5,10,'Completed','2025-04-24','Submitted','BCRs','Required','Partial','Partial','Fully Integrated',871,379,165,4,6.9
+527,527,527,527,'CB997034  ','Complete',35,3,'Completed','2025-03-27','Required','SCCs','In Progress','Partial','Outdated','Manual',953,250,65,4,28.2
+528,528,528,528,'CB873680  ',NULL,41,6,'Completed','2025-03-22','Not Required','Adequacy Decision','Completed','Partial','Complete','Fully Integrated',835,81,192,10,17.7
+529,529,529,529,'CB263819  ','Complete',22,2,'In Progress','2025-03-15','Not Required','Adequacy Decision','In Progress','Not Met','Complete','Partial',538,143,169,25,14.8
+530,530,530,530,'CB676620  ',NULL,15,1,'Not Started','2025-02-20','Submitted','Adequacy Decision','Required','Met','Partial','Partial',845,419,185,78,25.1
+531,531,531,531,'CB393436  ',NULL,50,0,'Completed','2025-04-12','Required','SCCs','Completed','Met','Complete','Fully Integrated',362,427,153,95,25.9
+532,532,532,532,'CB911302  ',NULL,22,4,'Completed','2025-04-08','Not Required','SCCs','In Progress','Not Met','Complete','Manual',64,76,50,6,6.5
+533,533,533,533,'CB789126  ',NULL,47,3,'Completed','2025-04-14','Submitted','Adequacy Decision','Completed','Met','Partial','Partial',789,461,20,13,4.9
+534,534,534,534,'CB455527  ',NULL,38,7,'In Progress','2025-02-25','Submitted','BCRs','Required','Not Met','Partial','Fully Integrated',606,357,157,38,9.7
+535,535,535,535,'CB226695  ','Complete',38,6,'Completed','2025-05-11','Not Required','Adequacy Decision','In Progress','Partial','Outdated','Manual',347,322,65,51,10.7
+536,536,536,536,'CB233352  ','Complete',31,6,'Completed','2025-02-28','Submitted','Adequacy Decision','Required','Met','Outdated','Partial',276,189,33,21,20.3
+537,537,537,537,'CB813740  ',NULL,50,5,'Not Started','2025-05-20','Required','Derogations','Required','Met','Outdated','Partial',574,402,150,11,12.8
+538,538,538,538,'CB167546  ',NULL,17,7,'Completed','2025-03-05','Not Required','Derogations','Required','Not Met','Outdated','Fully Integrated',466,117,171,32,5.7
+539,539,539,539,'CB146852  ',NULL,19,9,'Not Started','2025-04-17','Required','BCRs','Required','Not Met','Outdated','Partial',189,313,162,67,17.3
+540,540,540,540,'CB155309  ',NULL,34,5,'In Progress','2025-04-23','Required','BCRs','In Progress','Partial','Complete','Partial',374,19,14,84,27.4
+541,541,541,541,'CB671398  ',NULL,33,0,'In Progress','2025-04-30','Not Required','Derogations','In Progress','Met','Complete','Partial',912,74,18,88,26.1
+542,542,542,542,'CB132456  ','Complete',2,3,'In Progress','2025-03-10','Required','Derogations','In Progress','Not Met','Complete','Manual',924,473,133,49,29.0
+543,543,543,543,'CB194133  ','Complete',32,2,'Completed','2025-04-12','Required','Adequacy Decision','Required','Met','Outdated','Fully Integrated',557,441,144,57,19.8
+544,544,544,544,'CB546409  ','Complete',36,10,'Completed','2025-05-09','Not Required','SCCs','Completed','Met','Partial','Partial',671,15,182,62,9.2
+545,545,545,545,'CB598063  ',NULL,1,0,'In Progress','2025-04-05','Required','Adequacy Decision','In Progress','Not Met','Complete','Fully Integrated',68,212,52,58,4.7
+546,546,546,546,'CB822673  ','Complete',2,1,'Completed','2025-04-28','Required','Adequacy Decision','Required','Met','Partial','Partial',633,150,149,61,11.4
+547,547,547,547,'CB908132  ','Complete',4,8,'Not Started','2025-03-30','Required','Derogations','Completed','Not Met','Outdated','Manual',47,444,89,94,28.4
+548,548,548,548,'CB597193  ',NULL,36,2,'Not Started','2025-04-29','Submitted','SCCs','In Progress','Partial','Partial','Manual',166,175,94,1,8.3
+549,549,549,549,'CB398276  ',NULL,39,5,'Completed','2025-03-26','Not Required','Derogations','Completed','Not Met','Complete','Manual',32,26,64,91,18.5
+550,550,550,550,'CB634995  ','Complete',32,6,'Completed','2025-05-12','Required','SCCs','Required','Met','Complete','Fully Integrated',887,82,154,83,20.7
+551,551,551,551,'CB497944  ',NULL,1,9,'Not Started','2025-04-17','Not Required','BCRs','Required','Not Met','Partial','Partial',836,368,55,70,16.5
+552,552,552,552,'CB480649  ','Complete',49,6,'Completed','2025-05-10','Not Required','Adequacy Decision','Required','Not Met','Partial','Fully Integrated',6,415,167,72,6.1
+553,553,553,553,'CB655442  ',NULL,48,2,'Completed','2025-04-18','Submitted','Derogations','In Progress','Partial','Outdated','Manual',961,343,61,99,18.0
+554,554,554,554,'CB965721  ','Complete',37,2,'Completed','2025-03-26','Not Required','Derogations','In Progress','Partial','Complete','Manual',396,90,64,64,6.1
+555,555,555,555,'CB458077  ','Complete',46,2,'Completed','2025-02-28','Required','Derogations','Required','Partial','Complete','Manual',853,480,157,20,29.6
+556,556,556,556,'CB158338  ',NULL,5,9,'In Progress','2025-02-24','Submitted','Derogations','Required','Met','Partial','Fully Integrated',386,314,46,49,20.8
+557,557,557,557,'CB774947  ','Complete',0,5,'In Progress','2025-05-16','Submitted','BCRs','Required','Not Met','Complete','Partial',344,155,190,15,9.5
+558,558,558,558,'CB673849  ',NULL,7,6,'Not Started','2025-03-02','Submitted','Derogations','Required','Not Met','Complete','Partial',520,291,165,67,17.5
+559,559,559,559,'CB213801  ','Complete',27,8,'Completed','2025-04-26','Required','BCRs','Completed','Met','Outdated','Fully Integrated',158,12,194,9,24.7
+560,560,560,560,'CB387466  ',NULL,14,5,'Completed','2025-05-11','Not Required','SCCs','Required','Partial','Partial','Fully Integrated',495,489,166,14,15.4
+561,561,561,561,'CB948346  ','Complete',11,8,'Completed','2025-04-14','Not Required','Derogations','Required','Not Met','Complete','Manual',487,64,175,35,10.5
+562,562,562,562,'CB656085  ',NULL,37,8,'Completed','2025-03-31','Required','Adequacy Decision','In Progress','Not Met','Outdated','Fully Integrated',430,435,191,57,24.1
+563,563,563,563,'CB172478  ','Complete',3,5,'Completed','2025-04-01','Submitted','Derogations','In Progress','Met','Complete','Partial',266,323,156,53,8.6
+564,564,564,564,'CB716854  ',NULL,1,3,'Completed','2025-05-12','Not Required','Derogations','In Progress','Met','Complete','Partial',376,232,77,60,18.2
+565,565,565,565,'CB587897  ',NULL,45,5,'Completed','2025-03-28','Required','SCCs','Completed','Not Met','Outdated','Manual',185,167,83,69,20.1
+566,566,566,566,'CB529637  ',NULL,43,4,'In Progress','2025-05-19','Not Required','SCCs','Required','Met','Outdated','Manual',409,91,66,69,18.7
+567,567,567,567,'CB660343  ',NULL,35,6,'Completed','2025-04-23','Required','BCRs','In Progress','Not Met','Complete','Manual',228,31,188,33,21.7
+568,568,568,568,'CB329283  ',NULL,13,9,'Completed','2025-03-10','Not Required','Derogations','Completed','Not Met','Partial','Manual',889,277,115,90,3.9
+569,569,569,569,'CB942696  ',NULL,50,5,'In Progress','2025-02-23','Submitted','SCCs','Required','Met','Complete','Partial',924,312,83,6,28.2
+570,570,570,570,'CB243896  ',NULL,27,7,'Not Started','2025-04-27','Not Required','BCRs','Completed','Partial','Complete','Fully Integrated',431,36,100,38,23.2
+571,571,571,571,'CB566562  ',NULL,37,9,'Completed','2025-03-02','Not Required','BCRs','In Progress','Partial','Outdated','Manual',846,183,29,55,22.2
+572,572,572,572,'CB338687  ',NULL,8,7,'Not Started','2025-05-08','Not Required','SCCs','Required','Met','Complete','Partial',398,174,46,47,4.4
+573,573,573,573,'CB856316  ',NULL,38,4,'In Progress','2025-05-01','Submitted','SCCs','In Progress','Not Met','Outdated','Manual',750,254,20,47,18.3
+574,574,574,574,'CB370858  ',NULL,41,5,'In Progress','2025-03-01','Submitted','BCRs','Required','Not Met','Outdated','Fully Integrated',232,386,81,67,16.3
+575,575,575,575,'CB534467  ','Complete',31,9,'Not Started','2025-02-27','Submitted','SCCs','Required','Not Met','Outdated','Manual',806,252,161,28,4.8
+576,576,576,576,'CB869724  ','Complete',36,10,'Completed','2025-05-09','Submitted','BCRs','In Progress','Partial','Complete','Fully Integrated',558,81,77,89,10.1
+577,577,577,577,'CB366856  ',NULL,10,9,'In Progress','2025-04-22','Required','Derogations','Completed','Partial','Complete','Partial',552,236,135,54,7.7
+578,578,578,578,'CB809294  ','Complete',24,3,'Not Started','2025-02-20','Submitted','Derogations','In Progress','Partial','Partial','Manual',206,421,120,30,14.3
+579,579,579,579,'CB963410  ',NULL,28,7,'Not Started','2025-03-03','Not Required','Adequacy Decision','Required','Partial','Complete','Partial',187,143,109,19,6.4
+580,580,580,580,'CB631202  ',NULL,15,9,'In Progress','2025-03-15','Submitted','Adequacy Decision','In Progress','Not Met','Outdated','Manual',699,300,76,9,18.9
+581,581,581,581,'CB294510  ','Complete',30,1,'Not Started','2025-04-18','Submitted','SCCs','Required','Partial','Complete','Partial',692,74,169,37,5.0
+582,582,582,582,'CB406421  ',NULL,17,1,'Not Started','2025-03-18','Submitted','SCCs','In Progress','Not Met','Outdated','Partial',363,338,139,35,27.3
+583,583,583,583,'CB970783  ',NULL,29,1,'In Progress','2025-05-14','Not Required','BCRs','In Progress','Not Met','Outdated','Partial',578,211,14,59,18.1
+584,584,584,584,'CB567282  ',NULL,23,2,'Completed','2025-05-09','Not Required','Derogations','Required','Met','Outdated','Fully Integrated',987,356,107,4,18.8
+585,585,585,585,'CB879828  ',NULL,17,5,'In Progress','2025-03-17','Required','SCCs','Completed','Partial','Outdated','Partial',127,174,169,82,1.4
+586,586,586,586,'CB373166  ','Complete',15,0,'Not Started','2025-04-06','Required','Derogations','Required','Partial','Outdated','Manual',389,183,149,65,14.2
+587,587,587,587,'CB575229  ',NULL,30,2,'In Progress','2025-03-27','Not Required','Adequacy Decision','Required','Met','Outdated','Partial',220,471,75,47,3.4
+588,588,588,588,'CB919733  ',NULL,34,8,'Completed','2025-02-28','Submitted','Derogations','In Progress','Partial','Complete','Partial',884,64,151,22,27.5
+589,589,589,589,'CB121252  ',NULL,26,8,'In Progress','2025-03-18','Not Required','Adequacy Decision','In Progress','Met','Complete','Manual',472,227,174,32,22.5
+590,590,590,590,'CB266357  ',NULL,35,3,'Not Started','2025-04-21','Submitted','Adequacy Decision','Completed','Partial','Outdated','Fully Integrated',252,93,78,81,24.2
+591,591,591,591,'CB819412  ','Complete',30,8,'Completed','2025-03-02','Required','Adequacy Decision','Required','Met','Complete','Partial',121,478,85,12,9.7
+592,592,592,592,'CB245859  ','Complete',9,6,'In Progress','2025-03-31','Not Required','Adequacy Decision','In Progress','Not Met','Outdated','Manual',93,399,100,91,14.7
+593,593,593,593,'CB838615  ','Complete',26,8,'In Progress','2025-04-12','Required','BCRs','Required','Not Met','Complete','Fully Integrated',23,311,163,41,12.0
+594,594,594,594,'CB213743  ','Complete',30,1,'In Progress','2025-03-07','Not Required','BCRs','In Progress','Not Met','Complete','Partial',71,274,90,87,2.6
+595,595,595,595,'CB157750  ','Complete',43,3,'In Progress','2025-05-20','Submitted','SCCs','In Progress','Not Met','Complete','Partial',113,251,69,4,12.8
+596,596,596,596,'CB465838  ','Complete',15,9,'Completed','2025-04-06','Submitted','BCRs','Completed','Partial','Partial','Partial',234,392,153,33,11.4
+597,597,597,597,'CB414385  ',NULL,38,6,'In Progress','2025-05-01','Required','Derogations','In Progress','Not Met','Partial','Fully Integrated',33,475,117,67,9.8
+598,598,598,598,'CB145904  ',NULL,26,3,'In Progress','2025-05-17','Required','BCRs','Completed','Not Met','Complete','Partial',13,209,188,20,25.3
+599,599,599,599,'CB841078  ','Complete',9,7,'In Progress','2025-05-05','Required','SCCs','Required','Met','Complete','Partial',820,176,199,98,12.0
+600,600,600,600,'CB988290  ',NULL,5,10,'Not Started','2025-03-16','Not Required','Derogations','In Progress','Not Met','Partial','Partial',663,453,110,79,9.2
+601,601,601,601,'CB618234  ','Complete',24,9,'Not Started','2025-04-29','Submitted','BCRs','Required','Met','Partial','Manual',868,177,17,93,3.6
+602,602,602,602,'CB957627  ',NULL,42,2,'In Progress','2025-05-08','Not Required','Adequacy Decision','Required','Partial','Complete','Fully Integrated',391,480,172,12,7.5
+603,603,603,603,'CB944759  ',NULL,27,2,'Not Started','2025-04-08','Submitted','Derogations','Completed','Not Met','Complete','Fully Integrated',594,290,49,81,7.3
+604,604,604,604,'CB241158  ',NULL,23,1,'In Progress','2025-04-24','Not Required','Derogations','Completed','Partial','Outdated','Manual',739,39,7,70,28.0
+605,605,605,605,'CB307151  ','Complete',39,2,'Not Started','2025-04-07','Required','SCCs','Required','Partial','Partial','Fully Integrated',48,5,64,100,9.4
+606,606,606,606,'CB936155  ',NULL,12,6,'Not Started','2025-02-27','Required','BCRs','Required','Met','Complete','Fully Integrated',640,12,174,34,17.9
+607,607,607,607,'CB377826  ',NULL,3,2,'In Progress','2025-04-19','Required','Derogations','In Progress','Not Met','Complete','Manual',254,158,197,83,28.7
+608,608,608,608,'CB770268  ',NULL,42,6,'In Progress','2025-04-08','Not Required','BCRs','Completed','Not Met','Complete','Partial',664,352,3,49,29.1
+609,609,609,609,'CB188316  ',NULL,19,0,'Completed','2025-05-07','Submitted','Adequacy Decision','Completed','Partial','Outdated','Fully Integrated',177,125,52,63,16.5
+610,610,610,610,'CB486947  ','Complete',46,6,'In Progress','2025-04-30','Not Required','Derogations','In Progress','Met','Partial','Fully Integrated',349,207,179,48,15.4
+611,611,611,611,'CB663202  ',NULL,50,6,'Completed','2025-03-26','Required','BCRs','In Progress','Met','Complete','Partial',708,365,162,97,10.7
+612,612,612,612,'CB191275  ','Complete',36,9,'Completed','2025-03-06','Not Required','Derogations','Completed','Not Met','Partial','Partial',289,459,135,88,3.5
+613,613,613,613,'CB758866  ',NULL,16,6,'Not Started','2025-04-27','Submitted','BCRs','Required','Met','Complete','Fully Integrated',876,333,68,14,5.7
+614,614,614,614,'CB352862  ','Complete',35,8,'In Progress','2025-05-11','Not Required','Derogations','Required','Not Met','Complete','Fully Integrated',194,9,139,3,24.6
+615,615,615,615,'CB291635  ','Complete',22,5,'Not Started','2025-04-19','Required','Adequacy Decision','Completed','Not Met','Complete','Fully Integrated',980,290,46,47,16.5
+616,616,616,616,'CB401965  ','Complete',41,2,'In Progress','2025-04-10','Not Required','SCCs','Completed','Partial','Outdated','Fully Integrated',634,191,27,8,18.5
+617,617,617,617,'CB764208  ',NULL,14,2,'Not Started','2025-04-09','Submitted','Adequacy Decision','Required','Met','Outdated','Partial',507,448,176,87,19.0
+618,618,618,618,'CB963511  ',NULL,10,4,'Completed','2025-03-19','Submitted','BCRs','In Progress','Met','Outdated','Fully Integrated',650,464,2,28,28.6
+619,619,619,619,'CB304894  ',NULL,29,8,'Not Started','2025-04-13','Required','SCCs','In Progress','Met','Outdated','Partial',300,247,45,51,30.0
+620,620,620,620,'CB717485  ',NULL,12,2,'Completed','2025-02-23','Not Required','Derogations','Required','Met','Complete','Fully Integrated',890,432,179,45,13.4
+621,621,621,621,'CB566953  ','Complete',45,5,'Not Started','2025-04-17','Submitted','Derogations','In Progress','Not Met','Complete','Manual',632,244,45,59,12.9
+622,622,622,622,'CB150715  ',NULL,0,3,'In Progress','2025-03-21','Submitted','BCRs','Required','Partial','Partial','Partial',18,332,182,11,7.8
+623,623,623,623,'CB822715  ',NULL,50,2,'Completed','2025-05-08','Submitted','Adequacy Decision','Completed','Partial','Partial','Fully Integrated',450,131,52,48,8.3
+624,624,624,624,'CB108116  ',NULL,29,2,'In Progress','2025-03-15','Required','Adequacy Decision','Completed','Not Met','Partial','Fully Integrated',549,346,195,51,25.9
+625,625,625,625,'CB979113  ',NULL,32,8,'Completed','2025-04-07','Not Required','BCRs','In Progress','Met','Outdated','Fully Integrated',268,5,158,14,24.8
+626,626,626,626,'CB792938  ','Complete',48,4,'In Progress','2025-05-06','Not Required','Adequacy Decision','Required','Met','Partial','Fully Integrated',583,209,85,30,10.1
+627,627,627,627,'CB431256  ',NULL,5,7,'Not Started','2025-04-13','Submitted','BCRs','Required','Partial','Outdated','Fully Integrated',902,345,99,42,10.1
+628,628,628,628,'CB196129  ',NULL,10,2,'Not Started','2025-05-03','Required','Adequacy Decision','Required','Not Met','Partial','Fully Integrated',569,139,154,81,9.4
+629,629,629,629,'CB652727  ','Complete',27,1,'Not Started','2025-04-08','Not Required','SCCs','Required','Met','Partial','Manual',431,44,81,13,20.7
+630,630,630,630,'CB911165  ',NULL,18,3,'In Progress','2025-04-18','Submitted','BCRs','Completed','Not Met','Partial','Fully Integrated',658,291,37,24,20.1
+631,631,631,631,'CB300496  ','Complete',11,9,'Not Started','2025-04-13','Not Required','BCRs','Completed','Not Met','Partial','Partial',763,328,59,28,1.1
+632,632,632,632,'CB392743  ','Complete',34,5,'Not Started','2025-05-19','Required','Adequacy Decision','Completed','Met','Partial','Fully Integrated',399,79,107,7,12.5
+633,633,633,633,'CB334545  ',NULL,18,7,'In Progress','2025-03-29','Submitted','BCRs','In Progress','Not Met','Outdated','Partial',107,442,195,38,26.2
+634,634,634,634,'CB215784  ',NULL,45,2,'Not Started','2025-05-19','Not Required','BCRs','Required','Partial','Complete','Fully Integrated',288,480,123,16,2.4
+635,635,635,635,'CB862332  ',NULL,5,4,'Completed','2025-04-03','Submitted','SCCs','In Progress','Partial','Complete','Fully Integrated',249,446,90,80,3.6
+636,636,636,636,'CB928890  ',NULL,6,9,'Not Started','2025-04-15','Required','Derogations','Completed','Met','Partial','Partial',329,29,74,25,20.1
+637,637,637,637,'CB886934  ','Complete',15,5,'In Progress','2025-04-29','Submitted','Derogations','Completed','Partial','Complete','Partial',230,380,76,1,15.0
+638,638,638,638,'CB521371  ','Complete',47,7,'In Progress','2025-03-06','Submitted','Derogations','Required','Met','Complete','Manual',366,220,118,3,26.7
+639,639,639,639,'CB720251  ',NULL,37,5,'Completed','2025-05-16','Required','Adequacy Decision','Required','Met','Outdated','Manual',604,411,45,54,12.2
+640,640,640,640,'CB382910  ','Complete',11,3,'Completed','2025-04-25','Submitted','Adequacy Decision','Required','Not Met','Partial','Partial',29,176,12,17,22.9
+641,641,641,641,'CB279092  ',NULL,24,9,'Not Started','2025-02-21','Not Required','BCRs','Completed','Partial','Complete','Fully Integrated',748,221,185,89,15.0
+642,642,642,642,'CB458565  ','Complete',1,4,'In Progress','2025-04-11','Not Required','BCRs','In Progress','Partial','Complete','Partial',614,434,51,78,25.6
+643,643,643,643,'CB588547  ','Complete',20,5,'In Progress','2025-05-19','Submitted','SCCs','Completed','Not Met','Complete','Manual',669,123,184,34,17.4
+644,644,644,644,'CB180001  ',NULL,28,1,'In Progress','2025-04-10','Required','SCCs','Required','Met','Outdated','Partial',120,343,49,40,22.7
+645,645,645,645,'CB599267  ',NULL,2,6,'Completed','2025-04-11','Not Required','Derogations','In Progress','Not Met','Outdated','Manual',929,295,126,76,4.9
+646,646,646,646,'CB501090  ',NULL,30,1,'Completed','2025-03-17','Required','BCRs','In Progress','Met','Outdated','Partial',606,405,97,66,22.6
+647,647,647,647,'CB323968  ',NULL,9,4,'Not Started','2025-04-14','Submitted','Derogations','In Progress','Partial','Complete','Fully Integrated',23,353,142,39,29.6
+648,648,648,648,'CB105896  ',NULL,22,0,'Not Started','2025-04-19','Not Required','Adequacy Decision','Completed','Met','Complete','Fully Integrated',489,274,137,44,11.0
+649,649,649,649,'CB660960  ','Complete',40,9,'Not Started','2025-03-30','Submitted','Derogations','Completed','Partial','Partial','Manual',372,456,95,33,21.9
+650,650,650,650,'CB139779  ',NULL,20,4,'Not Started','2025-03-17','Submitted','SCCs','Completed','Partial','Outdated','Fully Integrated',226,94,136,36,24.7
+651,651,651,651,'CB292074  ',NULL,12,9,'Not Started','2025-04-12','Not Required','Adequacy Decision','Completed','Partial','Complete','Fully Integrated',343,132,170,95,25.7
+652,652,652,652,'CB763455  ',NULL,32,6,'Completed','2025-03-12','Required','Derogations','In Progress','Not Met','Partial','Partial',251,81,59,65,19.9
+653,653,653,653,'CB215193  ',NULL,42,1,'Not Started','2025-05-07','Submitted','Adequacy Decision','In Progress','Not Met','Complete','Manual',17,220,168,0,20.9
+654,654,654,654,'CB220214  ','Complete',3,5,'Completed','2025-02-23','Not Required','Derogations','In Progress','Partial','Outdated','Partial',433,357,163,81,23.3
+655,655,655,655,'CB257610  ','Complete',41,4,'Completed','2025-04-23','Not Required','BCRs','Completed','Not Met','Outdated','Manual',852,446,171,13,7.9
+656,656,656,656,'CB269403  ',NULL,37,5,'Completed','2025-04-28','Not Required','BCRs','In Progress','Met','Partial','Fully Integrated',313,396,171,63,7.3
+657,657,657,657,'CB183602  ',NULL,24,3,'Completed','2025-04-18','Not Required','Adequacy Decision','Required','Met','Outdated','Manual',980,431,128,85,11.8
+658,658,658,658,'CB357003  ',NULL,12,1,'In Progress','2025-04-05','Submitted','Derogations','Completed','Met','Partial','Partial',439,179,125,84,13.1
+659,659,659,659,'CB420489  ',NULL,3,10,'Not Started','2025-03-24','Required','Adequacy Decision','Completed','Met','Complete','Fully Integrated',763,421,166,36,10.6
+660,660,660,660,'CB828268  ',NULL,15,6,'Not Started','2025-05-01','Submitted','SCCs','Completed','Met','Outdated','Manual',415,260,143,98,20.2
+661,661,661,661,'CB500324  ',NULL,23,1,'Completed','2025-02-25','Submitted','Derogations','Completed','Met','Complete','Manual',232,378,47,100,15.0
+662,662,662,662,'CB321421  ','Complete',38,1,'In Progress','2025-04-11','Required','Derogations','In Progress','Partial','Complete','Partial',687,64,3,26,10.2
+663,663,663,663,'CB920137  ',NULL,27,10,'In Progress','2025-03-04','Required','SCCs','In Progress','Not Met','Complete','Fully Integrated',130,447,190,46,28.5
+664,664,664,664,'CB844427  ',NULL,19,10,'Completed','2025-04-29','Not Required','Derogations','Required','Met','Partial','Partial',942,392,135,61,28.1
+665,665,665,665,'CB590289  ',NULL,31,9,'Completed','2025-02-24','Submitted','SCCs','Required','Partial','Outdated','Manual',217,410,129,85,27.1
+666,666,666,666,'CB723314  ','Complete',38,3,'Not Started','2025-03-30','Required','Derogations','Required','Partial','Partial','Manual',653,432,100,100,1.0
+667,667,667,667,'CB416001  ','Complete',33,5,'In Progress','2025-04-10','Required','SCCs','Required','Met','Partial','Manual',535,215,185,18,4.2
+668,668,668,668,'CB758439  ','Complete',18,5,'In Progress','2025-03-24','Submitted','Adequacy Decision','Completed','Not Met','Complete','Partial',932,373,33,70,7.5
+669,669,669,669,'CB954156  ',NULL,33,2,'Completed','2025-03-28','Not Required','BCRs','Required','Partial','Complete','Fully Integrated',577,421,167,75,11.2
+670,670,670,670,'CB422505  ',NULL,29,10,'Completed','2025-03-19','Submitted','Adequacy Decision','Required','Not Met','Partial','Partial',516,163,57,8,16.4
+671,671,671,671,'CB622376  ',NULL,31,1,'Completed','2025-04-28','Not Required','SCCs','In Progress','Met','Outdated','Partial',388,433,119,75,2.4
+672,672,672,672,'CB620969  ','Complete',43,5,'In Progress','2025-03-29','Required','BCRs','In Progress','Partial','Partial','Partial',416,308,8,86,10.4
+673,673,673,673,'CB138081  ',NULL,50,2,'In Progress','2025-03-22','Not Required','Derogations','Required','Not Met','Outdated','Manual',854,75,128,70,15.4
+674,674,674,674,'CB854360  ',NULL,45,9,'Not Started','2025-04-06','Not Required','Derogations','In Progress','Partial','Outdated','Fully Integrated',108,127,54,84,8.5
+675,675,675,675,'CB334890  ','Complete',15,7,'Not Started','2025-05-01','Required','SCCs','In Progress','Partial','Outdated','Manual',746,473,22,95,23.1
+676,676,676,676,'CB550114  ',NULL,9,2,'Completed','2025-05-04','Submitted','Derogations','In Progress','Partial','Outdated','Partial',684,387,76,21,17.2
+677,677,677,677,'CB393179  ','Complete',0,5,'Completed','2025-04-05','Not Required','SCCs','Required','Met','Complete','Fully Integrated',274,41,159,62,6.9
+678,678,678,678,'CB549334  ','Complete',27,2,'In Progress','2025-04-01','Required','BCRs','Completed','Met','Outdated','Partial',520,87,55,68,10.8
+679,679,679,679,'CB486835  ',NULL,10,9,'Completed','2025-05-03','Required','Adequacy Decision','Required','Not Met','Outdated','Manual',742,68,190,51,6.9
+680,680,680,680,'CB236793  ',NULL,5,0,'Not Started','2025-05-17','Required','SCCs','Required','Partial','Partial','Partial',261,481,185,79,26.0
+681,681,681,681,'CB393961  ',NULL,19,3,'In Progress','2025-05-05','Required','Adequacy Decision','In Progress','Not Met','Partial','Partial',676,416,56,38,24.4
+682,682,682,682,'CB554767  ',NULL,31,4,'In Progress','2025-03-03','Not Required','Adequacy Decision','In Progress','Partial','Partial','Manual',19,320,73,85,13.5
+683,683,683,683,'CB625445  ','Complete',3,6,'Not Started','2025-04-11','Submitted','BCRs','Required','Partial','Outdated','Fully Integrated',22,453,83,4,24.7
+684,684,684,684,'CB919958  ','Complete',29,8,'Not Started','2025-03-19','Submitted','BCRs','In Progress','Partial','Partial','Partial',863,475,5,63,16.9
+685,685,685,685,'CB818998  ',NULL,45,5,'Completed','2025-03-28','Not Required','Adequacy Decision','In Progress','Met','Complete','Manual',51,121,182,17,27.7
+686,686,686,686,'CB151167  ',NULL,33,4,'In Progress','2025-04-09','Not Required','SCCs','In Progress','Met','Partial','Partial',695,266,135,98,21.5
+687,687,687,687,'CB182783  ',NULL,14,9,'Completed','2025-03-08','Required','Adequacy Decision','Required','Met','Outdated','Fully Integrated',125,424,93,81,23.1
+688,688,688,688,'CB711792  ',NULL,11,8,'Completed','2025-03-06','Submitted','SCCs','In Progress','Met','Complete','Manual',659,420,170,48,12.5
+689,689,689,689,'CB611118  ',NULL,4,8,'Not Started','2025-05-02','Required','Adequacy Decision','Required','Met','Partial','Fully Integrated',866,12,27,80,17.3
+690,690,690,690,'CB205226  ',NULL,26,10,'Completed','2025-05-15','Required','BCRs','Completed','Not Met','Complete','Fully Integrated',755,319,125,90,20.5
+691,691,691,691,'CB574975  ',NULL,19,8,'Completed','2025-03-06','Submitted','Derogations','Required','Not Met','Outdated','Fully Integrated',885,315,86,46,21.4
+692,692,692,692,'CB832017  ',NULL,23,7,'In Progress','2025-04-09','Required','Derogations','Completed','Met','Partial','Partial',336,193,184,32,7.7
+693,693,693,693,'CB849893  ',NULL,32,10,'Not Started','2025-03-07','Not Required','Adequacy Decision','In Progress','Partial','Complete','Manual',294,58,12,8,26.4
+694,694,694,694,'CB752988  ',NULL,8,6,'Completed','2025-04-05','Required','BCRs','Required','Not Met','Partial','Partial',269,227,14,70,14.2
+695,695,695,695,'CB382006  ',NULL,35,5,'Not Started','2025-03-26','Submitted','BCRs','Completed','Met','Outdated','Manual',515,240,110,92,21.9
+696,696,696,696,'CB182983  ',NULL,12,6,'Not Started','2025-04-16','Not Required','BCRs','In Progress','Partial','Partial','Fully Integrated',643,89,131,14,3.9
+697,697,697,697,'CB724431  ','Complete',37,0,'Not Started','2025-03-05','Submitted','Adequacy Decision','In Progress','Met','Outdated','Partial',468,321,14,50,17.2
+698,698,698,698,'CB513865  ',NULL,50,6,'In Progress','2025-02-27','Not Required','SCCs','Completed','Met','Complete','Partial',267,220,81,60,18.6
+699,699,699,699,'CB799337  ','Complete',6,8,'In Progress','2025-03-19','Not Required','Derogations','Required','Met','Outdated','Partial',24,231,103,46,8.6
+700,700,700,700,'CB776277  ',NULL,1,7,'In Progress','2025-02-21','Required','SCCs','Completed','Partial','Partial','Partial',50,365,132,22,6.5
+701,701,701,701,'CB754745  ',NULL,44,2,'Completed','2025-02-28','Required','Adequacy Decision','Completed','Partial','Complete','Partial',450,18,57,76,28.1
+702,702,702,702,'CB650670  ','Complete',6,5,'In Progress','2025-03-14','Submitted','Adequacy Decision','Required','Not Met','Partial','Fully Integrated',554,337,112,97,6.7
+703,703,703,703,'CB732154  ','Complete',29,1,'Not Started','2025-04-22','Not Required','BCRs','Completed','Partial','Complete','Manual',811,248,48,70,1.3
+704,704,704,704,'CB147721  ',NULL,23,1,'Completed','2025-05-07','Required','Derogations','Completed','Partial','Partial','Manual',830,439,27,59,11.7
+705,705,705,705,'CB300058  ',NULL,22,5,'Completed','2025-04-03','Required','Derogations','Completed','Met','Outdated','Manual',863,353,86,50,20.9
+706,706,706,706,'CB962969  ',NULL,18,2,'Not Started','2025-04-05','Not Required','SCCs','Completed','Not Met','Partial','Fully Integrated',233,500,168,49,23.2
+707,707,707,707,'CB845140  ',NULL,14,4,'Completed','2025-05-19','Required','BCRs','Completed','Not Met','Outdated','Partial',338,322,20,86,13.5
+708,708,708,708,'CB767141  ',NULL,17,7,'Completed','2025-02-28','Required','Adequacy Decision','Completed','Not Met','Complete','Manual',305,292,27,3,20.5
+709,709,709,709,'CB995776  ',NULL,11,6,'In Progress','2025-03-02','Not Required','SCCs','Completed','Not Met','Outdated','Fully Integrated',723,379,62,71,24.2
+710,710,710,710,'CB249393  ',NULL,32,5,'Not Started','2025-05-17','Not Required','BCRs','Required','Met','Partial','Manual',830,484,18,55,16.9
+711,711,711,711,'CB833642  ',NULL,32,1,'In Progress','2025-02-22','Not Required','Adequacy Decision','In Progress','Met','Complete','Manual',237,130,158,97,24.0
+712,712,712,712,'CB370870  ',NULL,7,8,'Completed','2025-03-09','Submitted','BCRs','In Progress','Met','Partial','Manual',486,403,196,93,25.5
+713,713,713,713,'CB856125  ',NULL,44,9,'Completed','2025-05-12','Submitted','Derogations','Required','Not Met','Partial','Fully Integrated',963,351,148,8,1.5
+714,714,714,714,'CB857631  ',NULL,48,6,'Not Started','2025-04-18','Submitted','SCCs','Required','Not Met','Outdated','Fully Integrated',363,375,103,25,8.2
+715,715,715,715,'CB417486  ','Complete',46,10,'Completed','2025-04-29','Not Required','Derogations','Required','Met','Complete','Fully Integrated',364,427,167,69,27.9
+716,716,716,716,'CB195570  ',NULL,24,5,'Completed','2025-05-05','Required','Derogations','In Progress','Partial','Outdated','Partial',353,268,182,61,19.0
+717,717,717,717,'CB605323  ',NULL,27,4,'Completed','2025-04-21','Submitted','SCCs','Completed','Met','Outdated','Manual',119,47,93,95,20.7
+718,718,718,718,'CB260620  ','Complete',3,0,'Not Started','2025-03-15','Not Required','Adequacy Decision','In Progress','Not Met','Partial','Partial',174,314,80,62,1.2
+719,719,719,719,'CB468959  ','Complete',4,6,'Completed','2025-03-16','Submitted','BCRs','In Progress','Partial','Partial','Fully Integrated',674,330,99,89,4.6
+720,720,720,720,'CB977238  ','Complete',43,7,'In Progress','2025-03-03','Required','BCRs','Completed','Partial','Complete','Manual',859,312,42,56,29.8
+721,721,721,721,'CB362631  ',NULL,41,10,'Completed','2025-03-13','Not Required','SCCs','Completed','Met','Partial','Partial',526,279,34,71,15.9
+722,722,722,722,'CB362757  ',NULL,7,1,'Completed','2025-05-07','Submitted','BCRs','In Progress','Met','Complete','Partial',597,56,131,97,19.9
+723,723,723,723,'CB264426  ','Complete',13,2,'Completed','2025-03-18','Not Required','Derogations','In Progress','Partial','Partial','Fully Integrated',6,231,126,87,24.1
+724,724,724,724,'CB816162  ',NULL,17,6,'In Progress','2025-03-27','Not Required','Adequacy Decision','In Progress','Met','Partial','Fully Integrated',983,224,92,38,15.9
+725,725,725,725,'CB718401  ',NULL,46,8,'In Progress','2025-04-18','Submitted','Adequacy Decision','In Progress','Met','Complete','Manual',703,55,5,72,13.0
+726,726,726,726,'CB908866  ',NULL,2,2,'Completed','2025-05-01','Submitted','Derogations','In Progress','Partial','Complete','Fully Integrated',189,105,17,33,20.3
+727,727,727,727,'CB748084  ',NULL,37,3,'In Progress','2025-05-06','Required','Adequacy Decision','Completed','Not Met','Complete','Manual',700,274,130,72,9.6
+728,728,728,728,'CB906235  ',NULL,7,9,'Completed','2025-03-16','Not Required','Derogations','In Progress','Not Met','Complete','Partial',960,90,115,71,5.2
+729,729,729,729,'CB880313  ','Complete',12,3,'Not Started','2025-05-02','Not Required','Derogations','Completed','Partial','Partial','Manual',998,122,190,14,21.8
+730,730,730,730,'CB464393  ',NULL,29,8,'In Progress','2025-03-07','Not Required','Derogations','In Progress','Partial','Outdated','Fully Integrated',504,430,45,65,7.0
+731,731,731,731,'CB395036  ',NULL,50,6,'In Progress','2025-05-02','Submitted','SCCs','Completed','Partial','Partial','Manual',938,498,67,39,20.6
+732,732,732,732,'CB202188  ',NULL,37,7,'Completed','2025-04-23','Not Required','Adequacy Decision','In Progress','Partial','Outdated','Partial',140,448,1,86,6.1
+733,733,733,733,'CB840069  ','Complete',47,1,'Completed','2025-02-26','Required','SCCs','In Progress','Not Met','Partial','Partial',738,264,69,56,19.2
+734,734,734,734,'CB934851  ','Complete',32,6,'In Progress','2025-04-11','Required','Derogations','In Progress','Not Met','Complete','Partial',432,60,163,12,16.0
+735,735,735,735,'CB691178  ','Complete',28,0,'Not Started','2025-04-18','Submitted','BCRs','Completed','Partial','Outdated','Manual',84,187,65,100,4.3
+736,736,736,736,'CB182997  ',NULL,28,9,'Completed','2025-04-12','Submitted','BCRs','In Progress','Not Met','Partial','Manual',637,115,69,45,17.8
+737,737,737,737,'CB789024  ','Complete',22,2,'In Progress','2025-04-18','Submitted','SCCs','In Progress','Not Met','Complete','Manual',318,378,24,97,17.1
+738,738,738,738,'CB963381  ',NULL,15,6,'Completed','2025-04-10','Submitted','Adequacy Decision','Required','Partial','Partial','Partial',680,109,31,74,27.8
+739,739,739,739,'CB534797  ','Complete',44,10,'Not Started','2025-03-12','Required','SCCs','Required','Not Met','Complete','Manual',630,249,130,61,27.1
+740,740,740,740,'CB572075  ','Complete',34,9,'Not Started','2025-05-06','Not Required','BCRs','In Progress','Met','Partial','Manual',317,344,177,47,14.1
+741,741,741,741,'CB677814  ','Complete',18,3,'Not Started','2025-03-04','Submitted','Derogations','In Progress','Not Met','Complete','Fully Integrated',834,117,156,36,9.9
+742,742,742,742,'CB969716  ',NULL,20,3,'Not Started','2025-04-27','Submitted','Adequacy Decision','Completed','Not Met','Outdated','Manual',96,445,25,90,13.5
+743,743,743,743,'CB166144  ',NULL,44,0,'Not Started','2025-05-17','Submitted','SCCs','Required','Not Met','Outdated','Manual',840,126,38,57,24.0
+744,744,744,744,'CB324121  ',NULL,17,6,'Completed','2025-03-03','Not Required','Adequacy Decision','Required','Not Met','Partial','Fully Integrated',644,46,129,70,5.1
+745,745,745,745,'CB605595  ','Complete',20,7,'In Progress','2025-05-20','Required','SCCs','Completed','Not Met','Partial','Partial',754,429,28,94,10.7
+746,746,746,746,'CB448522  ',NULL,47,5,'Completed','2025-05-02','Not Required','BCRs','Required','Partial','Partial','Manual',297,46,104,23,8.2
+747,747,747,747,'CB218592  ',NULL,50,0,'Completed','2025-04-12','Submitted','SCCs','Required','Not Met','Outdated','Fully Integrated',475,21,37,78,29.0
+748,748,748,748,'CB630905  ',NULL,36,7,'Not Started','2025-03-26','Not Required','Derogations','Required','Partial','Complete','Partial',793,62,18,70,22.4
+749,749,749,749,'CB839858  ',NULL,46,5,'Completed','2025-04-03','Required','SCCs','Required','Met','Outdated','Partial',564,136,1,88,24.7
+750,750,750,750,'CB137895  ','Complete',11,8,'Completed','2025-04-26','Not Required','Adequacy Decision','Completed','Partial','Complete','Manual',99,406,170,68,1.3
+751,751,751,751,'CB706013  ',NULL,13,0,'In Progress','2025-04-24','Required','Derogations','Completed','Met','Partial','Fully Integrated',54,90,18,6,6.3
+752,752,752,752,'CB312131  ',NULL,37,10,'Not Started','2025-04-22','Not Required','BCRs','Required','Met','Outdated','Fully Integrated',709,109,71,85,13.2
+753,753,753,753,'CB773285  ',NULL,11,7,'Completed','2025-05-12','Required','Adequacy Decision','In Progress','Partial','Partial','Manual',280,355,137,21,29.3
+754,754,754,754,'CB207131  ','Complete',5,0,'In Progress','2025-04-26','Submitted','Adequacy Decision','Completed','Not Met','Outdated','Fully Integrated',767,340,181,62,1.9
+755,755,755,755,'CB394864  ',NULL,30,4,'Not Started','2025-05-11','Required','Adequacy Decision','In Progress','Met','Complete','Fully Integrated',231,293,50,0,23.2
+756,756,756,756,'CB132082  ',NULL,40,9,'In Progress','2025-04-27','Submitted','Derogations','Required','Partial','Outdated','Fully Integrated',987,478,33,25,7.9
+757,757,757,757,'CB530231  ','Complete',47,10,'Not Started','2025-04-14','Submitted','SCCs','Required','Met','Partial','Manual',135,219,23,39,18.9
+758,758,758,758,'CB814592  ',NULL,38,5,'In Progress','2025-05-02','Not Required','SCCs','Completed','Partial','Outdated','Fully Integrated',238,39,153,73,7.2
+759,759,759,759,'CB542960  ',NULL,2,7,'Not Started','2025-03-19','Submitted','Derogations','In Progress','Partial','Outdated','Partial',513,246,95,45,4.1
+760,760,760,760,'CB218529  ',NULL,19,5,'Not Started','2025-02-20','Not Required','Adequacy Decision','Required','Partial','Outdated','Manual',809,491,158,87,15.2
+761,761,761,761,'CB358720  ','Complete',14,0,'Completed','2025-04-08','Required','BCRs','Completed','Met','Complete','Fully Integrated',956,199,68,78,11.7
+762,762,762,762,'CB125949  ','Complete',45,0,'Completed','2025-04-09','Submitted','SCCs','In Progress','Met','Complete','Partial',227,252,125,97,3.5
+763,763,763,763,'CB280755  ',NULL,37,7,'In Progress','2025-02-20','Not Required','Adequacy Decision','Completed','Met','Complete','Partial',225,335,29,75,8.0
+764,764,764,764,'CB960581  ',NULL,6,4,'Completed','2025-04-10','Required','Derogations','Required','Met','Partial','Partial',76,494,53,12,27.0
+765,765,765,765,'CB726175  ',NULL,15,7,'Not Started','2025-02-21','Required','BCRs','Required','Met','Complete','Fully Integrated',917,143,104,4,18.5
+766,766,766,766,'CB259024  ',NULL,15,2,'Completed','2025-03-03','Required','SCCs','Completed','Met','Outdated','Fully Integrated',258,369,131,91,2.6
+767,767,767,767,'CB316969  ',NULL,15,8,'Not Started','2025-04-14','Not Required','BCRs','Required','Partial','Partial','Manual',268,65,3,16,10.7
+768,768,768,768,'CB684774  ',NULL,18,10,'Completed','2025-03-10','Required','BCRs','Required','Not Met','Complete','Partial',500,85,88,87,1.4
+769,769,769,769,'CB274477  ','Complete',45,10,'Not Started','2025-02-20','Submitted','BCRs','In Progress','Met','Outdated','Fully Integrated',500,333,172,26,1.2
+770,770,770,770,'CB438714  ','Complete',42,1,'Not Started','2025-04-04','Required','BCRs','Completed','Met','Complete','Manual',166,475,79,67,6.5
+771,771,771,771,'CB452069  ',NULL,23,1,'Completed','2025-03-04','Required','Derogations','Required','Partial','Complete','Fully Integrated',65,304,103,74,22.7
+772,772,772,772,'CB587260  ','Complete',44,9,'Completed','2025-02-23','Submitted','BCRs','In Progress','Partial','Complete','Fully Integrated',643,25,25,26,21.6
+773,773,773,773,'CB530663  ',NULL,24,7,'In Progress','2025-03-16','Required','Derogations','Required','Met','Outdated','Manual',410,356,5,85,26.8
+774,774,774,774,'CB147392  ',NULL,27,2,'Completed','2025-02-21','Submitted','BCRs','Required','Not Met','Outdated','Fully Integrated',417,27,124,14,28.6
+775,775,775,775,'CB651524  ','Complete',34,6,'Not Started','2025-05-17','Required','BCRs','In Progress','Met','Outdated','Partial',80,293,191,19,22.4
+776,776,776,776,'CB734095  ','Complete',2,8,'In Progress','2025-04-08','Not Required','Adequacy Decision','In Progress','Met','Partial','Fully Integrated',848,216,78,29,2.3
+777,777,777,777,'CB533121  ',NULL,43,3,'In Progress','2025-05-11','Required','BCRs','In Progress','Met','Outdated','Manual',714,478,66,30,4.3
+778,778,778,778,'CB584303  ','Complete',48,6,'Completed','2025-03-27','Required','Derogations','In Progress','Partial','Complete','Manual',798,159,197,39,10.4
+779,779,779,779,'CB949389  ',NULL,43,10,'Completed','2025-05-10','Submitted','SCCs','Required','Met','Complete','Manual',990,279,2,30,6.2
+780,780,780,780,'CB945331  ','Complete',42,9,'Not Started','2025-05-08','Required','Adequacy Decision','Required','Met','Outdated','Fully Integrated',18,205,91,41,23.1
+781,781,781,781,'CB571823  ',NULL,41,10,'In Progress','2025-05-15','Submitted','Derogations','Required','Met','Partial','Manual',84,393,200,92,22.5
+782,782,782,782,'CB112784  ',NULL,40,10,'Not Started','2025-03-17','Submitted','Derogations','In Progress','Partial','Complete','Partial',941,93,79,79,2.9
+783,783,783,783,'CB729422  ',NULL,37,10,'Not Started','2025-05-14','Not Required','BCRs','Required','Partial','Outdated','Partial',606,176,179,88,10.8
+784,784,784,784,'CB780422  ',NULL,39,6,'Completed','2025-05-19','Submitted','SCCs','In Progress','Not Met','Outdated','Partial',235,19,110,2,10.2
+785,785,785,785,'CB473230  ',NULL,46,9,'In Progress','2025-04-05','Required','Adequacy Decision','Completed','Not Met','Outdated','Fully Integrated',542,269,91,54,4.6
+786,786,786,786,'CB366659  ',NULL,11,1,'In Progress','2025-03-19','Required','SCCs','Required','Not Met','Partial','Manual',9,469,54,80,25.8
+787,787,787,787,'CB797911  ','Complete',1,1,'Not Started','2025-05-01','Submitted','Adequacy Decision','Required','Partial','Partial','Manual',100,320,11,79,2.3
+788,788,788,788,'CB842774  ',NULL,45,2,'Not Started','2025-05-06','Required','BCRs','Completed','Met','Complete','Partial',767,242,31,58,27.8
+789,789,789,789,'CB297935  ',NULL,3,7,'In Progress','2025-04-19','Submitted','Adequacy Decision','In Progress','Partial','Outdated','Partial',142,417,156,48,10.1
+790,790,790,790,'CB155824  ',NULL,28,10,'Not Started','2025-03-26','Required','Derogations','Required','Not Met','Complete','Fully Integrated',794,266,13,66,4.0
+791,791,791,791,'CB822597  ','Complete',16,2,'Completed','2025-04-08','Submitted','SCCs','In Progress','Partial','Outdated','Partial',830,356,154,58,24.3
+792,792,792,792,'CB229588  ',NULL,45,0,'In Progress','2025-03-02','Submitted','SCCs','In Progress','Met','Complete','Fully Integrated',35,71,26,28,17.7
+793,793,793,793,'CB210212  ',NULL,22,1,'In Progress','2025-04-05','Submitted','SCCs','Completed','Met','Complete','Manual',358,321,70,43,29.0
+794,794,794,794,'CB594146  ',NULL,46,2,'Completed','2025-04-01','Submitted','Adequacy Decision','Required','Partial','Complete','Partial',100,498,126,40,4.7
+795,795,795,795,'CB453433  ','Complete',21,9,'Not Started','2025-04-21','Submitted','BCRs','In Progress','Not Met','Complete','Fully Integrated',84,357,83,21,8.7
+796,796,796,796,'CB959794  ',NULL,30,7,'Not Started','2025-02-22','Required','SCCs','Required','Met','Outdated','Partial',190,126,115,61,5.0
+797,797,797,797,'CB676530  ',NULL,15,2,'Not Started','2025-04-25','Submitted','BCRs','Completed','Met','Outdated','Fully Integrated',346,28,98,25,17.8
+798,798,798,798,'CB888588  ','Complete',3,3,'Completed','2025-04-02','Required','BCRs','In Progress','Not Met','Partial','Manual',864,308,130,80,21.2
+799,799,799,799,'CB772076  ',NULL,30,9,'Not Started','2025-04-30','Required','Adequacy Decision','Required','Met','Complete','Fully Integrated',805,76,119,81,8.1
+800,800,800,800,'CB915123  ','Complete',9,4,'Not Started','2025-04-08','Not Required','Adequacy Decision','Required','Partial','Outdated','Partial',148,174,22,86,10.8
+801,801,801,801,'CB113444  ',NULL,20,8,'In Progress','2025-03-01','Required','SCCs','In Progress','Not Met','Complete','Manual',337,352,189,30,20.8
+802,802,802,802,'CB477815  ','Complete',35,10,'Not Started','2025-05-17','Submitted','Derogations','Required','Not Met','Complete','Manual',344,411,194,85,26.7
+803,803,803,803,'CB210811  ',NULL,48,0,'Completed','2025-03-24','Required','Derogations','Completed','Not Met','Partial','Fully Integrated',749,63,168,88,24.9
+804,804,804,804,'CB667066  ',NULL,13,5,'Not Started','2025-05-09','Required','BCRs','Required','Met','Complete','Manual',17,1,82,73,10.9
+805,805,805,805,'CB471996  ',NULL,14,10,'Completed','2025-03-11','Not Required','Adequacy Decision','Completed','Not Met','Outdated','Manual',905,396,135,37,29.0
+806,806,806,806,'CB753889  ',NULL,40,6,'Completed','2025-05-02','Submitted','Adequacy Decision','In Progress','Not Met','Partial','Partial',793,460,119,59,9.6
+807,807,807,807,'CB472559  ','Complete',39,9,'In Progress','2025-04-17','Submitted','Adequacy Decision','Required','Met','Complete','Fully Integrated',699,212,27,94,23.3
+808,808,808,808,'CB243358  ','Complete',4,5,'Completed','2025-03-16','Not Required','Derogations','Required','Partial','Outdated','Partial',445,450,130,80,22.9
+809,809,809,809,'CB819190  ',NULL,29,5,'Not Started','2025-04-09','Submitted','BCRs','In Progress','Met','Complete','Manual',57,64,40,35,12.7
+810,810,810,810,'CB660223  ',NULL,4,0,'In Progress','2025-03-15','Submitted','Adequacy Decision','Required','Partial','Partial','Partial',549,289,80,22,28.4
+811,811,811,811,'CB936683  ',NULL,38,6,'In Progress','2025-03-24','Submitted','Adequacy Decision','Completed','Met','Outdated','Manual',723,54,70,54,13.5
+812,812,812,812,'CB402684  ',NULL,27,3,'In Progress','2025-04-13','Not Required','Derogations','Completed','Not Met','Partial','Fully Integrated',989,448,54,56,30.0
+813,813,813,813,'CB493058  ',NULL,5,9,'In Progress','2025-04-30','Required','BCRs','Completed','Partial','Complete','Partial',937,13,170,3,22.5
+814,814,814,814,'CB606442  ',NULL,49,5,'In Progress','2025-03-23','Required','BCRs','In Progress','Not Met','Partial','Manual',726,50,101,98,29.2
+815,815,815,815,'CB326958  ',NULL,49,0,'Completed','2025-03-01','Submitted','Adequacy Decision','Required','Met','Outdated','Manual',440,37,92,32,29.6
+816,816,816,816,'CB808622  ','Complete',14,5,'Completed','2025-04-04','Required','BCRs','In Progress','Met','Outdated','Fully Integrated',70,349,6,59,15.8
+817,817,817,817,'CB991282  ',NULL,18,8,'Not Started','2025-04-06','Required','SCCs','In Progress','Partial','Outdated','Fully Integrated',644,109,149,86,2.8
+818,818,818,818,'CB468138  ','Complete',3,5,'Not Started','2025-03-09','Submitted','Derogations','In Progress','Not Met','Complete','Partial',758,19,152,13,6.5
+819,819,819,819,'CB833488  ',NULL,21,2,'Completed','2025-02-28','Not Required','Adequacy Decision','Completed','Met','Outdated','Partial',420,243,89,70,27.1
+820,820,820,820,'CB953450  ','Complete',12,9,'Completed','2025-03-17','Not Required','SCCs','Required','Not Met','Complete','Fully Integrated',373,225,17,40,19.2
+821,821,821,821,'CB903267  ','Complete',8,0,'In Progress','2025-04-07','Submitted','Derogations','Completed','Not Met','Partial','Fully Integrated',86,50,60,63,28.1
+822,822,822,822,'CB111373  ',NULL,32,10,'Not Started','2025-05-16','Not Required','Derogations','Required','Not Met','Outdated','Partial',841,41,183,20,25.6
+823,823,823,823,'CB759708  ',NULL,31,1,'Not Started','2025-05-09','Required','Derogations','In Progress','Not Met','Partial','Partial',807,174,133,44,20.1
+824,824,824,824,'CB682582  ','Complete',2,6,'Not Started','2025-03-02','Not Required','Derogations','Completed','Not Met','Complete','Manual',506,404,143,91,7.1
+825,825,825,825,'CB688974  ',NULL,31,5,'Not Started','2025-02-24','Required','Adequacy Decision','Completed','Met','Partial','Manual',309,149,163,53,19.6
+826,826,826,826,'CB436653  ',NULL,1,0,'In Progress','2025-03-23','Submitted','BCRs','In Progress','Not Met','Complete','Fully Integrated',35,483,42,20,14.9
+827,827,827,827,'CB279581  ',NULL,2,10,'In Progress','2025-03-10','Required','Derogations','Required','Not Met','Complete','Manual',190,11,99,18,3.3
+828,828,828,828,'CB299671  ',NULL,28,10,'In Progress','2025-03-28','Not Required','Adequacy Decision','In Progress','Met','Outdated','Partial',639,165,193,1,9.1
+829,829,829,829,'CB448195  ',NULL,37,2,'Completed','2025-04-05','Not Required','SCCs','Required','Not Met','Complete','Partial',715,41,159,98,17.8
+830,830,830,830,'CB678723  ',NULL,34,8,'Not Started','2025-05-20','Required','Derogations','Required','Partial','Outdated','Manual',537,454,109,4,25.0
+831,831,831,831,'CB197583  ','Complete',43,9,'Not Started','2025-05-16','Submitted','Derogations','Completed','Met','Complete','Manual',987,70,161,38,4.3
+832,832,832,832,'CB858667  ','Complete',18,8,'In Progress','2025-03-29','Submitted','Adequacy Decision','Completed','Partial','Outdated','Fully Integrated',565,279,44,100,13.4
+833,833,833,833,'CB627652  ',NULL,25,3,'In Progress','2025-03-04','Required','SCCs','Required','Partial','Complete','Partial',795,10,72,69,2.7
+834,834,834,834,'CB191648  ',NULL,9,6,'Not Started','2025-02-20','Not Required','Adequacy Decision','Completed','Not Met','Complete','Partial',708,283,192,4,5.6
+835,835,835,835,'CB826629  ',NULL,49,5,'Completed','2025-03-22','Submitted','Adequacy Decision','In Progress','Not Met','Outdated','Manual',327,132,199,2,3.5
+836,836,836,836,'CB414694  ',NULL,28,4,'Not Started','2025-04-12','Submitted','Adequacy Decision','In Progress','Partial','Complete','Fully Integrated',185,292,26,100,26.7
+837,837,837,837,'CB496109  ','Complete',47,0,'In Progress','2025-02-24','Required','SCCs','In Progress','Not Met','Complete','Manual',279,123,24,82,28.5
+838,838,838,838,'CB829002  ',NULL,30,8,'In Progress','2025-05-19','Submitted','Adequacy Decision','Required','Partial','Complete','Manual',695,162,61,69,2.1
+839,839,839,839,'CB661555  ',NULL,17,10,'In Progress','2025-03-28','Not Required','BCRs','Completed','Not Met','Complete','Manual',364,248,66,14,8.6
+840,840,840,840,'CB925482  ',NULL,36,3,'Not Started','2025-03-14','Required','BCRs','Required','Partial','Partial','Partial',740,131,128,88,24.6
+841,841,841,841,'CB716537  ',NULL,40,1,'In Progress','2025-04-27','Submitted','Adequacy Decision','Completed','Not Met','Outdated','Manual',407,233,85,24,28.7
+842,842,842,842,'CB239914  ',NULL,23,5,'In Progress','2025-03-07','Not Required','BCRs','Completed','Met','Partial','Manual',151,49,163,63,6.4
+843,843,843,843,'CB537920  ','Complete',37,10,'In Progress','2025-04-06','Required','BCRs','Required','Met','Partial','Fully Integrated',192,367,71,79,25.3
+844,844,844,844,'CB971735  ',NULL,5,8,'In Progress','2025-05-12','Not Required','SCCs','Completed','Partial','Outdated','Manual',953,221,24,38,6.1
+845,845,845,845,'CB325217  ',NULL,14,7,'Completed','2025-03-06','Required','Derogations','Completed','Met','Complete','Fully Integrated',911,68,68,45,17.4
+846,846,846,846,'CB134463  ','Complete',39,1,'In Progress','2025-04-12','Required','SCCs','In Progress','Partial','Partial','Manual',621,121,17,0,23.9
+847,847,847,847,'CB706959  ',NULL,43,0,'Not Started','2025-05-05','Submitted','Adequacy Decision','Completed','Partial','Partial','Partial',192,88,104,31,12.8
+848,848,848,848,'CB470679  ',NULL,7,1,'Completed','2025-04-26','Submitted','SCCs','Completed','Partial','Outdated','Manual',340,175,40,29,22.8
+849,849,849,849,'CB367464  ','Complete',1,7,'Not Started','2025-04-08','Required','SCCs','Completed','Partial','Complete','Fully Integrated',240,477,44,22,8.3
+850,850,850,850,'CB212670  ','Complete',26,0,'In Progress','2025-04-12','Submitted','SCCs','In Progress','Met','Partial','Fully Integrated',689,145,128,94,25.7
+851,851,851,851,'CB591092  ',NULL,24,3,'Not Started','2025-04-16','Submitted','BCRs','Completed','Partial','Complete','Partial',125,225,162,64,27.2
+852,852,852,852,'CB532712  ','Complete',4,1,'In Progress','2025-04-25','Required','SCCs','In Progress','Not Met','Complete','Fully Integrated',615,231,163,18,7.2
+853,853,853,853,'CB845530  ',NULL,38,8,'In Progress','2025-04-11','Required','Adequacy Decision','In Progress','Partial','Outdated','Partial',18,318,147,61,22.5
+854,854,854,854,'CB563440  ','Complete',44,9,'In Progress','2025-05-13','Submitted','BCRs','Required','Partial','Partial','Manual',297,26,19,37,18.0
+855,855,855,855,'CB656059  ',NULL,46,4,'Completed','2025-04-23','Required','BCRs','Completed','Partial','Outdated','Manual',755,25,66,84,21.4
+856,856,856,856,'CB435125  ','Complete',4,1,'In Progress','2025-05-03','Not Required','Adequacy Decision','Completed','Partial','Complete','Manual',886,455,60,67,25.0
+857,857,857,857,'CB793555  ','Complete',33,5,'Completed','2025-05-05','Required','Derogations','In Progress','Met','Complete','Partial',865,383,53,78,27.5
+858,858,858,858,'CB552066  ','Complete',50,1,'Completed','2025-03-02','Submitted','BCRs','Completed','Partial','Complete','Manual',181,411,95,75,1.1
+859,859,859,859,'CB986799  ','Complete',18,0,'Not Started','2025-03-14','Submitted','SCCs','Required','Not Met','Outdated','Manual',188,295,60,4,23.0
+860,860,860,860,'CB817034  ','Complete',45,8,'Not Started','2025-04-28','Submitted','BCRs','Required','Met','Partial','Partial',0,319,157,97,29.4
+861,861,861,861,'CB795985  ',NULL,42,6,'Completed','2025-03-22','Not Required','Derogations','Completed','Met','Outdated','Partial',500,362,127,29,27.2
+862,862,862,862,'CB627931  ','Complete',2,4,'Not Started','2025-05-08','Required','BCRs','In Progress','Partial','Outdated','Manual',148,73,133,6,15.8
+863,863,863,863,'CB629125  ',NULL,40,3,'In Progress','2025-04-26','Required','Derogations','Required','Partial','Complete','Fully Integrated',248,141,83,51,29.8
+864,864,864,864,'CB337365  ',NULL,12,8,'Completed','2025-03-30','Submitted','Derogations','In Progress','Not Met','Complete','Partial',799,353,14,75,23.2
+865,865,865,865,'CB121953  ',NULL,21,6,'Not Started','2025-04-22','Not Required','Adequacy Decision','Required','Not Met','Partial','Fully Integrated',796,252,35,48,17.2
+866,866,866,866,'CB634285  ',NULL,36,10,'Not Started','2025-04-16','Required','Adequacy Decision','Completed','Partial','Complete','Partial',413,451,59,8,2.1
+867,867,867,867,'CB152197  ',NULL,33,8,'Completed','2025-04-12','Not Required','BCRs','In Progress','Not Met','Complete','Partial',719,186,116,48,5.4
+868,868,868,868,'CB181203  ',NULL,23,7,'In Progress','2025-04-28','Not Required','BCRs','Completed','Met','Outdated','Fully Integrated',718,322,54,49,24.9
+869,869,869,869,'CB814596  ','Complete',24,6,'Not Started','2025-03-30','Not Required','SCCs','Required','Met','Partial','Manual',213,98,138,81,16.1
+870,870,870,870,'CB208250  ',NULL,5,9,'In Progress','2025-04-03','Required','BCRs','In Progress','Not Met','Outdated','Manual',999,77,165,29,22.4
+871,871,871,871,'CB153361  ',NULL,47,4,'In Progress','2025-05-01','Required','Derogations','In Progress','Not Met','Partial','Manual',174,61,47,21,7.1
+872,872,872,872,'CB473108  ',NULL,36,0,'In Progress','2025-03-12','Not Required','BCRs','Completed','Not Met','Complete','Partial',119,79,20,40,21.1
+873,873,873,873,'CB573318  ',NULL,50,9,'In Progress','2025-05-03','Required','Derogations','Required','Met','Complete','Partial',260,294,12,23,7.3
+874,874,874,874,'CB403129  ',NULL,5,2,'Completed','2025-05-19','Submitted','Adequacy Decision','Completed','Met','Complete','Partial',44,254,38,99,12.0
+875,875,875,875,'CB783818  ','Complete',37,5,'Completed','2025-04-14','Required','Derogations','In Progress','Met','Partial','Partial',383,482,63,25,23.9
+876,876,876,876,'CB650623  ',NULL,24,6,'Not Started','2025-03-11','Required','Derogations','Required','Partial','Complete','Partial',36,278,109,78,21.6
+877,877,877,877,'CB522845  ',NULL,12,7,'Not Started','2025-02-23','Submitted','SCCs','In Progress','Met','Complete','Fully Integrated',878,99,137,31,18.9
+878,878,878,878,'CB648022  ','Complete',9,6,'In Progress','2025-03-12','Required','SCCs','In Progress','Partial','Outdated','Partial',960,118,104,19,25.2
+879,879,879,879,'CB167686  ','Complete',43,10,'Not Started','2025-03-15','Not Required','Derogations','Required','Partial','Complete','Fully Integrated',665,430,175,39,13.6
+880,880,880,880,'CB209296  ',NULL,30,9,'Completed','2025-04-11','Submitted','Derogations','In Progress','Met','Partial','Partial',660,247,183,25,7.4
+881,881,881,881,'CB313559  ',NULL,25,8,'Not Started','2025-04-27','Submitted','BCRs','In Progress','Not Met','Complete','Fully Integrated',799,375,64,52,25.3
+882,882,882,882,'CB357163  ','Complete',32,7,'Not Started','2025-05-04','Not Required','SCCs','Completed','Not Met','Partial','Manual',645,384,103,80,5.6
+883,883,883,883,'CB719308  ','Complete',7,8,'In Progress','2025-03-18','Submitted','SCCs','Required','Partial','Partial','Fully Integrated',933,371,49,54,7.2
+884,884,884,884,'CB801879  ',NULL,41,0,'In Progress','2025-04-11','Not Required','SCCs','In Progress','Not Met','Partial','Partial',724,373,170,1,9.3
+885,885,885,885,'CB848867  ','Complete',16,0,'Not Started','2025-05-05','Not Required','Derogations','Required','Partial','Outdated','Manual',20,413,110,28,20.1
+886,886,886,886,'CB409091  ','Complete',39,10,'Not Started','2025-03-28','Required','Adequacy Decision','In Progress','Partial','Outdated','Partial',827,251,2,14,21.7
+887,887,887,887,'CB541744  ',NULL,40,9,'Not Started','2025-04-08','Not Required','Derogations','Completed','Met','Outdated','Manual',118,105,75,23,18.7
+888,888,888,888,'CB761405  ','Complete',23,3,'Completed','2025-04-19','Submitted','Adequacy Decision','In Progress','Met','Outdated','Partial',268,253,41,97,27.2
+889,889,889,889,'CB910859  ',NULL,1,6,'Completed','2025-02-21','Submitted','BCRs','In Progress','Not Met','Outdated','Partial',576,282,22,9,11.2
+890,890,890,890,'CB263978  ',NULL,4,6,'Not Started','2025-03-03','Submitted','Adequacy Decision','Required','Met','Complete','Manual',514,410,134,7,16.9
+891,891,891,891,'CB677791  ',NULL,3,2,'Completed','2025-04-17','Not Required','BCRs','In Progress','Partial','Outdated','Fully Integrated',657,15,161,11,5.1
+892,892,892,892,'CB201764  ','Complete',24,9,'Not Started','2025-02-25','Submitted','SCCs','Required','Partial','Complete','Manual',688,173,78,21,27.3
+893,893,893,893,'CB835379  ','Complete',8,1,'In Progress','2025-04-26','Not Required','SCCs','In Progress','Met','Partial','Manual',972,308,140,40,17.9
+894,894,894,894,'CB910502  ','Complete',13,7,'Completed','2025-03-22','Required','Derogations','Required','Not Met','Outdated','Manual',584,373,127,71,29.0
+895,895,895,895,'CB659691  ','Complete',16,1,'Not Started','2025-04-24','Not Required','BCRs','In Progress','Met','Outdated','Fully Integrated',730,6,85,96,2.2
+896,896,896,896,'CB108769  ',NULL,27,9,'Not Started','2025-05-09','Submitted','Derogations','In Progress','Met','Partial','Fully Integrated',830,393,175,62,3.9
+897,897,897,897,'CB267797  ',NULL,19,3,'Completed','2025-04-30','Not Required','Derogations','In Progress','Met','Outdated','Fully Integrated',332,476,172,4,9.8
+898,898,898,898,'CB258069  ',NULL,43,9,'In Progress','2025-03-20','Not Required','Derogations','Required','Met','Outdated','Fully Integrated',134,169,146,74,6.4
+899,899,899,899,'CB767819  ',NULL,6,1,'In Progress','2025-05-09','Submitted','BCRs','Required','Not Met','Partial','Partial',658,231,73,46,23.8
+900,900,900,900,'CB962176  ',NULL,25,8,'Not Started','2025-04-02','Submitted','BCRs','Completed','Met','Partial','Manual',407,181,106,95,18.6
+901,901,901,901,'CB556091  ',NULL,39,4,'Completed','2025-03-13','Submitted','Derogations','In Progress','Partial','Partial','Fully Integrated',381,412,133,94,4.1
+902,902,902,902,'CB459614  ',NULL,46,5,'In Progress','2025-05-17','Submitted','Derogations','Required','Partial','Partial','Fully Integrated',20,236,51,99,16.1
+903,903,903,903,'CB800864  ','Complete',26,2,'Completed','2025-05-05','Not Required','BCRs','Completed','Partial','Partial','Manual',67,244,155,27,7.1
+904,904,904,904,'CB995397  ',NULL,16,3,'In Progress','2025-03-13','Submitted','BCRs','In Progress','Not Met','Complete','Manual',497,351,88,89,28.9
+905,905,905,905,'CB891187  ',NULL,47,9,'Completed','2025-03-09','Submitted','Derogations','In Progress','Met','Outdated','Partial',854,356,93,59,4.3
+906,906,906,906,'CB673584  ',NULL,44,3,'In Progress','2025-02-24','Submitted','BCRs','Required','Partial','Outdated','Partial',253,347,48,36,8.0
+907,907,907,907,'CB791286  ',NULL,43,5,'Completed','2025-05-15','Submitted','Derogations','Required','Not Met','Outdated','Fully Integrated',112,59,62,60,23.5
+908,908,908,908,'CB978900  ',NULL,21,10,'Completed','2025-04-01','Required','BCRs','In Progress','Partial','Complete','Partial',262,192,138,38,4.9
+909,909,909,909,'CB232968  ','Complete',27,5,'Completed','2025-04-05','Not Required','SCCs','Completed','Not Met','Outdated','Fully Integrated',831,302,96,99,7.4
+910,910,910,910,'CB323674  ',NULL,44,0,'In Progress','2025-04-06','Submitted','Adequacy Decision','In Progress','Partial','Complete','Manual',96,171,4,45,19.7
+911,911,911,911,'CB931404  ',NULL,15,3,'In Progress','2025-03-03','Required','SCCs','Required','Met','Outdated','Fully Integrated',274,403,31,68,23.2
+912,912,912,912,'CB606229  ','Complete',40,6,'Not Started','2025-02-24','Not Required','BCRs','Completed','Partial','Complete','Fully Integrated',981,399,83,13,1.2
+913,913,913,913,'CB424827  ','Complete',28,7,'Completed','2025-05-16','Required','BCRs','Completed','Partial','Partial','Manual',828,254,72,26,15.9
+914,914,914,914,'CB597561  ',NULL,46,9,'Not Started','2025-03-30','Submitted','Derogations','Completed','Not Met','Outdated','Manual',51,113,161,74,26.8
+915,915,915,915,'CB931486  ','Complete',4,10,'Not Started','2025-03-11','Submitted','Derogations','Required','Not Met','Outdated','Fully Integrated',307,147,121,50,21.7
+916,916,916,916,'CB774624  ',NULL,12,6,'Completed','2025-04-19','Not Required','Derogations','In Progress','Partial','Complete','Partial',593,471,33,83,9.4
+917,917,917,917,'CB470547  ',NULL,10,10,'Completed','2025-04-04','Required','SCCs','Required','Not Met','Outdated','Partial',466,380,195,20,25.2
+918,918,918,918,'CB389079  ','Complete',16,1,'In Progress','2025-04-25','Not Required','SCCs','Required','Met','Partial','Fully Integrated',246,96,29,65,26.3
+919,919,919,919,'CB963559  ',NULL,26,1,'Not Started','2025-03-29','Submitted','SCCs','In Progress','Partial','Complete','Manual',663,9,176,74,18.0
+920,920,920,920,'CB591391  ',NULL,45,10,'Completed','2025-03-08','Not Required','Adequacy Decision','Completed','Not Met','Complete','Fully Integrated',789,485,132,87,1.6
+921,921,921,921,'CB277120  ',NULL,29,6,'In Progress','2025-04-25','Submitted','BCRs','In Progress','Met','Outdated','Manual',954,236,34,37,3.9
+922,922,922,922,'CB566998  ',NULL,4,7,'Not Started','2025-05-19','Not Required','Derogations','Completed','Met','Complete','Manual',213,108,169,78,6.6
+923,923,923,923,'CB541908  ','Complete',38,3,'Not Started','2025-05-17','Submitted','BCRs','In Progress','Met','Partial','Manual',403,156,82,50,26.8
+924,924,924,924,'CB974294  ','Complete',20,10,'In Progress','2025-03-24','Not Required','SCCs','Completed','Not Met','Outdated','Fully Integrated',959,344,49,54,3.2
+925,925,925,925,'CB732382  ',NULL,3,5,'In Progress','2025-05-10','Submitted','Derogations','Completed','Not Met','Partial','Fully Integrated',738,71,109,70,18.5
+926,926,926,926,'CB803468  ',NULL,50,0,'In Progress','2025-03-10','Not Required','SCCs','Completed','Met','Complete','Manual',701,412,75,80,12.4
+927,927,927,927,'CB774601  ','Complete',32,8,'Completed','2025-03-15','Required','Adequacy Decision','In Progress','Not Met','Outdated','Fully Integrated',308,15,59,27,10.1
+928,928,928,928,'CB585735  ','Complete',8,7,'Not Started','2025-04-03','Required','Adequacy Decision','Required','Not Met','Complete','Partial',144,50,55,61,5.0
+929,929,929,929,'CB479102  ',NULL,21,3,'Not Started','2025-05-12','Required','Derogations','In Progress','Not Met','Outdated','Manual',125,213,69,46,17.9
+930,930,930,930,'CB723017  ','Complete',34,6,'Not Started','2025-04-30','Submitted','SCCs','Completed','Partial','Partial','Fully Integrated',108,98,89,38,9.3
+931,931,931,931,'CB454754  ',NULL,39,5,'Completed','2025-05-16','Submitted','Adequacy Decision','In Progress','Partial','Complete','Fully Integrated',399,319,125,90,5.1
+932,932,932,932,'CB682921  ',NULL,48,7,'Completed','2025-02-25','Required','Derogations','Required','Met','Outdated','Manual',835,133,144,42,8.2
+933,933,933,933,'CB375922  ',NULL,16,1,'Not Started','2025-05-02','Not Required','Adequacy Decision','Required','Met','Outdated','Manual',237,436,67,20,28.0
+934,934,934,934,'CB575554  ',NULL,6,1,'Completed','2025-03-25','Required','SCCs','Completed','Partial','Complete','Partial',256,297,120,60,16.1
+935,935,935,935,'CB168902  ','Complete',13,3,'Completed','2025-04-10','Required','Adequacy Decision','Completed','Partial','Complete','Fully Integrated',17,408,55,0,24.9
+936,936,936,936,'CB882574  ',NULL,4,10,'Completed','2025-03-18','Not Required','Adequacy Decision','Required','Not Met','Complete','Manual',859,145,194,100,16.5
+937,937,937,937,'CB698949  ','Complete',24,6,'Completed','2025-05-10','Submitted','Adequacy Decision','Required','Not Met','Partial','Manual',126,85,37,1,26.8
+938,938,938,938,'CB554527  ',NULL,29,6,'In Progress','2025-02-27','Required','Derogations','Completed','Met','Complete','Fully Integrated',972,309,124,60,8.2
+939,939,939,939,'CB935047  ',NULL,47,1,'Not Started','2025-04-01','Required','Derogations','In Progress','Partial','Outdated','Manual',213,364,7,49,21.5
+940,940,940,940,'CB344384  ','Complete',17,0,'Not Started','2025-03-02','Required','Derogations','Required','Met','Complete','Partial',171,43,107,59,22.9
+941,941,941,941,'CB207864  ','Complete',15,0,'Not Started','2025-03-12','Submitted','Adequacy Decision','Completed','Met','Partial','Fully Integrated',909,320,200,94,11.9
+942,942,942,942,'CB248182  ','Complete',36,1,'Not Started','2025-03-19','Not Required','Derogations','Required','Partial','Partial','Partial',49,280,36,89,8.0
+943,943,943,943,'CB449353  ',NULL,42,9,'In Progress','2025-03-05','Required','BCRs','In Progress','Partial','Complete','Partial',417,395,5,53,28.2
+944,944,944,944,'CB379210  ','Complete',8,8,'Not Started','2025-02-23','Not Required','SCCs','Required','Partial','Complete','Fully Integrated',552,199,171,15,11.0
+945,945,945,945,'CB757247  ',NULL,47,1,'In Progress','2025-03-23','Submitted','BCRs','Required','Met','Complete','Partial',210,190,114,75,22.9
+946,946,946,946,'CB186858  ','Complete',9,10,'Not Started','2025-03-31','Submitted','BCRs','In Progress','Not Met','Outdated','Partial',64,0,58,20,11.3
+947,947,947,947,'CB112003  ',NULL,46,3,'Completed','2025-02-26','Required','Adequacy Decision','Completed','Partial','Complete','Partial',977,493,142,77,5.2
+948,948,948,948,'CB987090  ','Complete',4,6,'Completed','2025-04-30','Submitted','Derogations','Required','Partial','Partial','Partial',887,38,183,15,23.2
+949,949,949,949,'CB500353  ','Complete',5,9,'Not Started','2025-04-29','Not Required','SCCs','In Progress','Partial','Outdated','Manual',89,179,24,85,17.2
+950,950,950,950,'CB787203  ',NULL,33,7,'Completed','2025-03-01','Required','BCRs','In Progress','Not Met','Complete','Partial',494,207,17,55,15.8
+951,951,951,951,'CB957518  ',NULL,25,2,'In Progress','2025-05-03','Not Required','Adequacy Decision','In Progress','Not Met','Complete','Fully Integrated',549,316,91,34,21.0
+952,952,952,952,'CB799801  ',NULL,0,10,'Completed','2025-03-12','Submitted','BCRs','In Progress','Met','Partial','Manual',484,155,10,63,5.6
+953,953,953,953,'CB377738  ','Complete',21,4,'Not Started','2025-05-20','Required','Derogations','In Progress','Met','Complete','Partial',193,347,179,89,15.8
+954,954,954,954,'CB663638  ','Complete',1,3,'Not Started','2025-05-20','Not Required','Adequacy Decision','Completed','Met','Partial','Fully Integrated',361,296,5,8,24.9
+955,955,955,955,'CB290853  ','Complete',12,3,'In Progress','2025-04-06','Not Required','BCRs','Completed','Not Met','Complete','Manual',123,218,191,2,17.3
+956,956,956,956,'CB263221  ',NULL,31,8,'Not Started','2025-04-13','Submitted','SCCs','Completed','Met','Partial','Fully Integrated',115,322,123,98,23.5
+957,957,957,957,'CB188192  ',NULL,34,2,'Completed','2025-02-25','Required','Adequacy Decision','Required','Met','Complete','Fully Integrated',777,290,82,98,1.5
+958,958,958,958,'CB758018  ',NULL,47,1,'In Progress','2025-03-24','Submitted','Derogations','Required','Partial','Partial','Partial',881,209,181,40,10.4
+959,959,959,959,'CB358884  ',NULL,28,2,'In Progress','2025-04-06','Submitted','SCCs','Required','Partial','Outdated','Fully Integrated',515,189,14,64,5.0
+960,960,960,960,'CB951394  ',NULL,27,6,'Not Started','2025-05-07','Submitted','SCCs','In Progress','Met','Complete','Partial',950,218,98,84,22.6
+961,961,961,961,'CB893829  ',NULL,19,9,'Completed','2025-05-08','Submitted','SCCs','In Progress','Partial','Complete','Manual',253,31,200,74,20.7
+962,962,962,962,'CB226028  ',NULL,7,8,'In Progress','2025-04-02','Not Required','Derogations','In Progress','Met','Partial','Partial',31,234,10,40,11.8
+963,963,963,963,'CB931798  ',NULL,12,1,'In Progress','2025-05-10','Required','SCCs','In Progress','Partial','Partial','Partial',750,281,4,90,7.9
+964,964,964,964,'CB832291  ',NULL,10,4,'In Progress','2025-03-14','Not Required','SCCs','Completed','Met','Partial','Manual',743,74,113,7,16.8
+965,965,965,965,'CB768978  ',NULL,19,4,'In Progress','2025-04-01','Not Required','SCCs','Required','Partial','Outdated','Partial',111,265,73,94,25.9
+966,966,966,966,'CB819318  ','Complete',15,5,'In Progress','2025-05-13','Submitted','Adequacy Decision','Required','Met','Complete','Partial',498,365,193,82,19.3
+967,967,967,967,'CB601530  ',NULL,40,1,'Not Started','2025-05-03','Not Required','BCRs','Required','Not Met','Partial','Partial',136,461,146,28,23.4
+968,968,968,968,'CB256128  ',NULL,2,6,'Completed','2025-03-15','Submitted','Derogations','Required','Partial','Outdated','Manual',99,307,183,32,9.1
+969,969,969,969,'CB842440  ',NULL,16,6,'Completed','2025-02-28','Required','Derogations','Completed','Partial','Complete','Partial',305,494,162,6,1.9
+970,970,970,970,'CB112493  ',NULL,15,4,'Completed','2025-03-29','Not Required','SCCs','Completed','Met','Partial','Fully Integrated',584,181,160,79,26.1
+971,971,971,971,'CB431812  ',NULL,4,0,'In Progress','2025-05-18','Required','SCCs','Completed','Partial','Partial','Fully Integrated',521,418,170,3,20.9
+972,972,972,972,'CB192934  ',NULL,44,8,'In Progress','2025-03-20','Submitted','BCRs','In Progress','Met','Partial','Manual',293,348,167,15,27.0
+973,973,973,973,'CB744106  ','Complete',6,9,'Completed','2025-04-09','Submitted','BCRs','Completed','Met','Partial','Manual',700,114,109,7,18.1
+974,974,974,974,'CB815802  ',NULL,32,5,'Completed','2025-02-28','Not Required','Adequacy Decision','Completed','Met','Outdated','Partial',33,271,144,23,9.0
+975,975,975,975,'CB352467  ','Complete',35,7,'Completed','2025-03-17','Submitted','SCCs','Required','Met','Outdated','Partial',965,97,62,26,23.0
+976,976,976,976,'CB266232  ',NULL,44,3,'Not Started','2025-03-30','Not Required','BCRs','Required','Partial','Outdated','Partial',449,6,148,93,17.4
+977,977,977,977,'CB830483  ','Complete',24,1,'Not Started','2025-03-06','Not Required','Adequacy Decision','Required','Met','Complete','Fully Integrated',715,115,94,15,9.7
+978,978,978,978,'CB475365  ',NULL,22,7,'Completed','2025-04-02','Submitted','Derogations','Completed','Partial','Partial','Fully Integrated',316,179,115,68,2.8
+979,979,979,979,'CB975494  ',NULL,27,10,'In Progress','2025-04-19','Required','Derogations','In Progress','Not Met','Partial','Manual',514,101,99,37,24.4
+980,980,980,980,'CB831566  ',NULL,8,4,'In Progress','2025-04-04','Required','SCCs','Required','Met','Outdated','Partial',951,16,124,88,10.0
+981,981,981,981,'CB432700  ',NULL,7,10,'Not Started','2025-04-27','Submitted','Derogations','In Progress','Met','Outdated','Manual',822,20,142,71,24.0
+982,982,982,982,'CB369814  ',NULL,9,3,'Not Started','2025-03-10','Not Required','SCCs','Completed','Met','Partial','Manual',154,236,171,19,14.8
+983,983,983,983,'CB551267  ','Complete',15,9,'Completed','2025-04-24','Submitted','Adequacy Decision','In Progress','Partial','Partial','Fully Integrated',86,272,162,93,29.6
+984,984,984,984,'CB719832  ','Complete',42,8,'Completed','2025-05-02','Not Required','Adequacy Decision','Required','Partial','Outdated','Partial',221,111,171,31,7.6
+985,985,985,985,'CB428856  ',NULL,17,9,'In Progress','2025-04-06','Submitted','Derogations','In Progress','Partial','Complete','Fully Integrated',444,217,86,25,17.0
+986,986,986,986,'CB904928  ',NULL,14,4,'Not Started','2025-04-07','Submitted','SCCs','Completed','Not Met','Complete','Partial',695,45,121,33,8.0
+987,987,987,987,'CB702217  ','Complete',33,10,'Not Started','2025-03-20','Required','BCRs','Required','Partial','Outdated','Manual',912,380,179,54,10.8
+988,988,988,988,'CB265946  ','Complete',2,1,'Not Started','2025-04-25','Not Required','Adequacy Decision','In Progress','Met','Complete','Manual',28,107,171,50,4.1
+989,989,989,989,'CB277055  ','Complete',16,2,'In Progress','2025-04-01','Submitted','SCCs','Completed','Not Met','Partial','Partial',84,233,5,36,21.7
+990,990,990,990,'CB797651  ',NULL,0,0,'Completed','2025-05-03','Not Required','BCRs','Required','Not Met','Partial','Manual',74,172,179,42,22.5
+991,991,991,991,'CB463773  ',NULL,29,6,'In Progress','2025-03-18','Required','BCRs','Required','Not Met','Partial','Manual',515,356,28,45,6.0
+992,992,992,992,'CB568556  ','Complete',19,5,'Not Started','2025-04-08','Not Required','Derogations','Required','Not Met','Complete','Manual',107,118,186,18,7.0
+993,993,993,993,'CB391703  ',NULL,25,10,'Completed','2025-05-04','Required','SCCs','In Progress','Met','Complete','Manual',839,61,155,44,9.2
+994,994,994,994,'CB417624  ','Complete',5,5,'Not Started','2025-03-26','Submitted','BCRs','Completed','Partial','Partial','Partial',146,397,5,80,28.9
+995,995,995,995,'CB215964  ',NULL,38,0,'Not Started','2025-03-15','Required','Adequacy Decision','Completed','Met','Partial','Manual',15,85,98,38,3.9
+996,996,996,996,'CB563231  ',NULL,30,1,'Not Started','2025-05-20','Submitted','Derogations','Required','Partial','Outdated','Manual',858,293,57,32,16.4
+997,997,997,997,'CB690858  ',NULL,29,9,'Not Started','2025-03-09','Submitted','SCCs','Required','Partial','Outdated','Manual',440,265,19,37,15.4
+998,998,998,998,'CB181416  ',NULL,9,10,'Completed','2025-03-16','Not Required','Adequacy Decision','In Progress','Partial','Complete','Manual',945,460,153,14,9.6
+999,999,999,999,'CB332895  ',NULL,30,8,'Not Started','2025-02-23','Not Required','BCRs','Required','Partial','Outdated','Manual',270,280,168,47,7.3
+1000,1000,1000,1000,'CB217386  ',NULL,30,0,'In Progress','2025-03-06','Required','Derogations','Completed','Met','Complete','Fully Integrated',501,259,124,4,3.6

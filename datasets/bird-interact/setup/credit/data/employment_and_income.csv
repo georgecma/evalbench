@@ -1,0 +1,1000 @@
+'CS206405','Self-employed',7,'Manager','Education','Smith and Sons',78771.00,6564.25,'Pending',0.55,11060.00,'Investment',771132.00,11,'Low','Medium','Low','Low','Low','Doctorate',0.199
+'CS834424','Employed',13,'Teacher','Other','Fowler, Huff and Owens',406027.00,33835.58,'Pending',0.377,12660.00,'Investment',106733.00,4,'Medium','Medium','Medium','Low','Low','High School',0.506
+'CS904970','Unemployed',33,'Manager','Other','Young Group',224253.00,18687.75,'Verified',0.698,29818.00,'Rental',196410.00,16,'Low','High','Medium','Low','High','High School',0.308
+'CS886903','Unemployed',31,'Doctor','Education','Farmer Ltd',255274.00,21272.83,'Verified',0.519,19327.00,NULL,120884.00,18,'Low','Medium','Low','High','Low','Master',0.312
+'CS767632','Unemployed',35,'Manager','Technology','Foley-Hall',358354.00,29862.83,'Verified',0.521,22972.00,'Rental',71895.00,1,'High','High','High','Medium','Medium','High School',0.491
+'CS252516','Retired',29,'Doctor','Healthcare','Torres and Sons',64821.00,5401.75,'Failed',0.623,41911.00,'Part-time',699585.00,9,'Low','Medium','High','Low','Low','Master',0.150
+'CS891919','Retired',23,'Other','Technology','Ayers Ltd',357356.00,29779.67,'Verified',0.018,23503.00,'Investment',260592.00,14,'Medium','High','Medium','Medium','Medium','Bachelor',0.443
+'CS765007','Employed',30,'Doctor','Technology','Bryant-Mcclure',90990.00,7582.50,'Failed',0.83,2525.00,NULL,262111.00,5,'High','Low','Low','Low','Medium','High School',0.326
+'CS507608','Retired',21,'Doctor','Technology','Brown Ltd',248543.00,20711.92,'Verified',0.72,32345.00,'Investment',266120.00,7,'Low','High','Low','High','Low','High School',0.213
+'CS893515','Retired',33,'Engineer','Healthcare','Obrien, Hernandez and Brandt',37268.00,3105.67,'Verified',0.804,41029.00,NULL,587816.00,0,'Low','Medium','Medium','Low','Medium','Bachelor',0.083
+'CS986753','Retired',12,'Manager','Technology','Bradley, Blackburn and Miller',344905.00,28742.08,'Verified',0.726,40434.00,NULL,30111.00,12,'Medium','Medium','Medium','High','Low','Doctorate',0.014
+'CS414493','Employed',38,'Doctor','Finance','Leach Ltd',131980.00,10998.33,'Pending',0.325,29623.00,'Rental',588178.00,18,'High','High','High','High','Low','Doctorate',0.226
+'CS429393','Employed',34,'Other','Education','Valdez, Cortez and Young',363153.00,30262.75,'Failed',0.116,25226.00,NULL,29528.00,9,'Low','Medium','Medium','Low','Low','High School',0.340
+'CS166671','Self-employed',6,'Engineer','Healthcare','Douglas, Curtis and Williamson',155467.00,12955.58,'Failed',0.327,23844.00,NULL,588039.00,14,'Medium','High','Medium','High','High','Master',0.049
+'CS222072','Retired',5,'Manager','Healthcare','Jones-Foster',322544.00,26878.67,'Verified',0.479,38034.00,'Investment',573953.00,3,'Medium','High','Low','High','Medium','Doctorate',0.349
+'CS162913','Employed',3,'Other','Healthcare','Leonard Group',23104.00,1925.33,'Failed',0.936,49114.00,'Investment',309716.00,4,'High','Medium','High','High','Low','Bachelor',0.427
+'CS517135','Self-employed',3,'Doctor','Other','Fischer Group',306140.00,25511.67,'Verified',0.355,33466.00,'Investment',583555.00,4,'Low','Medium','Medium','High','Medium','Bachelor',0.432
+'CS180245','Employed',10,'Engineer','Other','Allison Ltd',131140.00,10928.33,'Verified',0.474,31801.00,'Part-time',291595.00,11,'Low','Medium','Medium','Medium','Low','Master',0.551
+'CS335050','Unemployed',37,'Other','Healthcare','Munoz-Soto',62590.00,5215.83,'Pending',0.353,3649.00,NULL,541864.00,2,'Low','Low','High','Medium','High','Bachelor',0.029
+'CS646404','Self-employed',33,'Teacher','Finance','Phillips-Rogers',476073.00,39672.75,'Failed',0.001,27498.00,'Rental',481879.00,19,'High','Medium','Low','High','Medium','Master',0.510
+'CS544345','Unemployed',30,'Teacher','Other','Beltran, Hampton and Gonzalez',106513.00,8876.08,'Pending',0.863,13054.00,'Part-time',705609.00,6,'High','Medium','High','Low','High','Master',0.066
+'CS450025','Employed',14,'Doctor','Healthcare','Haynes, West and Cook',53738.00,4478.17,'Pending',0.429,33003.00,'Rental',431075.00,4,'Medium','High','Low','Low','Medium','Bachelor',0.287
+'CS298969','Unemployed',4,'Engineer','Finance','Smith-Gray',417027.00,34752.25,'Pending',0.583,25617.00,'Rental',259059.00,13,'High','High','High','Medium','Medium','Doctorate',0.512
+'CS824002','Retired',29,'Engineer','Healthcare','Jackson Group',442131.00,36844.25,'Verified',0.896,20347.00,'Investment',324865.00,18,'Low','Low','Medium','High','High','Doctorate',0.404
+'CS969683','Unemployed',10,'Teacher','Education','Smith-Jones',185593.00,15466.08,'Pending',0.117,15551.00,'Investment',220535.00,11,'High','High','Low','High','Medium','High School',0.380
+'CS169928','Unemployed',1,'Engineer','Technology','Gutierrez Inc',167191.00,13932.58,'Verified',0.37,26192.00,'Investment',329944.00,1,'High','Low','Low','Medium','High','Master',0.323
+'CS180232','Employed',26,'Manager','Education','Baker Group',387233.00,32269.42,'Failed',0.005,31438.00,NULL,619958.00,1,'High','Medium','High','High','Medium','Master',0.170
+'CS232683','Unemployed',30,'Manager','Technology','Alexander LLC',347494.00,28957.83,'Pending',0.862,19268.00,'Part-time',460321.00,9,'Medium','High','Low','Low','Low','Bachelor',0.073
+'CS354471','Self-employed',13,'Manager','Other','Davis Inc',109743.00,9145.25,'Verified',0.013,30283.00,'Rental',444906.00,17,'Low','Medium','Medium','Medium','High','Doctorate',0.175
+'CS688942','Unemployed',17,'Doctor','Healthcare','Ford-Andrews',458595.00,38216.25,'Pending',0.755,39844.00,NULL,374259.00,10,'High','Low','Medium','High','High','Bachelor',0.595
+'CS288223','Self-employed',19,'Manager','Healthcare','Carlson-Brown',24670.00,2055.83,'Verified',0.249,13222.00,NULL,155320.00,10,'High','Low','High','Low','Medium','Master',0.005
+'CS289722','Unemployed',19,'Teacher','Other','Ward and Sons',455603.00,37966.92,'Verified',0.313,28702.00,'Part-time',320889.00,0,'Medium','High','Low','Low','High','High School',0.377
+'CS230095','Retired',40,'Engineer','Other','Keller-Acevedo',256863.00,21405.25,'Pending',0.221,28333.00,'Part-time',409470.00,12,'Low','Low','High','High','Medium','Doctorate',0.594
+'CS353632','Employed',10,'Other','Education','Yates-Li',246232.00,20519.33,'Failed',0.591,40649.00,'Rental',37529.00,2,'High','High','High','Medium','Low','Bachelor',0.543
+'CS435359','Unemployed',24,'Other','Healthcare','Alexander-Garcia',85480.00,7123.33,'Verified',0.394,27980.00,NULL,464812.00,2,'Low','Medium','High','Medium','Medium','Bachelor',0.327
+'CS997640','Self-employed',28,'Teacher','Other','Jarvis-Briggs',94452.00,7871.00,'Verified',0.069,13536.00,'Rental',205480.00,16,'Medium','Low','High','Medium','High','Master',0.320
+'CS365031','Retired',10,'Teacher','Education','Sullivan, Carlson and Riley',345646.00,28803.83,'Failed',0.742,2564.00,NULL,594407.00,1,'Low','High','Medium','Low','Medium','Master',0.141
+'CS616098','Retired',36,'Other','Finance','Mcdaniel Ltd',434181.00,36181.75,'Failed',0.685,33144.00,'Rental',531764.00,12,'Low','High','Low','Medium','High','Bachelor',0.439
+'CS767771','Employed',0,'Engineer','Education','Garcia Inc',84712.00,7059.33,'Failed',0.812,2720.00,'Rental',20602.00,18,'Medium','High','High','Medium','Low','Master',0.028
+'CS211745','Self-employed',19,'Doctor','Other','Hobbs and Sons',496471.00,41372.58,'Verified',0.414,47.00,'Rental',69611.00,16,'Medium','Low','Medium','Medium','Medium','High School',0.140
+'CS652071','Employed',0,'Other','Education','Rivera, Barton and Beck',93707.00,7808.92,'Verified',0.35,12861.00,NULL,44384.00,1,'High','Medium','Low','Low','Low','High School',0.421
+'CS903650','Unemployed',34,'Doctor','Technology','Reyes, Frazier and Kirk',400618.00,33384.83,'Verified',0.179,47833.00,'Rental',764465.00,12,'Low','Low','High','High','Low','Master',0.496
+'CS780190','Self-employed',3,'Doctor','Technology','Reed Group',414233.00,34519.42,'Pending',0.157,48093.00,'Part-time',720463.00,12,'Low','Low','High','Medium','Low','High School',0.530
+'CS442564','Employed',20,'Engineer','Healthcare','Beard-Pearson',194024.00,16168.67,'Failed',0.293,5407.00,NULL,120190.00,16,'Medium','High','High','Medium','High','Doctorate',0.073
+'CS669645','Retired',4,'Engineer','Education','Wallace, Garcia and Smith',265964.00,22163.67,'Verified',0.907,3881.00,'Part-time',337982.00,20,'High','Low','High','High','High','High School',0.445
+'CS631277','Self-employed',39,'Other','Other','Wong and Sons',127984.00,10665.33,'Pending',0.732,16276.00,NULL,239271.00,7,'Low','Low','Medium','Low','Low','Master',0.116
+'CS496846','Unemployed',22,'Doctor','Education','Smith PLC',108669.00,9055.75,'Failed',0.286,33774.00,'Rental',337266.00,9,'High','High','Medium','Medium','Medium','Doctorate',0.567
+'CS150481','Unemployed',18,'Manager','Healthcare','Bennett Group',45253.00,3771.08,'Pending',0.376,13474.00,'Rental',654024.00,14,'Low','High','Medium','High','Low','Bachelor',0.192
+'CS163455','Unemployed',21,'Other','Technology','Smith, Arias and Mcintosh',404016.00,33668.00,'Verified',0.876,49567.00,'Rental',231960.00,10,'Low','Medium','High','Low','Medium','High School',0.380
+'CS549581','Unemployed',28,'Doctor','Healthcare','White, Neal and Barber',31494.00,2624.50,'Verified',0.896,1240.00,NULL,690003.00,18,'Medium','High','Medium','Low','Low','Doctorate',0.264
+'CS922407','Retired',24,'Other','Other','Smith LLC',355608.00,29634.00,'Failed',0.9,39362.00,'Rental',145527.00,17,'Low','Medium','Low','High','Medium','Master',0.217
+'CS815902','Self-employed',0,'Teacher','Technology','Torres, Brown and Johnson',164948.00,13745.67,'Failed',0.774,33399.00,'Part-time',181912.00,15,'Medium','Medium','Low','Low','Low','Master',0.442
+'CS795799','Self-employed',35,'Manager','Other','Gonzalez-Roach',204223.00,17018.58,'Pending',0.066,35480.00,NULL,680673.00,8,'High','High','Low','Low','Medium','Doctorate',0.375
+'CS228944','Employed',14,'Other','Healthcare','Wagner Group',31230.00,2602.50,'Verified',0.9,20421.00,NULL,479999.00,8,'Medium','Medium','Low','Medium','Medium','Master',0.207
+'CS270568','Unemployed',11,'Doctor','Technology','Rogers, Hill and Brown',310293.00,25857.75,'Failed',0.059,40743.00,'Part-time',351757.00,6,'Low','Medium','Medium','Low','High','High School',0.460
+'CS265659','Self-employed',39,'Other','Technology','Mendoza, Lawrence and Berry',415516.00,34626.33,'Failed',0.523,17573.00,'Investment',791786.00,3,'Low','High','Medium','Medium','Medium','High School',0.442
+'CS761056','Self-employed',14,'Other','Finance','Allen, Rollins and Santana',173055.00,14421.25,'Verified',0.435,23138.00,'Part-time',596412.00,10,'Low','Medium','Medium','High','High','Master',0.417
+'CS257152','Self-employed',0,'Engineer','Finance','Vaughn LLC',104672.00,8722.67,'Pending',0.568,7384.00,'Investment',740836.00,9,'Low','High','Low','Medium','Low','High School',0.019
+'CS574552','Unemployed',23,'Manager','Healthcare','Clark-Rodriguez',418878.00,34906.50,'Verified',0.104,18487.00,'Part-time',330897.00,4,'Low','High','High','Low','Low','High School',0.016
+'CS376857','Self-employed',8,'Manager','Healthcare','Hill Inc',252959.00,21079.92,'Failed',0.681,17251.00,'Part-time',76173.00,19,'High','High','Medium','High','High','Doctorate',0.540
+'CS245365','Self-employed',40,'Manager','Education','Cantrell, Davis and Simon',275043.00,22920.25,'Verified',0.523,16053.00,'Rental',74797.00,2,'High','High','Medium','Medium','High','Bachelor',0.591
+'CS643600','Employed',35,'Doctor','Healthcare','Spears-Jordan',268195.00,22349.58,'Pending',0.949,24811.00,'Part-time',662632.00,15,'Medium','Medium','Low','Medium','High','Bachelor',0.193
+'CS137169','Unemployed',26,'Engineer','Technology','Kelly Group',92776.00,7731.33,'Pending',0.447,11986.00,'Part-time',226432.00,11,'Medium','Medium','Low','Medium','High','High School',0.266
+'CS956134','Retired',28,'Doctor','Other','Moore, Mcdowell and Gallegos',451223.00,37601.92,'Pending',0.411,10080.00,'Rental',163787.00,2,'Low','Medium','Low','Medium','Low','High School',0.102
+'CS692829','Employed',1,'Other','Other','Pope-Fischer',330117.00,27509.75,'Failed',0.764,48739.00,'Rental',539315.00,4,'Medium','Low','Medium','Low','Low','Doctorate',0.232
+'CS425614','Retired',17,'Manager','Education','Flynn LLC',405333.00,33777.75,'Pending',0.505,37592.00,'Investment',311045.00,10,'Low','Low','Medium','High','Medium','Bachelor',0.011
+'CS946841','Self-employed',13,'Manager','Finance','Smith Group',116495.00,9707.92,'Failed',0.158,24303.00,'Investment',488916.00,2,'High','Medium','High','Medium','Low','Doctorate',0.317
+'CS394059','Employed',1,'Other','Finance','Lamb-Mueller',476345.00,39695.42,'Failed',0.855,11610.00,'Rental',635138.00,19,'Medium','Low','Medium','High','Low','Doctorate',0.592
+'CS267231','Employed',2,'Manager','Finance','Gibbs Group',112717.00,9393.08,'Verified',0.033,47609.00,'Part-time',157421.00,1,'Low','Medium','Low','Low','Medium','Bachelor',0.422
+'CS875127','Self-employed',19,'Engineer','Other','Sanchez, Davis and Hernandez',194014.00,16167.83,'Failed',0.519,11288.00,'Part-time',367618.00,11,'High','Medium','High','Medium','Low','High School',0.514
+'CS734465','Retired',39,'Teacher','Other','Reese PLC',86795.00,7232.92,'Pending',0.063,24336.00,'Part-time',149881.00,4,'Medium','High','Medium','Low','Low','Bachelor',0.298
+'CS619972','Self-employed',10,'Manager','Other','Evans-Little',96161.00,8013.42,'Failed',0.704,22223.00,NULL,81195.00,18,'Low','High','Medium','Low','Medium','Doctorate',0.252
+'CS709733','Retired',18,'Teacher','Other','Singleton, Green and Clark',270139.00,22511.58,'Failed',0.185,22522.00,'Rental',81931.00,15,'High','High','Medium','Medium','Medium','Doctorate',0.292
+'CS155730','Self-employed',6,'Doctor','Healthcare','Watkins-Peters',28262.00,2355.17,'Verified',0.642,46255.00,'Part-time',703258.00,13,'High','Low','High','Low','Medium','High School',0.183
+'CS577233','Self-employed',14,'Other','Healthcare','Phillips-Adams',127648.00,10637.33,'Verified',0.907,28407.00,'Part-time',736089.00,7,'Medium','High','Low','Medium','Low','High School',0.565
+'CS283760','Retired',23,'Doctor','Other','Park Group',387273.00,32272.75,'Pending',0.397,37211.00,'Rental',711617.00,2,'Medium','Medium','High','High','High','Doctorate',0.430
+'CS369969','Retired',17,'Manager','Healthcare','Johnson PLC',362760.00,30230.00,'Verified',0.991,35144.00,NULL,288831.00,10,'High','High','High','High','Low','Doctorate',0.407
+'CS458174','Self-employed',12,'Engineer','Finance','Davis-Robinson',337331.00,28110.92,'Failed',0.634,22034.00,'Rental',62181.00,9,'High','Medium','Low','High','Medium','Bachelor',0.434
+'CS312838','Retired',10,'Engineer','Education','Kelly and Sons',90388.00,7532.33,'Verified',0.703,21728.00,'Part-time',560760.00,10,'Low','Medium','Medium','High','Low','High School',0.331
+'CS352403','Retired',1,'Teacher','Other','Jordan, Crawford and Rogers',68288.00,5690.67,'Failed',0.318,40196.00,'Investment',375476.00,12,'Low','High','Medium','Low','Low','Master',0.326
+'CS809921','Employed',22,'Other','Finance','Gomez, Ball and White',208260.00,17355.00,'Pending',0.026,28426.00,'Part-time',561373.00,4,'High','Low','Medium','Medium','Medium','Master',0.328
+'CS683420','Self-employed',9,'Other','Technology','Davis Ltd',24296.00,2024.67,'Pending',0.149,46204.00,'Part-time',337867.00,3,'Medium','Low','High','Medium','Low','Master',0.219
+'CS528893','Self-employed',7,'Doctor','Other','Adams-White',45170.00,3764.17,'Pending',0.774,15658.00,'Rental',792657.00,14,'Medium','Low','Low','Medium','Low','Doctorate',0.319
+'CS114324','Retired',5,'Manager','Education','Hurst-Martinez',211027.00,17585.58,'Failed',0.484,26581.00,'Rental',518491.00,3,'Medium','High','Medium','Low','Low','High School',0.544
+'CS179250','Self-employed',11,'Doctor','Other','Bishop-Osborn',46940.00,3911.67,'Failed',0.557,28642.00,NULL,410318.00,13,'Low','High','Medium','High','High','Master',0.569
+'CS924243','Employed',9,'Teacher','Other','Rogers, Cordova and Schultz',84887.00,7073.92,'Pending',0.983,30028.00,'Investment',793557.00,17,'Medium','High','Low','Low','High','Master',0.066
+'CS935716','Retired',29,'Other','Other','Salazar, Stanton and Grant',373234.00,31102.83,'Verified',0.851,10239.00,NULL,577218.00,2,'High','High','Medium','Medium','High','High School',0.019
+'CS545004','Employed',26,'Engineer','Finance','Franco, Castillo and Ali',38126.00,3177.17,'Verified',0.339,28769.00,NULL,656752.00,8,'Medium','Low','Medium','High','High','Bachelor',0.362
+'CS706475','Retired',13,'Engineer','Education','Garner, Osborne and Whitney',400734.00,33394.50,'Verified',0.994,37932.00,'Part-time',460835.00,9,'Medium','Low','Low','Medium','Low','Bachelor',0.326
+'CS486939','Unemployed',40,'Other','Finance','Sanders, Brown and Nunez',426769.00,35564.08,'Failed',0.751,6031.00,'Part-time',285286.00,9,'Low','Low','High','High','Medium','Master',0.075
+'CS904949','Self-employed',10,'Teacher','Finance','Lawson-Perkins',64627.00,5385.58,'Verified',0.216,23896.00,'Part-time',623434.00,6,'High','Low','Low','Low','Medium','High School',0.450
+'CS315671','Self-employed',9,'Engineer','Healthcare','Wallace-Molina',425230.00,35435.83,'Failed',0.602,21966.00,'Part-time',746874.00,16,'Low','High','Low','Medium','Medium','High School',0.590
+'CS407746','Employed',36,'Engineer','Healthcare','Neal, Chavez and Flores',161626.00,13468.83,'Failed',0.762,33200.00,'Part-time',699041.00,3,'Medium','High','Medium','Medium','Low','Master',0.448
+'CS325919','Unemployed',5,'Teacher','Healthcare','Garcia Inc',443547.00,36962.25,'Verified',0.383,41788.00,'Investment',346200.00,14,'High','Low','Low','High','Low','Bachelor',0.148
+'CS415864','Unemployed',2,'Engineer','Finance','Willis-Jones',194295.00,16191.25,'Verified',0.028,14020.00,NULL,686567.00,10,'Low','High','High','Low','Medium','Bachelor',0.497
+'CS176768','Unemployed',12,'Doctor','Technology','Lucero Group',221729.00,18477.42,'Pending',0.308,2632.00,'Investment',172972.00,4,'Low','High','Medium','High','Low','High School',0.534
+'CS472691','Employed',16,'Engineer','Finance','Campbell, Hill and Ross',366389.00,30532.42,'Verified',0.089,2555.00,'Rental',386607.00,2,'Medium','High','Medium','Medium','High','High School',0.282
+'CS749902','Self-employed',19,'Other','Technology','Mendez and Sons',348720.00,29060.00,'Pending',0.732,45406.00,NULL,625282.00,1,'Low','High','Medium','High','High','Bachelor',0.313
+'CS619946','Unemployed',16,'Doctor','Education','Bradshaw Inc',317062.00,26421.83,'Verified',0.082,18002.00,'Part-time',220179.00,10,'Medium','Medium','High','High','Medium','Bachelor',0.009
+'CS696164','Employed',32,'Teacher','Technology','Hoffman-Odonnell',331784.00,27648.67,'Verified',0.869,36312.00,'Rental',612844.00,6,'Medium','High','Low','Medium','High','Bachelor',0.439
+'CS978295','Unemployed',36,'Engineer','Healthcare','Osborn-Mills',476317.00,39693.08,'Failed',0.48,13234.00,NULL,578690.00,18,'High','Low','Medium','High','Low','Bachelor',0.042
+'CS620188','Self-employed',37,'Doctor','Finance','Simpson PLC',446003.00,37166.92,'Pending',0.626,21135.00,'Part-time',776200.00,5,'Medium','High','Medium','High','Low','Doctorate',0.362
+'CS565038','Self-employed',11,'Teacher','Other','Miller Group',148169.00,12347.42,'Verified',0.9,27955.00,'Rental',507245.00,11,'High','Low','High','Low','Low','Bachelor',0.521
+'CS463519','Unemployed',4,'Doctor','Other','Gill-Myers',274696.00,22891.33,'Failed',0.993,40546.00,NULL,304285.00,13,'Low','Medium','High','High','Low','High School',0.072
+'CS555462','Employed',38,'Teacher','Education','Huynh-Brooks',21136.00,1761.33,'Verified',0.183,27843.00,'Rental',382806.00,20,'Medium','High','High','High','High','Bachelor',0.006
+'CS485387','Employed',4,'Doctor','Other','Leon-Lewis',177151.00,14762.58,'Failed',0.678,32041.00,'Investment',687987.00,19,'High','High','Medium','Low','Medium','High School',0.007
+'CS514454','Employed',25,'Engineer','Other','Andrews and Sons',190349.00,15862.42,'Failed',0.719,25462.00,NULL,237751.00,17,'High','Medium','Medium','Medium','Medium','High School',0.434
+'CS177109','Unemployed',4,'Other','Other','Ray, Harrington and Jones',488136.00,40678.00,'Pending',0.896,6641.00,'Investment',56692.00,1,'High','Low','Medium','High','High','Doctorate',0.034
+'CS769096','Retired',28,'Engineer','Healthcare','Pennington PLC',47412.00,3951.00,'Verified',0.338,37585.00,'Investment',625235.00,3,'High','Medium','Medium','High','Low','Doctorate',0.522
+'CS476753','Employed',17,'Doctor','Education','Johnson, Barnes and Gomez',155107.00,12925.58,'Pending',0.05,16571.00,'Part-time',40916.00,10,'High','Low','Medium','High','Low','High School',0.040
+'CS236543','Employed',4,'Teacher','Education','Johnson, Hoffman and Browning',178244.00,14853.67,'Pending',0.614,31019.00,'Investment',364492.00,11,'Medium','Medium','High','Low','Medium','Bachelor',0.441
+'CS838868','Employed',28,'Doctor','Technology','Mooney, Doyle and Brown',108177.00,9014.75,'Failed',0.987,32931.00,'Part-time',774424.00,20,'Medium','Medium','Low','Low','Low','Master',0.455
+'CS563151','Employed',22,'Teacher','Technology','Salazar Inc',128781.00,10731.75,'Failed',0.632,38521.00,'Investment',382453.00,11,'Low','High','Low','Low','Low','High School',0.417
+'CS375688','Unemployed',40,'Other','Technology','Chang-Norris',417245.00,34770.42,'Pending',0.973,1268.00,'Part-time',103181.00,8,'High','High','Medium','Low','Medium','High School',0.556
+'CS165547','Employed',29,'Engineer','Education','Woodward Group',379595.00,31632.92,'Pending',0.681,13263.00,'Rental',508342.00,12,'High','Medium','Low','High','Medium','High School',0.450
+'CS118101','Employed',20,'Engineer','Other','Shaw, Hernandez and Davis',312040.00,26003.33,'Failed',0.388,32706.00,NULL,436446.00,14,'Medium','High','Medium','Medium','Low','Doctorate',0.219
+'CS867586','Employed',37,'Other','Finance','Mccoy Inc',198289.00,16524.08,'Failed',0.971,18532.00,'Rental',404910.00,1,'High','Medium','Low','High','Low','Doctorate',0.509
+'CS213855','Employed',16,'Doctor','Other','Henderson-Gibson',440978.00,36748.17,'Failed',0.217,49011.00,'Rental',377079.00,7,'Low','Medium','High','High','High','Bachelor',0.232
+'CS154780','Self-employed',14,'Engineer','Education','Valenzuela, Torres and Cooper',461446.00,38453.83,'Failed',0.958,9306.00,'Part-time',580674.00,6,'Low','High','Low','Medium','Low','High School',0.509
+'CS686880','Unemployed',30,'Engineer','Education','Garcia-Adams',449838.00,37486.50,'Failed',0.802,36115.00,'Part-time',523571.00,1,'Medium','Medium','Medium','Medium','Medium','Master',0.300
+'CS878130','Unemployed',11,'Manager','Finance','Thomas, Figueroa and Griffith',246738.00,20561.50,'Verified',0.966,9634.00,'Rental',39546.00,13,'Medium','Medium','High','Medium','High','Bachelor',0.185
+'CS173970','Self-employed',1,'Engineer','Finance','Hayes LLC',454890.00,37907.50,'Verified',0.428,353.00,'Investment',774181.00,14,'Low','Medium','Medium','Low','Medium','Bachelor',0.534
+'CS454779','Self-employed',9,'Teacher','Finance','Wallace-Santos',461814.00,38484.50,'Pending',0.768,41254.00,NULL,155918.00,4,'Medium','Medium','Low','High','Low','Master',0.557
+'CS871100','Unemployed',12,'Manager','Other','Beasley Ltd',177827.00,14818.92,'Verified',0.36,29943.00,'Part-time',147361.00,6,'Medium','Low','Low','Medium','Low','Bachelor',0.068
+'CS808056','Retired',25,'Manager','Education','Green-Welch',495321.00,41276.75,'Verified',0.441,47181.00,NULL,542439.00,9,'Low','High','Low','Medium','High','High School',0.268
+'CS691358','Self-employed',34,'Engineer','Technology','Boyd-Chavez',59309.00,4942.42,'Verified',0.42,33887.00,'Part-time',594426.00,19,'Medium','Medium','Medium','Low','Low','Bachelor',0.575
+'CS620062','Unemployed',4,'Other','Other','Smith-Walters',161996.00,13499.67,'Pending',0.734,45767.00,'Rental',313753.00,17,'Medium','High','Medium','Low','Medium','High School',0.180
+'CS705250','Unemployed',40,'Engineer','Finance','Murray-Kennedy',347621.00,28968.42,'Pending',0.819,36151.00,'Investment',787567.00,3,'Low','Medium','Low','High','Medium','Bachelor',0.074
+'CS461214','Unemployed',1,'Doctor','Education','Wong-Young',103963.00,8663.58,'Pending',0.875,46866.00,'Part-time',494070.00,19,'High','Medium','Medium','Low','Low','High School',0.037
+'CS539540','Self-employed',32,'Manager','Technology','Porter, Kelley and Ward',322948.00,26912.33,'Verified',0.207,34175.00,NULL,169762.00,15,'High','Low','Medium','Low','Low','Master',0.370
+'CS147599','Unemployed',29,'Doctor','Finance','Mcguire Group',487663.00,40638.58,'Failed',0.052,29326.00,'Rental',146423.00,20,'Low','Low','Low','Low','High','Master',0.513
+'CS716787','Self-employed',4,'Teacher','Technology','Delgado-Miller',65167.00,5430.58,'Verified',0.087,30492.00,'Part-time',589369.00,4,'Medium','High','Low','High','High','High School',0.296
+'CS173839','Self-employed',12,'Other','Other','Jones LLC',352492.00,29374.33,'Verified',0.067,17640.00,'Rental',584018.00,9,'Low','Low','Medium','Low','Medium','Bachelor',0.189
+'CS587130','Unemployed',16,'Other','Education','Blankenship LLC',147539.00,12294.92,'Pending',0.837,11300.00,'Investment',431952.00,14,'Low','Medium','Medium','Low','Medium','Bachelor',0.469
+'CS970648','Unemployed',36,'Doctor','Other','Cole, Sutton and Daniel',154972.00,12914.33,'Pending',0.98,40372.00,'Part-time',667833.00,9,'Medium','Medium','Medium','Medium','Low','Doctorate',0.094
+'CS831931','Employed',17,'Engineer','Healthcare','Nelson Group',40476.00,3373.00,'Verified',0.128,4085.00,'Part-time',56594.00,6,'High','Medium','Low','High','Medium','Bachelor',0.319
+'CS495421','Employed',20,'Engineer','Other','Marshall, Bennett and Clark',353756.00,29479.67,'Verified',0.643,45110.00,'Investment',90054.00,7,'Medium','Low','Low','Low','Low','Bachelor',0.322
+'CS990471','Employed',22,'Engineer','Finance','Coleman LLC',237498.00,19791.50,'Pending',0.623,3558.00,'Rental',594290.00,19,'High','High','Low','Low','High','Bachelor',0.016
+'CS514443','Retired',39,'Teacher','Education','Miller-Sawyer',144501.00,12041.75,'Pending',0.003,23518.00,NULL,285409.00,19,'High','High','Low','Medium','Low','Bachelor',0.278
+'CS807017','Unemployed',29,'Teacher','Other','Tanner-Espinoza',384835.00,32069.58,'Verified',0.737,37776.00,'Rental',560765.00,13,'Medium','Medium','High','Low','High','High School',0.546
+'CS274630','Unemployed',14,'Other','Other','Smith, Moore and Silva',489482.00,40790.17,'Failed',0.022,21654.00,'Rental',197413.00,8,'Medium','Medium','Low','Low','High','Master',0.243
+'CS139109','Retired',8,'Other','Healthcare','Bryant LLC',301144.00,25095.33,'Failed',0.276,33856.00,'Rental',102341.00,13,'Low','High','Low','Medium','Low','Doctorate',0.393
+'CS808932','Self-employed',31,'Doctor','Technology','Rojas PLC',316102.00,26341.83,'Verified',0.958,49953.00,NULL,402596.00,19,'Low','Medium','Low','Medium','Medium','Bachelor',0.306
+'CS367960','Unemployed',28,'Teacher','Healthcare','Butler and Sons',451434.00,37619.50,'Verified',0.363,11902.00,'Investment',539152.00,3,'High','High','Medium','High','Low','Bachelor',0.535
+'CS878890','Retired',30,'Other','Education','Brown, Lee and Kent',64631.00,5385.92,'Verified',0.318,36088.00,'Rental',326040.00,8,'Low','High','Low','Medium','Low','Bachelor',0.542
+'CS932128','Unemployed',29,'Engineer','Finance','Evans-Johnson',320010.00,26667.50,'Failed',0.063,22886.00,'Part-time',459661.00,12,'Medium','Low','High','Medium','High','Master',0.021
+'CS746373','Employed',18,'Engineer','Finance','Wheeler, Jordan and Turner',26628.00,2219.00,'Failed',0.055,49540.00,'Part-time',308498.00,19,'High','Low','Low','High','High','Doctorate',0.017
+'CS386431','Retired',26,'Other','Healthcare','Hicks Group',260344.00,21695.33,'Verified',0.332,32347.00,'Investment',32529.00,5,'Medium','Medium','Medium','Medium','Low','Doctorate',0.404
+'CS173740','Employed',10,'Teacher','Technology','Turner, Olson and Giles',297587.00,24798.92,'Failed',0.979,42836.00,'Part-time',763502.00,15,'Low','High','Medium','Medium','Low','Bachelor',0.129
+'CS150249','Retired',12,'Teacher','Education','Johnson, Martinez and Tucker',263511.00,21959.25,'Pending',0.734,33154.00,NULL,374153.00,13,'Low','Medium','High','High','Low','Master',0.303
+'CS747054','Employed',32,'Teacher','Healthcare','Lopez Ltd',373752.00,31146.00,'Verified',0.147,7801.00,'Part-time',668057.00,17,'Medium','High','Low','High','High','Doctorate',0.316
+'CS151260','Self-employed',9,'Teacher','Education','Jackson-Ibarra',418689.00,34890.75,'Verified',0.278,48252.00,'Rental',39138.00,1,'High','Low','Low','Medium','Low','Master',0.153
+'CS526305','Employed',4,'Other','Healthcare','Williams-Rivera',358904.00,29908.67,'Pending',0.999,25153.00,NULL,360570.00,16,'Low','Low','Low','Medium','Medium','High School',0.195
+'CS496064','Retired',37,'Doctor','Finance','Washington-Welch',111925.00,9327.08,'Pending',0.838,37505.00,NULL,621348.00,18,'High','Medium','High','High','High','High School',0.065
+'CS453252','Retired',23,'Manager','Other','Martin Ltd',477899.00,39824.92,'Pending',0.772,18587.00,'Part-time',97875.00,20,'High','Medium','Low','High','High','High School',0.542
+'CS199572','Retired',35,'Manager','Healthcare','Davis, Johnson and Anderson',247315.00,20609.58,'Verified',0.808,38587.00,'Investment',264087.00,4,'Medium','Medium','Medium','Medium','Low','Bachelor',0.259
+'CS319238','Retired',33,'Other','Other','Grant-Ruiz',111006.00,9250.50,'Pending',0.616,7506.00,NULL,51176.00,17,'Low','Low','High','Low','Medium','Bachelor',0.420
+'CS746699','Self-employed',28,'Manager','Technology','Leon and Sons',112576.00,9381.33,'Pending',0.031,40055.00,'Rental',430640.00,3,'Medium','High','Low','Low','Medium','Bachelor',0.306
+'CS245319','Employed',23,'Engineer','Education','Christian Inc',440784.00,36732.00,'Verified',0.25,1186.00,'Investment',413265.00,3,'High','Low','Medium','Medium','Low','High School',0.133
+'CS814600','Unemployed',37,'Other','Finance','Aguilar, Fields and Robertson',109776.00,9148.00,'Pending',0.654,42998.00,'Rental',456626.00,0,'High','Low','Medium','High','Medium','Doctorate',0.029
+'CS243404','Retired',40,'Engineer','Technology','Jimenez-Jackson',159330.00,13277.50,'Pending',0.34,15104.00,'Part-time',572654.00,6,'Low','Medium','High','Medium','High','Master',0.505
+'CS810145','Employed',30,'Other','Healthcare','Gray Group',478553.00,39879.42,'Pending',0.664,40366.00,NULL,306679.00,0,'Medium','High','Low','Low','High','Master',0.280
+'CS717304','Unemployed',22,'Manager','Healthcare','Cox, Carr and Hall',134978.00,11248.17,'Pending',0.979,34829.00,'Rental',72425.00,15,'High','Medium','Medium','Medium','Medium','Doctorate',0.451
+'CS589894','Employed',18,'Doctor','Finance','Garza-Goodwin',190008.00,15834.00,'Verified',0.868,25174.00,NULL,244145.00,20,'High','Low','High','Low','Medium','Doctorate',0.414
+'CS633637','Employed',0,'Teacher','Education','Hale Group',246214.00,20517.83,'Pending',0.862,10326.00,'Part-time',455738.00,14,'Medium','Medium','Medium','Low','High','High School',0.474
+'CS344715','Retired',35,'Engineer','Technology','Gonzales, Gonzalez and Mcintyre',291014.00,24251.17,'Pending',0.109,45941.00,NULL,122109.00,17,'Low','Medium','Low','High','Low','Bachelor',0.275
+'CS711657','Employed',13,'Engineer','Finance','Thornton and Sons',54031.00,4502.58,'Failed',0.923,41333.00,NULL,372284.00,18,'Medium','Low','Medium','High','Medium','High School',0.518
+'CS709338','Retired',13,'Manager','Finance','Rivera Inc',315014.00,26251.17,'Failed',0.407,45828.00,NULL,246611.00,14,'Medium','Medium','Low','Medium','Low','Master',0.408
+'CS652817','Retired',2,'Other','Other','Durham Ltd',289603.00,24133.58,'Verified',0.198,4484.00,'Rental',226243.00,4,'Medium','High','Low','Low','Low','Doctorate',0.123
+'CS746510','Employed',0,'Manager','Education','Bryan LLC',194871.00,16239.25,'Verified',0.688,13371.00,'Part-time',680747.00,4,'High','High','Low','Medium','Low','Master',0.262
+'CS637893','Retired',28,'Teacher','Technology','Lee PLC',445010.00,37084.17,'Failed',0.478,23405.00,'Rental',539388.00,1,'High','Low','Low','Low','Medium','Doctorate',0.503
+'CS567745','Unemployed',17,'Manager','Education','Reynolds Ltd',410860.00,34238.33,'Failed',0.149,10687.00,'Part-time',413772.00,19,'Low','Low','High','Medium','Low','Bachelor',0.488
+'CS475825','Employed',5,'Doctor','Healthcare','Moore, Mahoney and Walker',89165.00,7430.42,'Verified',0.377,39600.00,NULL,658040.00,7,'High','Low','Low','Medium','Low','High School',0.257
+'CS215493','Employed',9,'Manager','Other','Rogers, Dunlap and Fernandez',452805.00,37733.75,'Verified',0.403,9943.00,'Rental',101352.00,17,'Low','High','Medium','Medium','Low','High School',0.415
+'CS593034','Retired',9,'Engineer','Other','Moore PLC',235523.00,19626.92,'Verified',0.771,16016.00,'Rental',487545.00,0,'High','High','High','Low','High','Doctorate',0.070
+'CS380900','Self-employed',0,'Engineer','Healthcare','Jackson, Snyder and Heath',73015.00,6084.58,'Failed',0.202,29332.00,'Rental',403468.00,10,'High','Low','Medium','Medium','Medium','High School',0.212
+'CS583843','Self-employed',5,'Engineer','Technology','Dyer Group',247523.00,20626.92,'Verified',0.132,21744.00,'Part-time',384913.00,9,'High','Medium','Low','High','Medium','High School',0.158
+'CS490415','Unemployed',2,'Other','Other','Hunter, Smith and Foster',284037.00,23669.75,'Pending',0.948,25262.00,NULL,313713.00,5,'Medium','High','High','Low','High','Master',0.093
+'CS349295','Retired',9,'Manager','Finance','Carter-Fox',72708.00,6059.00,'Failed',0.152,40981.00,NULL,754739.00,0,'Medium','Low','Low','Medium','Medium','Master',0.083
+'CS984139','Employed',9,'Teacher','Healthcare','Martinez-Kennedy',21032.00,1752.67,'Verified',0.332,23755.00,'Part-time',122794.00,8,'Medium','High','Medium','Medium','Medium','Master',0.389
+'CS490096','Unemployed',16,'Other','Technology','Miles, Green and Allison',334672.00,27889.33,'Verified',0.985,40155.00,'Part-time',335151.00,2,'Medium','High','Low','High','Medium','Bachelor',0.201
+'CS429794','Retired',1,'Engineer','Other','Martinez-Smith',35840.00,2986.67,'Pending',0.626,38813.00,NULL,227469.00,20,'Low','Low','Low','Low','Low','Doctorate',0.425
+'CS784376','Self-employed',6,'Teacher','Education','Thomas-Phillips',66210.00,5517.50,'Pending',0.86,25129.00,'Investment',132237.00,5,'Medium','Medium','High','Low','High','Bachelor',0.034
+'CS238264','Retired',37,'Engineer','Healthcare','Johnson and Sons',449593.00,37466.08,'Failed',0.084,34282.00,'Investment',772023.00,13,'Low','Medium','Medium','Medium','High','Bachelor',0.565
+'CS379786','Self-employed',18,'Other','Other','Hill-Moreno',131013.00,10917.75,'Failed',0.496,462.00,'Rental',178314.00,1,'Medium','Medium','Medium','High','Medium','Doctorate',0.087
+'CS936853','Retired',1,'Teacher','Technology','Snyder-May',278657.00,23221.42,'Pending',0.016,38885.00,'Part-time',539273.00,17,'High','Medium','Medium','Medium','Low','Bachelor',0.521
+'CS839936','Retired',9,'Doctor','Finance','Ramirez PLC',62303.00,5191.92,'Pending',0.269,18177.00,'Investment',518972.00,13,'Low','Medium','Low','Medium','Medium','Bachelor',0.587
+'CS326527','Retired',40,'Doctor','Technology','White-Mccarty',187814.00,15651.17,'Failed',0.932,17907.00,'Investment',348591.00,14,'High','Medium','Low','Medium','Medium','High School',0.450
+'CS506536','Self-employed',7,'Doctor','Technology','Brady-Johnson',63088.00,5257.33,'Pending',0.379,1540.00,'Investment',526390.00,5,'Medium','Medium','High','Medium','Medium','Doctorate',0.398
+'CS218961','Employed',39,'Other','Finance','Francis, Richardson and Peterson',160892.00,13407.67,'Pending',0.068,46955.00,'Investment',581377.00,14,'High','High','Medium','High','High','Bachelor',0.509
+'CS377942','Unemployed',4,'Teacher','Finance','David-Blevins',425403.00,35450.25,'Pending',0.69,44266.00,'Rental',242667.00,6,'Low','Medium','Low','High','High','Bachelor',0.598
+'CS594735','Unemployed',0,'Manager','Education','Salazar-Johnson',459225.00,38268.75,'Pending',0.934,195.00,NULL,224168.00,1,'Medium','Low','Low','Low','High','High School',0.079
+'CS333126','Self-employed',18,'Doctor','Other','Webb Inc',386834.00,32236.17,'Failed',0.45,23559.00,'Part-time',327155.00,3,'Low','High','Low','Low','High','Bachelor',0.213
+'CS832405','Employed',39,'Engineer','Education','Vasquez, Joseph and Spears',277065.00,23088.75,'Pending',0.877,25496.00,'Part-time',281808.00,12,'Medium','Low','Low','High','High','Doctorate',0.527
+'CS644323','Employed',10,'Teacher','Finance','Benson-Chang',469851.00,39154.25,'Verified',0.457,38399.00,'Rental',464694.00,13,'High','High','High','Medium','High','Doctorate',0.083
+'CS934538','Unemployed',13,'Teacher','Healthcare','Brown Inc',488168.00,40680.67,'Verified',0.904,14045.00,'Investment',560510.00,0,'Medium','Low','Low','Low','High','Doctorate',0.211
+'CS467421','Self-employed',12,'Other','Healthcare','Davis Group',289970.00,24164.17,'Pending',0.752,22293.00,NULL,733467.00,9,'High','Low','Low','Low','Low','Master',0.406
+'CS785272','Self-employed',18,'Other','Technology','Boyle-Hogan',468344.00,39028.67,'Pending',0.898,14212.00,'Rental',332079.00,7,'High','High','Medium','High','High','Master',0.054
+'CS453075','Unemployed',34,'Manager','Finance','Wilson, Lopez and Miller',125235.00,10436.25,'Failed',0.607,48871.00,'Part-time',236892.00,19,'Low','Medium','High','Low','Medium','Doctorate',0.097
+'CS628712','Self-employed',18,'Engineer','Education','Gonzalez-Hall',259821.00,21651.75,'Verified',0.696,13192.00,'Investment',278757.00,13,'Medium','High','Low','Low','Medium','Bachelor',0.106
+'CS514495','Retired',24,'Manager','Healthcare','Ford Inc',284235.00,23686.25,'Pending',0.823,29348.00,'Investment',136184.00,10,'Medium','Low','High','Medium','Medium','Master',0.001
+'CS382224','Self-employed',19,'Teacher','Healthcare','Vasquez-Wolfe',450544.00,37545.33,'Failed',0.857,37967.00,'Investment',657251.00,16,'Medium','Medium','High','High','Medium','High School',0.553
+'CS825935','Employed',29,'Teacher','Other','Kaufman, Miller and Miller',95341.00,7945.08,'Verified',0.936,28980.00,'Investment',612853.00,3,'Low','High','Low','Medium','Low','Bachelor',0.448
+'CS906639','Employed',25,'Manager','Finance','Davis, Haas and Hill',142107.00,11842.25,'Failed',0.468,35702.00,'Part-time',583723.00,4,'High','Low','Low','Medium','Medium','Doctorate',0.192
+'CS204518','Self-employed',19,'Teacher','Healthcare','Wilson PLC',163621.00,13635.08,'Failed',0.98,31696.00,'Part-time',346914.00,9,'Low','Medium','High','Low','Low','Bachelor',0.481
+'CS429985','Unemployed',16,'Other','Technology','Solis-Jordan',187295.00,15607.92,'Failed',0.036,9190.00,'Rental',691859.00,2,'Low','Medium','High','High','Low','High School',0.562
+'CS561267','Employed',26,'Doctor','Education','Mendoza-Wallace',417555.00,34796.25,'Pending',0.885,5768.00,NULL,246558.00,16,'High','Low','High','High','Low','Master',0.514
+'CS966807','Unemployed',38,'Engineer','Technology','Livingston-Bowers',192580.00,16048.33,'Failed',0.123,18688.00,NULL,634113.00,20,'Medium','Medium','Medium','Medium','Medium','High School',0.465
+'CS731574','Retired',25,'Teacher','Technology','Bailey PLC',295361.00,24613.42,'Verified',0.815,22626.00,'Investment',358686.00,13,'Low','High','High','Low','Low','Doctorate',0.151
+'CS361295','Retired',24,'Engineer','Education','Taylor, Miller and Vance',153587.00,12798.92,'Verified',0.263,47729.00,'Rental',756810.00,13,'Medium','Medium','Medium','Medium','High','Bachelor',0.337
+'CS705839','Self-employed',30,'Manager','Other','Byrd, Brooks and Alvarado',90485.00,7540.42,'Pending',0.376,43725.00,'Investment',487046.00,2,'Medium','Medium','Low','Low','Medium','Master',0.386
+'CS667556','Self-employed',19,'Doctor','Education','Garcia-Dunn',493077.00,41089.75,'Verified',0.515,46573.00,'Rental',427672.00,17,'Medium','High','High','Low','High','Doctorate',0.550
+'CS206507','Self-employed',32,'Teacher','Healthcare','Simpson PLC',472890.00,39407.50,'Pending',0.049,45549.00,'Rental',215960.00,3,'High','Low','High','Low','Low','Bachelor',0.109
+'CS330972','Employed',2,'Other','Education','Case and Sons',286054.00,23837.83,'Pending',0.029,16676.00,'Rental',175966.00,19,'Medium','Low','High','Low','High','High School',0.409
+'CS814774','Self-employed',34,'Engineer','Healthcare','Collins-Patel',393806.00,32817.17,'Pending',0.59,37609.00,'Part-time',628035.00,17,'High','Low','Medium','Low','High','Bachelor',0.394
+'CS343253','Employed',7,'Teacher','Healthcare','Powers-French',451277.00,37606.42,'Verified',0.592,46946.00,'Rental',620501.00,20,'Medium','High','Low','High','Medium','Master',0.372
+'CS589007','Unemployed',2,'Engineer','Technology','Jones-Miller',366090.00,30507.50,'Verified',0.827,44407.00,'Part-time',623092.00,2,'Low','Low','Low','Medium','Medium','High School',0.432
+'CS638440','Employed',25,'Doctor','Technology','Booth Group',92929.00,7744.08,'Verified',0.167,49212.00,'Part-time',29096.00,14,'High','High','Low','High','Medium','Doctorate',0.463
+'CS100596','Retired',0,'Manager','Finance','Cline LLC',143604.00,11967.00,'Verified',0.705,3255.00,'Rental',383860.00,1,'Medium','Medium','Low','High','Low','Master',0.398
+'CS535463','Employed',21,'Teacher','Technology','Watson, Rodriguez and Dixon',61358.00,5113.17,'Failed',0.701,33580.00,NULL,585537.00,11,'Low','High','Low','Low','Low','Bachelor',0.333
+'CS490624','Unemployed',0,'Teacher','Healthcare','Henderson and Sons',149166.00,12430.50,'Pending',0.201,44016.00,NULL,190613.00,12,'Medium','Medium','Medium','Low','Medium','Doctorate',0.217
+'CS282761','Self-employed',10,'Other','Healthcare','Cortez-Holland',144546.00,12045.50,'Verified',0.766,39245.00,NULL,145519.00,17,'Medium','High','High','High','High','Master',0.475
+'CS696615','Unemployed',38,'Teacher','Healthcare','Braun, Robinson and Dunlap',464331.00,38694.25,'Pending',0.645,26061.00,'Rental',646531.00,12,'High','High','High','Low','Medium','High School',0.068
+'CS677666','Retired',40,'Engineer','Finance','Sutton-Burke',414095.00,34507.92,'Pending',0.026,32705.00,'Rental',445771.00,10,'High','Medium','High','Low','Medium','Master',0.276
+'CS592643','Unemployed',19,'Doctor','Technology','Jacobs, Hampton and Smith',428152.00,35679.33,'Pending',0.473,38787.00,'Part-time',569183.00,0,'Medium','Medium','Medium','Low','High','Master',0.566
+'CS832878','Self-employed',32,'Doctor','Finance','Gates and Sons',293549.00,24462.42,'Pending',0.585,40720.00,'Investment',678513.00,14,'Medium','High','High','High','Medium','Bachelor',0.195
+'CS629793','Employed',13,'Doctor','Education','Johnson-Carlson',350227.00,29185.58,'Failed',0.891,15648.00,'Rental',443785.00,11,'High','Medium','Low','Medium','Low','Bachelor',0.588
+'CS511829','Self-employed',32,'Engineer','Finance','Henderson Group',449540.00,37461.67,'Pending',0.621,22991.00,'Rental',284728.00,12,'Medium','High','High','High','Low','Master',0.335
+'CS535567','Employed',31,'Other','Education','Liu-Diaz',309324.00,25777.00,'Failed',0.174,16449.00,'Rental',468653.00,18,'High','Low','High','Medium','Low','Bachelor',0.596
+'CS637835','Employed',29,'Engineer','Finance','Reed Group',276944.00,23078.67,'Failed',0.777,27676.00,'Rental',637000.00,4,'Low','Medium','Low','High','Medium','Doctorate',0.023
+'CS272308','Self-employed',12,'Other','Finance','Farrell, Fisher and Wright',197436.00,16453.00,'Failed',0.409,2340.00,'Rental',647195.00,3,'Medium','High','Low','Low','Medium','Doctorate',0.089
+'CS124655','Employed',33,'Teacher','Technology','Maldonado and Sons',491318.00,40943.17,'Pending',0.577,5880.00,'Part-time',473302.00,7,'Medium','Medium','High','High','High','Doctorate',0.085
+'CS421186','Retired',32,'Manager','Finance','West, Mendez and Palmer',389523.00,32460.25,'Pending',0.792,10629.00,'Part-time',561788.00,0,'Medium','High','Medium','Medium','Low','Master',0.518
+'CS104621','Retired',34,'Engineer','Education','Rice, Kaufman and Cunningham',362967.00,30247.25,'Pending',0.127,22053.00,'Rental',130903.00,14,'Low','High','Low','Medium','Medium','Doctorate',0.506
+'CS341753','Self-employed',40,'Other','Other','Reid, Fisher and Page',56819.00,4734.92,'Failed',0.953,32229.00,'Rental',101328.00,20,'Medium','Medium','Medium','Medium','Medium','Doctorate',0.326
+'CS756478','Unemployed',39,'Manager','Healthcare','Bailey-Craig',330392.00,27532.67,'Pending',0.365,11565.00,'Part-time',176021.00,15,'Low','Low','Medium','High','High','Doctorate',0.519
+'CS512169','Employed',3,'Other','Healthcare','Henry, Hill and Burgess',388827.00,32402.25,'Failed',0.274,36855.00,'Rental',770278.00,6,'Medium','High','Medium','Low','Low','High School',0.417
+'CS513991','Unemployed',22,'Other','Other','Vincent, Salas and Gonzalez',230468.00,19205.67,'Failed',0.172,46804.00,'Investment',609193.00,17,'High','Low','High','Medium','Low','Doctorate',0.006
+'CS883594','Unemployed',38,'Other','Finance','Rice-Allen',184103.00,15341.92,'Failed',0.045,24709.00,NULL,431354.00,15,'Medium','Medium','Medium','Medium','High','Bachelor',0.124
+'CS830128','Self-employed',29,'Engineer','Finance','Gibson Ltd',339366.00,28280.50,'Failed',0.685,4150.00,'Part-time',165136.00,16,'Low','High','High','Low','Medium','High School',0.220
+'CS496271','Unemployed',13,'Engineer','Finance','Wood, Ramirez and Casey',460406.00,38367.17,'Verified',0.145,1698.00,'Part-time',448499.00,19,'High','High','Medium','Low','Low','High School',0.497
+'CS185300','Self-employed',31,'Doctor','Technology','Jordan PLC',453361.00,37780.08,'Verified',0.677,13712.00,'Rental',128136.00,5,'Low','Low','Low','High','Low','Master',0.433
+'CS562716','Self-employed',23,'Engineer','Healthcare','Hill-Garcia',325616.00,27134.67,'Failed',0.718,4968.00,'Part-time',347056.00,17,'Medium','Medium','Medium','Medium','Low','Doctorate',0.071
+'CS302366','Employed',20,'Doctor','Education','Mcdaniel-Davis',205808.00,17150.67,'Pending',0.67,44617.00,'Rental',726191.00,11,'Low','Medium','Medium','Medium','Medium','High School',0.112
+'CS981978','Self-employed',5,'Doctor','Finance','Walton-Lyons',393038.00,32753.17,'Pending',0.679,13239.00,NULL,406128.00,4,'High','High','Medium','Medium','High','Master',0.178
+'CS629540','Self-employed',21,'Manager','Finance','Maldonado Ltd',264617.00,22051.42,'Pending',0.562,29110.00,'Investment',413584.00,4,'High','Low','High','Medium','Medium','Bachelor',0.092
+'CS453163','Self-employed',32,'Manager','Education','Travis-Gordon',42031.00,3502.58,'Failed',0.504,8772.00,'Rental',766541.00,6,'Low','High','Low','High','High','Doctorate',0.293
+'CS140564','Retired',34,'Teacher','Other','Nelson, Dyer and Lee',59655.00,4971.25,'Pending',0.331,26680.00,'Investment',61506.00,20,'High','High','Low','Medium','High','Master',0.459
+'CS789587','Retired',32,'Other','Other','Harvey, Cummings and Harris',358718.00,29893.17,'Pending',0.165,10126.00,'Part-time',382846.00,5,'Medium','Medium','Medium','Medium','Low','High School',0.187
+'CS624056','Unemployed',26,'Other','Healthcare','Lewis PLC',109547.00,9128.92,'Verified',0.35,21194.00,'Part-time',554877.00,13,'Medium','Low','Medium','High','High','Bachelor',0.349
+'CS913637','Employed',3,'Manager','Other','Morrison, Benjamin and Peterson',237246.00,19770.50,'Verified',0.332,3903.00,NULL,391029.00,4,'Medium','Medium','Low','Low','Medium','High School',0.363
+'CS310334','Employed',21,'Other','Education','Gutierrez, Carter and Campbell',243927.00,20327.25,'Pending',0.051,7683.00,NULL,189170.00,15,'Medium','High','Medium','High','Low','High School',0.287
+'CS721038','Self-employed',24,'Engineer','Education','Owens, Gonzales and Nguyen',109292.00,9107.67,'Failed',0.374,27910.00,NULL,677883.00,0,'High','Medium','Low','High','High','Master',0.566
+'CS549717','Unemployed',23,'Other','Healthcare','Smith, Coleman and Rogers',382293.00,31857.75,'Pending',0.782,43833.00,'Investment',628600.00,20,'Low','Medium','Medium','Medium','Low','High School',0.186
+'CS216663','Employed',36,'Manager','Education','Torres, Durham and Edwards',366429.00,30535.75,'Failed',0.661,17734.00,NULL,678277.00,18,'Low','Medium','Low','Low','High','Doctorate',0.579
+'CS968311','Employed',14,'Engineer','Education','Stokes, Browning and Hernandez',170244.00,14187.00,'Pending',0.706,8449.00,NULL,467958.00,6,'Medium','Medium','High','High','Low','Bachelor',0.212
+'CS828733','Self-employed',32,'Engineer','Technology','Rocha, Lopez and Snyder',438759.00,36563.25,'Verified',0.422,25020.00,'Part-time',464846.00,1,'High','High','Low','Low','High','Bachelor',0.256
+'CS386019','Retired',23,'Teacher','Healthcare','Cervantes and Sons',488872.00,40739.33,'Pending',0.707,37518.00,'Rental',151019.00,4,'High','Medium','Medium','Medium','Low','Doctorate',0.452
+'CS988114','Unemployed',22,'Manager','Education','Jones Group',220621.00,18385.08,'Failed',0.916,28782.00,'Investment',315785.00,6,'Medium','Medium','High','Medium','High','High School',0.572
+'CS165323','Unemployed',27,'Other','Education','Russell, Cox and Ellis',434702.00,36225.17,'Failed',0.013,35191.00,'Investment',707786.00,15,'High','Low','Low','Medium','Medium','Doctorate',0.485
+'CS546590','Unemployed',14,'Doctor','Healthcare','Benton Ltd',481407.00,40117.25,'Failed',0.965,45795.00,'Investment',422455.00,17,'High','High','Medium','Low','Medium','High School',0.079
+'CS262157','Employed',24,'Engineer','Healthcare','Brown LLC',364872.00,30406.00,'Verified',0.834,44517.00,'Investment',31700.00,12,'High','Low','Low','High','Low','High School',0.314
+'CS575156','Retired',24,'Manager','Technology','Murray-Sims',469523.00,39126.92,'Pending',0.344,28403.00,'Investment',104735.00,19,'Low','Low','High','Low','Medium','Bachelor',0.079
+'CS524879','Retired',19,'Doctor','Education','Guzman, Ray and Williams',249236.00,20769.67,'Pending',0.997,23942.00,NULL,310469.00,7,'Medium','High','Medium','High','Medium','Bachelor',0.002
+'CS468326','Unemployed',30,'Manager','Finance','Campbell, Crawford and Houston',334194.00,27849.50,'Verified',0.281,48642.00,NULL,161153.00,7,'Medium','Medium','Low','Low','High','Doctorate',0.473
+'CS690542','Employed',12,'Doctor','Other','Hawkins LLC',430483.00,35873.58,'Pending',0.431,43063.00,'Investment',706173.00,8,'High','High','High','High','High','High School',0.463
+'CS624199','Employed',21,'Engineer','Finance','Mays and Sons',357680.00,29806.67,'Pending',0.087,33587.00,NULL,727696.00,10,'High','Low','High','Low','High','Master',0.152
+'CS614957','Self-employed',10,'Manager','Education','Lewis-Mccoy',160284.00,13357.00,'Pending',0.306,29095.00,'Part-time',631546.00,3,'High','High','Medium','Low','Medium','Doctorate',0.391
+'CS756310','Unemployed',29,'Engineer','Other','Williams, Jones and Dennis',423201.00,35266.75,'Pending',0.748,14069.00,NULL,458084.00,20,'High','Low','High','Medium','Low','Bachelor',0.315
+'CS580518','Unemployed',5,'Doctor','Healthcare','Sanchez, Shaffer and Mcintyre',21766.00,1813.83,'Verified',0.655,21395.00,'Investment',787855.00,14,'Medium','Low','Low','Low','Medium','Doctorate',0.360
+'CS351148','Self-employed',39,'Doctor','Education','Watson-Davidson',353714.00,29476.17,'Verified',0.042,14449.00,'Investment',669728.00,0,'Medium','High','High','High','Medium','Bachelor',0.235
+'CS658224','Self-employed',22,'Engineer','Education','Woods-Roy',94883.00,7906.92,'Verified',0.038,40748.00,'Part-time',440658.00,2,'High','Low','Low','Low','High','High School',0.131
+'CS456479','Employed',24,'Doctor','Education','Morales, Zavala and Knapp',252576.00,21048.00,'Failed',0.191,12483.00,'Part-time',200057.00,12,'High','Low','Low','Medium','Medium','Master',0.429
+'CS108094','Unemployed',18,'Manager','Other','Griffin-Miller',421793.00,35149.42,'Verified',0.622,49827.00,'Rental',59416.00,11,'Medium','High','High','Medium','Low','Doctorate',0.327
+'CS510470','Retired',23,'Doctor','Healthcare','Allison-Cameron',23154.00,1929.50,'Verified',0.021,16706.00,'Part-time',704375.00,0,'Low','Low','Medium','High','Low','Doctorate',0.031
+'CS620222','Employed',3,'Engineer','Finance','Smith PLC',70534.00,5877.83,'Failed',0.993,38770.00,NULL,494020.00,17,'Low','Medium','Medium','Low','High','Bachelor',0.040
+'CS507190','Employed',35,'Engineer','Other','Campbell Inc',406127.00,33843.92,'Pending',0.962,16702.00,NULL,610075.00,12,'High','Medium','Low','Low','High','Doctorate',0.039
+'CS196993','Self-employed',23,'Teacher','Finance','Wilson LLC',199780.00,16648.33,'Failed',0.925,35076.00,NULL,694543.00,1,'Medium','Medium','Low','Low','Low','Doctorate',0.444
+'CS456413','Employed',16,'Engineer','Finance','Turner-Barrett',27511.00,2292.58,'Verified',0.638,49362.00,'Part-time',78234.00,5,'High','Medium','Medium','High','Medium','Bachelor',0.475
+'CS964207','Self-employed',10,'Manager','Healthcare','Mitchell-Patton',361212.00,30101.00,'Failed',0.982,28490.00,'Rental',710100.00,3,'Low','High','High','High','Medium','Bachelor',0.087
+'CS468729','Retired',8,'Other','Technology','Carpenter-Garcia',69437.00,5786.42,'Failed',0.702,26123.00,'Rental',448616.00,3,'Medium','High','High','Medium','Medium','Master',0.524
+'CS171900','Retired',16,'Teacher','Finance','Weiss-Ponce',428981.00,35748.42,'Pending',0.482,28508.00,'Rental',214807.00,11,'High','Low','High','High','High','High School',0.193
+'CS832385','Self-employed',32,'Engineer','Technology','Green-Curry',23522.00,1960.17,'Verified',0.501,47031.00,'Investment',104558.00,7,'Medium','High','Low','Medium','Low','Bachelor',0.295
+'CS261094','Retired',9,'Manager','Other','Johnson-Hoffman',194401.00,16200.08,'Pending',0.685,35711.00,'Rental',351893.00,2,'Medium','High','Medium','High','Medium','Doctorate',0.002
+'CS744127','Unemployed',6,'Manager','Education','Hall, Mcguire and Lowe',71286.00,5940.50,'Failed',0.675,23068.00,NULL,560814.00,8,'Medium','High','Medium','Low','Medium','Bachelor',0.071
+'CS971511','Employed',3,'Manager','Healthcare','Warner-Lewis',25964.00,2163.67,'Verified',0.584,21834.00,NULL,416564.00,18,'High','Low','Medium','High','Low','Doctorate',0.069
+'CS405917','Retired',14,'Manager','Other','Moore, Murray and George',277563.00,23130.25,'Failed',0.223,41149.00,'Rental',125741.00,3,'Low','Medium','Low','High','High','Bachelor',0.162
+'CS271772','Employed',22,'Manager','Healthcare','Wilson and Sons',240790.00,20065.83,'Pending',0.044,42019.00,'Rental',483500.00,14,'Low','Low','High','High','Medium','Doctorate',0.559
+'CS252480','Employed',23,'Engineer','Healthcare','Blackwell-Walter',84498.00,7041.50,'Failed',0.343,29068.00,NULL,425348.00,13,'Low','Medium','Low','High','High','Doctorate',0.267
+'CS242883','Unemployed',30,'Teacher','Healthcare','Freeman-Garcia',274510.00,22875.83,'Failed',0.065,36726.00,NULL,684953.00,17,'Low','High','High','High','Low','High School',0.521
+'CS552859','Employed',24,'Other','Other','Collins-Scott',396785.00,33065.42,'Failed',0.591,45177.00,'Rental',389632.00,2,'Medium','Low','High','Low','Low','Bachelor',0.597
+'CS441239','Self-employed',17,'Doctor','Healthcare','Mcfarland Group',362086.00,30173.83,'Pending',0.739,12541.00,NULL,423760.00,3,'Medium','Medium','Medium','Low','High','Doctorate',0.359
+'CS270723','Unemployed',38,'Doctor','Technology','Johnson, Bryant and Gordon',364176.00,30348.00,'Pending',0.171,11184.00,'Investment',664537.00,10,'Medium','Low','High','Medium','Medium','Doctorate',0.146
+'CS117909','Employed',9,'Other','Finance','Jones-Mitchell',133322.00,11110.17,'Verified',0.8,30975.00,'Investment',291261.00,13,'Low','High','Medium','Medium','High','Master',0.480
+'CS644722','Retired',23,'Doctor','Technology','Rodriguez and Sons',98398.00,8199.83,'Failed',0.547,44252.00,'Part-time',136276.00,8,'High','High','High','Medium','Low','High School',0.551
+'CS614047','Retired',22,'Doctor','Technology','Gallagher-Arroyo',469151.00,39095.92,'Failed',0.64,3992.00,'Rental',531224.00,20,'Low','Low','Low','High','Low','Master',0.010
+'CS236521','Retired',22,'Other','Other','Adams, Ward and West',56886.00,4740.50,'Verified',0.459,45216.00,NULL,152853.00,14,'High','Medium','Medium','High','High','Master',0.085
+'CS119313','Retired',19,'Manager','Finance','Gill, Smith and Schmidt',438199.00,36516.58,'Pending',0.71,3463.00,NULL,428046.00,7,'Medium','High','High','Medium','Low','Bachelor',0.510
+'CS815606','Employed',2,'Engineer','Finance','Jordan-Reynolds',468971.00,39080.92,'Pending',0.727,8457.00,NULL,194347.00,4,'Medium','Low','Medium','Medium','High','Master',0.316
+'CS951475','Self-employed',28,'Other','Finance','Griffin PLC',316142.00,26345.17,'Pending',0.917,7058.00,'Rental',717381.00,7,'Medium','Medium','High','High','High','Doctorate',0.064
+'CS233036','Retired',29,'Engineer','Healthcare','Bailey, Medina and Kelly',246638.00,20553.17,'Pending',0.774,45380.00,NULL,777006.00,20,'High','Medium','Medium','Low','Medium','Doctorate',0.274
+'CS582908','Employed',7,'Teacher','Finance','Wilson PLC',209706.00,17475.50,'Verified',0.248,22728.00,'Rental',747906.00,6,'Medium','Medium','Medium','High','High','High School',0.547
+'CS265970','Retired',35,'Manager','Healthcare','Davis and Sons',209825.00,17485.42,'Verified',0.06,24820.00,'Part-time',123115.00,19,'High','High','High','Low','Medium','Bachelor',0.368
+'CS392396','Employed',15,'Teacher','Finance','Sanchez, Barrett and Flynn',369949.00,30829.08,'Pending',0.224,5392.00,'Investment',310978.00,16,'Low','Low','Low','Medium','High','Bachelor',0.481
+'CS304371','Unemployed',34,'Other','Technology','Hickman, Hooper and Bryant',284840.00,23736.67,'Verified',0.659,21704.00,'Investment',80814.00,19,'Medium','Medium','High','High','Medium','Master',0.363
+'CS739476','Retired',3,'Manager','Finance','Guerrero and Sons',259240.00,21603.33,'Failed',0.304,18465.00,'Rental',272417.00,13,'Low','High','Low','Medium','Medium','Doctorate',0.090
+'CS583672','Retired',33,'Other','Healthcare','Medina-Martinez',183210.00,15267.50,'Verified',0.995,36976.00,'Rental',115569.00,11,'Medium','Low','Low','High','Low','Doctorate',0.051
+'CS898237','Unemployed',1,'Engineer','Finance','Williams-Leonard',272411.00,22700.92,'Pending',0.376,15862.00,'Investment',730006.00,10,'High','Medium','High','Medium','Medium','Master',0.097
+'CS524982','Retired',34,'Manager','Healthcare','Clay Ltd',213632.00,17802.67,'Pending',0.453,26572.00,'Investment',48213.00,10,'High','Low','High','Low','Low','Bachelor',0.555
+'CS816910','Employed',16,'Manager','Education','Allen, Morgan and Walker',169196.00,14099.67,'Verified',0.022,30520.00,'Part-time',576020.00,16,'Low','Medium','Low','Medium','Medium','High School',0.416
+'CS538827','Employed',8,'Manager','Technology','Dean, Johnson and Johnston',398150.00,33179.17,'Pending',0.337,24613.00,'Rental',193961.00,7,'High','Low','Medium','High','Low','Bachelor',0.049
+'CS543578','Self-employed',23,'Doctor','Education','Dillon-Wilson',473213.00,39434.42,'Pending',0.575,44522.00,'Investment',184787.00,16,'High','Low','High','Low','Medium','Bachelor',0.175
+'CS952544','Self-employed',24,'Manager','Finance','Mendoza Inc',112998.00,9416.50,'Failed',0.302,40923.00,'Part-time',314781.00,14,'Low','Low','High','Medium','Medium','High School',0.539
+'CS959339','Unemployed',32,'Teacher','Healthcare','Morris, Henson and Sullivan',441401.00,36783.42,'Failed',0.706,4738.00,NULL,96258.00,0,'High','Medium','Low','High','Low','Bachelor',0.153
+'CS510271','Unemployed',34,'Manager','Education','Hensley Ltd',349139.00,29094.92,'Verified',0.538,25613.00,NULL,41753.00,7,'Medium','High','Medium','Medium','High','Master',0.070
+'CS195353','Unemployed',34,'Engineer','Healthcare','Lopez and Sons',223664.00,18638.67,'Verified',0.644,409.00,'Part-time',437693.00,18,'Low','Medium','Low','Medium','Medium','Doctorate',0.040
+'CS308526','Employed',10,'Engineer','Finance','Gay PLC',417711.00,34809.25,'Failed',0.492,40542.00,NULL,516075.00,1,'Low','High','High','Medium','High','Master',0.508
+'CS764855','Unemployed',38,'Teacher','Other','Waters Inc',443539.00,36961.58,'Pending',0.738,16659.00,'Rental',110758.00,14,'High','High','Low','Low','Low','Doctorate',0.522
+'CS238425','Employed',32,'Manager','Technology','Davis-Richardson',31905.00,2658.75,'Verified',0.522,1383.00,NULL,346961.00,8,'Low','Medium','Low','Low','Low','Master',0.262
+'CS256704','Unemployed',12,'Engineer','Other','Simpson-Casey',43956.00,3663.00,'Pending',0.643,27768.00,'Rental',48474.00,17,'Medium','High','Medium','Medium','High','High School',0.236
+'CS693588','Unemployed',35,'Other','Education','Garcia PLC',72503.00,6041.92,'Failed',0.15,8027.00,'Rental',767833.00,12,'High','High','High','Low','High','Doctorate',0.330
+'CS164615','Self-employed',7,'Doctor','Finance','Fisher Ltd',161835.00,13486.25,'Failed',0.789,1812.00,'Investment',406624.00,0,'High','High','High','Low','Low','High School',0.187
+'CS808769','Self-employed',18,'Engineer','Other','Gallegos, Simmons and Mcconnell',357721.00,29810.08,'Verified',0.69,37712.00,'Part-time',541171.00,13,'Low','High','Medium','High','Medium','Doctorate',0.463
+'CS520953','Self-employed',32,'Other','Education','Smith, Russo and Mejia',252001.00,21000.08,'Verified',0.007,30927.00,'Rental',698543.00,4,'High','Medium','Low','High','High','Bachelor',0.347
+'CS275485','Self-employed',2,'Teacher','Other','Tyler, Wilson and Vaughn',207549.00,17295.75,'Verified',0.548,9947.00,'Part-time',628765.00,14,'Medium','Medium','Low','High','Low','Bachelor',0.352
+'CS181772','Employed',34,'Manager','Healthcare','Wilson Inc',483945.00,40328.75,'Verified',0.038,16147.00,'Rental',278168.00,12,'Low','Medium','Medium','High','Medium','Master',0.524
+'CS108475','Unemployed',30,'Teacher','Finance','Nguyen-West',149044.00,12420.33,'Failed',0.742,4712.00,NULL,499294.00,11,'High','Medium','Low','Low','Medium','Doctorate',0.195
+'CS650398','Retired',26,'Engineer','Education','Morgan, Ruiz and Smith',168180.00,14015.00,'Failed',0.603,46313.00,'Part-time',325002.00,8,'Medium','High','Medium','Medium','Medium','High School',0.493
+'CS390256','Employed',16,'Manager','Healthcare','Caldwell Group',254149.00,21179.08,'Pending',0.109,30026.00,'Investment',387263.00,1,'Medium','High','Low','High','Low','Bachelor',0.160
+'CS682261','Self-employed',34,'Manager','Technology','Hill-Robinson',157410.00,13117.50,'Pending',0.192,47769.00,NULL,468723.00,18,'Medium','High','High','Low','Low','Bachelor',0.087
+'CS640306','Self-employed',20,'Engineer','Healthcare','Taylor, Stephenson and Christian',225019.00,18751.58,'Failed',0.186,44108.00,'Rental',498598.00,0,'Medium','Low','High','High','Low','Doctorate',0.035
+'CS461657','Retired',21,'Teacher','Education','Harmon Inc',225894.00,18824.50,'Pending',0.198,3513.00,'Investment',579800.00,11,'Medium','High','Medium','Medium','Low','Doctorate',0.033
+'CS220359','Self-employed',35,'Other','Education','Sexton Inc',445237.00,37103.08,'Pending',0.827,10613.00,'Part-time',318239.00,5,'Low','Medium','Low','High','Low','High School',0.369
+'CS857573','Unemployed',23,'Other','Other','Burke PLC',131314.00,10942.83,'Pending',0.997,33695.00,'Investment',331114.00,17,'Medium','Low','High','High','High','Doctorate',0.176
+'CS923769','Employed',39,'Other','Other','Morris, Gonzales and Oliver',51602.00,4300.17,'Failed',0.282,13282.00,NULL,596203.00,8,'Low','Low','Low','High','Low','Bachelor',0.506
+'CS876024','Retired',34,'Manager','Healthcare','Gutierrez, Bowen and Jenkins',302200.00,25183.33,'Verified',0.461,11886.00,NULL,412938.00,7,'Medium','High','High','Medium','Medium','Master',0.260
+'CS382901','Employed',25,'Engineer','Healthcare','Reed, Barber and English',50863.00,4238.58,'Verified',0.341,20889.00,'Rental',667128.00,8,'High','Low','Medium','Medium','High','High School',0.403
+'CS874786','Unemployed',13,'Teacher','Technology','Warner Inc',483383.00,40281.92,'Verified',0.029,47083.00,NULL,634349.00,2,'Medium','Low','Low','Low','High','Master',0.151
+'CS773236','Employed',26,'Teacher','Finance','Fisher, Clark and Castillo',262454.00,21871.17,'Pending',0.147,37211.00,'Part-time',786074.00,7,'High','High','Low','Medium','High','Bachelor',0.237
+'CS211729','Retired',12,'Manager','Other','Turner, Cruz and Miller',37033.00,3086.08,'Verified',0.618,44439.00,'Rental',571988.00,16,'High','High','Low','Medium','Low','High School',0.354
+'CS975766','Self-employed',28,'Other','Healthcare','Johnson and Sons',496886.00,41407.17,'Failed',0.977,37087.00,NULL,589878.00,9,'High','Medium','Medium','High','Low','Doctorate',0.583
+'CS750696','Employed',19,'Manager','Other','Burns, Phillips and Benson',125095.00,10424.58,'Pending',0.998,5675.00,'Investment',266718.00,3,'Medium','High','High','Low','Low','Master',0.430
+'CS307397','Self-employed',4,'Other','Other','Pierce-Flowers',321681.00,26806.75,'Failed',0.021,39162.00,NULL,184765.00,3,'Medium','High','Medium','Low','Low','High School',0.529
+'CS817189','Employed',0,'Engineer','Finance','Bradshaw, Walker and Jones',464221.00,38685.08,'Pending',0.663,16436.00,'Rental',352438.00,5,'Medium','Medium','High','High','Low','Bachelor',0.304
+'CS885861','Retired',9,'Doctor','Finance','Marks-Lee',168462.00,14038.50,'Failed',0.568,8588.00,'Rental',641585.00,9,'Low','Medium','Medium','Low','Medium','High School',0.373
+'CS231320','Employed',23,'Engineer','Healthcare','Perez, Morrow and Jackson',184456.00,15371.33,'Failed',0.104,30810.00,'Investment',122164.00,10,'Medium','Low','Medium','High','Medium','Master',0.117
+'CS580015','Unemployed',7,'Teacher','Other','Johnson-Gonzales',64303.00,5358.58,'Pending',0.884,44947.00,'Investment',126580.00,3,'High','Low','High','Low','High','Doctorate',0.356
+'CS839808','Employed',24,'Manager','Education','Cohen LLC',379039.00,31586.58,'Failed',0.74,18797.00,'Investment',181195.00,1,'Low','Low','Medium','Low','High','High School',0.117
+'CS326787','Employed',6,'Manager','Other','Fowler, Wolf and Gonzalez',92721.00,7726.75,'Pending',0.016,5672.00,'Rental',77668.00,5,'Low','Medium','Low','Medium','Low','High School',0.506
+'CS703402','Retired',23,'Manager','Other','Hopkins and Sons',258003.00,21500.25,'Failed',0.99,40395.00,'Investment',685441.00,9,'Medium','Low','Medium','Low','High','High School',0.548
+'CS439988','Employed',33,'Teacher','Healthcare','Weaver-Walsh',401201.00,33433.42,'Failed',0.972,40737.00,NULL,534696.00,18,'Low','High','Low','Medium','High','Doctorate',0.339
+'CS359804','Unemployed',28,'Doctor','Other','Beasley-White',212738.00,17728.17,'Verified',0.207,43468.00,'Rental',514118.00,13,'Low','Medium','Low','High','High','Bachelor',0.168
+'CS771681','Retired',22,'Manager','Healthcare','Torres and Sons',220709.00,18392.42,'Verified',0.353,26608.00,'Part-time',20687.00,3,'Low','High','High','Low','Low','High School',0.428
+'CS465123','Employed',28,'Other','Finance','Kim, Carter and Cohen',103008.00,8584.00,'Verified',0.898,37561.00,'Investment',656330.00,2,'Medium','Low','Medium','High','High','High School',0.257
+'CS933941','Retired',26,'Engineer','Healthcare','Fletcher Inc',277289.00,23107.42,'Pending',0.475,1333.00,'Investment',432897.00,1,'Medium','Low','High','Low','Medium','High School',0.173
+'CS849548','Unemployed',21,'Manager','Finance','Russell-Mccarthy',77427.00,6452.25,'Pending',0.328,2047.00,'Rental',263882.00,6,'High','Medium','High','Low','High','Master',0.556
+'CS742515','Employed',40,'Doctor','Healthcare','Johnson, Rivas and Calhoun',168466.00,14038.83,'Failed',0.613,832.00,'Rental',216444.00,15,'Low','High','High','Medium','Medium','Doctorate',0.289
+'CS759308','Unemployed',12,'Other','Finance','Turner, Matthews and Thompson',153479.00,12789.92,'Failed',0.832,44136.00,'Investment',622904.00,2,'High','Medium','Low','High','High','Doctorate',0.321
+'CS933548','Employed',27,'Other','Finance','Hayes Ltd',285882.00,23823.50,'Verified',0.319,11705.00,'Investment',524171.00,4,'High','High','Medium','Medium','Medium','Bachelor',0.326
+'CS468323','Retired',39,'Other','Other','Parker-Barrera',431726.00,35977.17,'Verified',0.125,12552.00,'Part-time',483336.00,7,'Medium','High','High','Medium','Medium','Master',0.191
+'CS897256','Self-employed',31,'Teacher','Finance','Allen-Gomez',416922.00,34743.50,'Pending',0.992,3533.00,'Investment',468422.00,3,'High','High','High','Medium','High','Bachelor',0.231
+'CS615603','Retired',34,'Teacher','Finance','Ford, Ramirez and Williams',106546.00,8878.83,'Verified',0.291,15804.00,NULL,81474.00,8,'Medium','Medium','Medium','Low','Medium','Master',0.059
+'CS795226','Retired',37,'Other','Technology','Miller, Jennings and Boone',342379.00,28531.58,'Pending',0.585,9144.00,'Part-time',649524.00,14,'Low','Medium','Medium','Medium','Low','High School',0.212
+'CS104169','Unemployed',24,'Engineer','Healthcare','Tucker PLC',385810.00,32150.83,'Pending',0.749,11355.00,'Investment',446555.00,12,'Low','Low','Medium','Low','Medium','Doctorate',0.249
+'CS341080','Self-employed',7,'Teacher','Finance','Leblanc, Rodriguez and Gamble',367184.00,30598.67,'Pending',0.718,6688.00,'Rental',607051.00,18,'Medium','Low','Medium','High','High','Doctorate',0.026
+'CS720155','Retired',33,'Manager','Other','Aguirre PLC',150911.00,12575.92,'Pending',0.713,42906.00,'Rental',53506.00,19,'Low','High','High','Medium','Low','Doctorate',0.006
+'CS629576','Self-employed',11,'Teacher','Finance','Cooke-Meyer',298761.00,24896.75,'Verified',0.467,20116.00,NULL,610984.00,6,'Medium','Low','Medium','Medium','Medium','Doctorate',0.548
+'CS233350','Employed',20,'Engineer','Healthcare','Lucas PLC',139191.00,11599.25,'Failed',0.798,8433.00,'Rental',439547.00,14,'Medium','Low','Low','High','High','Master',0.405
+'CS468329','Employed',14,'Other','Education','Faulkner, Meza and Dillon',333090.00,27757.50,'Verified',0.456,29668.00,'Investment',548394.00,18,'Medium','High','Medium','Low','High','Bachelor',0.330
+'CS196650','Retired',31,'Engineer','Healthcare','Drake-Richardson',274157.00,22846.42,'Failed',0.351,11302.00,'Rental',687623.00,0,'High','Medium','Medium','Medium','Low','Doctorate',0.282
+'CS991582','Employed',6,'Manager','Technology','Richardson-Johnston',303516.00,25293.00,'Pending',0.863,2697.00,'Investment',439884.00,11,'Medium','High','Medium','Low','Medium','Doctorate',0.428
+'CS454415','Retired',5,'Manager','Other','Torres-Jones',149880.00,12490.00,'Verified',0.877,13261.00,'Investment',99875.00,15,'High','Low','Medium','Low','High','Master',0.081
+'CS873618','Unemployed',17,'Other','Education','Kennedy-Lopez',433717.00,36143.08,'Pending',0.56,46845.00,'Rental',416645.00,14,'Medium','High','High','High','Low','Doctorate',0.499
+'CS556287','Employed',19,'Teacher','Technology','Rodriguez, Allen and Wilson',404736.00,33728.00,'Verified',0.799,33363.00,'Part-time',543308.00,19,'Medium','High','High','Medium','Medium','High School',0.506
+'CS386593','Self-employed',22,'Manager','Technology','Maddox-Patel',292747.00,24395.58,'Failed',0.033,42164.00,NULL,657431.00,2,'High','Medium','Medium','High','High','Master',0.160
+'CS115119','Retired',31,'Manager','Technology','Peters, Rodriguez and Arias',393125.00,32760.42,'Failed',0.28,22511.00,'Rental',106635.00,16,'Low','High','Low','Medium','Medium','High School',0.480
+'CS811817','Unemployed',20,'Teacher','Technology','Watson, Johnson and King',185528.00,15460.67,'Verified',0.145,12411.00,'Investment',448067.00,7,'High','Medium','Medium','Medium','High','High School',0.240
+'CS377099','Self-employed',5,'Doctor','Other','Johnson-Castro',436267.00,36355.58,'Pending',0.265,26038.00,'Investment',566931.00,3,'Low','Low','High','Medium','Medium','High School',0.223
+'CS469162','Unemployed',26,'Teacher','Education','Tate LLC',64556.00,5379.67,'Pending',0.324,41370.00,'Part-time',53836.00,10,'Medium','High','Medium','Low','Low','Doctorate',0.268
+'CS255082','Self-employed',5,'Engineer','Healthcare','Malone-Reed',190600.00,15883.33,'Verified',0.803,20441.00,'Part-time',184527.00,11,'Low','High','Low','Medium','High','Master',0.470
+'CS493965','Unemployed',24,'Doctor','Education','Jones, Scott and Sandoval',341707.00,28475.58,'Verified',0.17,11464.00,'Investment',97748.00,19,'Low','Low','High','Medium','Low','Bachelor',0.456
+'CS397206','Retired',40,'Doctor','Finance','Simmons Group',480285.00,40023.75,'Verified',0.327,25449.00,NULL,792616.00,1,'Medium','Medium','High','High','High','Doctorate',0.477
+'CS994890','Unemployed',30,'Teacher','Education','Rivera Group',260799.00,21733.25,'Verified',0.881,9615.00,'Rental',627268.00,8,'Medium','Low','Medium','High','Low','Doctorate',0.214
+'CS659897','Self-employed',29,'Teacher','Finance','Murray, Bailey and Drake',387394.00,32282.83,'Failed',0.926,24431.00,NULL,579979.00,19,'Low','Medium','Medium','Medium','High','Master',0.377
+'CS803863','Self-employed',40,'Teacher','Education','Sharp-Gonzalez',299710.00,24975.83,'Verified',0.303,3958.00,'Investment',609677.00,16,'Medium','High','High','Low','Low','Doctorate',0.032
+'CS956863','Self-employed',31,'Doctor','Healthcare','Washington, Oconnell and Gardner',123499.00,10291.58,'Verified',0.746,11312.00,'Part-time',66016.00,18,'High','Medium','Low','Medium','High','Doctorate',0.281
+'CS462239','Self-employed',19,'Doctor','Healthcare','Johnson, Coleman and Rosario',124950.00,10412.50,'Verified',0.931,41777.00,'Part-time',792967.00,1,'High','Low','Medium','High','High','Doctorate',0.340
+'CS196550','Self-employed',26,'Engineer','Education','Johnson PLC',353076.00,29423.00,'Verified',0.76,41935.00,'Rental',702400.00,12,'High','High','Low','High','High','Doctorate',0.113
+'CS724947','Retired',31,'Engineer','Technology','Thomas, Bush and Munoz',108927.00,9077.25,'Pending',0.932,20967.00,'Investment',341327.00,6,'Medium','High','High','Medium','High','Doctorate',0.427
+'CS295675','Retired',37,'Doctor','Healthcare','Green-Sanchez',50164.00,4180.33,'Verified',0.975,27455.00,NULL,278894.00,19,'High','High','Low','Medium','Medium','Doctorate',0.413
+'CS585459','Unemployed',17,'Doctor','Healthcare','Hart-Anderson',188313.00,15692.75,'Pending',0.472,12360.00,'Investment',563575.00,7,'Low','Low','High','High','High','Master',0.229
+'CS796234','Self-employed',23,'Teacher','Other','Foley-Hernandez',389677.00,32473.08,'Failed',0.757,24744.00,'Rental',114917.00,13,'Medium','Low','Low','Low','Medium','Bachelor',0.253
+'CS761539','Retired',22,'Engineer','Other','Mason, Kline and Campbell',249392.00,20782.67,'Verified',0.64,15295.00,'Rental',96667.00,16,'High','High','High','High','High','Bachelor',0.334
+'CS348867','Unemployed',1,'Manager','Technology','Williams Group',290840.00,24236.67,'Verified',0.868,7482.00,'Investment',651557.00,20,'Low','Low','High','Low','Medium','Doctorate',0.004
+'CS912066','Retired',5,'Engineer','Healthcare','Lewis Ltd',42415.00,3534.58,'Pending',0.333,9551.00,NULL,237826.00,6,'Low','Medium','Medium','Medium','Medium','Master',0.487
+'CS172528','Unemployed',7,'Manager','Other','Pineda Ltd',457837.00,38153.08,'Verified',0.932,36727.00,NULL,234318.00,5,'Medium','Medium','Medium','High','High','High School',0.413
+'CS835429','Unemployed',9,'Other','Other','Castro-Sosa',485036.00,40419.67,'Pending',0.362,46871.00,'Rental',293337.00,6,'High','Medium','High','Low','Medium','High School',0.207
+'CS101678','Self-employed',23,'Engineer','Technology','Reyes, Houston and Hensley',356271.00,29689.25,'Failed',0.587,26613.00,'Rental',205452.00,4,'Low','Medium','Medium','High','High','Doctorate',0.297
+'CS726755','Employed',23,'Engineer','Technology','Green Inc',396573.00,33047.75,'Pending',0.774,23571.00,'Part-time',503290.00,3,'High','Medium','High','Medium','Low','Doctorate',0.056
+'CS363544','Retired',2,'Other','Technology','Cooper-Osborne',275854.00,22987.83,'Verified',0.976,39959.00,'Rental',382798.00,18,'Low','Medium','High','High','High','Bachelor',0.093
+'CS311294','Self-employed',12,'Other','Education','Williams-Hill',286965.00,23913.75,'Verified',0.073,13525.00,'Rental',369359.00,6,'Low','Medium','High','Low','Low','Bachelor',0.561
+'CS832535','Self-employed',32,'Other','Education','Graham-Goodwin',138918.00,11576.50,'Pending',0.029,24230.00,'Rental',729728.00,13,'High','Medium','Medium','High','Low','Master',0.143
+'CS368720','Unemployed',21,'Manager','Healthcare','Johnson and Sons',208445.00,17370.42,'Failed',0.621,21509.00,NULL,224930.00,2,'Low','Medium','Low','Low','Low','Doctorate',0.304
+'CS215184','Retired',33,'Teacher','Healthcare','Cole-Gutierrez',237461.00,19788.42,'Pending',0.741,27366.00,'Rental',23817.00,10,'High','Medium','High','High','Medium','Doctorate',0.401
+'CS201689','Unemployed',12,'Engineer','Other','Wiley-Garcia',35886.00,2990.50,'Pending',0.476,48259.00,'Investment',339056.00,20,'High','Low','High','Medium','Low','Master',0.096
+'CS916728','Employed',22,'Other','Other','Wilson Group',464398.00,38699.83,'Pending',0.871,18990.00,'Part-time',196124.00,12,'High','Medium','Medium','High','Low','Doctorate',0.490
+'CS372800','Retired',26,'Other','Healthcare','Lee PLC',144881.00,12073.42,'Verified',0.281,10403.00,'Investment',323210.00,13,'Medium','Medium','High','High','High','Doctorate',0.043
+'CS147604','Unemployed',12,'Engineer','Healthcare','Brown LLC',107853.00,8987.75,'Failed',0.468,31713.00,'Part-time',722817.00,8,'Medium','High','High','High','Medium','Master',0.056
+'CS141623','Self-employed',24,'Other','Healthcare','Smith-Erickson',424132.00,35344.33,'Failed',0.192,5079.00,NULL,511657.00,14,'High','Medium','Low','Medium','Low','Master',0.317
+'CS788483','Employed',0,'Engineer','Education','Nichols, Delgado and Vasquez',87401.00,7283.42,'Verified',0.065,27196.00,'Part-time',527054.00,6,'High','Medium','Medium','High','High','Bachelor',0.213
+'CS867451','Unemployed',23,'Engineer','Other','Martinez, Walker and Santiago',348702.00,29058.50,'Pending',0.359,43662.00,'Investment',361529.00,15,'High','High','High','High','High','Doctorate',0.365
+'CS411845','Employed',11,'Manager','Finance','Garcia-Campbell',90404.00,7533.67,'Verified',0.368,41591.00,'Part-time',477336.00,15,'Low','High','Low','High','Low','Bachelor',0.277
+'CS840710','Self-employed',6,'Manager','Finance','Shepherd-Bailey',345820.00,28818.33,'Verified',0.182,29338.00,NULL,559963.00,16,'Medium','Low','Medium','Low','Low','Bachelor',0.584
+'CS239090','Unemployed',33,'Doctor','Healthcare','Baker, Horton and Walker',95278.00,7939.83,'Failed',0.876,38530.00,NULL,385625.00,8,'Medium','High','High','Medium','High','Bachelor',0.337
+'CS528467','Unemployed',0,'Doctor','Education','Jones-Bryant',79314.00,6609.50,'Failed',0.166,228.00,NULL,68817.00,20,'Medium','Medium','Low','Low','High','High School',0.288
+'CS557950','Retired',36,'Teacher','Finance','Moore and Sons',313361.00,26113.42,'Pending',0.697,33701.00,'Rental',57226.00,7,'High','Low','High','Medium','Low','Doctorate',0.168
+'CS339150','Unemployed',26,'Doctor','Technology','Cox Group',307547.00,25628.92,'Verified',0.231,3779.00,'Rental',774778.00,7,'High','Medium','Low','Medium','Low','High School',0.135
+'CS127497','Self-employed',7,'Manager','Healthcare','Perry-Velasquez',323755.00,26979.58,'Verified',0.23,25416.00,NULL,288869.00,5,'Medium','Medium','Low','Low','Medium','Master',0.447
+'CS469657','Unemployed',39,'Engineer','Finance','Myers-Larson',50132.00,4177.67,'Pending',0.781,46966.00,'Part-time',173682.00,2,'Low','High','Low','High','Medium','Bachelor',0.575
+'CS898865','Self-employed',39,'Other','Finance','Walker-Ellis',283838.00,23653.17,'Pending',0.262,20398.00,NULL,38921.00,15,'High','High','Low','Low','Medium','High School',0.433
+'CS489852','Employed',24,'Engineer','Healthcare','Cruz-Stewart',152391.00,12699.25,'Verified',0.889,21426.00,'Part-time',475557.00,6,'Medium','High','High','Low','High','High School',0.477
+'CS639973','Unemployed',12,'Other','Other','Smith, Gray and Parker',179196.00,14933.00,'Pending',0.267,960.00,'Rental',455548.00,6,'Low','Medium','Low','Low','High','High School',0.102
+'CS768909','Unemployed',17,'Other','Education','Meyer-Hernandez',125777.00,10481.42,'Pending',0.161,35937.00,'Rental',681887.00,17,'Medium','Low','Medium','High','Low','Doctorate',0.462
+'CS733577','Employed',19,'Doctor','Education','Vaughn-Day',111156.00,9263.00,'Pending',0.542,39945.00,NULL,738675.00,19,'High','High','High','Low','Medium','Bachelor',0.130
+'CS516594','Employed',35,'Engineer','Education','Jones and Sons',248246.00,20687.17,'Failed',0.859,39198.00,'Rental',648692.00,9,'Low','High','High','High','Low','Master',0.051
+'CS598285','Unemployed',40,'Other','Finance','Mathews and Sons',362238.00,30186.50,'Verified',0.851,37437.00,'Investment',369837.00,1,'Low','Low','High','Low','Medium','Doctorate',0.516
+'CS782925','Unemployed',35,'Other','Finance','Gonzales-Scott',361251.00,30104.25,'Failed',0.499,1761.00,'Rental',534778.00,20,'High','Low','Low','Low','High','Bachelor',0.169
+'CS135936','Retired',8,'Other','Healthcare','Fuller Ltd',95298.00,7941.50,'Failed',0.236,16889.00,'Part-time',541075.00,1,'High','High','High','Low','High','Master',0.499
+'CS486306','Retired',11,'Teacher','Healthcare','Greer and Sons',294218.00,24518.17,'Failed',0.914,20711.00,'Part-time',614484.00,2,'Low','Medium','Low','High','High','High School',0.161
+'CS588155','Self-employed',0,'Teacher','Technology','Vaughan-Jones',240908.00,20075.67,'Failed',0.043,38953.00,'Part-time',561871.00,3,'Low','Medium','Medium','High','Medium','High School',0.323
+'CS266625','Employed',20,'Doctor','Education','Mitchell LLC',443405.00,36950.42,'Failed',0.523,15733.00,NULL,694132.00,6,'High','High','Low','Medium','Medium','Bachelor',0.123
+'CS760966','Employed',13,'Other','Education','Allen Group',62368.00,5197.33,'Verified',0.136,46819.00,'Part-time',83539.00,8,'High','Medium','Medium','Medium','Medium','Doctorate',0.327
+'CS766990','Employed',0,'Teacher','Technology','Roberts and Sons',116015.00,9667.92,'Failed',0.375,14062.00,'Part-time',612760.00,14,'Medium','Low','High','High','High','Bachelor',0.530
+'CS929111','Unemployed',0,'Other','Education','Ruiz-Harris',446294.00,37191.17,'Pending',0.048,5420.00,'Investment',161184.00,11,'Medium','Low','Medium','High','High','High School',0.361
+'CS514871','Retired',31,'Engineer','Other','Wilcox, Schwartz and Alexander',21579.00,1798.25,'Verified',0.318,45829.00,'Part-time',710589.00,2,'Low','Medium','Low','Medium','Low','Bachelor',0.090
+'CS303367','Employed',30,'Other','Education','Campbell, Flowers and York',228011.00,19000.92,'Verified',0.734,15192.00,NULL,185079.00,18,'Medium','Medium','Low','Low','High','Bachelor',0.332
+'CS891937','Unemployed',23,'Teacher','Other','Walker Ltd',215270.00,17939.17,'Pending',0.841,22880.00,'Rental',274828.00,17,'Medium','High','Low','Low','Medium','Master',0.048
+'CS594080','Self-employed',5,'Teacher','Other','Young-Martin',273071.00,22755.92,'Pending',0.601,42625.00,'Part-time',320984.00,8,'High','Low','Medium','Medium','Medium','Master',0.131
+'CS447583','Self-employed',34,'Teacher','Healthcare','Reeves, Sanchez and Gamble',426953.00,35579.42,'Verified',0.362,17300.00,'Part-time',332427.00,9,'Low','Medium','High','Medium','High','Doctorate',0.486
+'CS584370','Self-employed',31,'Other','Technology','Lawson-Garcia',164622.00,13718.50,'Verified',0.058,12360.00,'Part-time',696979.00,4,'High','High','Low','High','Medium','Master',0.414
+'CS762804','Unemployed',8,'Other','Healthcare','Stevens LLC',380538.00,31711.50,'Failed',0.28,32501.00,'Investment',394896.00,20,'Low','Medium','Low','Low','High','Master',0.194
+'CS626118','Retired',27,'Manager','Technology','Harper, Duncan and Levine',64915.00,5409.58,'Verified',0.142,30186.00,'Investment',517146.00,1,'High','High','High','High','Medium','Bachelor',0.114
+'CS879069','Employed',22,'Doctor','Other','Hamilton PLC',142586.00,11882.17,'Verified',0.526,47175.00,'Rental',426911.00,4,'Medium','Medium','Low','Low','Low','Bachelor',0.417
+'CS191875','Retired',39,'Doctor','Technology','Jones-Vasquez',146588.00,12215.67,'Verified',0.987,20741.00,NULL,364239.00,2,'Medium','High','Low','Low','High','Doctorate',0.160
+'CS753574','Retired',4,'Teacher','Technology','Orozco Group',410752.00,34229.33,'Verified',0.921,15090.00,'Part-time',644166.00,20,'High','Medium','Medium','Medium','High','Bachelor',0.548
+'CS562117','Retired',36,'Engineer','Finance','Brown, Howell and Bass',294108.00,24509.00,'Verified',0.634,12176.00,'Investment',131540.00,4,'Medium','Low','Low','High','Medium','High School',0.591
+'CS190658','Unemployed',38,'Teacher','Other','Hernandez-Reed',450963.00,37580.25,'Verified',0.483,21990.00,NULL,781238.00,9,'High','Medium','Medium','Low','Low','High School',0.581
+'CS871963','Unemployed',9,'Engineer','Education','Guzman-Pennington',221745.00,18478.75,'Failed',0.208,27890.00,'Rental',516600.00,8,'Low','Low','Medium','Medium','High','High School',0.014
+'CS198325','Unemployed',6,'Manager','Education','Rogers-Sanford',320997.00,26749.75,'Pending',0.166,21641.00,'Rental',620504.00,16,'Medium','Low','Medium','High','Medium','High School',0.025
+'CS888307','Self-employed',30,'Engineer','Healthcare','Reed PLC',254103.00,21175.25,'Pending',0.897,46679.00,NULL,686920.00,1,'High','Medium','Low','Low','High','High School',0.012
+'CS601182','Self-employed',8,'Teacher','Other','Wang, Gomez and Torres',419785.00,34982.08,'Failed',0.854,13122.00,NULL,40955.00,8,'Medium','High','Low','Low','Low','High School',0.249
+'CS260047','Employed',8,'Doctor','Technology','Choi Ltd',249186.00,20765.50,'Failed',0.551,45965.00,'Rental',136988.00,1,'High','High','Low','Medium','High','Master',0.593
+'CS829938','Retired',31,'Engineer','Technology','Martinez-Carson',23168.00,1930.67,'Verified',0.271,46790.00,'Investment',57927.00,14,'Medium','Medium','High','Medium','High','High School',0.329
+'CS970062','Employed',22,'Teacher','Technology','Anderson LLC',106028.00,8835.67,'Pending',0.035,29598.00,NULL,777386.00,10,'Medium','Medium','High','Low','Medium','Bachelor',0.577
+'CS831677','Retired',31,'Teacher','Finance','Thompson, Smith and Carney',439438.00,36619.83,'Verified',0.692,22487.00,'Part-time',761269.00,5,'Low','Low','Low','High','Low','Bachelor',0.323
+'CS315046','Retired',0,'Doctor','Education','Ford-Cook',203441.00,16953.42,'Failed',0.498,31585.00,'Rental',290653.00,6,'High','Medium','Medium','High','Medium','High School',0.159
+'CS391188','Unemployed',40,'Doctor','Education','Pruitt LLC',312113.00,26009.42,'Failed',0.926,13964.00,'Investment',338858.00,3,'High','Medium','High','Low','Medium','Master',0.388
+'CS404795','Unemployed',30,'Other','Healthcare','Solomon-Perez',144029.00,12002.42,'Failed',0.728,14928.00,NULL,83243.00,19,'High','Medium','Low','High','Medium','Master',0.206
+'CS493077','Retired',22,'Doctor','Finance','Stafford, Coleman and Ingram',286990.00,23915.83,'Failed',0.669,19954.00,NULL,568863.00,4,'Medium','High','Low','Low','Low','High School',0.483
+'CS491494','Unemployed',26,'Manager','Other','Shannon, Miles and Skinner',150060.00,12505.00,'Failed',0.996,26131.00,'Part-time',624312.00,12,'High','High','Medium','High','Low','High School',0.543
+'CS255224','Employed',37,'Teacher','Other','Velazquez Ltd',231016.00,19251.33,'Verified',0.47,15128.00,'Part-time',60274.00,11,'High','Low','Medium','High','Medium','High School',0.252
+'CS234231','Self-employed',7,'Other','Healthcare','Price-Roberts',287755.00,23979.58,'Pending',0.01,35390.00,'Part-time',589070.00,18,'Low','Medium','High','Low','Medium','Bachelor',0.355
+'CS572973','Retired',28,'Other','Technology','Patterson and Sons',390919.00,32576.58,'Pending',0.549,2127.00,'Rental',448501.00,17,'High','Low','Low','Medium','Low','Master',0.014
+'CS409973','Retired',4,'Doctor','Other','Richardson-Clark',126615.00,10551.25,'Pending',0.617,26224.00,'Part-time',519630.00,15,'Low','High','Low','Low','High','High School',0.092
+'CS492643','Retired',3,'Teacher','Other','Smith, Briggs and Rogers',256674.00,21389.50,'Verified',0.26,38736.00,'Part-time',420893.00,12,'Low','High','Medium','High','Medium','High School',0.101
+'CS637327','Retired',13,'Manager','Other','Smith-Hahn',218056.00,18171.33,'Pending',0.307,30737.00,'Part-time',418372.00,4,'Low','High','Low','High','Low','High School',0.168
+'CS621727','Retired',0,'Other','Education','Baker, Hull and Mejia',359900.00,29991.67,'Verified',0.708,26741.00,'Rental',642770.00,16,'High','Medium','High','High','High','Bachelor',0.098
+'CS670231','Unemployed',11,'Engineer','Other','Davidson PLC',122936.00,10244.67,'Failed',0.629,25164.00,NULL,62383.00,5,'High','Medium','Medium','Medium','Medium','Bachelor',0.561
+'CS411516','Unemployed',32,'Manager','Education','Miller-Reyes',70217.00,5851.42,'Failed',0.588,34528.00,'Part-time',586936.00,0,'High','Low','Low','High','High','Bachelor',0.507
+'CS952333','Employed',14,'Manager','Education','Moran, Jenkins and Day',147285.00,12273.75,'Pending',0.172,43361.00,'Part-time',257891.00,15,'Low','Low','Medium','High','Low','Doctorate',0.143
+'CS201627','Employed',25,'Doctor','Healthcare','Gallagher-Mccormick',110032.00,9169.33,'Verified',0.948,32531.00,'Part-time',188637.00,6,'Medium','Low','Low','Low','Low','Master',0.244
+'CS758942','Retired',40,'Doctor','Finance','Fisher PLC',303214.00,25267.83,'Failed',0.72,19076.00,NULL,600583.00,14,'Medium','Medium','High','High','Medium','Doctorate',0.227
+'CS417455','Self-employed',11,'Doctor','Education','Wright, Compton and Davidson',392887.00,32740.58,'Failed',0.035,46131.00,'Part-time',137325.00,7,'Low','Low','Low','High','Medium','Bachelor',0.401
+'CS433016','Self-employed',2,'Other','Other','Myers LLC',169861.00,14155.08,'Pending',0.743,31904.00,'Investment',536071.00,17,'High','Medium','Medium','High','High','Bachelor',0.196
+'CS288925','Retired',31,'Engineer','Healthcare','Simpson LLC',335837.00,27986.42,'Failed',0.781,20993.00,'Investment',718366.00,12,'High','High','Low','Medium','Medium','Master',0.067
+'CS138232','Self-employed',35,'Teacher','Healthcare','Rios Inc',365138.00,30428.17,'Failed',0.271,37040.00,'Part-time',766424.00,11,'Medium','Medium','High','Low','Low','High School',0.117
+'CS677563','Retired',33,'Doctor','Healthcare','Sullivan Inc',460333.00,38361.08,'Verified',0.485,17583.00,'Rental',487783.00,12,'High','Medium','High','High','High','Master',0.385
+'CS573140','Retired',9,'Teacher','Healthcare','Flores-Mccoy',78302.00,6525.17,'Failed',0.731,31940.00,NULL,361289.00,8,'Low','Medium','Medium','High','High','Bachelor',0.432
+'CS987368','Self-employed',21,'Teacher','Technology','King, Jensen and Johnson',53486.00,4457.17,'Failed',0.082,14751.00,NULL,498514.00,3,'Low','Medium','High','High','High','Master',0.326
+'CS668393','Self-employed',35,'Doctor','Technology','Snyder, Good and Rodriguez',211239.00,17603.25,'Pending',0.253,39166.00,'Investment',711140.00,10,'High','High','High','Medium','Medium','Master',0.303
+'CS957512','Employed',3,'Engineer','Other','Rich, Wallace and Ramirez',472630.00,39385.83,'Verified',0.112,28656.00,'Investment',156696.00,10,'High','Medium','High','Medium','High','High School',0.061
+'CS268518','Employed',25,'Engineer','Healthcare','Reed-Pineda',223739.00,18644.92,'Verified',0.743,17048.00,'Rental',187340.00,20,'Low','Low','High','High','High','High School',0.066
+'CS615705','Unemployed',0,'Doctor','Education','Williams-Lee',372203.00,31016.92,'Failed',0.543,13877.00,'Investment',249592.00,0,'Medium','Medium','Low','Medium','High','High School',0.446
+'CS790877','Self-employed',40,'Teacher','Healthcare','Calderon PLC',160349.00,13362.42,'Pending',0.945,35945.00,'Investment',305164.00,13,'Low','Medium','Low','Low','Medium','Doctorate',0.400
+'CS592081','Self-employed',7,'Engineer','Finance','Hester, Tucker and Peterson',384673.00,32056.08,'Failed',0.686,17610.00,'Rental',276591.00,14,'Low','Medium','Low','Low','Medium','High School',0.138
+'CS590036','Employed',14,'Teacher','Other','Kim PLC',103372.00,8614.33,'Failed',0.427,42157.00,NULL,65221.00,0,'High','Low','Low','Medium','High','Doctorate',0.522
+'CS280745','Self-employed',27,'Teacher','Other','Sanchez, Morales and Carey',69403.00,5783.58,'Verified',0.713,25653.00,'Part-time',514279.00,11,'Medium','High','High','Low','Low','Bachelor',0.508
+'CS556272','Self-employed',15,'Manager','Healthcare','Beard PLC',200607.00,16717.25,'Verified',0.385,11617.00,'Rental',30852.00,8,'High','Medium','High','Medium','Medium','High School',0.546
+'CS703533','Self-employed',38,'Manager','Other','Rogers-Jones',203079.00,16923.25,'Pending',0.177,21427.00,'Investment',474966.00,10,'High','Medium','High','Medium','High','Bachelor',0.087
+'CS488323','Unemployed',26,'Teacher','Finance','Scott LLC',251411.00,20950.92,'Verified',0.183,14151.00,'Rental',110363.00,15,'High','High','Medium','Medium','High','Doctorate',0.292
+'CS876306','Self-employed',28,'Teacher','Education','Davis-Martinez',103601.00,8633.42,'Verified',0.529,40817.00,'Part-time',296897.00,17,'Medium','Medium','High','Low','Medium','Bachelor',0.424
+'CS332305','Retired',17,'Doctor','Healthcare','Jones-Buckley',247973.00,20664.42,'Failed',0.049,31037.00,'Rental',194359.00,6,'Medium','Low','High','High','High','Master',0.355
+'CS694472','Retired',37,'Other','Technology','Grant, Gaines and Ellis',131276.00,10939.67,'Verified',0.864,25343.00,NULL,128432.00,3,'Medium','Medium','Low','Low','Low','Doctorate',0.221
+'CS995959','Retired',15,'Other','Education','Hartman, Moreno and Hooper',378096.00,31508.00,'Failed',0.65,49712.00,'Part-time',673430.00,17,'Low','Low','Medium','Medium','Low','High School',0.225
+'CS247361','Employed',14,'Teacher','Education','Evans-Diaz',208363.00,17363.58,'Pending',0.102,23597.00,'Rental',773436.00,7,'Low','Low','Medium','Low','Medium','Bachelor',0.545
+'CS211086','Unemployed',12,'Doctor','Technology','Adkins, Pacheco and Parker',496954.00,41412.83,'Failed',0.013,33816.00,'Investment',205753.00,6,'Low','Low','Low','Medium','Low','Bachelor',0.017
+'CS834384','Employed',8,'Doctor','Healthcare','Evans and Sons',50583.00,4215.25,'Verified',0.271,36838.00,'Rental',330042.00,17,'Low','High','High','Medium','Low','Bachelor',0.131
+'CS374008','Unemployed',40,'Other','Healthcare','Roberts-Johnson',457148.00,38095.67,'Pending',0.658,30058.00,'Investment',617763.00,9,'Low','High','Low','Low','Medium','High School',0.350
+'CS936540','Unemployed',13,'Manager','Technology','Reid PLC',241503.00,20125.25,'Pending',0.862,11142.00,'Investment',545379.00,12,'Low','High','Medium','Medium','High','Master',0.291
+'CS933566','Self-employed',19,'Teacher','Technology','Williams, Nielsen and Holt',123466.00,10288.83,'Failed',0.436,4646.00,'Investment',334263.00,2,'Low','Medium','High','High','High','Master',0.177
+'CS307964','Retired',26,'Engineer','Education','Garcia, Williams and Mccarty',422026.00,35168.83,'Verified',0.556,9963.00,'Investment',270958.00,11,'Low','Low','Low','High','Medium','High School',0.315
+'CS377079','Self-employed',13,'Manager','Healthcare','Mitchell, Anderson and Valentine',107477.00,8956.42,'Failed',0.045,25435.00,NULL,382432.00,12,'Low','Medium','Low','Low','Low','Doctorate',0.092
+'CS383540','Self-employed',15,'Teacher','Healthcare','Pierce-Heath',358574.00,29881.17,'Pending',0.562,15666.00,'Rental',781959.00,16,'High','Low','Low','High','High','Master',0.161
+'CS794230','Self-employed',7,'Other','Technology','Gentry, Kelley and Lopez',208957.00,17413.08,'Failed',0.506,9015.00,NULL,289593.00,2,'Medium','Low','Low','Medium','High','High School',0.312
+'CS885749','Unemployed',2,'Engineer','Other','Thomas-Vargas',316248.00,26354.00,'Pending',0.353,38088.00,NULL,730485.00,11,'Medium','High','High','Low','Low','Bachelor',0.570
+'CS869787','Retired',2,'Teacher','Technology','Howell, Chapman and Mclean',26617.00,2218.08,'Failed',0.75,5086.00,'Rental',283317.00,6,'Medium','Low','High','Low','Medium','Doctorate',0.581
+'CS892194','Retired',28,'Doctor','Other','Davis-Grant',404197.00,33683.08,'Failed',0.506,13182.00,'Rental',35216.00,1,'High','High','Low','Low','Medium','Doctorate',0.143
+'CS170086','Self-employed',14,'Doctor','Education','Melton-Collins',131328.00,10944.00,'Failed',0.601,23258.00,NULL,110396.00,9,'Low','Medium','Medium','Medium','Medium','Master',0.187
+'CS143502','Self-employed',3,'Other','Other','Smith, Smith and Tran',340034.00,28336.17,'Pending',0.243,7895.00,'Part-time',514165.00,13,'High','Medium','Low','High','Medium','Master',0.330
+'CS530471','Retired',20,'Manager','Education','James-Anderson',25986.00,2165.50,'Verified',0.921,10551.00,'Part-time',23815.00,15,'Medium','High','High','Low','Medium','Doctorate',0.334
+'CS446881','Unemployed',34,'Manager','Healthcare','Turner-Taylor',311645.00,25970.42,'Verified',0.486,17701.00,'Part-time',235148.00,13,'Low','Low','High','Medium','Medium','Bachelor',0.536
+'CS621176','Unemployed',23,'Teacher','Other','Ayala PLC',422331.00,35194.25,'Verified',0.133,29443.00,'Rental',515089.00,17,'High','Low','High','Low','High','Doctorate',0.364
+'CS939885','Unemployed',28,'Other','Healthcare','Smith-Phillips',66508.00,5542.33,'Pending',0.793,28624.00,NULL,640661.00,10,'High','High','Low','High','Low','Master',0.468
+'CS535955','Employed',24,'Engineer','Technology','Bradford and Sons',499544.00,41628.67,'Pending',0.279,7153.00,'Investment',388183.00,20,'High','Low','Medium','Medium','Low','High School',0.494
+'CS570438','Unemployed',34,'Teacher','Healthcare','Johns, Wallace and Rodriguez',389310.00,32442.50,'Failed',0.797,38678.00,'Rental',151699.00,16,'Medium','High','Low','Medium','High','Bachelor',0.438
+'CS532232','Unemployed',2,'Other','Healthcare','Fernandez, Coleman and Gibson',263155.00,21929.58,'Pending',0.604,17486.00,'Part-time',778243.00,18,'Low','Medium','Low','Medium','Medium','Bachelor',0.213
+'CS578962','Employed',3,'Other','Other','Jackson-Rollins',329864.00,27488.67,'Pending',0.252,26060.00,NULL,536786.00,0,'Medium','High','High','Low','High','Bachelor',0.253
+'CS531642','Unemployed',11,'Teacher','Finance','Rojas, Vasquez and Carlson',287501.00,23958.42,'Verified',0.226,33843.00,'Rental',678205.00,11,'High','High','Medium','Medium','Medium','Master',0.428
+'CS544434','Retired',15,'Teacher','Finance','Mcdonald, Wood and White',383728.00,31977.33,'Failed',0.824,33564.00,'Rental',312407.00,14,'Medium','High','Medium','High','Medium','Doctorate',0.426
+'CS379048','Unemployed',26,'Other','Education','Lynn LLC',119209.00,9934.08,'Verified',0.532,14804.00,'Rental',621620.00,7,'High','High','Low','High','High','Bachelor',0.138
+'CS715035','Unemployed',40,'Engineer','Other','Johnson-Moore',140684.00,11723.67,'Pending',0.44,46299.00,'Investment',235467.00,11,'Low','High','Medium','Medium','Medium','High School',0.377
+'CS415109','Self-employed',7,'Doctor','Finance','Jackson LLC',26841.00,2236.75,'Failed',0.197,45035.00,'Part-time',360028.00,10,'Medium','Low','Low','High','High','High School',0.564
+'CS838555','Retired',6,'Other','Healthcare','Shaw-Powell',496686.00,41390.50,'Failed',0.448,18863.00,'Investment',755267.00,1,'Low','Low','Medium','High','High','Bachelor',0.266
+'CS354069','Self-employed',30,'Engineer','Other','Gregory-Hall',332818.00,27734.83,'Verified',0.015,33718.00,'Rental',378339.00,11,'Low','Medium','High','Low','Medium','Bachelor',0.043
+'CS853261','Retired',6,'Other','Finance','Armstrong LLC',454050.00,37837.50,'Pending',0.77,48003.00,'Part-time',594224.00,0,'Low','High','Medium','High','High','Master',0.167
+'CS373012','Employed',12,'Other','Finance','Johnson, Sanders and Johnson',127085.00,10590.42,'Verified',0.695,37569.00,'Investment',141649.00,0,'Low','Medium','Medium','High','Medium','Bachelor',0.392
+'CS991335','Unemployed',20,'Engineer','Healthcare','Williams-Johnson',94032.00,7836.00,'Pending',0.21,25770.00,'Rental',269497.00,1,'Low','Low','High','High','Low','Doctorate',0.187
+'CS548052','Employed',18,'Doctor','Technology','Steele Ltd',269573.00,22464.42,'Pending',0.779,19282.00,'Investment',449569.00,8,'Medium','High','Low','High','High','Doctorate',0.463
+'CS819071','Unemployed',27,'Engineer','Healthcare','Johnson PLC',342941.00,28578.42,'Failed',0.207,28241.00,'Investment',251101.00,20,'High','Low','High','Low','High','Doctorate',0.051
+'CS145015','Self-employed',17,'Other','Finance','Mcmillan-Baker',248705.00,20725.42,'Failed',0.224,7432.00,NULL,430277.00,20,'High','Medium','Medium','Low','Low','Bachelor',0.575
+'CS624607','Retired',24,'Manager','Technology','Turner Ltd',292571.00,24380.92,'Pending',0.572,42775.00,'Rental',226518.00,15,'High','Medium','High','High','High','Doctorate',0.121
+'CS428286','Retired',36,'Doctor','Healthcare','Burke-Dillon',368941.00,30745.08,'Verified',0.396,4122.00,'Part-time',302368.00,18,'Low','Medium','Low','High','Medium','Master',0.572
+'CS189697','Unemployed',17,'Doctor','Education','Mathis, Flores and Moody',172052.00,14337.67,'Failed',0.429,21915.00,'Investment',164120.00,7,'High','Medium','High','High','Low','Bachelor',0.023
+'CS240880','Self-employed',23,'Doctor','Healthcare','Burke, Haney and Schmitt',118227.00,9852.25,'Failed',0.522,23502.00,'Part-time',465623.00,20,'Low','Low','Low','Medium','High','Master',0.417
+'CS373393','Unemployed',31,'Teacher','Other','Berry-Miles',483295.00,40274.58,'Pending',0.697,8924.00,'Investment',405684.00,6,'Low','Medium','Low','Low','Low','High School',0.475
+'CS806629','Self-employed',30,'Manager','Education','Booth-Harrison',281101.00,23425.08,'Pending',0.801,49766.00,NULL,81257.00,15,'Medium','High','Medium','Low','Medium','Doctorate',0.118
+'CS343223','Retired',33,'Engineer','Healthcare','Huffman and Sons',82665.00,6888.75,'Pending',0.734,15587.00,'Investment',706245.00,0,'Medium','Low','Medium','Medium','High','Master',0.264
+'CS460145','Employed',3,'Teacher','Education','Lewis PLC',130456.00,10871.33,'Verified',0.001,7520.00,NULL,244590.00,19,'Low','Medium','High','Low','Medium','High School',0.564
+'CS727563','Employed',19,'Doctor','Education','Davenport-Gibbs',205030.00,17085.83,'Pending',0.295,36625.00,'Part-time',617035.00,18,'Low','Medium','Medium','High','Low','High School',0.493
+'CS141088','Retired',29,'Manager','Finance','Peters-Adams',231802.00,19316.83,'Pending',0.69,13914.00,'Investment',335222.00,17,'Medium','High','Low','Medium','Medium','High School',0.441
+'CS892133','Retired',2,'Manager','Education','Martin, Anderson and Ford',55605.00,4633.75,'Verified',0.306,2648.00,NULL,757461.00,11,'High','Medium','Medium','High','Low','Master',0.308
+'CS387843','Retired',0,'Teacher','Finance','Winters, Garrison and Phelps',151876.00,12656.33,'Failed',0.926,21762.00,NULL,35069.00,3,'High','Low','High','Low','Medium','Master',0.060
+'CS914075','Self-employed',2,'Engineer','Other','Macdonald and Sons',169276.00,14106.33,'Failed',0.196,45019.00,'Rental',571436.00,0,'Low','High','Medium','Medium','Medium','High School',0.301
+'CS497192','Retired',26,'Manager','Healthcare','Smith, Brown and Vasquez',489741.00,40811.75,'Failed',0.555,30601.00,'Rental',281214.00,0,'Medium','Low','High','Low','High','Master',0.262
+'CS134108','Retired',15,'Teacher','Technology','Curtis Ltd',408945.00,34078.75,'Failed',0.948,5963.00,'Rental',270739.00,17,'Medium','High','High','High','High','Master',0.506
+'CS605123','Unemployed',32,'Engineer','Other','Diaz Inc',87171.00,7264.25,'Verified',0.459,12933.00,NULL,718667.00,4,'High','Low','High','Medium','High','Bachelor',0.205
+'CS335014','Self-employed',28,'Other','Other','Flores and Sons',257794.00,21482.83,'Pending',0.434,1552.00,'Part-time',754875.00,19,'Medium','Low','High','High','High','High School',0.209
+'CS575114','Self-employed',29,'Teacher','Education','Morgan, Tucker and Salazar',282190.00,23515.83,'Verified',0.637,40139.00,'Part-time',230918.00,1,'High','Medium','Medium','Low','Low','Bachelor',0.221
+'CS106874','Unemployed',26,'Other','Finance','Thompson, Lee and Jenkins',475173.00,39597.75,'Failed',0.56,4012.00,'Part-time',168339.00,19,'Medium','High','High','High','Medium','Doctorate',0.066
+'CS388699','Retired',25,'Other','Finance','Taylor Inc',92577.00,7714.75,'Failed',0.534,13739.00,NULL,76024.00,18,'High','Low','High','High','Low','Master',0.019
+'CS643389','Unemployed',29,'Other','Other','Wells Group',41251.00,3437.58,'Pending',0.176,9048.00,NULL,635074.00,10,'High','Low','Medium','Low','Medium','Bachelor',0.351
+'CS776106','Self-employed',16,'Other','Other','Myers-Ward',465982.00,38831.83,'Pending',0.946,13991.00,'Part-time',339352.00,10,'Medium','Medium','High','Medium','Medium','Master',0.391
+'CS475650','Self-employed',39,'Other','Technology','Potts-Allen',177717.00,14809.75,'Pending',0.185,9505.00,'Rental',226697.00,13,'Medium','High','High','High','High','Bachelor',0.046
+'CS467965','Self-employed',10,'Doctor','Other','Sharp, Lee and Young',167742.00,13978.50,'Failed',0.261,14177.00,NULL,223876.00,13,'Medium','Low','Low','Low','High','Bachelor',0.398
+'CS745394','Unemployed',28,'Doctor','Other','Johnson, Briggs and Ramirez',71116.00,5926.33,'Verified',0.364,30784.00,NULL,462129.00,15,'High','Low','High','Medium','Medium','Doctorate',0.047
+'CS201038','Retired',28,'Manager','Technology','Estes-White',446460.00,37205.00,'Verified',0.605,48582.00,'Part-time',108392.00,17,'Low','High','Low','Low','Low','Bachelor',0.435
+'CS296367','Unemployed',40,'Manager','Education','Price PLC',490381.00,40865.08,'Pending',0.996,39316.00,'Part-time',140594.00,1,'High','High','Medium','Low','Low','Doctorate',0.093
+'CS991281','Unemployed',22,'Manager','Technology','Wright-Nichols',366995.00,30582.92,'Pending',0.871,2727.00,'Rental',297629.00,17,'High','Medium','High','Low','Medium','Master',0.225
+'CS369056','Employed',34,'Teacher','Other','Burnett-Smith',33981.00,2831.75,'Verified',0.8,12660.00,'Rental',516083.00,6,'Medium','Low','High','High','High','Master',0.586
+'CS766477','Self-employed',14,'Other','Education','Rogers Group',128397.00,10699.75,'Failed',0.517,37048.00,'Part-time',574700.00,12,'Medium','Low','Medium','High','Low','Doctorate',0.215
+'CS812612','Employed',24,'Manager','Finance','Hernandez and Sons',195689.00,16307.42,'Pending',0.891,35288.00,'Rental',452861.00,18,'Low','Low','Medium','High','Medium','Doctorate',0.077
+'CS868899','Unemployed',37,'Engineer','Other','Sanchez, Hill and Ali',195641.00,16303.42,'Pending',0.171,30405.00,'Investment',707680.00,3,'Low','Medium','Medium','High','Medium','Doctorate',0.509
+'CS841317','Unemployed',36,'Engineer','Finance','Baker-Thompson',85796.00,7149.67,'Failed',0.539,24116.00,'Part-time',375774.00,7,'Medium','Medium','High','High','Low','Master',0.207
+'CS297756','Employed',2,'Doctor','Technology','Baker-Evans',420630.00,35052.50,'Verified',0.405,8397.00,NULL,788058.00,20,'Low','Medium','Medium','Low','High','Bachelor',0.199
+'CS503280','Employed',39,'Teacher','Healthcare','Williams LLC',292821.00,24401.75,'Failed',0.748,17428.00,'Part-time',742702.00,13,'Low','Low','High','High','Medium','Master',0.119
+'CS927606','Employed',38,'Other','Technology','Ware-Frederick',435109.00,36259.08,'Failed',0.467,29908.00,NULL,142167.00,13,'Low','Low','High','Low','High','Master',0.476
+'CS727745','Employed',6,'Doctor','Technology','Hampton LLC',267916.00,22326.33,'Verified',0.008,48120.00,NULL,747391.00,9,'Medium','Low','High','High','High','Doctorate',0.578
+'CS829715','Retired',20,'Manager','Other','Turner PLC',357916.00,29826.33,'Pending',0.714,17498.00,'Rental',486954.00,20,'Medium','Medium','High','Medium','Medium','Doctorate',0.461
+'CS762823','Employed',28,'Engineer','Other','Moore-Graham',496531.00,41377.58,'Failed',0.172,9342.00,'Rental',133542.00,9,'High','Medium','High','Medium','Medium','Master',0.113
+'CS128627','Unemployed',21,'Other','Finance','Ritter-Contreras',493299.00,41108.25,'Failed',0.506,21553.00,'Part-time',612577.00,10,'Low','Medium','Low','High','Low','Doctorate',0.053
+'CS138931','Employed',19,'Engineer','Healthcare','King, White and Robles',479775.00,39981.25,'Pending',0.17,24292.00,NULL,428192.00,15,'High','Low','High','Low','Medium','Bachelor',0.245
+'CS259126','Employed',22,'Manager','Technology','Mendoza, Fernandez and Hill',420464.00,35038.67,'Verified',0.126,20890.00,'Investment',228678.00,5,'High','Low','Low','Medium','Medium','Master',0.327
+'CS339484','Retired',18,'Doctor','Finance','Johnson-Webster',368135.00,30677.92,'Pending',0.786,48044.00,NULL,46889.00,13,'Medium','Medium','Low','Medium','Medium','Bachelor',0.549
+'CS400616','Unemployed',37,'Other','Healthcare','Anderson PLC',87148.00,7262.33,'Verified',0.408,11753.00,'Rental',21266.00,11,'Low','Medium','Low','Medium','Medium','Bachelor',0.385
+'CS972305','Employed',6,'Doctor','Other','Stone, Hood and Powers',426146.00,35512.17,'Verified',0.003,49952.00,'Rental',296723.00,7,'Low','Medium','Medium','Medium','High','High School',0.149
+'CS539312','Employed',23,'Teacher','Healthcare','Parker-Jones',373459.00,31121.58,'Verified',0.81,2198.00,NULL,176949.00,16,'Low','Medium','Medium','Medium','Low','Bachelor',0.036
+'CS231783','Employed',3,'Doctor','Finance','Jones, Anderson and Thomas',388697.00,32391.42,'Pending',0.923,48246.00,NULL,419929.00,15,'Low','High','High','Low','High','Master',0.061
+'CS282904','Employed',6,'Doctor','Healthcare','Brown-Williams',274854.00,22904.50,'Pending',0.577,7350.00,NULL,424987.00,4,'Low','High','Medium','High','Low','High School',0.442
+'CS800775','Unemployed',28,'Teacher','Other','Jackson-Harding',316682.00,26390.17,'Pending',0.934,42245.00,'Rental',366638.00,4,'Medium','Low','Medium','Low','Medium','High School',0.424
+'CS864381','Retired',4,'Teacher','Healthcare','Beltran-Collins',132182.00,11015.17,'Pending',0.862,12936.00,'Part-time',696154.00,2,'High','Low','High','High','Low','High School',0.360
+'CS904113','Retired',28,'Other','Healthcare','Bennett, Hawkins and Ball',362540.00,30211.67,'Verified',0.968,34152.00,'Investment',325154.00,9,'Low','Medium','Low','High','Low','High School',0.280
+'CS115562','Self-employed',31,'Doctor','Finance','Moore, Johnson and Cruz',115378.00,9614.83,'Verified',0.475,37769.00,'Investment',500289.00,5,'Low','High','Low','Medium','Low','Master',0.418
+'CS448987','Employed',29,'Teacher','Technology','Mitchell-Anderson',490119.00,40843.25,'Failed',0.19,26829.00,'Part-time',509752.00,20,'Medium','High','Medium','Medium','Medium','Master',0.502
+'CS456305','Self-employed',33,'Teacher','Technology','Hale Ltd',106144.00,8845.33,'Pending',0.154,23796.00,NULL,210608.00,7,'Medium','High','High','Medium','High','Bachelor',0.270
+'CS915697','Unemployed',32,'Manager','Healthcare','Martin, Riley and Hopkins',291560.00,24296.67,'Pending',0.314,30582.00,NULL,760601.00,14,'Low','Medium','High','High','High','High School',0.225
+'CS920795','Employed',39,'Doctor','Education','Webb-Nelson',446182.00,37181.83,'Pending',0.504,45356.00,'Investment',401469.00,16,'Low','High','High','Medium','High','Doctorate',0.505
+'CS553866','Retired',39,'Teacher','Healthcare','Cole PLC',29891.00,2490.92,'Verified',0.292,31888.00,NULL,97878.00,7,'Low','Low','Medium','Medium','Medium','Master',0.375
+'CS396861','Self-employed',8,'Engineer','Education','Baker Inc',487547.00,40628.92,'Failed',0.624,8905.00,'Part-time',726210.00,3,'Low','Low','Medium','High','High','Doctorate',0.517
+'CS284351','Employed',3,'Teacher','Technology','Lewis, Martinez and Carlson',463962.00,38663.50,'Verified',0.31,19195.00,'Investment',324597.00,0,'Medium','Medium','Low','High','High','Bachelor',0.491
+'CS219890','Employed',9,'Engineer','Technology','Gordon Ltd',356070.00,29672.50,'Verified',0.435,20977.00,NULL,248487.00,3,'Medium','High','Medium','High','High','High School',0.198
+'CS673389','Retired',19,'Engineer','Education','Nunez, Johnson and Wilson',202254.00,16854.50,'Verified',0.896,12157.00,NULL,508843.00,16,'High','High','Low','High','High','High School',0.418
+'CS762356','Unemployed',39,'Manager','Education','Mckay-Fritz',316595.00,26382.92,'Verified',0.733,4574.00,NULL,661328.00,14,'Medium','Medium','Medium','High','Low','Bachelor',0.438
+'CS271327','Employed',13,'Manager','Healthcare','Caldwell-Nelson',97066.00,8088.83,'Verified',0.87,12535.00,'Investment',432198.00,19,'Medium','Medium','Medium','Low','Low','High School',0.080
+'CS778045','Unemployed',15,'Doctor','Finance','Mckay, Harrison and Edwards',238464.00,19872.00,'Verified',0.695,3181.00,'Investment',315790.00,20,'High','Low','High','Low','Low','High School',0.127
+'CS607667','Retired',6,'Engineer','Other','Caldwell Inc',204428.00,17035.67,'Failed',0.398,47756.00,'Investment',650647.00,7,'High','High','Medium','Low','Low','High School',0.321
+'CS809705','Employed',9,'Teacher','Finance','Smith-Coleman',287723.00,23976.92,'Pending',0.264,21417.00,NULL,40054.00,10,'High','Medium','Medium','Medium','Medium','Doctorate',0.498
+'CS383378','Self-employed',6,'Manager','Education','Ford-Morgan',188818.00,15734.83,'Pending',0.755,26030.00,'Investment',71246.00,7,'Medium','High','Low','Low','Low','High School',0.217
+'CS868819','Self-employed',29,'Other','Technology','Smith-Lester',431301.00,35941.75,'Failed',0.036,13452.00,'Rental',51887.00,7,'Medium','High','Low','Low','Medium','Doctorate',0.506
+'CS501008','Self-employed',16,'Doctor','Finance','Peterson-Vance',31727.00,2643.92,'Failed',0.458,30368.00,'Rental',60151.00,1,'Medium','High','High','Medium','Medium','Master',0.274
+'CS752644','Employed',13,'Other','Finance','Blackburn Ltd',66236.00,5519.67,'Pending',0.257,30337.00,NULL,727995.00,19,'Low','High','Medium','High','High','High School',0.167
+'CS755750','Employed',39,'Manager','Other','Wood, Griffin and Alexander',65456.00,5454.67,'Verified',0.654,12381.00,'Part-time',536857.00,14,'Low','Low','Low','High','Low','Master',0.286
+'CS271086','Self-employed',26,'Manager','Education','Morrison-Mendoza',108184.00,9015.33,'Verified',0.943,36504.00,'Investment',143835.00,4,'Medium','Low','Low','High','High','Bachelor',0.170
+'CS307110','Unemployed',10,'Doctor','Healthcare','Williams, Watson and Jones',449008.00,37417.33,'Failed',0.566,10045.00,'Part-time',174435.00,20,'Medium','Low','Medium','High','Medium','Doctorate',0.157
+'CS369281','Self-employed',9,'Teacher','Healthcare','Johnston, Stephens and Lynch',276887.00,23073.92,'Failed',0.218,17352.00,'Investment',550888.00,12,'Low','Low','Medium','Low','Low','Master',0.543
+'CS829635','Unemployed',17,'Other','Technology','Murray, Rodriguez and Murphy',311002.00,25916.83,'Verified',0.033,8852.00,NULL,712486.00,8,'Low','Low','High','Low','Low','Doctorate',0.069
+'CS770265','Retired',29,'Manager','Technology','Trevino-Scott',209934.00,17494.50,'Verified',0.515,40697.00,NULL,170196.00,15,'Medium','Low','High','Low','Low','Master',0.032
+'CS864319','Retired',7,'Manager','Other','Anderson PLC',273572.00,22797.67,'Failed',0.969,33156.00,'Part-time',718032.00,20,'Low','Medium','Medium','Low','High','Master',0.151
+'CS401510','Unemployed',1,'Teacher','Healthcare','Williams-Wiley',308423.00,25701.92,'Failed',0.13,18887.00,'Rental',103819.00,17,'Medium','Low','High','Medium','High','Master',0.278
+'CS100625','Retired',33,'Other','Finance','Walker LLC',396050.00,33004.17,'Verified',0.469,6541.00,'Rental',482161.00,9,'Low','Low','Medium','Medium','High','Doctorate',0.547
+'CS345957','Self-employed',34,'Doctor','Other','Wilkinson-Carrillo',206080.00,17173.33,'Pending',0.502,48177.00,'Part-time',279742.00,8,'High','Medium','High','Low','Medium','Doctorate',0.482
+'CS585222','Self-employed',20,'Engineer','Other','Griffith-Curry',134114.00,11176.17,'Pending',0.607,41687.00,'Investment',631836.00,15,'High','Low','Low','Low','Low','Bachelor',0.051
+'CS190331','Self-employed',22,'Teacher','Finance','Shelton, Thompson and Newton',294240.00,24520.00,'Pending',0.19,33550.00,'Investment',628454.00,19,'Medium','Medium','Medium','Medium','Low','High School',0.435
+'CS422479','Self-employed',36,'Teacher','Other','Graham LLC',67045.00,5587.08,'Pending',0.737,15587.00,NULL,695377.00,14,'Low','Low','Low','Medium','Low','Doctorate',0.382
+'CS369701','Self-employed',39,'Engineer','Finance','Simpson and Sons',295015.00,24584.58,'Verified',0.265,38088.00,'Part-time',38566.00,5,'Medium','High','High','Medium','Medium','Bachelor',0.001
+'CS370079','Self-employed',6,'Manager','Finance','Branch, Bennett and Carter',253950.00,21162.50,'Pending',0.53,4756.00,NULL,515583.00,12,'High','Medium','Low','Low','High','Master',0.124
+'CS244368','Unemployed',7,'Manager','Healthcare','Robinson, Barry and Neal',87353.00,7279.42,'Verified',0.327,2667.00,'Part-time',361314.00,8,'Medium','High','Medium','Medium','Low','Master',0.519
+'CS565390','Employed',34,'Engineer','Healthcare','Collins-Patterson',221887.00,18490.58,'Pending',0.429,11481.00,'Part-time',503993.00,14,'Low','High','Low','Low','Medium','Master',0.260
+'CS171476','Unemployed',17,'Engineer','Education','Savage Inc',380959.00,31746.58,'Verified',0.195,44692.00,'Part-time',320693.00,12,'High','High','Medium','Low','High','Bachelor',0.349
+'CS999369','Self-employed',35,'Engineer','Finance','Howe Ltd',375908.00,31325.67,'Verified',0.297,32065.00,'Rental',420082.00,1,'High','Medium','High','Medium','High','High School',0.033
+'CS839791','Retired',9,'Teacher','Other','Williams-Morton',136732.00,11394.33,'Failed',0.782,9961.00,'Part-time',319943.00,0,'Low','High','Low','Low','Medium','Master',0.316
+'CS590167','Self-employed',3,'Manager','Finance','Yang and Sons',391061.00,32588.42,'Verified',0.632,23784.00,NULL,653315.00,10,'High','Low','Medium','Medium','Low','Master',0.300
+'CS347262','Self-employed',38,'Teacher','Education','Strickland-White',464945.00,38745.42,'Failed',0.226,45417.00,'Rental',673163.00,8,'High','Medium','High','High','Low','Master',0.001
+'CS514113','Retired',24,'Manager','Other','Medina-Pope',348527.00,29043.92,'Verified',0.668,32093.00,'Part-time',675203.00,7,'High','Low','High','Low','Medium','Master',0.224
+'CS582199','Unemployed',12,'Teacher','Other','Stanley Group',278536.00,23211.33,'Pending',0.926,15499.00,'Investment',244302.00,19,'Low','Low','High','High','Low','Bachelor',0.407
+'CS800483','Employed',31,'Manager','Education','Turner Ltd',234689.00,19557.42,'Failed',0.845,29138.00,'Part-time',501719.00,6,'High','Low','Medium','Medium','Medium','Master',0.504
+'CS976414','Unemployed',21,'Engineer','Finance','Shields Group',167928.00,13994.00,'Verified',0.294,45572.00,'Investment',548474.00,0,'Medium','High','High','Medium','High','High School',0.310
+'CS759530','Employed',18,'Other','Finance','Richardson, Williams and Thompson',343997.00,28666.42,'Pending',0.903,4750.00,'Investment',742332.00,4,'Medium','High','Low','High','Low','Master',0.565
+'CS127224','Retired',32,'Other','Education','Johnson, Peters and Evans',117172.00,9764.33,'Failed',0.918,28527.00,'Part-time',671841.00,5,'High','Medium','Medium','Low','Medium','Doctorate',0.593
+'CS203072','Employed',33,'Other','Finance','James-Nelson',452329.00,37694.08,'Pending',0.021,317.00,'Part-time',611765.00,15,'Medium','High','Low','Medium','Low','Bachelor',0.235
+'CS149186','Unemployed',20,'Manager','Education','Hicks-Dennis',499004.00,41583.67,'Failed',0.779,22697.00,'Rental',666694.00,10,'Medium','Low','Low','Medium','Medium','Bachelor',0.418
+'CS922097','Retired',30,'Teacher','Education','Simmons, Blackwell and Johnson',28276.00,2356.33,'Pending',0.995,40841.00,'Part-time',259614.00,5,'High','High','Low','Medium','Medium','Doctorate',0.081
+'CS394110','Self-employed',34,'Engineer','Finance','Schmidt, Burgess and Chavez',69648.00,5804.00,'Failed',0.155,41842.00,'Part-time',473427.00,0,'High','High','High','Low','Medium','Bachelor',0.511
+'CS163076','Unemployed',2,'Teacher','Education','Riddle and Sons',173461.00,14455.08,'Pending',0.152,31007.00,NULL,117205.00,17,'Low','High','Low','Medium','High','Master',0.055
+'CS560109','Retired',11,'Doctor','Technology','Choi, Mcdaniel and Li',253790.00,21149.17,'Failed',0.811,22866.00,NULL,686968.00,13,'High','High','High','Low','Medium','Doctorate',0.557
+'CS686063','Retired',15,'Other','Technology','Boone-Moreno',120285.00,10023.75,'Pending',0.16,10310.00,NULL,335484.00,11,'High','Medium','Medium','High','Low','Bachelor',0.535
+'CS380239','Employed',20,'Other','Healthcare','King-Hudson',442712.00,36892.67,'Pending',0.494,38103.00,'Investment',713811.00,17,'Medium','High','Medium','High','Low','Master',0.044
+'CS971966','Self-employed',15,'Engineer','Other','Jordan, Anderson and Lewis',341775.00,28481.25,'Failed',0.606,853.00,'Investment',291746.00,13,'Low','Low','Medium','Low','High','Master',0.058
+'CS880170','Retired',37,'Other','Education','Sutton-Evans',431666.00,35972.17,'Verified',0.997,33448.00,'Part-time',459227.00,12,'Low','Low','Low','Low','High','Master',0.173
+'CS563886','Unemployed',14,'Engineer','Finance','Fernandez, Palmer and Hernandez',372861.00,31071.75,'Failed',0.609,40887.00,'Part-time',408267.00,13,'Low','Medium','Low','Medium','Medium','Bachelor',0.230
+'CS371120','Self-employed',12,'Teacher','Other','Rogers and Sons',178602.00,14883.50,'Failed',0.827,38877.00,NULL,309146.00,1,'Medium','Medium','High','Medium','High','Doctorate',0.355
+'CS228336','Employed',8,'Doctor','Finance','Hunter-Gay',248565.00,20713.75,'Pending',0.422,33562.00,NULL,719568.00,16,'Low','Low','High','Medium','High','Master',0.181
+'CS949744','Employed',19,'Doctor','Other','Edwards, Garcia and Cummings',88042.00,7336.83,'Verified',0.92,11584.00,'Investment',572843.00,2,'High','High','High','High','Medium','Doctorate',0.380
+'CS897158','Employed',24,'Doctor','Education','Russo-Harrison',494236.00,41186.33,'Failed',0.365,15421.00,'Part-time',76505.00,3,'High','Low','High','Medium','Low','High School',0.503
+'CS715922','Unemployed',25,'Teacher','Other','Parker, Rogers and Hall',414881.00,34573.42,'Failed',0.465,26816.00,'Rental',594213.00,20,'Medium','Low','Medium','Medium','High','Master',0.140
+'CS197925','Employed',9,'Doctor','Finance','Jones-Maddox',26095.00,2174.58,'Pending',0.026,44679.00,NULL,301303.00,12,'High','High','High','Low','Low','Doctorate',0.052
+'CS449847','Self-employed',38,'Manager','Healthcare','Dudley, Rice and Ryan',446065.00,37172.08,'Verified',0.438,25994.00,NULL,484686.00,18,'Medium','High','Medium','High','Medium','Doctorate',0.382
+'CS198503','Unemployed',37,'Doctor','Technology','Khan Inc',28094.00,2341.17,'Verified',0.799,12306.00,NULL,160919.00,20,'Low','Low','Low','Low','Low','High School',0.423
+'CS116892','Retired',7,'Teacher','Healthcare','Bell and Sons',252999.00,21083.25,'Pending',0.74,43982.00,'Investment',123490.00,0,'Medium','Low','Medium','Medium','High','Master',0.535
+'CS374786','Unemployed',36,'Teacher','Healthcare','Campbell-Mosley',78951.00,6579.25,'Failed',0.447,9777.00,'Rental',254726.00,12,'Low','Low','High','Low','Medium','High School',0.262
+'CS695355','Unemployed',15,'Manager','Finance','Macdonald-Carter',328627.00,27385.58,'Failed',0.63,21943.00,'Investment',195469.00,20,'Medium','Medium','High','Medium','Medium','Bachelor',0.457
+'CS803691','Employed',32,'Doctor','Healthcare','Jones, Phelps and Robinson',245216.00,20434.67,'Pending',0.744,20848.00,'Rental',297272.00,1,'Medium','Medium','High','High','Medium','High School',0.591
+'CS918647','Unemployed',1,'Engineer','Other','Lara-Dunn',279353.00,23279.42,'Verified',0.487,26373.00,'Rental',187328.00,4,'Low','Low','High','Medium','Low','Doctorate',0.196
+'CS475126','Employed',0,'Other','Technology','Brown, Davis and Howard',430823.00,35901.92,'Failed',0.535,47000.00,'Investment',405337.00,14,'High','High','High','High','Low','Bachelor',0.121
+'CS650118','Self-employed',16,'Other','Education','Anderson and Sons',484044.00,40337.00,'Verified',0.594,41179.00,'Investment',60954.00,11,'Low','High','High','Low','High','High School',0.005
+'CS832414','Employed',5,'Engineer','Education','Harris-Pugh',224813.00,18734.42,'Failed',0.723,20986.00,'Part-time',74947.00,6,'Medium','Medium','Medium','Low','Low','Doctorate',0.438
+'CS185319','Unemployed',26,'Teacher','Other','Whitaker LLC',104479.00,8706.58,'Failed',0.238,9811.00,NULL,782844.00,4,'Medium','High','Medium','Medium','Low','Bachelor',0.444
+'CS945798','Employed',23,'Teacher','Technology','Figueroa Inc',347500.00,28958.33,'Pending',0.564,8113.00,NULL,375909.00,3,'High','Low','High','High','Low','Doctorate',0.189
+'CS913649','Employed',9,'Manager','Education','Phillips, Thomas and Mccormick',322476.00,26873.00,'Verified',0.694,14559.00,'Part-time',583299.00,4,'High','Medium','Medium','Medium','Low','High School',0.415
+'CS540319','Unemployed',23,'Other','Healthcare','Valdez-Shepherd',235723.00,19643.58,'Verified',0.367,33253.00,NULL,101164.00,19,'High','Low','Low','Medium','Medium','Doctorate',0.467
+'CS998011','Employed',8,'Doctor','Finance','Sanchez, Cannon and Mcgrath',42825.00,3568.75,'Pending',0.214,49362.00,'Rental',718432.00,0,'Low','Low','High','High','Medium','Bachelor',0.337
+'CS218315','Retired',40,'Engineer','Healthcare','Barron-Miller',21080.00,1756.67,'Failed',0.739,28852.00,'Investment',774088.00,11,'Low','Low','Medium','Medium','Low','Master',0.027
+'CS854613','Employed',3,'Other','Finance','Phillips-Munoz',290031.00,24169.25,'Pending',0.859,40915.00,'Investment',390652.00,6,'High','Low','High','High','Low','Bachelor',0.306
+'CS958555','Retired',13,'Engineer','Other','Jones, Murphy and Klein',49480.00,4123.33,'Failed',0.83,18522.00,'Rental',34750.00,9,'Low','Low','Medium','High','Low','Master',0.282
+'CS469776','Retired',5,'Doctor','Education','Daniels-Hunter',359931.00,29994.25,'Verified',0.232,12061.00,'Investment',53752.00,17,'Low','High','High','Medium','Medium','High School',0.281
+'CS808951','Retired',3,'Teacher','Other','Moore Group',359057.00,29921.42,'Failed',0.113,42107.00,NULL,141843.00,0,'High','Medium','High','Low','High','High School',0.432
+'CS853346','Retired',19,'Doctor','Technology','Riley Inc',180757.00,15063.08,'Failed',0.175,41022.00,'Investment',153469.00,6,'Low','Medium','High','High','Medium','Doctorate',0.229
+'CS721902','Employed',18,'Engineer','Other','Obrien, Horn and Smith',189885.00,15823.75,'Pending',0.473,5498.00,NULL,475453.00,1,'Medium','High','Medium','High','Low','High School',0.093
+'CS807986','Self-employed',26,'Teacher','Education','Allen and Sons',31744.00,2645.33,'Failed',0.76,21818.00,'Investment',791853.00,0,'High','Low','High','Medium','Low','Bachelor',0.411
+'CS185238','Self-employed',15,'Manager','Education','Gill and Sons',89694.00,7474.50,'Pending',0.951,8677.00,NULL,547190.00,8,'Low','High','Low','Medium','Low','High School',0.107
+'CS114708','Unemployed',40,'Teacher','Other','Richardson, Mitchell and Williams',245804.00,20483.67,'Verified',0.658,4679.00,'Rental',368465.00,20,'Medium','High','Medium','High','Medium','Doctorate',0.237
+'CS523782','Employed',20,'Teacher','Healthcare','Price-Donovan',415321.00,34610.08,'Failed',0.967,31373.00,NULL,618094.00,1,'Medium','Low','High','Medium','Medium','Master',0.154
+'CS816405','Unemployed',9,'Other','Other','Norris-Johnson',200785.00,16732.08,'Pending',0.188,6142.00,NULL,746472.00,6,'Medium','Medium','Medium','Low','High','Master',0.117
+'CS768913','Retired',39,'Doctor','Other','Duncan-Nelson',121372.00,10114.33,'Verified',0.487,36740.00,NULL,184708.00,11,'Low','Low','Low','Medium','Low','Bachelor',0.281
+'CS992168','Retired',33,'Teacher','Other','Taylor-Horton',432969.00,36080.75,'Failed',0.062,12877.00,'Part-time',248396.00,14,'Medium','Low','Low','Medium','Low','Bachelor',0.042
+'CS487548','Unemployed',5,'Doctor','Technology','Mccoy-Smith',66141.00,5511.75,'Verified',0.583,7865.00,'Investment',608479.00,8,'Medium','High','Low','High','High','Master',0.076
+'CS822439','Retired',8,'Manager','Healthcare','Wolfe-Daniel',402839.00,33569.92,'Pending',0.47,7154.00,'Rental',443905.00,7,'Low','Low','Low','Medium','High','Bachelor',0.406
+'CS533954','Self-employed',26,'Doctor','Other','White, Rich and Martin',306318.00,25526.50,'Failed',0.771,16360.00,'Investment',609095.00,8,'Medium','Low','High','Medium','Low','High School',0.554
+'CS438769','Employed',8,'Engineer','Technology','Smith-Adkins',83347.00,6945.58,'Pending',0.207,35950.00,'Part-time',605840.00,13,'Medium','Low','Medium','Low','High','Master',0.431
+'CS216855','Self-employed',36,'Teacher','Healthcare','Stanton-Martinez',397757.00,33146.42,'Pending',0.029,4488.00,NULL,733688.00,1,'Medium','Medium','High','Low','High','Doctorate',0.202
+'CS595551','Employed',40,'Manager','Finance','Dickson, Ortega and Robinson',164058.00,13671.50,'Pending',0.563,33643.00,NULL,70145.00,4,'Low','High','High','High','High','High School',0.067
+'CS677354','Self-employed',28,'Teacher','Healthcare','Tyler PLC',43084.00,3590.33,'Verified',0.015,26865.00,'Part-time',511174.00,17,'Medium','High','Medium','Medium','High','Bachelor',0.007
+'CS491816','Retired',22,'Manager','Education','Forbes Inc',441048.00,36754.00,'Verified',0.783,26905.00,NULL,274563.00,17,'Low','Low','Medium','High','Low','Master',0.037
+'CS170278','Unemployed',27,'Other','Finance','Mullins PLC',120483.00,10040.25,'Verified',0.116,7710.00,'Investment',214913.00,17,'Medium','Medium','Low','Low','Low','High School',0.475
+'CS601579','Self-employed',35,'Engineer','Healthcare','Young, Fisher and Taylor',78474.00,6539.50,'Failed',0.198,28454.00,NULL,519107.00,5,'Medium','Low','High','Low','Medium','Doctorate',0.473
+'CS865653','Employed',27,'Other','Healthcare','Tanner, Mills and Ramirez',191046.00,15920.50,'Failed',0.102,7902.00,NULL,263338.00,20,'High','Medium','Medium','Medium','High','Master',0.126
+'CS444985','Employed',23,'Engineer','Other','Suarez Group',191629.00,15969.08,'Failed',0.46,41361.00,NULL,654203.00,12,'Medium','Medium','Medium','Low','High','High School',0.021
+'CS921928','Retired',37,'Other','Healthcare','Cross, Greene and Bates',64455.00,5371.25,'Pending',0.066,40297.00,'Investment',526243.00,16,'High','High','Medium','Medium','Medium','Master',0.255
+'CS103479','Self-employed',30,'Engineer','Other','Christensen-Baldwin',349918.00,29159.83,'Failed',0.103,36221.00,'Investment',147402.00,5,'Low','High','High','Medium','Medium','Master',0.396
+'CS637923','Self-employed',17,'Engineer','Healthcare','Garcia, Phillips and Dixon',143751.00,11979.25,'Verified',0.593,27303.00,NULL,694914.00,15,'Low','Medium','Low','Low','High','High School',0.096
+'CS433048','Unemployed',27,'Engineer','Other','Mitchell-Roberts',350737.00,29228.08,'Failed',0.985,38698.00,'Investment',196748.00,9,'High','Low','Medium','High','High','Doctorate',0.411
+'CS190689','Self-employed',36,'Teacher','Healthcare','Clark Group',475478.00,39623.17,'Failed',0.961,21632.00,'Part-time',411869.00,5,'Medium','Low','High','Medium','Low','Master',0.517
+'CS672132','Unemployed',4,'Engineer','Education','Baird, Church and Davis',236366.00,19697.17,'Failed',0.809,37917.00,'Part-time',649662.00,0,'Low','High','Medium','High','Low','Doctorate',0.184
+'CS154166','Unemployed',17,'Engineer','Other','Poole, Miller and Crawford',276259.00,23021.58,'Failed',0.374,34129.00,'Investment',164127.00,4,'High','Medium','Medium','High','Low','Master',0.574
+'CS481566','Retired',2,'Engineer','Other','Morris-Miller',309101.00,25758.42,'Failed',0.276,25696.00,'Rental',589086.00,13,'Low','Medium','Medium','High','High','Bachelor',0.178
+'CS474004','Retired',3,'Doctor','Education','Stone, Mccoy and Harris',210167.00,17513.92,'Verified',0.113,10777.00,'Rental',432388.00,5,'Low','Low','High','Low','High','Doctorate',0.575
+'CS857220','Employed',5,'Teacher','Other','Barber-Aguilar',182657.00,15221.42,'Verified',0.603,40745.00,'Investment',553736.00,1,'Low','Medium','Medium','Low','Medium','Bachelor',0.483
+'CS364854','Retired',13,'Doctor','Technology','Erickson Inc',252144.00,21012.00,'Pending',0.078,1373.00,'Rental',391423.00,6,'High','Medium','Low','High','High','High School',0.572
+'CS389915','Retired',37,'Manager','Finance','Koch-Mccormick',101502.00,8458.50,'Failed',0.687,4244.00,'Investment',784582.00,14,'Low','High','Low','Low','High','Master',0.009
+'CS539467','Retired',16,'Other','Other','Anderson Group',68122.00,5676.83,'Verified',0.677,25817.00,'Rental',116848.00,5,'High','High','High','Medium','High','Bachelor',0.002
+'CS133642','Unemployed',10,'Other','Other','Small, Moore and Foster',71739.00,5978.25,'Verified',0.488,23641.00,'Investment',538614.00,20,'Low','Medium','Low','Medium','Low','Doctorate',0.314
+'CS344359','Self-employed',20,'Engineer','Finance','Harper, Noble and Green',247828.00,20652.33,'Verified',0.427,27135.00,'Investment',223018.00,20,'Low','Medium','Medium','Low','Medium','Master',0.399
+'CS525784','Self-employed',30,'Manager','Finance','Jackson-Craig',397378.00,33114.83,'Failed',0.625,49657.00,NULL,596624.00,11,'Low','Medium','Medium','Low','Low','Doctorate',0.019
+'CS711115','Unemployed',30,'Teacher','Education','Mason-Jones',166402.00,13866.83,'Failed',0.43,4057.00,'Rental',66332.00,1,'High','High','Medium','Low','Low','Master',0.317
+'CS409024','Unemployed',16,'Other','Finance','Lawson Inc',216746.00,18062.17,'Pending',0.277,36605.00,'Part-time',784115.00,16,'Low','Low','High','High','Low','Doctorate',0.111
+'CS875559','Employed',38,'Manager','Technology','Mcdowell, Haley and Juarez',415801.00,34650.08,'Verified',0.733,36631.00,'Part-time',619404.00,15,'Medium','Low','High','Low','High','Doctorate',0.195
+'CS214561','Employed',25,'Doctor','Education','Smith-Wiggins',374128.00,31177.33,'Pending',0.052,46372.00,'Investment',294794.00,11,'Medium','Low','Low','Medium','Medium','Master',0.501
+'CS554595','Unemployed',4,'Engineer','Healthcare','Chen-Boyd',397838.00,33153.17,'Verified',0.525,20061.00,'Part-time',75707.00,12,'High','Medium','Low','Low','Medium','Bachelor',0.025
+'CS932324','Employed',13,'Engineer','Finance','Burke-Daniel',475915.00,39659.58,'Pending',0.71,44374.00,'Part-time',280363.00,0,'Low','Low','High','Low','Medium','High School',0.002
+'CS923770','Employed',9,'Engineer','Education','Kim, Baker and Ortiz',113933.00,9494.42,'Failed',0.595,36314.00,'Rental',699030.00,1,'Low','Low','High','Low','Medium','Doctorate',0.549
+'CS940445','Retired',18,'Engineer','Other','Whitaker, Garcia and Lucero',101452.00,8454.33,'Pending',0.431,31899.00,'Part-time',368869.00,18,'Medium','High','Low','Low','Medium','Bachelor',0.413
+'CS390793','Retired',33,'Manager','Technology','Dixon PLC',113604.00,9467.00,'Verified',0.67,43346.00,'Investment',56643.00,12,'Medium','Low','Low','Medium','Medium','Master',0.439
+'CS109017','Self-employed',14,'Manager','Finance','Brown, Ramirez and Owens',433299.00,36108.25,'Pending',0.706,26053.00,'Rental',418573.00,14,'Medium','High','Low','High','Medium','High School',0.165
+'CS567695','Unemployed',36,'Doctor','Healthcare','Smith Inc',211625.00,17635.42,'Pending',0.114,42818.00,NULL,213075.00,1,'High','Medium','Medium','Medium','Low','Bachelor',0.460
+'CS634707','Employed',30,'Engineer','Other','Brennan, West and Mcintosh',235294.00,19607.83,'Failed',0.865,11966.00,'Rental',395453.00,18,'High','High','Low','Medium','High','High School',0.429
+'CS493820','Unemployed',24,'Manager','Finance','Kirk Group',406102.00,33841.83,'Failed',0.719,23318.00,'Part-time',558097.00,15,'Medium','Low','Medium','Medium','High','Doctorate',0.277
+'CS922042','Employed',34,'Other','Technology','Melton-Mullins',497455.00,41454.58,'Failed',0.379,20032.00,'Investment',681812.00,4,'High','High','Medium','High','Medium','Bachelor',0.195
+'CS710758','Retired',14,'Engineer','Other','Brown, Cox and Hickman',277656.00,23138.00,'Verified',0.849,42749.00,'Part-time',246503.00,10,'High','High','Medium','Medium','High','Bachelor',0.379
+'CS158200','Retired',26,'Doctor','Healthcare','Kim-Turner',351418.00,29284.83,'Verified',0.669,47143.00,'Rental',206522.00,16,'High','Medium','High','Medium','Low','Doctorate',0.205
+'CS724247','Employed',26,'Engineer','Healthcare','Gill Group',418190.00,34849.17,'Pending',0.546,21165.00,'Rental',274821.00,20,'Medium','Low','Low','Low','Low','High School',0.300
+'CS883422','Unemployed',11,'Other','Other','Clark LLC',230739.00,19228.25,'Verified',0.841,10575.00,'Part-time',696169.00,20,'Low','Low','Medium','High','Medium','High School',0.011
+'CS816589','Unemployed',2,'Manager','Finance','Torres, Harvey and Silva',82283.00,6856.92,'Verified',0.324,180.00,'Rental',302505.00,18,'Medium','Low','Medium','Low','Medium','Master',0.317
+'CS316481','Retired',36,'Engineer','Technology','Williams, Taylor and Young',468216.00,39018.00,'Failed',0.362,23243.00,NULL,64503.00,7,'Low','Low','Low','Medium','Low','Master',0.211
+'CS144498','Retired',16,'Doctor','Finance','Gallegos-Johnson',212395.00,17699.58,'Verified',0.636,19177.00,'Part-time',595790.00,16,'Low','Medium','Medium','High','Low','Doctorate',0.415
+'CS218700','Unemployed',25,'Other','Education','Allison-Anderson',25972.00,2164.33,'Pending',0.249,49138.00,'Rental',105686.00,1,'Medium','High','Medium','Medium','High','Doctorate',0.449
+'CS516722','Retired',34,'Engineer','Healthcare','Fowler, Smith and Barnes',188499.00,15708.25,'Failed',0.072,19178.00,'Rental',448053.00,17,'High','High','Medium','Low','Medium','Bachelor',0.205
+'CS724459','Employed',27,'Engineer','Technology','Cox-Anderson',203499.00,16958.25,'Verified',0.715,16791.00,'Rental',557220.00,9,'Low','Low','High','High','Low','Master',0.239
+'CS335445','Employed',7,'Teacher','Healthcare','Barnett-Brown',134049.00,11170.75,'Failed',0.423,1466.00,NULL,696943.00,3,'Low','High','High','Medium','Medium','High School',0.020
+'CS884667','Retired',34,'Engineer','Technology','Thomas, Foster and Pruitt',364746.00,30395.50,'Failed',0.271,18611.00,NULL,236496.00,3,'High','Low','High','Medium','High','High School',0.383
+'CS835492','Retired',20,'Other','Technology','Weaver, Hill and Ward',348482.00,29040.17,'Failed',0.823,48137.00,'Part-time',718510.00,15,'Medium','High','Low','Medium','High','Bachelor',0.463
+'CS703113','Self-employed',3,'Other','Healthcare','Graves, Nunez and King',192277.00,16023.08,'Failed',0.992,2256.00,'Investment',20935.00,6,'Low','High','High','Medium','Medium','High School',0.515
+'CS859176','Self-employed',32,'Manager','Other','Blevins-Lambert',114015.00,9501.25,'Failed',0.723,34141.00,'Investment',583083.00,12,'Low','High','Medium','Medium','Low','Master',0.549
+'CS195443','Self-employed',37,'Engineer','Finance','Jackson, Macdonald and Martin',325291.00,27107.58,'Verified',0.029,35351.00,'Investment',112002.00,14,'High','Low','Medium','Medium','Low','Master',0.005
+'CS390839','Retired',38,'Engineer','Technology','Hernandez, Schneider and Smith',65440.00,5453.33,'Verified',0.162,47025.00,NULL,562074.00,2,'Medium','Medium','Medium','High','Medium','Bachelor',0.052
+'CS492371','Employed',38,'Manager','Education','Mccullough, Nolan and Marquez',152436.00,12703.00,'Failed',0.614,48805.00,'Investment',97306.00,15,'Medium','Low','Medium','Low','High','High School',0.228
+'CS912230','Employed',14,'Doctor','Other','Lee-Morales',59416.00,4951.33,'Pending',0.517,31598.00,NULL,707016.00,20,'High','Low','Medium','High','Medium','Master',0.472
+'CS488486','Employed',39,'Manager','Technology','Mccall PLC',397449.00,33120.75,'Failed',0.601,49250.00,'Investment',720814.00,6,'Medium','High','Low','High','Medium','Bachelor',0.235
+'CS705642','Retired',15,'Manager','Finance','Brown and Sons',45645.00,3803.75,'Failed',0.722,42550.00,'Part-time',127727.00,18,'Low','High','Low','Medium','Medium','High School',0.389
+'CS422641','Employed',35,'Doctor','Technology','Torres-Jones',341985.00,28498.75,'Failed',0.09,35035.00,'Rental',327496.00,11,'High','High','Low','High','High','Bachelor',0.555
+'CS815193','Self-employed',17,'Engineer','Finance','Williams Ltd',298693.00,24891.08,'Failed',0.369,11188.00,'Rental',111428.00,19,'Medium','Low','Medium','High','Low','Master',0.350
+'CS281846','Employed',32,'Engineer','Technology','Walker-Arnold',453300.00,37775.00,'Verified',0.386,30574.00,'Rental',436798.00,10,'Medium','Low','High','Medium','High','Bachelor',0.192
+'CS505791','Self-employed',10,'Other','Finance','Walker Inc',192751.00,16062.58,'Pending',0.823,6515.00,'Rental',638816.00,17,'Low','Medium','Low','High','High','High School',0.200
+'CS493560','Unemployed',25,'Manager','Other','Garcia and Sons',73048.00,6087.33,'Verified',0.08,33919.00,'Rental',481896.00,7,'Low','Medium','High','High','Medium','Doctorate',0.337
+'CS606558','Self-employed',19,'Manager','Finance','Green-Savage',36081.00,3006.75,'Failed',0.786,23910.00,'Rental',559705.00,8,'High','Low','Low','High','High','Bachelor',0.280
+'CS419778','Retired',16,'Manager','Technology','Daniel-Torres',199696.00,16641.33,'Failed',0.5,31750.00,'Investment',793906.00,4,'Medium','High','Medium','High','Low','Master',0.280
+'CS378996','Self-employed',35,'Manager','Healthcare','Webster-Hill',60786.00,5065.50,'Failed',0.435,48519.00,'Rental',214776.00,15,'High','High','Low','High','Low','Master',0.591
+'CS801087','Employed',38,'Doctor','Healthcare','Reed, Thompson and Guerra',465115.00,38759.58,'Pending',0.21,42077.00,'Rental',328708.00,5,'High','Medium','Low','Medium','Low','High School',0.257
+'CS793737','Self-employed',29,'Engineer','Education','Jenkins Ltd',398197.00,33183.08,'Verified',0.358,29273.00,'Rental',278247.00,7,'Low','High','Low','Low','Low','Bachelor',0.076
+'CS629731','Unemployed',32,'Doctor','Other','Gillespie, Robinson and Steele',47364.00,3947.00,'Failed',0.961,44090.00,NULL,190987.00,5,'Low','Medium','Medium','High','Low','Doctorate',0.175
+'CS123662','Self-employed',8,'Doctor','Finance','Fletcher, Sosa and Carroll',197196.00,16433.00,'Verified',0.956,21193.00,'Rental',560717.00,14,'Medium','Low','Low','Low','High','Doctorate',0.289
+'CS662702','Employed',28,'Manager','Education','Elliott Ltd',60735.00,5061.25,'Failed',0.491,16078.00,NULL,36244.00,15,'High','High','Low','High','High','Master',0.045
+'CS928423','Employed',30,'Other','Finance','Ray, Walker and Morris',37543.00,3128.58,'Pending',0.704,15176.00,'Investment',643217.00,7,'Medium','Low','Medium','Low','High','Master',0.123
+'CS900805','Self-employed',29,'Manager','Finance','Martin-Norton',269400.00,22450.00,'Verified',0.422,6219.00,'Rental',91107.00,17,'Low','High','High','High','Low','Doctorate',0.057
+'CS538020','Unemployed',8,'Manager','Finance','Carroll Group',399147.00,33262.25,'Verified',0.678,38257.00,'Part-time',373533.00,3,'Low','Low','High','Medium','Low','High School',0.126
+'CS467241','Unemployed',40,'Doctor','Other','Garcia PLC',242142.00,20178.50,'Verified',0.878,46286.00,'Investment',418694.00,15,'High','High','Low','High','High','Bachelor',0.563
+'CS648314','Employed',4,'Teacher','Finance','Watkins-Jarvis',409364.00,34113.67,'Verified',0.749,14459.00,NULL,116421.00,4,'Low','Medium','Medium','High','High','Master',0.468
+'CS357428','Unemployed',21,'Other','Healthcare','Wells-Collins',348201.00,29016.75,'Verified',0.053,46533.00,NULL,617066.00,7,'Low','High','High','Medium','High','Master',0.354
+'CS299524','Retired',13,'Engineer','Finance','Ward LLC',82769.00,6897.42,'Pending',0.386,37587.00,'Rental',797514.00,4,'High','High','Low','Medium','High','Doctorate',0.305
+'CS243481','Employed',22,'Teacher','Healthcare','Flores, Duran and Roy',281760.00,23480.00,'Pending',0.672,33937.00,'Investment',448434.00,13,'High','Medium','Low','Low','Medium','High School',0.570
+'CS246684','Self-employed',39,'Engineer','Healthcare','Sherman-Pacheco',326104.00,27175.33,'Pending',0.128,1048.00,'Rental',165160.00,20,'Low','Low','Low','Low','Low','High School',0.490
+'CS340974','Retired',7,'Engineer','Healthcare','Webb-Wallace',171019.00,14251.58,'Failed',0.983,18105.00,NULL,136127.00,9,'High','Medium','High','Medium','High','Master',0.448
+'CS194780','Retired',23,'Doctor','Finance','Nelson Group',450845.00,37570.42,'Pending',0.66,31795.00,'Part-time',502983.00,3,'Low','High','High','Low','Low','Master',0.507
+'CS225874','Retired',7,'Engineer','Finance','Olsen, Smith and Adams',222308.00,18525.67,'Verified',0.935,43286.00,'Rental',75513.00,5,'Low','Low','High','Medium','Medium','Master',0.375
+'CS339004','Self-employed',16,'Engineer','Finance','Bennett, Rivas and Alexander',159115.00,13259.58,'Failed',0.237,48919.00,'Investment',443523.00,16,'High','High','High','Medium','Medium','Bachelor',0.325
+'CS283508','Employed',26,'Engineer','Technology','Johnson, Jennings and Everett',124866.00,10405.50,'Failed',0.172,5447.00,'Investment',771664.00,18,'High','High','High','High','High','Master',0.143
+'CS211884','Unemployed',30,'Teacher','Finance','Miller-Martinez',428409.00,35700.75,'Verified',0.883,33947.00,'Rental',463793.00,6,'High','High','High','Low','Medium','Bachelor',0.376
+'CS479083','Employed',24,'Doctor','Technology','Mata and Sons',490634.00,40886.17,'Verified',0.39,5545.00,'Part-time',751478.00,13,'High','High','Low','High','Low','High School',0.421
+'CS716234','Unemployed',20,'Teacher','Healthcare','Velasquez-Alexander',460588.00,38382.33,'Pending',0.485,29714.00,'Part-time',445114.00,3,'Medium','Medium','Low','Low','Low','High School',0.574
+'CS948447','Unemployed',5,'Engineer','Finance','Bailey-Mcclure',226562.00,18880.17,'Pending',0.703,12066.00,'Rental',722627.00,9,'Low','High','Medium','Low','Medium','Bachelor',0.252
+'CS979721','Self-employed',36,'Manager','Technology','Jacobs-Brown',432708.00,36059.00,'Failed',0.269,9592.00,'Part-time',588038.00,13,'Low','Low','High','Medium','Low','Master',0.288
+'CS849631','Self-employed',15,'Engineer','Finance','Stevens-Ryan',423840.00,35320.00,'Pending',0.491,22325.00,'Part-time',594557.00,3,'Low','Low','Low','High','High','Bachelor',0.407
+'CS797734','Employed',21,'Engineer','Healthcare','Rollins and Sons',404631.00,33719.25,'Verified',0.005,5295.00,NULL,691230.00,4,'Medium','Low','High','Low','Low','Bachelor',0.234
+'CS926868','Unemployed',37,'Other','Finance','Harding LLC',256102.00,21341.83,'Pending',0.808,33752.00,'Rental',112237.00,7,'Medium','Low','Medium','Low','Medium','High School',0.063
+'CS241135','Unemployed',40,'Manager','Healthcare','Leblanc, Garcia and Wong',49390.00,4115.83,'Failed',0.022,40455.00,'Investment',433090.00,3,'Medium','Medium','Medium','Medium','High','Doctorate',0.085
+'CS726939','Self-employed',6,'Other','Technology','Patton-Reilly',211396.00,17616.33,'Failed',0.494,2200.00,'Investment',316790.00,13,'Medium','Medium','Low','Medium','High','High School',0.119
+'CS438740','Retired',36,'Other','Other','Fischer-White',381135.00,31761.25,'Failed',0.151,29924.00,'Part-time',109074.00,1,'Medium','Medium','High','High','Medium','High School',0.480
+'CS118849','Retired',10,'Doctor','Finance','Parrish and Sons',377738.00,31478.17,'Pending',0.187,11342.00,'Part-time',655797.00,2,'Medium','Medium','Medium','High','High','Bachelor',0.512
+'CS632125','Retired',5,'Manager','Other','Willis Ltd',363293.00,30274.42,'Failed',0.167,9369.00,'Investment',494062.00,15,'High','High','Low','Low','Low','Doctorate',0.504
+'CS611577','Retired',26,'Doctor','Finance','Riddle, Sweeney and Mclean',111221.00,9268.42,'Failed',0.346,14056.00,'Part-time',107120.00,17,'Medium','Low','Low','High','Medium','High School',0.522
+'CS632828','Retired',37,'Manager','Healthcare','Cardenas PLC',341352.00,28446.00,'Pending',0.669,12729.00,'Investment',445029.00,17,'Medium','Low','Low','Medium','Low','Doctorate',0.542
+'CS781226','Self-employed',25,'Doctor','Finance','Taylor PLC',373501.00,31125.08,'Failed',0.185,48289.00,'Part-time',647938.00,4,'High','High','Low','Medium','High','High School',0.085
+'CS618840','Retired',12,'Teacher','Other','Arnold, Williams and Young',266486.00,22207.17,'Pending',0.842,19658.00,'Investment',520490.00,5,'Medium','Low','Medium','High','High','Master',0.357
+'CS763043','Self-employed',26,'Other','Finance','Jones-Huff',151876.00,12656.33,'Verified',0.056,39297.00,'Investment',760633.00,15,'High','High','Low','High','High','High School',0.012
+'CS734570','Retired',14,'Other','Other','Diaz PLC',133939.00,11161.58,'Verified',0.381,4748.00,'Investment',600173.00,10,'Medium','High','Medium','High','Low','High School',0.461
+'CS555178','Unemployed',4,'Engineer','Other','Long Ltd',111318.00,9276.50,'Failed',0.849,32616.00,NULL,664483.00,14,'Low','High','Low','High','Medium','Master',0.429
+'CS391718','Employed',34,'Doctor','Finance','Sanchez-Casey',266149.00,22179.08,'Verified',0.123,2323.00,'Investment',336060.00,10,'Low','Low','Low','Medium','Medium','Doctorate',0.518
+'CS403456','Employed',32,'Other','Finance','Chase, Gonzales and Mcfarland',429803.00,35816.92,'Pending',0.726,8024.00,NULL,766807.00,4,'Medium','Medium','High','High','High','Doctorate',0.507
+'CS618943','Employed',4,'Engineer','Technology','Miller-Huff',488929.00,40744.08,'Pending',0.098,21890.00,NULL,708393.00,17,'Medium','High','Medium','Low','High','Bachelor',0.251
+'CS457246','Self-employed',28,'Engineer','Finance','Mcdonald-Vazquez',211297.00,17608.08,'Pending',0.495,36435.00,NULL,314055.00,9,'Medium','Medium','Low','High','Medium','Bachelor',0.577
+'CS163386','Retired',4,'Teacher','Education','Jacobs Group',361767.00,30147.25,'Failed',0.843,5454.00,'Part-time',511749.00,19,'Medium','Medium','High','High','Medium','Doctorate',0.334
+'CS145462','Self-employed',15,'Doctor','Technology','Perez Inc',465574.00,38797.83,'Pending',0.562,16700.00,'Rental',174624.00,1,'High','Low','Medium','Low','Medium','High School',0.048
+'CS785834','Employed',40,'Doctor','Healthcare','Casey, Coleman and Hardy',309224.00,25768.67,'Pending',0.558,4467.00,NULL,651252.00,8,'High','Low','Low','Medium','Medium','Bachelor',0.320
+'CS135663','Unemployed',6,'Other','Education','Harmon LLC',449734.00,37477.83,'Failed',0.309,3741.00,'Part-time',484043.00,1,'High','Medium','Medium','Medium','Medium','Doctorate',0.558
+'CS104627','Retired',6,'Engineer','Healthcare','Hansen-Parrish',277147.00,23095.58,'Failed',0.213,42765.00,NULL,515955.00,0,'Low','High','High','Low','Medium','High School',0.066
+'CS800338','Employed',17,'Doctor','Other','Perez-Moreno',459674.00,38306.17,'Pending',0.333,38302.00,'Investment',660115.00,9,'Medium','Medium','Medium','High','High','High School',0.215
+'CS254336','Retired',40,'Other','Education','Clark and Sons',483895.00,40324.58,'Failed',0.762,40570.00,NULL,399567.00,20,'Medium','High','Medium','Medium','Low','Master',0.440
+'CS513848','Self-employed',38,'Teacher','Other','Keller PLC',488664.00,40722.00,'Failed',0.369,12093.00,NULL,487272.00,20,'Low','High','High','Medium','Low','Bachelor',0.499
+'CS164181','Self-employed',5,'Manager','Healthcare','Harding Ltd',349106.00,29092.17,'Failed',0.246,2217.00,'Rental',715540.00,18,'Medium','Medium','Medium','Medium','High','Bachelor',0.175
+'CS495679','Self-employed',24,'Teacher','Healthcare','Green, Castillo and Conway',465452.00,38787.67,'Pending',0.836,7101.00,'Rental',133293.00,9,'Medium','Low','High','Low','Low','Master',0.263
+'CS160282','Unemployed',19,'Teacher','Finance','Williams Group',435165.00,36263.75,'Pending',0.014,20613.00,'Rental',730269.00,8,'Low','Medium','Low','Medium','Medium','Doctorate',0.124
+'CS644617','Employed',10,'Doctor','Finance','Bray Group',466352.00,38862.67,'Verified',0.999,19275.00,'Investment',459388.00,7,'High','Medium','Medium','Low','High','Doctorate',0.439
+'CS379279','Retired',40,'Teacher','Education','Webb-Morrison',275969.00,22997.42,'Verified',0.801,3773.00,'Part-time',535073.00,3,'Medium','Low','High','Medium','Medium','High School',0.260
+'CS624462','Retired',17,'Doctor','Other','Anderson LLC',25398.00,2116.50,'Pending',0.639,21228.00,'Rental',680376.00,2,'High','Medium','Medium','Medium','Low','High School',0.148
+'CS802496','Unemployed',12,'Doctor','Healthcare','Acosta-Lynch',27436.00,2286.33,'Verified',0.554,16671.00,'Part-time',65637.00,8,'High','Medium','High','High','High','Master',0.311
+'CS518522','Self-employed',21,'Other','Other','Randall-Barber',250275.00,20856.25,'Pending',0.852,3242.00,NULL,53280.00,14,'Low','High','Medium','Low','Low','Master',0.447
+'CS543505','Retired',12,'Doctor','Education','Nguyen-Mcgrath',215051.00,17920.92,'Failed',0.685,2655.00,NULL,471117.00,7,'Medium','Low','Low','Low','High','Master',0.136
+'CS149700','Employed',18,'Doctor','Technology','Clark-Williams',445437.00,37119.75,'Verified',0.443,20669.00,NULL,502405.00,10,'Low','Medium','Low','High','High','High School',0.166
+'CS957373','Retired',11,'Other','Technology','Harrington Ltd',30159.00,2513.25,'Failed',0.361,6713.00,NULL,567783.00,7,'High','High','High','Medium','High','High School',0.213
+'CS840243','Retired',11,'Doctor','Technology','Harrison-Stokes',47933.00,3994.42,'Pending',0.465,24799.00,'Rental',370414.00,8,'High','Medium','High','Medium','Medium','High School',0.257
+'CS657281','Employed',13,'Doctor','Technology','Burke Inc',160960.00,13413.33,'Pending',0.624,26480.00,NULL,467026.00,6,'Low','Low','Medium','High','Low','High School',0.442
+'CS140967','Retired',40,'Doctor','Other','Cook, Green and Craig',136379.00,11364.92,'Pending',0.032,31587.00,'Rental',793488.00,18,'Low','Low','Low','High','High','High School',0.377
+'CS407301','Self-employed',40,'Doctor','Healthcare','Thomas, Vance and Stevenson',478176.00,39848.00,'Pending',0.921,4886.00,NULL,364809.00,0,'High','Low','High','Medium','Medium','High School',0.382
+'CS192024','Retired',6,'Doctor','Finance','Houston Group',477617.00,39801.42,'Failed',0.744,15575.00,'Investment',557479.00,14,'Medium','Low','Low','Medium','Low','Master',0.234
+'CS232079','Self-employed',19,'Engineer','Finance','Bowen Inc',154197.00,12849.75,'Verified',0.939,28767.00,NULL,72708.00,13,'Medium','High','Low','Low','Medium','Bachelor',0.330
+'CS714863','Unemployed',23,'Teacher','Healthcare','Dickerson LLC',135271.00,11272.58,'Verified',0.483,46580.00,'Rental',426581.00,14,'High','Medium','High','Low','Low','High School',0.023
+'CS716075','Self-employed',9,'Engineer','Other','Willis-Fernandez',396791.00,33065.92,'Verified',0.999,33493.00,'Investment',555426.00,2,'Medium','Medium','Medium','Low','Medium','Doctorate',0.407
+'CS297984','Retired',6,'Other','Finance','Lopez PLC',163343.00,13611.92,'Verified',0.674,34994.00,'Rental',731478.00,3,'Medium','Medium','High','Low','High','Doctorate',0.236
+'CS171649','Unemployed',40,'Engineer','Finance','Mccoy, Mckinney and Anderson',328919.00,27409.92,'Failed',0.84,26984.00,'Investment',766035.00,20,'Medium','Medium','Low','Low','Medium','Master',0.555
+'CS838212','Self-employed',33,'Doctor','Other','Thompson-Keller',283107.00,23592.25,'Failed',0.524,27005.00,'Rental',567350.00,18,'Medium','Medium','Low','Medium','Medium','Doctorate',0.090
+'CS857149','Retired',37,'Other','Other','Whitehead LLC',281658.00,23471.50,'Failed',0.124,33199.00,'Investment',85225.00,3,'High','Medium','Low','Medium','High','Doctorate',0.318
+'CS746190','Unemployed',11,'Manager','Technology','Smith-Wyatt',368598.00,30716.50,'Verified',0.872,24154.00,'Part-time',637752.00,15,'High','Medium','Medium','Low','Medium','Doctorate',0.186
+'CS904058','Unemployed',33,'Other','Other','Webster-Brown',51972.00,4331.00,'Verified',0.854,35273.00,'Investment',264206.00,13,'Medium','High','Low','High','Low','High School',0.445
+'CS704070','Self-employed',40,'Engineer','Technology','Woods-Underwood',107804.00,8983.67,'Pending',0.496,43693.00,'Rental',190049.00,14,'High','Medium','Medium','Medium','Medium','High School',0.441
+'CS451670','Employed',13,'Manager','Finance','Kramer, Green and Sharp',375392.00,31282.67,'Verified',0.982,9655.00,'Part-time',346673.00,18,'Medium','Medium','Low','Medium','Low','Master',0.156
+'CS956196','Retired',0,'Other','Technology','Jones LLC',328324.00,27360.33,'Pending',0.332,12377.00,'Investment',618196.00,19,'Low','Low','High','High','Medium','High School',0.523
+'CS787031','Self-employed',32,'Other','Technology','Gordon, Rodriguez and Long',336501.00,28041.75,'Verified',0.056,31174.00,'Part-time',653210.00,19,'High','High','High','Medium','Medium','Doctorate',0.440
+'CS526902','Employed',15,'Doctor','Finance','Davis Group',334889.00,27907.42,'Pending',0.521,18594.00,NULL,762544.00,14,'High','Low','Medium','Low','Medium','Master',0.305
+'CS606311','Retired',14,'Doctor','Technology','Jensen LLC',163798.00,13649.83,'Failed',0.648,34943.00,NULL,611082.00,5,'Medium','Medium','High','High','High','Master',0.061
+'CS712614','Employed',22,'Manager','Finance','Ruiz PLC',470344.00,39195.33,'Pending',0.333,25857.00,'Rental',142436.00,15,'Low','Low','Low','Medium','High','Doctorate',0.313
+'CS127904','Self-employed',24,'Teacher','Healthcare','Wilson, Clark and Hoffman',429299.00,35774.92,'Pending',0.78,32852.00,'Part-time',462166.00,16,'Medium','Low','Medium','Medium','Low','Bachelor',0.567
+'CS179092','Employed',27,'Manager','Healthcare','Livingston Ltd',73687.00,6140.58,'Pending',0.731,17621.00,'Investment',454449.00,0,'Low','Medium','Low','High','Low','High School',0.472
+'CS348634','Employed',40,'Engineer','Technology','Hill PLC',39705.00,3308.75,'Verified',0.584,1252.00,'Part-time',481258.00,16,'Low','Low','Medium','Medium','Low','High School',0.531
+'CS242163','Retired',16,'Engineer','Other','Romero Group',303374.00,25281.17,'Verified',0.701,10593.00,'Investment',371773.00,20,'High','Low','Low','High','High','Doctorate',0.118
+'CS874407','Unemployed',4,'Other','Technology','Mcgee Ltd',292224.00,24352.00,'Failed',0.311,1586.00,'Investment',229738.00,1,'High','High','High','High','Low','Doctorate',0.557
+'CS215950','Retired',26,'Doctor','Education','Trevino, Brooks and Bradford',321050.00,26754.17,'Pending',0.264,43647.00,NULL,224869.00,0,'Medium','Medium','High','Low','Low','Doctorate',0.580
+'CS780642','Unemployed',40,'Doctor','Healthcare','Allen-Park',48820.00,4068.33,'Verified',0.281,5729.00,'Part-time',296294.00,8,'High','High','High','High','Medium','Doctorate',0.585
+'CS559246','Employed',38,'Other','Technology','Hays Ltd',460105.00,38342.08,'Verified',0.907,3006.00,'Investment',626598.00,5,'High','High','High','Low','Medium','Doctorate',0.167
+'CS575711','Unemployed',13,'Doctor','Technology','Anderson-Moran',245327.00,20443.92,'Pending',0.727,33962.00,'Part-time',647007.00,18,'High','Low','High','High','Medium','High School',0.044
+'CS712227','Self-employed',1,'Other','Healthcare','Burnett, Thompson and Powell',375532.00,31294.33,'Failed',0.193,40440.00,'Part-time',349860.00,16,'Low','High','Medium','Low','Medium','Bachelor',0.194
+'CS419562','Unemployed',32,'Other','Education','Moore-Thompson',112405.00,9367.08,'Verified',0.101,7625.00,'Part-time',723860.00,19,'High','Low','Low','Medium','Medium','Master',0.224
+'CS245116','Self-employed',8,'Teacher','Other','Lewis, Serrano and Simmons',358927.00,29910.58,'Pending',0.431,32059.00,NULL,334638.00,16,'High','Low','Low','Medium','Low','Doctorate',0.002
+'CS962786','Unemployed',25,'Manager','Other','Wagner Inc',49994.00,4166.17,'Failed',0.998,45552.00,'Investment',340018.00,15,'Medium','High','Medium','High','Low','Bachelor',0.026
+'CS712798','Retired',31,'Doctor','Healthcare','Day-Pena',391739.00,32644.92,'Verified',0.713,27238.00,'Investment',517121.00,6,'High','High','Low','High','High','Master',0.077
+'CS557557','Employed',31,'Other','Education','Elliott-Diaz',459432.00,38286.00,'Pending',0.459,36821.00,NULL,485761.00,14,'Low','Low','Low','Medium','Medium','Bachelor',0.181
+'CS292605','Unemployed',23,'Teacher','Finance','Pollard-Martinez',169518.00,14126.50,'Verified',0.346,22294.00,NULL,283290.00,4,'Medium','Low','High','High','Medium','High School',0.555
+'CS220315','Unemployed',8,'Engineer','Healthcare','Smith, Love and Clements',386812.00,32234.33,'Verified',0.575,8440.00,'Part-time',388955.00,19,'Medium','Medium','Low','Low','High','High School',0.397
+'CS957399','Retired',29,'Engineer','Education','Bailey Inc',21892.00,1824.33,'Pending',0.955,26485.00,'Investment',398052.00,1,'Low','Low','Medium','Medium','Low','Master',0.234
+'CS834551','Unemployed',10,'Teacher','Other','Griffin Group',186722.00,15560.17,'Verified',0.227,27237.00,'Part-time',246485.00,3,'Low','High','High','High','Low','High School',0.233
+'CS512400','Retired',10,'Teacher','Education','Robinson PLC',161951.00,13495.92,'Pending',0.419,16796.00,'Part-time',714106.00,10,'Low','Low','Low','Medium','Medium','High School',0.455
+'CS996648','Self-employed',7,'Other','Education','Lewis, Ward and Roberson',343842.00,28653.50,'Pending',0.601,29045.00,'Part-time',749543.00,11,'Medium','Low','High','Low','Low','Bachelor',0.169
+'CS881932','Unemployed',12,'Manager','Finance','Rowe, Haynes and Chaney',85471.00,7122.58,'Verified',0.747,32604.00,'Rental',457857.00,20,'Medium','Low','High','Low','High','Master',0.377
+'CS454576','Employed',25,'Other','Education','Martinez-Anderson',490818.00,40901.50,'Failed',0.642,23466.00,'Rental',409507.00,16,'Low','Low','High','High','High','Doctorate',0.185
+'CS309397','Self-employed',4,'Teacher','Healthcare','Howard-Lamb',126152.00,10512.67,'Pending',0.611,12920.00,'Investment',476474.00,2,'Medium','High','Low','Low','Low','High School',0.102
+'CS602650','Unemployed',5,'Teacher','Technology','Sutton, Walker and Garrett',87226.00,7268.83,'Verified',0.645,34103.00,NULL,380255.00,20,'Low','High','Low','Low','Medium','Bachelor',0.014
+'CS182853','Employed',2,'Teacher','Other','Harris, Taylor and Hernandez',24635.00,2052.92,'Failed',0.907,9693.00,'Rental',511463.00,17,'Low','Medium','Medium','High','Low','High School',0.289
+'CS773232','Unemployed',35,'Manager','Education','Stafford-Barnett',484734.00,40394.50,'Pending',0.893,48922.00,'Rental',174175.00,2,'Low','High','Low','Medium','Low','Master',0.595
+'CS425149','Unemployed',12,'Other','Technology','Bernard Ltd',346857.00,28904.75,'Pending',0.319,22112.00,'Rental',757298.00,8,'Medium','Low','High','Low','Low','Master',0.482
+'CS470319','Self-employed',27,'Other','Finance','Fitzgerald-Huffman',345617.00,28801.42,'Pending',0.617,25419.00,'Part-time',197608.00,3,'High','Low','High','Medium','High','Bachelor',0.372
+'CS977546','Unemployed',36,'Manager','Healthcare','Flowers Ltd',411847.00,34320.58,'Verified',0.545,34636.00,'Investment',595251.00,11,'Low','Medium','Medium','Low','Medium','Bachelor',0.057
+'CS873731','Retired',38,'Manager','Healthcare','Anderson, Branch and Brown',340821.00,28401.75,'Failed',0.46,11372.00,'Investment',773713.00,1,'Low','Medium','High','Medium','High','Master',0.025
+'CS705339','Retired',25,'Doctor','Finance','Heath-Hamilton',248537.00,20711.42,'Failed',0.981,39788.00,'Investment',670849.00,15,'High','Medium','High','Medium','Medium','Bachelor',0.264
+'CS943901','Self-employed',2,'Engineer','Finance','Lang-Miller',240629.00,20052.42,'Failed',0.426,22799.00,'Part-time',130277.00,14,'Low','Low','Medium','Medium','High','Master',0.361
+'CS980971','Self-employed',24,'Other','Other','Smith PLC',167336.00,13944.67,'Failed',0.784,14078.00,'Part-time',518041.00,10,'High','Low','Medium','High','High','Bachelor',0.183
+'CS621260','Retired',32,'Teacher','Healthcare','Gilbert-Johnson',45615.00,3801.25,'Pending',0.761,1233.00,'Part-time',429778.00,3,'Medium','Medium','Low','High','High','Master',0.094
+'CS484093','Self-employed',14,'Teacher','Healthcare','Maxwell, Reese and Reyes',79663.00,6638.58,'Verified',0.249,34450.00,NULL,99766.00,9,'Medium','Low','Medium','High','High','Bachelor',0.461
+'CS526522','Unemployed',25,'Doctor','Healthcare','Kent-Livingston',34499.00,2874.92,'Pending',0.165,38833.00,NULL,342748.00,12,'High','Low','Medium','Medium','Low','Master',0.228
+'CS730774','Self-employed',19,'Engineer','Education','Williams and Sons',415405.00,34617.08,'Failed',0.691,37927.00,NULL,743867.00,20,'High','Low','High','Medium','High','High School',0.004
+'CS399140','Unemployed',1,'Doctor','Other','Thompson Group',313889.00,26157.42,'Failed',0.889,41873.00,NULL,76049.00,12,'High','High','High','Medium','Low','Bachelor',0.189
+'CS368881','Employed',30,'Other','Healthcare','Simon and Sons',195809.00,16317.42,'Pending',0.864,24000.00,NULL,250027.00,8,'Low','Medium','Low','Low','High','Bachelor',0.449
+'CS951087','Unemployed',10,'Manager','Other','Bradshaw, Hodge and Thompson',300392.00,25032.67,'Pending',0.614,22297.00,NULL,56863.00,4,'Low','Low','High','Medium','Low','High School',0.369
+'CS435191','Retired',33,'Teacher','Finance','Harris-Ho',193673.00,16139.42,'Pending',0.542,24179.00,'Part-time',696591.00,4,'Medium','Medium','Medium','Low','High','Doctorate',0.448
+'CS532792','Employed',7,'Other','Technology','Taylor Inc',384312.00,32026.00,'Failed',0.361,9024.00,NULL,549552.00,4,'Low','Low','Medium','High','Low','Master',0.547
+'CS655883','Unemployed',14,'Engineer','Technology','Gilbert-Murphy',433005.00,36083.75,'Verified',0.498,49862.00,'Part-time',384526.00,1,'High','Low','Medium','Low','Low','Master',0.042
+'CS215884','Unemployed',29,'Other','Technology','Davis, Jones and Dudley',173209.00,14434.08,'Verified',0.684,682.00,'Investment',659009.00,9,'High','High','Medium','Low','Low','Doctorate',0.414
+'CS727966','Unemployed',15,'Manager','Healthcare','Oliver, Skinner and Burke',337048.00,28087.33,'Pending',0.896,37546.00,'Rental',335864.00,17,'High','High','Medium','High','Low','Doctorate',0.102
+'CS264869','Self-employed',35,'Other','Education','Douglas Group',175576.00,14631.33,'Verified',0.225,45123.00,'Part-time',271835.00,11,'Low','Low','High','Low','Low','Doctorate',0.471
+'CS682585','Self-employed',32,'Doctor','Education','Brooks-Garcia',433471.00,36122.58,'Verified',0.363,23190.00,NULL,229740.00,20,'High','High','High','Low','Medium','Master',0.506
+'CS729964','Self-employed',25,'Engineer','Education','Shaw Ltd',290988.00,24249.00,'Pending',0.597,26802.00,'Investment',75063.00,2,'Low','Medium','Medium','High','Low','Master',0.359
+'CS459621','Unemployed',16,'Doctor','Other','Torres-Frederick',62327.00,5193.92,'Pending',0.723,47160.00,'Investment',265282.00,2,'Medium','Low','Low','High','High','High School',0.453
+'CS769340','Employed',22,'Engineer','Finance','Hughes, Rose and Harris',296259.00,24688.25,'Verified',0.664,20564.00,'Rental',418051.00,20,'High','Low','Medium','Low','Medium','High School',0.444
+'CS928338','Employed',22,'Doctor','Healthcare','Cruz PLC',107127.00,8927.25,'Pending',0.206,35657.00,'Investment',144921.00,8,'High','Low','High','Medium','Medium','Master',0.492
+'CS945522','Retired',37,'Teacher','Other','Allen Inc',164044.00,13670.33,'Verified',0.836,33042.00,'Part-time',712325.00,10,'Low','Medium','High','High','Low','Bachelor',0.425
+'CS308846','Self-employed',24,'Engineer','Other','Beck, Jackson and Soto',403017.00,33584.75,'Failed',0.093,35649.00,'Part-time',561757.00,8,'Low','Low','Low','Medium','Low','High School',0.290
+'CS158500','Unemployed',12,'Manager','Finance','Wood-Castaneda',486892.00,40574.33,'Pending',0.519,25978.00,NULL,37908.00,10,'Low','Low','High','Low','High','High School',0.151
+'CS863845','Retired',9,'Doctor','Finance','Meyer and Sons',422075.00,35172.92,'Verified',0.103,44382.00,'Investment',400660.00,11,'Low','Medium','High','High','Medium','Master',0.038
+'CS826517','Unemployed',25,'Manager','Other','Brown Ltd',41093.00,3424.42,'Pending',0.233,13300.00,NULL,107853.00,11,'Medium','Low','Medium','Medium','Medium','Doctorate',0.062
+'CS959151','Retired',40,'Engineer','Technology','Velazquez-Bright',43341.00,3611.75,'Pending',0.725,36765.00,NULL,747326.00,20,'Medium','High','Medium','Medium','High','High School',0.113
+'CS336177','Retired',28,'Manager','Finance','Williams-Anderson',319795.00,26649.58,'Pending',0.134,25385.00,'Rental',325037.00,17,'Medium','Low','Low','Medium','Medium','Bachelor',0.366
+'CS199058','Self-employed',21,'Manager','Other','Mahoney, Williams and Steele',309021.00,25751.75,'Verified',0.797,1083.00,'Investment',620150.00,4,'Low','Medium','Medium','Low','High','Doctorate',0.598
+'CS397511','Retired',21,'Doctor','Finance','Hoffman Ltd',246575.00,20547.92,'Pending',0.904,36528.00,NULL,427239.00,13,'Low','Medium','Low','Medium','Low','Doctorate',0.160
+'CS503282','Employed',24,'Other','Healthcare','Stone-Harris',174719.00,14559.92,'Pending',0.198,13574.00,'Part-time',645233.00,18,'High','Medium','Medium','Low','High','Doctorate',0.477
+'CS539138','Self-employed',34,'Doctor','Other','Downs-Jackson',205507.00,17125.58,'Verified',0.479,23342.00,NULL,299506.00,15,'Medium','Medium','Low','High','Low','Master',0.186
+'CS772355','Employed',26,'Engineer','Technology','May-Rollins',111960.00,9330.00,'Verified',0.262,5041.00,'Rental',310541.00,19,'Medium','High','Low','High','Low','High School',0.239
+'CS443418','Unemployed',35,'Teacher','Education','Smith Group',217171.00,18097.58,'Failed',0.802,29363.00,'Part-time',554549.00,10,'Medium','Medium','High','Low','Medium','Master',0.420
+'CS692392','Self-employed',5,'Doctor','Healthcare','Miller Inc',426304.00,35525.33,'Pending',0.106,30889.00,'Investment',756175.00,14,'Low','Medium','Medium','Low','Low','Doctorate',0.474
+'CS664052','Unemployed',0,'Teacher','Education','Freeman and Sons',330939.00,27578.25,'Pending',0.517,33615.00,'Investment',430022.00,16,'Low','Low','Medium','Medium','Low','Master',0.183
+'CS180196','Unemployed',2,'Teacher','Other','Glover-Bush',131192.00,10932.67,'Verified',0.908,32409.00,'Part-time',218526.00,12,'Medium','High','Medium','Medium','Medium','High School',0.133
+'CS195186','Unemployed',22,'Engineer','Healthcare','Travis, Fields and Noble',325771.00,27147.58,'Failed',0.97,33373.00,'Part-time',407111.00,20,'High','High','High','Low','High','High School',0.489
+'CS156236','Employed',8,'Teacher','Finance','Freeman, Burke and Krueger',459600.00,38300.00,'Verified',0.932,11287.00,NULL,148263.00,19,'Medium','Low','Medium','High','Low','High School',0.293
+'CS550868','Self-employed',30,'Teacher','Finance','Harper-Kelly',340150.00,28345.83,'Pending',0.223,16882.00,'Part-time',705940.00,4,'Low','Medium','Medium','Low','Low','High School',0.245
+'CS885012','Retired',31,'Other','Education','Contreras Group',217350.00,18112.50,'Pending',0.558,526.00,'Investment',581346.00,1,'Low','Medium','High','Medium','Medium','Master',0.551
+'CS653505','Retired',38,'Manager','Other','Davidson-White',346602.00,28883.50,'Verified',0.627,29462.00,NULL,565781.00,9,'High','High','Medium','Low','High','High School',0.341
+'CS894888','Self-employed',31,'Engineer','Healthcare','Waters, Sims and Cummings',385797.00,32149.75,'Failed',0.641,24016.00,'Investment',333011.00,17,'Low','Medium','High','Medium','Low','High School',0.083
+'CS303170','Unemployed',7,'Manager','Healthcare','Lopez-Marshall',131838.00,10986.50,'Verified',0.44,46380.00,'Part-time',702085.00,6,'Low','High','Medium','High','High','Doctorate',0.386
+'CS195204','Self-employed',24,'Manager','Technology','Carson PLC',57154.00,4762.83,'Failed',0.417,49058.00,'Part-time',159022.00,16,'Medium','High','Low','High','High','Doctorate',0.071
+'CS239396','Unemployed',32,'Teacher','Finance','Robinson-Atkinson',349792.00,29149.33,'Failed',0.95,48260.00,NULL,765401.00,19,'High','Low','Low','Low','Medium','Doctorate',0.173
+'CS256174','Employed',32,'Doctor','Finance','Roy Group',83411.00,6950.92,'Failed',0.07,6987.00,'Investment',308898.00,0,'Medium','High','Medium','Low','Low','Bachelor',0.422
+'CS546698','Unemployed',10,'Engineer','Technology','Goodwin-Valdez',359992.00,29999.33,'Verified',0.624,36066.00,'Part-time',306122.00,7,'High','Low','High','Medium','High','Doctorate',0.383
+'CS849509','Self-employed',20,'Doctor','Education','Mcdonald, Espinoza and Ward',166989.00,13915.75,'Pending',0.042,6191.00,'Investment',260714.00,13,'Low','Medium','Low','Low','High','High School',0.049
+'CS632018','Self-employed',14,'Other','Other','Schwartz Ltd',190958.00,15913.17,'Verified',0.225,14614.00,NULL,603414.00,11,'Low','High','High','Low','Low','Master',0.025
+'CS451216','Self-employed',2,'Other','Finance','Griffin, Johnson and Cooke',464637.00,38719.75,'Failed',0.255,13204.00,'Rental',285736.00,14,'Low','High','Low','Medium','Low','High School',0.283
+'CS549829','Unemployed',36,'Doctor','Other','Wilson, Soto and Craig',33399.00,2783.25,'Pending',0.064,16538.00,'Investment',687852.00,2,'High','Low','High','High','Low','Bachelor',0.025
+'CS983388','Retired',18,'Other','Healthcare','Brown Group',161324.00,13443.67,'Verified',0.934,10549.00,'Part-time',263711.00,13,'High','High','High','Medium','High','Doctorate',0.392
+'CS259069','Employed',12,'Engineer','Other','Williams, Scott and Mejia',90451.00,7537.58,'Pending',0.972,36745.00,'Rental',594125.00,10,'High','Low','High','Medium','Low','Bachelor',0.264
+'CS827872','Employed',18,'Manager','Education','Hood and Sons',76372.00,6364.33,'Pending',0.492,11340.00,'Part-time',425479.00,5,'High','Medium','High','High','Low','Bachelor',0.592
+'CS537916','Employed',16,'Teacher','Healthcare','Ross Ltd',126415.00,10534.58,'Failed',0.536,14219.00,'Part-time',407406.00,7,'High','Medium','Medium','Medium','Low','Bachelor',0.411
+'CS856832','Self-employed',14,'Other','Healthcare','Wong, Keith and Medina',40392.00,3366.00,'Failed',0.338,35367.00,NULL,133434.00,1,'High','High','Medium','High','Low','Master',0.383
+'CS370053','Unemployed',24,'Manager','Finance','Smith, Bell and Smith',117664.00,9805.33,'Verified',0.9,13960.00,NULL,251783.00,2,'Low','High','Low','Low','Medium','High School',0.303
+'CS317854','Employed',31,'Other','Technology','Reyes-Lawrence',110213.00,9184.42,'Failed',0.26,7625.00,'Part-time',774541.00,16,'Medium','High','Medium','High','High','Master',0.438
+'CS485975','Employed',22,'Doctor','Technology','Long PLC',252140.00,21011.67,'Failed',0.755,44714.00,'Rental',575567.00,18,'High','Low','Low','Medium','Medium','Bachelor',0.331
+'CS449449','Employed',16,'Teacher','Education','George, Carpenter and Mitchell',352650.00,29387.50,'Pending',0.43,45705.00,'Investment',391354.00,0,'Medium','High','High','Low','Low','High School',0.341
+'CS584559','Retired',33,'Doctor','Technology','Morris Ltd',361051.00,30087.58,'Failed',0.351,16455.00,'Part-time',567509.00,17,'High','Medium','Medium','Low','Medium','Master',0.262
+'CS206542','Unemployed',21,'Other','Technology','Burton-Arellano',115470.00,9622.50,'Pending',0.788,46388.00,NULL,363307.00,2,'High','Low','Low','Low','Low','Bachelor',0.494
+'CS541822','Unemployed',21,'Other','Finance','Ray-Blankenship',406485.00,33873.75,'Failed',0.268,46834.00,'Part-time',600126.00,9,'Low','Low','Medium','High','Medium','Bachelor',0.159
+'CS217613','Employed',14,'Engineer','Finance','Sullivan LLC',33471.00,2789.25,'Pending',0.62,2037.00,'Part-time',708450.00,6,'Low','High','Medium','Low','High','Bachelor',0.512
+'CS160073','Employed',11,'Teacher','Education','Evans Ltd',52842.00,4403.50,'Pending',0.461,11720.00,NULL,755329.00,20,'Medium','High','Medium','High','Medium','High School',0.311
+'CS171286','Retired',17,'Other','Technology','Brady-Smith',472984.00,39415.33,'Verified',0.371,38267.00,'Rental',329122.00,5,'High','High','Low','High','Medium','High School',0.354
+'CS702591','Self-employed',22,'Doctor','Technology','Warner-Blackburn',237729.00,19810.75,'Failed',0.38,27432.00,NULL,135087.00,5,'High','High','Medium','High','Medium','High School',0.066
+'CS163897','Unemployed',36,'Other','Healthcare','Manning-Brown',63828.00,5319.00,'Failed',0.393,17410.00,'Part-time',274338.00,20,'Low','High','High','High','High','Bachelor',0.119
+'CS422844','Employed',4,'Manager','Finance','Torres, Willis and Alexander',440527.00,36710.58,'Failed',0.62,410.00,'Part-time',600493.00,0,'High','High','High','High','High','Master',0.235
+'CS860664','Retired',10,'Other','Education','Davis, Jefferson and Harris',435666.00,36305.50,'Verified',0.83,25568.00,'Investment',443610.00,15,'Low','Low','High','Low','High','Doctorate',0.268
+'CS709497','Retired',7,'Engineer','Education','Bryant, Baker and Graham',171176.00,14264.67,'Pending',0.484,18832.00,'Investment',168144.00,20,'High','Low','High','Low','Medium','High School',0.225
+'CS352741','Retired',14,'Other','Education','Harrison-Lopez',40427.00,3368.92,'Pending',0.599,13160.00,NULL,325588.00,18,'Medium','High','High','Medium','High','Bachelor',0.559
+'CS101227','Unemployed',22,'Teacher','Healthcare','Pugh Inc',281419.00,23451.58,'Verified',0.464,32258.00,'Part-time',221648.00,18,'High','High','Low','High','Medium','High School',0.360
+'CS100439','Employed',35,'Engineer','Finance','Hernandez-Evans',323260.00,26938.33,'Verified',0.575,19423.00,NULL,552498.00,12,'Medium','Low','High','Medium','Medium','Master',0.315
+'CS960801','Self-employed',12,'Other','Finance','Castro Inc',248745.00,20728.75,'Failed',0.076,44891.00,'Investment',142999.00,10,'Low','Low','Low','High','High','Bachelor',0.260
+'CS639342','Employed',31,'Manager','Technology','Garza, Kelly and Cross',173486.00,14457.17,'Failed',0.034,14608.00,NULL,86371.00,9,'Medium','High','High','High','High','Doctorate',0.525
+'CS521160','Retired',38,'Manager','Other','James, Flores and Phillips',145738.00,12144.83,'Failed',0.643,28997.00,'Rental',643866.00,17,'Medium','High','Low','Low','Low','Master',0.277
+'CS842151','Unemployed',20,'Other','Education','Phillips and Sons',144428.00,12035.67,'Failed',0.093,20012.00,'Rental',582305.00,14,'Low','High','Low','Low','High','Bachelor',0.269
+'CS285060','Unemployed',3,'Engineer','Technology','Peterson Group',250381.00,20865.08,'Pending',0.056,17992.00,NULL,343267.00,17,'High','High','Low','High','High','Doctorate',0.235
+'CS387280','Self-employed',32,'Doctor','Technology','Miller, Schmidt and Garcia',93638.00,7803.17,'Verified',0.622,16014.00,'Part-time',328001.00,17,'Low','Medium','Low','Medium','Medium','Bachelor',0.036
+'CS538980','Unemployed',9,'Manager','Other','Kelly Inc',360399.00,30033.25,'Pending',0.027,27481.00,'Part-time',38682.00,16,'Low','Low','Low','Medium','High','Master',0.434
+'CS268508','Unemployed',19,'Teacher','Finance','Roberts, Taylor and Tyler',168729.00,14060.75,'Pending',0.059,48917.00,'Rental',22630.00,9,'Medium','Medium','Medium','Medium','High','High School',0.496
+'CS897838','Employed',28,'Teacher','Education','Norris and Sons',434006.00,36167.17,'Failed',0.524,41982.00,'Part-time',211595.00,9,'Medium','Low','Medium','High','Low','Doctorate',0.271
+'CS809501','Self-employed',17,'Teacher','Technology','Hayes, Bryan and Collins',293025.00,24418.75,'Verified',0.349,45097.00,'Part-time',649015.00,7,'Medium','Low','Low','Medium','High','Doctorate',0.262
+'CS537851','Unemployed',36,'Teacher','Technology','Conway, Scott and Burton',288153.00,24012.75,'Pending',0.377,39085.00,'Part-time',367601.00,19,'Medium','High','Medium','High','Low','Doctorate',0.125
+'CS791058','Self-employed',5,'Manager','Finance','Jones-Williams',125842.00,10486.83,'Failed',0.033,19515.00,'Part-time',184410.00,8,'High','Low','Low','Low','Medium','Bachelor',0.375
+'CS274968','Retired',30,'Other','Other','Sullivan and Sons',364637.00,30386.42,'Verified',0.531,37271.00,'Rental',228984.00,1,'Low','High','Low','Low','High','High School',0.057
+'CS562997','Self-employed',8,'Manager','Finance','Liu-Mckee',493351.00,41112.58,'Pending',0.12,1169.00,'Investment',167881.00,18,'Low','Low','High','Medium','Low','High School',0.207
+'CS584899','Retired',4,'Engineer','Healthcare','Willis, Newman and Tucker',494868.00,41239.00,'Failed',0.001,40062.00,'Rental',63971.00,1,'High','Low','Low','High','High','Master',0.273
+'CS139679','Unemployed',5,'Manager','Healthcare','Stevens-Carter',38109.00,3175.75,'Failed',0.931,35310.00,'Investment',652919.00,19,'Low','Low','High','High','Medium','High School',0.462
+'CS731236','Retired',35,'Other','Technology','Bell-Graham',402284.00,33523.67,'Verified',0.75,45252.00,'Rental',313792.00,14,'Low','Medium','Low','High','Medium','High School',0.327
+'CS692345','Employed',11,'Manager','Finance','Wright LLC',26207.00,2183.92,'Failed',0.178,32632.00,NULL,507394.00,9,'High','Low','Low','High','High','Bachelor',0.103
+'CS925263','Unemployed',31,'Teacher','Finance','Reyes Group',81566.00,6797.17,'Pending',0.277,6180.00,'Part-time',44127.00,9,'Medium','Medium','Low','High','High','Doctorate',0.216
+'CS480549','Self-employed',21,'Other','Technology','King and Sons',378135.00,31511.25,'Verified',0.01,25847.00,NULL,727442.00,3,'High','High','Low','Medium','Low','Doctorate',0.343
+'CS266405','Employed',12,'Doctor','Technology','Moore-Ramirez',426153.00,35512.75,'Verified',0.914,6132.00,'Part-time',786099.00,14,'Medium','Medium','High','Low','Low','Master',0.185
+'CS970010','Unemployed',24,'Doctor','Other','Craig Group',317949.00,26495.75,'Verified',0.315,22292.00,NULL,617488.00,11,'Low','Low','Low','High','Low','Master',0.349
+'CS471468','Retired',22,'Engineer','Other','Manning Ltd',172275.00,14356.25,'Pending',0.082,33150.00,'Rental',491505.00,12,'Medium','Medium','Medium','High','Medium','Bachelor',0.054
+'CS590797','Retired',37,'Teacher','Finance','Schultz and Sons',214953.00,17912.75,'Verified',0.721,45576.00,NULL,385763.00,19,'High','Medium','High','High','Medium','Master',0.553
+'CS137278','Employed',11,'Teacher','Technology','Brown Ltd',398123.00,33176.92,'Failed',0.702,14701.00,NULL,760317.00,9,'Low','Low','High','Low','Medium','Master',0.207
+'CS252985','Unemployed',31,'Doctor','Finance','Ponce, Patton and Barker',413165.00,34430.42,'Pending',0.404,24075.00,'Rental',723372.00,2,'Low','Low','Medium','Low','Low','Master',0.137
+'CS800198','Retired',26,'Engineer','Technology','Robles Group',163568.00,13630.67,'Verified',0.264,6549.00,NULL,622522.00,7,'High','Low','High','Medium','Low','Doctorate',0.590
+'CS744289','Retired',10,'Manager','Finance','Little-Duke',494661.00,41221.75,'Verified',0.478,49156.00,'Part-time',491075.00,2,'Medium','High','High','Medium','High','Master',0.292
+'CS658675','Employed',13,'Teacher','Technology','Lawrence and Sons',246871.00,20572.58,'Failed',0.405,7115.00,'Part-time',708163.00,18,'Low','Low','Low','Medium','Low','Doctorate',0.001
+'CS518143','Unemployed',33,'Teacher','Healthcare','Morgan Group',227506.00,18958.83,'Verified',0.541,17370.00,'Rental',782055.00,2,'Low','High','Medium','Medium','High','Bachelor',0.355
+'CS266064','Unemployed',4,'Engineer','Other','Becker, Sims and Mercado',202891.00,16907.58,'Verified',0.545,27096.00,'Rental',29143.00,13,'Medium','Medium','High','High','Low','High School',0.088
+'CS340066','Unemployed',7,'Teacher','Healthcare','Johnson Inc',363152.00,30262.67,'Verified',0.056,34957.00,'Rental',437421.00,8,'High','Low','Low','Medium','Low','High School',0.245
+'CS876222','Unemployed',26,'Other','Other','King, Jones and Goodwin',309457.00,25788.08,'Failed',0.734,35125.00,NULL,584342.00,20,'Low','Medium','Low','Low','Low','Bachelor',0.516
+'CS846547','Unemployed',8,'Engineer','Education','Blackburn, Wilson and Stout',360120.00,30010.00,'Pending',0.088,31559.00,'Investment',22795.00,20,'High','Low','High','Low','Low','Master',0.066
+'CS862975','Retired',28,'Teacher','Education','David LLC',479078.00,39923.17,'Pending',0.928,31223.00,'Part-time',527345.00,6,'Low','High','Low','Medium','High','Master',0.395
+'CS825544','Retired',26,'Other','Education','Sims Inc',61634.00,5136.17,'Failed',0.923,8852.00,NULL,532673.00,3,'High','Medium','High','Medium','High','High School',0.240
+'CS423139','Unemployed',22,'Manager','Healthcare','Vasquez, Green and Tran',289087.00,24090.58,'Failed',0.744,18505.00,'Rental',356702.00,15,'Medium','Low','Low','High','Medium','Bachelor',0.384
+'CS664586','Retired',6,'Doctor','Finance','Jenkins, Fernandez and Medina',463392.00,38616.00,'Verified',0.454,28667.00,NULL,138560.00,12,'Medium','High','Medium','Low','High','Master',0.374
+'CS363482','Self-employed',10,'Other','Healthcare','Fuller LLC',84258.00,7021.50,'Pending',0.458,36868.00,'Part-time',137291.00,7,'High','Medium','High','Medium','Low','Bachelor',0.432
+'CS278716','Retired',17,'Engineer','Healthcare','Colon LLC',246444.00,20537.00,'Pending',0.088,46348.00,'Rental',734877.00,17,'High','Medium','Low','Low','Medium','Master',0.113
+'CS516351','Retired',6,'Doctor','Finance','Holland Ltd',71122.00,5926.83,'Verified',0.025,48495.00,'Rental',639025.00,12,'Medium','High','High','High','Low','Doctorate',0.356
+'CS664299','Unemployed',12,'Doctor','Healthcare','Pratt-Nichols',120191.00,10015.92,'Verified',0.7,39777.00,'Investment',644692.00,12,'High','Low','Low','Low','High','High School',0.443
+'CS323393','Employed',10,'Teacher','Technology','Castillo-Huffman',318371.00,26530.92,'Pending',0.025,11962.00,'Part-time',166347.00,19,'Low','Medium','Medium','High','High','Doctorate',0.058
+'CS463560','Self-employed',2,'Teacher','Technology','Freeman, Ray and Koch',57393.00,4782.75,'Failed',0.384,2167.00,'Investment',509971.00,5,'Medium','Medium','Low','Medium','High','Doctorate',0.580
+'CS431093','Retired',2,'Other','Healthcare','Rivera-Miller',458832.00,38236.00,'Pending',0.815,19256.00,'Rental',763348.00,14,'High','High','Low','Medium','Low','Master',0.591
+'CS137159','Retired',32,'Engineer','Other','Buchanan PLC',406147.00,33845.58,'Failed',0.955,4612.00,'Part-time',56618.00,9,'High','Medium','Medium','High','Medium','Bachelor',0.419
+'CS934816','Self-employed',39,'Manager','Other','Conner-Wilcox',105028.00,8752.33,'Pending',0.388,44873.00,NULL,293471.00,2,'Medium','High','Medium','Low','High','High School',0.276
+'CS240451','Employed',37,'Engineer','Other','Wilson Inc',251122.00,20926.83,'Pending',0.1,9186.00,'Part-time',146636.00,10,'High','Low','Low','Low','Low','Doctorate',0.255
+'CS996545','Employed',22,'Doctor','Finance','Parker, Ayala and Medina',106304.00,8858.67,'Pending',0.58,20937.00,'Part-time',185030.00,15,'Medium','Low','High','High','High','Bachelor',0.199
+'CS117703','Self-employed',20,'Other','Technology','May Group',475333.00,39611.08,'Pending',0.505,46606.00,'Investment',411930.00,19,'Low','Low','Medium','Medium','Low','High School',0.039
+'CS139849','Unemployed',28,'Teacher','Healthcare','Norris, Johnson and Smith',104690.00,8724.17,'Pending',0.886,27283.00,'Rental',600082.00,14,'Low','Low','Low','Low','High','Doctorate',0.076
+'CS312748','Self-employed',14,'Other','Other','Schultz Group',326045.00,27170.42,'Verified',0.414,30114.00,'Rental',296069.00,18,'Medium','High','High','Low','High','High School',0.147
+'CS686107','Self-employed',15,'Teacher','Other','Rodriguez-Hamilton',34156.00,2846.33,'Pending',0.721,47435.00,'Part-time',328513.00,12,'Low','Medium','Low','Low','Medium','Bachelor',0.429
+'CS675640','Self-employed',12,'Doctor','Other','Smith-Sexton',121163.00,10096.92,'Verified',0.503,29520.00,'Part-time',740554.00,8,'Medium','Low','High','Low','Low','High School',0.072
+'CS407119','Unemployed',8,'Doctor','Healthcare','Watson, Ward and Johnston',409486.00,34123.83,'Failed',0.076,44545.00,'Investment',218442.00,0,'High','Medium','Low','High','Medium','Bachelor',0.468
+'CS712274','Employed',27,'Other','Other','Knight, Anderson and Woods',197395.00,16449.58,'Pending',0.639,32376.00,NULL,456436.00,5,'High','Low','High','Low','Medium','Master',0.401
+'CS483922','Retired',39,'Teacher','Healthcare','Hubbard-Mckee',431194.00,35932.83,'Failed',0.69,6306.00,'Investment',133703.00,10,'High','High','High','Medium','Medium','Doctorate',0.267
+'CS356843','Employed',12,'Manager','Technology','Yates, Mclaughlin and Spence',369674.00,30806.17,'Pending',0.031,46460.00,'Rental',716571.00,13,'Medium','Medium','Medium','Medium','Medium','Doctorate',0.024
+'CS210791','Retired',17,'Other','Other','Blackburn-Porter',284109.00,23675.75,'Failed',0.012,2223.00,NULL,436903.00,11,'Low','Low','Low','Low','High','Bachelor',0.278
+'CS118800','Retired',8,'Doctor','Education','Brown, Peterson and Kelly',390400.00,32533.33,'Pending',0.761,34945.00,'Investment',352731.00,15,'Medium','Medium','High','Low','Low','High School',0.419
+'CS408470','Retired',4,'Doctor','Education','Gray, Harris and Davidson',409463.00,34121.92,'Verified',0.987,29159.00,'Part-time',190230.00,5,'Low','Medium','High','Low','Low','Doctorate',0.135
+'CS674943','Employed',4,'Doctor','Healthcare','Shields, Hayden and Burns',141627.00,11802.25,'Verified',0.109,44649.00,NULL,107669.00,18,'High','Low','Medium','High','Medium','Bachelor',0.088
+'CS571956','Self-employed',12,'Doctor','Finance','Ray, Rios and Morgan',400897.00,33408.08,'Failed',0.552,34885.00,'Investment',93128.00,8,'High','Medium','High','Medium','Medium','Doctorate',0.363
+'CS862597','Self-employed',15,'Manager','Education','Ford Ltd',289395.00,24116.25,'Pending',0.474,45587.00,'Investment',340301.00,4,'High','High','Low','Low','Low','Doctorate',0.423
+'CS567075','Self-employed',13,'Other','Education','Haas-Bush',389609.00,32467.42,'Failed',0.96,48701.00,'Investment',267683.00,17,'High','Low','High','Medium','Low','Master',0.072
+'CS341619','Self-employed',6,'Other','Technology','Cook-Jones',224978.00,18748.17,'Pending',0.902,46715.00,'Rental',703955.00,4,'Medium','Medium','Medium','High','High','Doctorate',0.301
