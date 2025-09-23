@@ -1,6 +1,8 @@
 ############################################################
 ### Dataset / Eval Items
 ############################################################
+# The dataset dire
+dataset_directory: datasets/bird-interact/bird-interact-lite
 # The JSON list of prompts / golden SQLs and eval attributes for the run
 dataset_config: datasets/bird-interact/bird-interact-lite/bird_interact_data.jsonl
 ### Database Info
@@ -13,8 +15,8 @@ dialects:
 query_types:
  - dql
 dataset_format: bird-interact-format
-setup_directory: /Users/ismailmehdi/workspace/evalbench/datasets/bird-interact/setup
-
+setup_directory: datasets/bird-interact/setup
+max_turn: 6
 #
 #
 ############################################################
@@ -23,7 +25,7 @@ setup_directory: /Users/ismailmehdi/workspace/evalbench/datasets/bird-interact/s
 # The YAML config for the model to be used for generation.
 model_config: datasets/model_configs/gemini_2.5_pro_model.yaml
 # The prompt generator module id for prompt generation.
-prompt_generator: 'SQLGenBasePromptGenerator'
+prompt_generator: 'InteractSystemGenerator'
 #
 #
 ############################################################
