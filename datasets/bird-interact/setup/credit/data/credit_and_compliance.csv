@@ -1,0 +1,1000 @@
+'CS206405','Fail','Flag','Clear','Non-compliant',423,'High','Current',7,3,1,1,1,1,2,13,1,15,'0',28,27
+'CS834424','Fail','Pass','Under Review','Non-compliant',379,'Medium','Past',7,13,0,2,1,1,2,0,10,17,'3',0,8
+'CS904970','Fail','Fail','Clear','Compliant',645,'High','Past',3,5,3,3,0,1,0,7,7,6,'3',7,6
+'CS886903','Flag','Fail','Clear','Compliant',707,'Medium','Past',6,2,0,1,1,0,1,6,3,4,'5',24,3
+'CS767632','Pass','Pass','Under Review','Non-compliant',715,'Medium','Past',10,0,5,3,0,1,1,1,2,8,'0',21,18
+'CS252516','Fail','Fail','Restricted','Compliant',517,'Very High','Past',9,7,3,1,0,1,2,1,0,6,'1',18,23
+'CS891919','Pass','Fail','Restricted','Compliant',537,'High','Current',8,4,1,1,1,0,0,13,6,15,'3',1,30
+'CS765007','Pass','Flag','Under Review','Non-compliant',497,'Low','Current',5,10,0,2,1,0,0,5,10,19,'4',25,6
+'CS507608','Fail','Fail','Clear','Non-compliant',758,'Medium',NULL,7,4,4,0,1,0,0,14,8,8,'3',7,5
+'CS893515','Flag','Fail','Under Review','Non-compliant',423,'Low','Past',1,8,0,0,0,1,0,2,4,6,'4',27,23
+'CS986753','Flag','Flag','Clear','Compliant',497,'High','Past',0,19,2,3,1,0,1,3,3,14,'4',7,2
+'CS414493','Flag','Pass','Restricted','Non-compliant',318,'Very High','Past',6,13,1,1,1,1,1,5,9,5,'4',25,20
+'CS429393','Flag','Fail','Clear','Compliant',640,'Medium',NULL,9,15,2,0,1,1,0,11,7,12,'3',17,5
+'CS166671','Pass','Pass','Clear','Compliant',604,'Very High','Current',9,4,2,3,0,1,0,11,2,9,'2',0,1
+'CS222072','Flag','Pass','Restricted','Non-compliant',337,'Low',NULL,4,4,0,3,1,1,1,12,6,9,'5',16,2
+'CS162913','Pass','Fail','Restricted','Compliant',305,'Medium','Past',8,12,2,1,1,0,2,2,0,11,'2',10,10
+'CS517135','Pass','Fail','Restricted','Compliant',467,'Very High','Current',6,4,1,1,0,0,0,13,0,1,'4',5,8
+'CS180245','Fail','Fail','Restricted','Compliant',720,'Very High','Current',4,8,3,1,1,1,2,4,1,6,'1',3,2
+'CS335050','Pass','Pass','Restricted','Non-compliant',468,'Medium','Past',1,5,5,0,0,0,0,14,9,4,'2',7,19
+'CS646404','Flag','Pass','Under Review','Non-compliant',411,'High','Current',2,8,5,0,0,0,0,2,3,11,'4',30,19
+'CS544345','Fail','Flag','Under Review','Non-compliant',661,'Very High',NULL,2,14,1,1,1,0,1,10,9,4,'5',10,17
+'CS450025','Fail','Fail','Under Review','Non-compliant',542,'Low','Past',8,13,5,2,0,0,2,1,6,16,'1',30,3
+'CS298969','Pass','Fail','Restricted','Non-compliant',455,'Low','Current',0,15,5,3,0,1,1,9,5,14,'4',22,19
+'CS824002','Flag','Pass','Under Review','Compliant',781,'Low','Current',3,13,2,1,0,1,2,9,8,14,'0',18,7
+'CS969683','Fail','Flag','Under Review','Compliant',762,'High','Past',9,19,4,3,0,0,2,9,4,4,'1',17,13
+'CS169928','Fail','Pass','Restricted','Compliant',600,'Medium','Current',9,13,0,2,1,0,0,1,7,14,'5',23,4
+'CS180232','Fail','Fail','Under Review','Compliant',723,'High','Past',10,1,5,0,1,0,0,14,5,17,'1',8,10
+'CS232683','Flag','Fail','Under Review','Compliant',737,'High',NULL,9,5,3,2,0,1,0,3,9,6,'2',2,0
+'CS354471','Pass','Pass','Restricted','Non-compliant',849,'High','Current',6,4,0,3,0,0,2,1,2,7,'0',0,19
+'CS688942','Fail','Fail','Under Review','Compliant',405,'High','Past',5,5,4,2,1,0,2,2,4,1,'2',25,9
+'CS288223','Flag','Fail','Clear','Compliant',724,'Medium','Current',2,12,2,1,0,1,2,10,5,9,'3',24,12
+'CS289722','Flag','Fail','Clear','Compliant',837,'Medium','Current',5,19,5,2,1,0,1,12,9,3,'2',22,2
+'CS230095','Fail','Pass','Restricted','Compliant',316,'Low','Past',10,3,0,0,0,0,0,8,2,15,'2',16,14
+'CS353632','Flag','Fail','Restricted','Non-compliant',714,'High','Current',9,2,1,0,1,1,1,8,8,2,'1',3,11
+'CS435359','Flag','Fail','Under Review','Non-compliant',804,'High','Past',8,6,4,0,1,1,1,11,9,16,'5',28,19
+'CS997640','Fail','Pass','Restricted','Non-compliant',657,'Medium',NULL,0,0,2,3,0,1,0,9,3,14,'4',27,12
+'CS365031','Fail','Pass','Under Review','Compliant',790,'Very High','Current',2,8,3,3,1,1,1,12,1,17,'3',10,4
+'CS616098','Pass','Fail','Clear','Compliant',344,'Medium','Past',2,19,2,3,0,1,2,4,10,10,'2',24,2
+'CS767771','Pass','Pass','Clear','Non-compliant',353,'Medium','Past',10,0,2,3,0,0,1,2,9,15,'2',7,8
+'CS211745','Pass','Flag','Under Review','Compliant',473,'High','Current',7,17,0,2,1,0,0,3,2,10,'3',19,22
+'CS652071','Fail','Flag','Restricted','Non-compliant',593,'Very High','Past',6,9,4,0,0,0,1,3,9,17,'4',24,20
+'CS903650','Fail','Pass','Clear','Non-compliant',548,'Low','Past',3,11,2,2,0,0,1,15,6,17,'3',14,3
+'CS780190','Fail','Pass','Clear','Non-compliant',613,'Low',NULL,2,1,5,2,1,0,0,1,6,15,'5',10,8
+'CS442564','Fail','Fail','Under Review','Non-compliant',491,'Low',NULL,7,2,1,1,1,0,1,3,9,2,'5',2,7
+'CS669645','Pass','Fail','Restricted','Compliant',730,'High','Past',5,4,4,1,1,0,2,6,8,1,'2',21,13
+'CS631277','Pass','Fail','Clear','Compliant',751,'Low',NULL,3,19,0,3,1,0,0,14,6,1,'3',29,30
+'CS496846','Flag','Flag','Clear','Non-compliant',604,'Very High',NULL,9,14,5,2,1,1,1,11,1,15,'5',27,11
+'CS150481','Fail','Pass','Restricted','Compliant',560,'Low','Past',3,11,0,0,0,1,1,4,6,13,'4',9,15
+'CS163455','Fail','Pass','Restricted','Non-compliant',588,'High','Current',0,3,3,3,1,0,0,2,2,6,'5',23,26
+'CS549581','Pass','Fail','Clear','Compliant',774,'Medium','Current',9,1,3,3,0,0,0,10,6,12,'0',5,6
+'CS922407','Flag','Pass','Under Review','Non-compliant',799,'Very High',NULL,9,8,2,3,1,1,0,5,2,1,'1',20,13
+'CS815902','Pass','Pass','Clear','Non-compliant',438,'Medium','Past',4,18,4,3,1,0,2,12,7,12,'5',7,17
+'CS795799','Fail','Flag','Restricted','Non-compliant',602,'Very High','Current',9,17,5,1,0,0,1,9,1,16,'3',18,22
+'CS228944','Fail','Flag','Clear','Compliant',460,'Medium','Current',10,7,5,2,0,1,2,15,3,5,'3',5,16
+'CS270568','Pass','Fail','Clear','Compliant',445,'Very High','Past',3,6,5,3,0,0,1,2,8,4,'3',3,9
+'CS265659','Fail','Fail','Restricted','Compliant',490,'High','Past',3,20,1,3,0,1,2,1,5,13,'3',10,20
+'CS761056','Fail','Fail','Restricted','Non-compliant',779,'Very High','Current',3,1,4,3,1,0,0,0,3,20,'3',15,18
+'CS257152','Flag','Flag','Under Review','Non-compliant',673,'High',NULL,3,20,2,2,1,0,0,13,10,15,'0',7,13
+'CS574552','Pass','Flag','Clear','Compliant',786,'Medium',NULL,10,4,1,2,1,1,2,11,8,2,'2',17,28
+'CS376857','Flag','Fail','Restricted','Compliant',356,'Very High','Current',0,6,1,0,1,0,1,10,1,18,'3',3,23
+'CS245365','Fail','Flag','Restricted','Compliant',717,'Low','Past',1,18,1,2,0,0,0,1,10,19,'5',27,6
+'CS643600','Fail','Flag','Under Review','Compliant',631,'Very High','Past',7,17,2,0,0,0,2,8,0,17,'1',22,30
+'CS137169','Pass','Fail','Restricted','Compliant',530,'High',NULL,10,7,4,2,1,1,1,13,10,11,'1',23,26
+'CS956134','Pass','Flag','Clear','Non-compliant',478,'Medium','Current',7,10,2,0,1,1,0,15,1,11,'5',25,8
+'CS692829','Pass','Pass','Clear','Compliant',814,'Very High','Past',7,0,3,3,1,0,1,4,3,13,'3',28,28
+'CS425614','Flag','Fail','Clear','Non-compliant',615,'High','Current',1,17,4,1,0,1,2,5,2,11,'5',1,1
+'CS946841','Flag','Fail','Restricted','Compliant',700,'Low','Current',4,18,4,0,0,1,1,8,1,4,'4',13,8
+'CS394059','Fail','Fail','Under Review','Compliant',553,'Medium','Current',9,18,0,3,1,1,2,14,0,10,'1',9,13
+'CS267231','Flag','Fail','Under Review','Compliant',383,'High','Current',4,10,5,3,1,1,2,1,6,2,'1',11,10
+'CS875127','Pass','Flag','Restricted','Compliant',534,'Low','Past',3,15,4,0,0,0,0,1,9,3,'4',8,25
+'CS734465','Fail','Fail','Clear','Non-compliant',362,'Low','Current',1,4,1,0,0,1,2,4,10,8,'3',25,13
+'CS619972','Fail','Flag','Clear','Non-compliant',805,'High','Current',1,19,5,3,0,1,0,6,6,20,'3',4,18
+'CS709733','Pass','Fail','Clear','Non-compliant',778,'Low','Current',0,16,4,2,1,1,2,2,1,19,'2',0,20
+'CS155730','Pass','Fail','Under Review','Non-compliant',416,'Medium','Current',0,14,5,1,0,0,1,15,3,10,'0',13,7
+'CS577233','Flag','Fail','Under Review','Compliant',562,'Very High','Current',0,11,5,3,0,0,1,8,10,16,'3',21,15
+'CS283760','Flag','Fail','Restricted','Compliant',803,'Medium','Past',5,3,5,2,0,1,0,7,8,16,'1',18,17
+'CS369969','Fail','Pass','Clear','Compliant',337,'Low','Past',3,1,0,1,0,1,2,4,5,17,'3',15,24
+'CS458174','Fail','Pass','Restricted','Non-compliant',427,'High',NULL,10,14,3,1,0,0,2,13,1,0,'1',12,29
+'CS312838','Flag','Fail','Clear','Compliant',477,'Medium','Current',4,10,3,0,1,0,1,13,7,18,'3',8,11
+'CS352403','Flag','Fail','Under Review','Compliant',504,'Medium',NULL,8,14,0,1,0,1,0,7,2,13,'4',7,21
+'CS809921','Fail','Fail','Under Review','Compliant',695,'High','Past',0,0,4,1,1,0,2,13,8,1,'5',24,11
+'CS683420','Pass','Pass','Restricted','Compliant',824,'Low','Current',8,4,4,1,1,0,0,7,3,5,'3',10,2
+'CS528893','Pass','Fail','Under Review','Compliant',573,'Medium',NULL,7,18,0,0,0,0,2,11,2,9,'4',5,3
+'CS114324','Pass','Fail','Clear','Non-compliant',783,'Medium',NULL,5,1,1,1,1,0,0,6,4,6,'5',28,26
+'CS179250','Flag','Pass','Clear','Compliant',848,'Medium','Past',4,14,4,0,1,1,1,10,3,0,'2',21,26
+'CS924243','Pass','Pass','Restricted','Non-compliant',831,'Medium','Current',4,15,4,1,1,1,1,1,2,11,'4',8,0
+'CS935716','Pass','Fail','Restricted','Compliant',321,'Low','Current',2,14,3,1,0,0,0,3,10,18,'2',22,7
+'CS545004','Fail','Fail','Under Review','Non-compliant',377,'Very High',NULL,9,11,2,0,0,1,1,2,3,20,'2',20,13
+'CS706475','Flag','Pass','Under Review','Compliant',668,'Low','Past',7,0,0,0,0,0,2,0,9,8,'0',25,13
+'CS486939','Pass','Flag','Restricted','Non-compliant',417,'Low','Current',8,4,0,1,1,1,1,12,4,14,'4',18,10
+'CS904949','Flag','Fail','Under Review','Non-compliant',304,'Medium','Past',9,4,1,3,0,0,0,15,2,4,'3',24,1
+'CS315671','Pass','Pass','Restricted','Compliant',430,'Medium','Past',10,13,5,1,1,1,1,5,7,4,'2',26,8
+'CS407746','Flag','Pass','Clear','Compliant',638,'High','Past',5,13,4,2,0,1,2,11,7,16,'2',10,0
+'CS325919','Fail','Pass','Under Review','Compliant',552,'Very High',NULL,8,4,5,3,0,1,1,10,9,12,'5',10,10
+'CS415864','Fail','Fail','Restricted','Compliant',371,'Very High','Past',5,16,5,2,0,1,1,14,4,18,'2',21,5
+'CS176768','Flag','Fail','Restricted','Compliant',316,'Very High','Past',6,10,1,1,0,1,0,14,1,17,'2',9,20
+'CS472691','Fail','Fail','Clear','Compliant',793,'Low',NULL,1,15,4,0,1,0,2,8,4,10,'5',6,27
+'CS749902','Pass','Fail','Clear','Compliant',697,'Very High','Current',8,9,1,2,0,1,0,0,2,7,'2',20,16
+'CS619946','Pass','Fail','Clear','Non-compliant',423,'Very High','Past',9,14,0,0,1,1,1,14,7,12,'4',5,4
+'CS696164','Flag','Fail','Restricted','Non-compliant',312,'Very High','Past',6,5,5,3,1,0,0,2,0,1,'0',26,24
+'CS978295','Fail','Pass','Clear','Non-compliant',642,'High','Current',1,0,0,3,0,1,0,3,2,3,'3',13,29
+'CS620188','Pass','Flag','Clear','Non-compliant',534,'Low','Current',3,6,2,3,1,1,2,12,10,20,'5',13,1
+'CS565038','Pass','Flag','Restricted','Compliant',467,'Low','Current',3,4,4,3,1,0,0,5,6,19,'2',23,28
+'CS463519','Fail','Flag','Clear','Non-compliant',771,'Low',NULL,6,4,4,0,1,1,2,8,6,2,'2',29,1
+'CS555462','Flag','Pass','Clear','Compliant',604,'Low','Current',9,7,2,2,0,0,1,1,4,1,'1',29,2
+'CS485387','Flag','Flag','Clear','Non-compliant',522,'High',NULL,1,16,2,2,1,1,1,6,9,14,'4',16,2
+'CS514454','Pass','Fail','Clear','Non-compliant',449,'Low',NULL,6,3,0,0,0,1,0,14,1,3,'5',11,4
+'CS177109','Fail','Fail','Clear','Compliant',577,'Low',NULL,6,14,5,3,0,1,1,4,2,19,'1',22,22
+'CS769096','Pass','Pass','Under Review','Compliant',465,'Medium','Current',3,6,3,1,0,1,2,8,5,7,'0',28,10
+'CS476753','Pass','Fail','Under Review','Compliant',639,'Very High','Current',8,3,0,1,1,1,1,4,1,6,'2',6,30
+'CS236543','Fail','Fail','Under Review','Non-compliant',428,'Medium','Past',8,10,2,3,0,1,1,12,9,19,'1',19,0
+'CS838868','Pass','Fail','Restricted','Compliant',416,'Medium','Current',0,3,2,2,1,0,0,2,1,16,'3',28,7
+'CS563151','Flag','Pass','Restricted','Compliant',534,'Low',NULL,3,3,2,0,0,0,2,6,10,15,'0',16,1
+'CS375688','Fail','Pass','Under Review','Compliant',788,'High','Past',9,14,2,0,0,0,2,4,9,8,'4',8,26
+'CS165547','Fail','Flag','Restricted','Compliant',315,'Very High','Past',2,9,2,3,1,0,0,11,5,18,'4',9,2
+'CS118101','Fail','Fail','Under Review','Non-compliant',424,'High','Current',0,16,2,0,1,0,2,14,4,18,'0',25,17
+'CS867586','Fail','Fail','Clear','Compliant',839,'Very High','Current',3,13,1,3,0,0,0,7,5,5,'1',19,3
+'CS213855','Flag','Fail','Restricted','Compliant',734,'Very High',NULL,4,2,1,2,1,0,2,2,3,15,'4',2,1
+'CS154780','Fail','Flag','Under Review','Compliant',752,'Low','Past',1,9,1,3,1,1,2,5,10,13,'3',24,27
+'CS686880','Fail','Pass','Under Review','Compliant',358,'High','Current',1,8,5,1,1,0,2,15,0,2,'3',15,19
+'CS878130','Pass','Fail','Clear','Non-compliant',472,'High','Past',1,18,3,1,0,0,0,4,8,18,'0',29,24
+'CS173970','Fail','Flag','Under Review','Compliant',322,'High','Past',5,16,4,2,0,1,0,4,3,16,'0',23,15
+'CS454779','Fail','Flag','Restricted','Compliant',335,'Very High','Past',3,5,4,3,0,0,2,6,6,18,'3',5,4
+'CS871100','Flag','Fail','Clear','Non-compliant',392,'Medium','Past',7,8,4,3,0,0,2,9,7,17,'2',24,19
+'CS808056','Pass','Flag','Clear','Non-compliant',430,'Very High',NULL,6,16,1,1,0,0,0,14,2,0,'5',5,25
+'CS691358','Pass','Flag','Clear','Non-compliant',475,'High',NULL,4,13,5,3,0,1,2,6,0,4,'1',19,18
+'CS620062','Fail','Flag','Clear','Compliant',809,'Medium','Current',3,13,4,1,1,1,1,2,6,7,'5',5,0
+'CS705250','Flag','Pass','Restricted','Non-compliant',634,'Medium','Past',10,17,1,1,1,0,0,4,10,6,'5',22,30
+'CS461214','Fail','Pass','Under Review','Compliant',424,'Medium','Past',10,11,1,2,0,0,0,3,0,6,'2',30,7
+'CS539540','Flag','Flag','Clear','Non-compliant',524,'Low','Past',8,5,3,2,1,1,2,0,3,8,'0',19,10
+'CS147599','Fail','Flag','Restricted','Compliant',459,'Very High',NULL,2,6,5,1,0,1,1,7,3,9,'1',26,0
+'CS716787','Fail','Flag','Under Review','Compliant',503,'Very High','Current',10,14,3,3,0,0,2,2,6,12,'4',20,3
+'CS173839','Pass','Flag','Under Review','Compliant',517,'High',NULL,10,2,3,0,0,1,0,3,7,12,'1',29,4
+'CS587130','Flag','Flag','Restricted','Non-compliant',412,'Low','Past',5,18,1,0,1,0,0,1,0,8,'5',26,10
+'CS970648','Flag','Pass','Clear','Non-compliant',429,'Low','Current',2,20,1,3,1,0,2,15,2,0,'4',28,1
+'CS831931','Pass','Pass','Restricted','Non-compliant',776,'High','Past',0,0,3,1,0,0,2,10,4,17,'0',25,18
+'CS495421','Flag','Flag','Restricted','Non-compliant',682,'Medium','Past',6,9,3,1,0,0,1,7,6,11,'2',23,13
+'CS990471','Pass','Pass','Restricted','Non-compliant',488,'Medium','Current',0,12,4,1,0,0,2,5,7,10,'1',4,5
+'CS514443','Fail','Pass','Restricted','Non-compliant',598,'Very High',NULL,1,11,5,3,1,0,1,14,3,7,'4',0,30
+'CS807017','Flag','Flag','Restricted','Non-compliant',755,'Medium','Current',9,7,2,2,1,1,2,8,5,14,'2',26,27
+'CS274630','Fail','Fail','Restricted','Compliant',570,'Very High','Current',10,2,3,2,1,1,0,12,5,18,'2',8,16
+'CS139109','Pass','Fail','Under Review','Compliant',336,'Low',NULL,10,7,2,3,0,1,0,2,7,20,'2',25,23
+'CS808932','Flag','Fail','Restricted','Compliant',761,'Low','Current',7,19,1,3,1,1,2,10,3,8,'5',20,23
+'CS367960','Pass','Pass','Under Review','Non-compliant',529,'Low','Past',10,17,0,1,0,1,0,5,1,0,'0',28,9
+'CS878890','Flag','Fail','Under Review','Non-compliant',806,'Medium',NULL,1,16,2,2,1,0,0,2,10,8,'0',23,9
+'CS932128','Pass','Fail','Under Review','Non-compliant',470,'High','Past',2,0,0,2,0,0,2,13,10,17,'5',9,10
+'CS746373','Flag','Flag','Under Review','Non-compliant',449,'Medium',NULL,6,3,2,1,1,1,0,3,4,8,'0',16,1
+'CS386431','Fail','Pass','Under Review','Compliant',773,'Very High','Past',7,18,4,1,0,1,0,10,0,8,'4',14,19
+'CS173740','Fail','Fail','Clear','Non-compliant',393,'High',NULL,4,15,4,2,1,1,1,1,8,5,'1',25,17
+'CS150249','Pass','Pass','Under Review','Compliant',667,'Very High','Past',4,13,0,2,0,1,0,5,4,8,'4',26,5
+'CS747054','Pass','Flag','Under Review','Non-compliant',469,'Very High',NULL,9,15,3,2,1,0,0,15,4,12,'2',27,10
+'CS151260','Fail','Flag','Restricted','Compliant',845,'High','Current',7,14,1,2,1,0,0,10,8,1,'1',13,18
+'CS526305','Flag','Pass','Under Review','Non-compliant',591,'Low',NULL,6,17,5,0,1,0,0,5,3,8,'2',4,11
+'CS496064','Fail','Flag','Restricted','Compliant',543,'Medium',NULL,2,7,2,0,1,0,0,2,5,10,'1',24,0
+'CS453252','Pass','Fail','Clear','Non-compliant',738,'Very High','Past',2,19,5,0,1,1,0,13,9,6,'3',15,0
+'CS199572','Pass','Pass','Under Review','Compliant',388,'Medium','Current',0,9,5,3,0,0,0,2,0,17,'5',20,4
+'CS319238','Fail','Fail','Clear','Compliant',463,'High','Current',9,10,5,0,1,0,1,4,0,15,'1',13,4
+'CS746699','Pass','Flag','Restricted','Non-compliant',755,'High','Current',10,16,0,2,1,1,0,1,9,4,'4',17,22
+'CS245319','Pass','Flag','Under Review','Compliant',495,'Very High','Current',2,17,2,0,0,1,0,10,2,19,'4',7,4
+'CS814600','Pass','Flag','Clear','Non-compliant',485,'Very High','Current',6,10,2,2,0,1,1,3,0,9,'5',3,5
+'CS243404','Flag','Flag','Restricted','Compliant',716,'Very High','Current',6,20,3,1,0,0,2,15,1,20,'4',28,6
+'CS810145','Flag','Flag','Under Review','Compliant',317,'Low',NULL,7,14,0,0,0,0,2,2,0,11,'4',17,27
+'CS717304','Flag','Pass','Clear','Compliant',534,'Very High','Past',4,18,3,3,1,1,2,1,2,8,'0',18,19
+'CS589894','Pass','Flag','Restricted','Non-compliant',752,'Low','Current',3,16,2,0,1,0,1,9,10,2,'1',6,22
+'CS633637','Pass','Pass','Clear','Compliant',331,'Very High','Current',7,3,4,2,1,0,0,15,6,6,'1',20,22
+'CS344715','Fail','Pass','Restricted','Compliant',784,'High',NULL,1,11,3,0,0,0,0,11,5,8,'1',12,22
+'CS711657','Fail','Fail','Clear','Compliant',821,'Low','Current',2,0,4,2,1,0,1,6,8,10,'3',2,0
+'CS709338','Pass','Flag','Restricted','Non-compliant',473,'Medium',NULL,6,3,0,3,0,1,2,7,7,9,'0',20,26
+'CS652817','Pass','Fail','Restricted','Compliant',423,'High',NULL,8,1,5,3,1,0,0,2,2,7,'1',0,24
+'CS746510','Flag','Fail','Restricted','Non-compliant',495,'Very High','Current',1,10,1,2,0,0,0,4,10,9,'4',27,1
+'CS637893','Flag','Fail','Under Review','Non-compliant',547,'Very High','Past',9,10,3,0,0,0,2,9,9,14,'1',7,25
+'CS567745','Fail','Fail','Under Review','Compliant',828,'Low',NULL,3,0,0,0,1,1,1,0,8,4,'5',1,4
+'CS475825','Fail','Pass','Clear','Non-compliant',663,'Low','Past',8,10,0,2,0,0,2,15,8,16,'3',9,5
+'CS215493','Pass','Pass','Clear','Compliant',303,'Low',NULL,2,1,0,3,1,0,2,14,7,19,'5',17,9
+'CS593034','Fail','Pass','Clear','Non-compliant',477,'High','Current',10,8,2,2,1,0,0,12,6,4,'3',20,21
+'CS380900','Fail','Fail','Under Review','Compliant',551,'Low','Current',5,2,0,0,1,0,1,13,3,13,'5',29,2
+'CS583843','Pass','Flag','Restricted','Compliant',659,'Low','Past',5,14,3,2,0,0,0,14,2,3,'4',0,22
+'CS490415','Flag','Pass','Restricted','Compliant',775,'Very High','Past',1,13,2,2,0,1,0,3,3,9,'4',29,26
+'CS349295','Fail','Flag','Clear','Compliant',850,'Low','Current',9,11,2,0,0,0,1,15,10,15,'5',13,25
+'CS984139','Fail','Fail','Restricted','Compliant',839,'Medium','Past',4,12,2,3,1,0,0,1,5,16,'3',20,23
+'CS490096','Pass','Fail','Clear','Compliant',450,'High',NULL,10,5,1,2,0,0,0,0,2,18,'2',11,1
+'CS429794','Flag','Flag','Clear','Compliant',388,'Medium','Past',5,16,1,0,0,1,1,4,0,2,'3',11,20
+'CS784376','Fail','Flag','Clear','Compliant',440,'Medium','Current',5,15,3,3,1,1,2,1,10,6,'0',16,15
+'CS238264','Fail','Pass','Clear','Compliant',731,'High','Past',8,14,5,1,1,0,0,12,9,0,'4',23,2
+'CS379786','Fail','Fail','Clear','Non-compliant',748,'Low',NULL,3,4,1,2,1,1,1,2,6,12,'4',5,30
+'CS936853','Fail','Fail','Clear','Non-compliant',404,'Very High','Current',5,2,1,1,0,1,0,3,5,10,'4',27,3
+'CS839936','Pass','Fail','Under Review','Non-compliant',849,'High',NULL,10,2,0,3,1,1,1,10,1,10,'4',11,24
+'CS326527','Pass','Fail','Restricted','Non-compliant',606,'Very High','Past',10,1,2,2,0,1,1,0,6,11,'2',16,5
+'CS506536','Flag','Flag','Restricted','Non-compliant',580,'Medium',NULL,10,18,4,1,1,1,1,5,1,14,'3',3,5
+'CS218961','Flag','Pass','Under Review','Non-compliant',646,'High','Current',7,16,0,3,0,0,2,14,2,19,'1',13,30
+'CS377942','Flag','Fail','Restricted','Non-compliant',499,'Very High',NULL,6,4,3,0,1,1,2,7,6,19,'4',1,29
+'CS594735','Fail','Fail','Clear','Compliant',642,'Low','Current',9,15,3,3,0,1,1,9,1,15,'1',5,14
+'CS333126','Flag','Fail','Restricted','Compliant',475,'Low',NULL,9,13,3,1,1,1,2,3,7,14,'0',13,20
+'CS832405','Pass','Pass','Under Review','Compliant',383,'High',NULL,10,15,0,2,1,1,0,10,10,2,'5',23,9
+'CS644323','Pass','Fail','Restricted','Compliant',385,'High',NULL,7,14,2,1,0,1,2,8,6,0,'0',8,12
+'CS934538','Fail','Pass','Under Review','Non-compliant',388,'Medium','Current',7,5,2,1,1,1,1,7,0,0,'5',9,16
+'CS467421','Fail','Flag','Restricted','Compliant',352,'Very High','Past',1,2,2,1,0,1,0,11,6,12,'2',5,19
+'CS785272','Pass','Flag','Restricted','Non-compliant',629,'Very High','Current',6,3,5,1,1,1,0,10,8,10,'0',26,6
+'CS453075','Flag','Flag','Under Review','Compliant',691,'High',NULL,10,2,1,2,1,0,2,2,6,9,'5',22,9
+'CS628712','Fail','Fail','Clear','Compliant',605,'Very High',NULL,10,13,5,1,0,0,0,3,2,10,'1',6,0
+'CS514495','Flag','Fail','Restricted','Compliant',680,'Very High',NULL,7,19,4,0,0,0,1,14,9,13,'2',28,20
+'CS382224','Flag','Flag','Under Review','Non-compliant',612,'Low','Past',1,12,2,3,0,1,0,7,10,19,'3',14,25
+'CS825935','Pass','Fail','Clear','Compliant',732,'High','Current',8,14,3,2,1,0,1,4,1,15,'0',13,5
+'CS906639','Pass','Fail','Under Review','Compliant',731,'Low','Past',2,18,5,2,1,1,0,0,7,2,'3',4,21
+'CS204518','Fail','Pass','Clear','Non-compliant',631,'High',NULL,3,8,2,0,1,0,1,14,6,12,'0',27,0
+'CS429985','Pass','Flag','Clear','Compliant',665,'Low',NULL,4,8,5,1,0,1,0,2,4,12,'2',3,17
+'CS561267','Pass','Pass','Under Review','Non-compliant',688,'Low','Past',0,11,0,2,1,1,1,15,2,13,'0',27,16
+'CS966807','Flag','Pass','Under Review','Non-compliant',662,'Medium',NULL,7,9,1,0,1,1,1,0,4,6,'5',30,20
+'CS731574','Fail','Flag','Clear','Non-compliant',729,'Medium',NULL,6,14,0,0,0,1,2,5,8,6,'0',26,16
+'CS361295','Pass','Fail','Under Review','Compliant',575,'Medium',NULL,10,1,5,2,1,1,2,7,7,0,'2',22,30
+'CS705839','Pass','Flag','Clear','Non-compliant',537,'Very High',NULL,9,9,4,1,1,1,0,8,7,12,'0',7,19
+'CS667556','Fail','Flag','Under Review','Non-compliant',820,'Very High','Current',10,0,3,2,0,1,0,14,6,6,'2',2,29
+'CS206507','Pass','Fail','Under Review','Compliant',722,'High','Current',10,9,2,0,1,1,0,7,5,16,'1',12,30
+'CS330972','Fail','Flag','Restricted','Compliant',410,'High',NULL,0,5,1,3,1,1,2,4,1,2,'4',21,18
+'CS814774','Flag','Flag','Clear','Compliant',427,'High',NULL,10,16,5,2,0,1,1,5,2,20,'3',3,14
+'CS343253','Flag','Fail','Restricted','Compliant',411,'High',NULL,1,14,4,2,0,0,2,0,0,10,'3',15,4
+'CS589007','Flag','Fail','Clear','Non-compliant',328,'Medium','Current',10,3,5,0,0,1,1,8,9,6,'1',13,30
+'CS638440','Flag','Pass','Restricted','Compliant',470,'Low','Past',3,12,5,3,0,1,2,0,9,5,'0',30,5
+'CS100596','Flag','Flag','Clear','Non-compliant',501,'Low',NULL,5,12,5,3,0,0,1,6,6,20,'4',7,27
+'CS535463','Flag','Flag','Restricted','Compliant',415,'Very High',NULL,4,6,5,1,0,1,2,3,3,14,'3',17,9
+'CS490624','Pass','Pass','Clear','Compliant',345,'Low','Current',4,11,2,3,1,1,1,4,9,17,'4',1,9
+'CS282761','Flag','Pass','Under Review','Non-compliant',323,'Medium',NULL,5,5,3,0,0,0,0,1,5,1,'2',10,24
+'CS696615','Pass','Fail','Under Review','Compliant',844,'High',NULL,10,12,2,2,0,0,1,9,7,1,'0',11,25
+'CS677666','Pass','Flag','Under Review','Compliant',392,'Low','Past',0,3,2,2,1,0,2,0,6,4,'3',5,29
+'CS592643','Flag','Flag','Restricted','Compliant',328,'Medium','Past',5,9,3,0,1,1,1,7,5,5,'2',24,29
+'CS832878','Fail','Fail','Under Review','Non-compliant',789,'Medium','Current',5,6,2,2,0,1,2,15,4,14,'4',29,11
+'CS629793','Flag','Fail','Restricted','Compliant',648,'Very High',NULL,3,12,5,1,0,1,0,6,4,13,'1',21,3
+'CS511829','Flag','Pass','Clear','Non-compliant',329,'Very High','Past',9,1,5,2,1,0,1,6,5,14,'4',5,17
+'CS535567','Pass','Pass','Clear','Non-compliant',406,'Medium','Current',3,2,2,3,0,0,2,15,7,20,'1',19,29
+'CS637835','Flag','Pass','Under Review','Compliant',348,'Very High',NULL,7,2,4,1,1,1,2,3,8,15,'4',2,22
+'CS272308','Fail','Flag','Under Review','Non-compliant',461,'Low',NULL,8,7,5,3,1,1,1,2,1,4,'2',2,18
+'CS124655','Pass','Pass','Restricted','Non-compliant',461,'Low','Current',3,15,2,2,1,1,0,12,2,16,'0',8,21
+'CS421186','Flag','Pass','Clear','Non-compliant',373,'Very High','Past',10,6,0,3,1,0,2,0,9,12,'4',11,2
+'CS104621','Fail','Pass','Under Review','Non-compliant',592,'Very High','Current',10,19,5,2,1,0,2,12,5,1,'2',0,19
+'CS341753','Fail','Fail','Restricted','Non-compliant',435,'Very High','Past',10,9,0,1,1,0,0,8,10,10,'2',3,28
+'CS756478','Pass','Pass','Under Review','Compliant',312,'High','Current',2,11,0,1,0,0,2,5,0,9,'4',8,19
+'CS512169','Pass','Pass','Clear','Non-compliant',606,'High','Past',3,6,3,3,1,0,1,5,2,17,'1',5,9
+'CS513991','Flag','Fail','Under Review','Non-compliant',348,'High','Past',10,9,4,3,0,1,1,11,8,5,'2',1,8
+'CS883594','Fail','Pass','Under Review','Compliant',370,'Very High','Past',10,9,4,3,1,1,2,6,9,17,'1',23,22
+'CS830128','Flag','Pass','Under Review','Compliant',506,'High','Past',2,3,0,2,1,0,2,4,6,10,'2',11,10
+'CS496271','Fail','Pass','Under Review','Non-compliant',507,'Low',NULL,3,18,2,2,1,1,0,15,3,8,'5',26,18
+'CS185300','Fail','Flag','Under Review','Non-compliant',827,'Very High',NULL,0,9,2,0,1,0,2,10,9,15,'2',6,16
+'CS562716','Pass','Pass','Restricted','Non-compliant',519,'Very High','Current',2,11,2,2,0,0,2,3,7,1,'2',25,18
+'CS302366','Fail','Flag','Under Review','Non-compliant',397,'Very High',NULL,5,5,0,3,1,1,0,13,2,16,'0',19,3
+'CS981978','Pass','Fail','Restricted','Non-compliant',799,'Low','Current',6,19,5,1,1,1,2,14,7,11,'5',24,24
+'CS629540','Fail','Flag','Clear','Compliant',670,'Low','Current',3,10,4,2,1,0,2,14,7,4,'2',10,9
+'CS453163','Fail','Pass','Under Review','Compliant',513,'Low','Current',9,9,1,0,0,0,2,1,8,13,'4',0,24
+'CS140564','Flag','Flag','Under Review','Non-compliant',746,'High','Past',8,9,3,1,1,1,1,14,0,17,'5',4,0
+'CS789587','Pass','Fail','Under Review','Non-compliant',687,'Low','Current',3,15,3,1,0,1,1,3,1,4,'1',8,20
+'CS624056','Flag','Fail','Clear','Compliant',392,'Low',NULL,4,15,1,1,0,0,0,2,3,13,'4',3,15
+'CS913637','Fail','Pass','Restricted','Compliant',652,'Medium','Current',2,3,1,3,0,0,2,11,0,12,'0',19,28
+'CS310334','Pass','Flag','Under Review','Compliant',812,'Medium','Current',7,1,2,2,0,0,0,4,7,3,'0',9,2
+'CS721038','Pass','Pass','Clear','Non-compliant',526,'Medium','Past',4,20,4,3,1,0,2,11,6,16,'3',2,15
+'CS549717','Fail','Pass','Under Review','Non-compliant',529,'Very High','Past',10,11,2,3,1,1,2,14,1,2,'3',23,28
+'CS216663','Flag','Pass','Under Review','Non-compliant',462,'Low','Past',5,9,5,1,0,1,1,13,0,6,'4',18,17
+'CS968311','Flag','Pass','Under Review','Compliant',738,'High','Current',5,3,3,1,0,0,1,7,7,18,'1',8,15
+'CS828733','Fail','Fail','Clear','Non-compliant',339,'Medium','Past',2,11,3,1,1,1,2,7,7,13,'5',28,6
+'CS386019','Fail','Pass','Under Review','Non-compliant',547,'High','Current',10,5,3,0,1,1,2,4,1,11,'3',29,22
+'CS988114','Pass','Flag','Clear','Non-compliant',403,'Low',NULL,10,8,2,2,1,1,0,0,7,3,'2',15,10
+'CS165323','Pass','Fail','Clear','Compliant',685,'Very High','Past',6,19,1,1,0,1,2,9,0,17,'0',4,28
+'CS546590','Fail','Flag','Under Review','Non-compliant',357,'Medium','Past',5,18,5,0,0,1,1,2,0,11,'4',14,15
+'CS262157','Fail','Flag','Clear','Compliant',436,'Medium','Current',2,2,2,1,0,0,1,2,4,14,'3',24,16
+'CS575156','Pass','Flag','Under Review','Non-compliant',407,'Very High','Past',5,3,2,0,0,1,2,9,10,5,'0',28,13
+'CS524879','Flag','Fail','Clear','Non-compliant',831,'Medium','Past',4,14,2,2,0,1,2,14,8,0,'0',2,14
+'CS468326','Fail','Flag','Clear','Compliant',690,'High','Current',7,7,0,0,1,0,0,14,4,15,'1',19,1
+'CS690542','Flag','Fail','Restricted','Non-compliant',542,'Low','Current',7,17,5,2,0,0,2,4,7,9,'0',9,18
+'CS624199','Flag','Pass','Restricted','Non-compliant',368,'High','Past',2,7,3,2,1,0,1,6,0,19,'4',29,27
+'CS614957','Pass','Fail','Clear','Non-compliant',814,'High','Current',6,12,3,0,0,1,0,15,5,5,'1',30,19
+'CS756310','Flag','Flag','Restricted','Compliant',708,'Very High',NULL,7,18,1,2,0,0,1,2,3,9,'1',20,12
+'CS580518','Fail','Fail','Restricted','Compliant',811,'High','Past',9,18,3,2,1,1,1,10,1,15,'4',25,5
+'CS351148','Flag','Fail','Under Review','Non-compliant',731,'Very High','Past',3,12,2,1,1,0,2,5,4,6,'3',25,9
+'CS658224','Fail','Pass','Clear','Non-compliant',802,'Very High',NULL,5,13,0,0,0,1,0,7,5,10,'0',16,22
+'CS456479','Fail','Pass','Clear','Compliant',322,'High',NULL,6,7,5,0,1,0,0,0,9,17,'2',9,12
+'CS108094','Pass','Flag','Under Review','Compliant',622,'Low',NULL,10,1,0,3,1,1,2,9,5,12,'1',1,15
+'CS510470','Flag','Pass','Clear','Non-compliant',574,'High','Past',0,4,2,2,1,0,1,8,5,9,'3',0,29
+'CS620222','Pass','Flag','Restricted','Non-compliant',491,'Very High',NULL,1,12,0,2,1,1,2,9,2,15,'2',9,17
+'CS507190','Flag','Pass','Clear','Non-compliant',394,'Very High',NULL,3,12,2,0,1,1,0,13,5,13,'5',28,4
+'CS196993','Pass','Flag','Restricted','Non-compliant',765,'Very High','Past',2,18,4,0,0,0,1,14,8,19,'0',8,24
+'CS456413','Pass','Fail','Under Review','Compliant',344,'Medium','Current',10,5,3,2,1,0,0,0,6,20,'1',30,6
+'CS964207','Fail','Fail','Clear','Non-compliant',780,'Low','Current',1,9,5,3,1,1,1,1,5,2,'2',5,20
+'CS468729','Flag','Fail','Clear','Compliant',471,'High','Past',3,11,2,1,0,0,0,6,4,16,'5',27,30
+'CS171900','Fail','Flag','Clear','Non-compliant',442,'Medium','Past',10,20,0,0,0,0,2,15,7,14,'0',23,27
+'CS832385','Fail','Flag','Restricted','Non-compliant',411,'Very High',NULL,9,2,3,1,0,0,2,13,4,16,'3',30,25
+'CS261094','Pass','Flag','Clear','Compliant',787,'Medium',NULL,1,16,0,2,1,0,1,2,3,8,'2',10,25
+'CS744127','Pass','Pass','Restricted','Compliant',494,'Medium','Current',8,18,2,0,1,1,1,13,1,9,'4',19,23
+'CS971511','Flag','Flag','Restricted','Compliant',687,'Medium',NULL,3,18,3,2,1,1,0,15,0,7,'5',29,15
+'CS405917','Fail','Pass','Under Review','Non-compliant',487,'Medium','Current',7,20,0,2,1,0,0,15,2,3,'0',16,24
+'CS271772','Pass','Pass','Restricted','Compliant',303,'High','Past',7,3,1,0,1,0,1,4,9,4,'1',21,28
+'CS252480','Fail','Flag','Under Review','Compliant',740,'High',NULL,4,9,1,0,1,0,1,10,5,19,'2',1,8
+'CS242883','Pass','Fail','Under Review','Non-compliant',506,'High',NULL,2,16,4,1,0,0,2,15,8,19,'3',6,14
+'CS552859','Flag','Fail','Restricted','Non-compliant',552,'High',NULL,7,19,4,1,1,0,2,13,4,20,'5',13,21
+'CS441239','Pass','Flag','Clear','Compliant',615,'High','Current',1,0,0,3,0,1,1,0,3,0,'0',21,30
+'CS270723','Flag','Flag','Clear','Non-compliant',747,'Low','Past',2,13,2,3,0,1,1,15,4,1,'1',6,16
+'CS117909','Flag','Pass','Under Review','Non-compliant',393,'Very High','Current',6,15,5,2,0,0,2,12,6,16,'3',26,26
+'CS644722','Flag','Fail','Restricted','Non-compliant',657,'Medium','Past',10,2,0,0,0,1,2,5,9,5,'4',15,17
+'CS614047','Fail','Flag','Under Review','Non-compliant',779,'Low','Past',5,1,4,2,1,0,1,0,0,19,'4',21,12
+'CS236521','Flag','Pass','Under Review','Non-compliant',304,'Medium','Past',8,2,5,2,1,1,1,6,2,3,'2',15,8
+'CS119313','Pass','Pass','Under Review','Compliant',846,'High','Past',5,8,0,1,0,0,2,10,7,1,'2',21,14
+'CS815606','Fail','Flag','Under Review','Non-compliant',418,'Low','Current',8,10,1,2,0,0,0,5,3,3,'5',8,16
+'CS951475','Flag','Fail','Restricted','Compliant',423,'Medium',NULL,1,15,0,2,1,1,2,1,7,2,'3',0,30
+'CS233036','Pass','Pass','Under Review','Non-compliant',575,'Medium','Past',5,5,5,2,0,1,1,15,1,3,'4',27,8
+'CS582908','Pass','Flag','Clear','Compliant',844,'Very High',NULL,6,7,2,1,0,1,2,5,5,0,'5',29,24
+'CS265970','Flag','Fail','Clear','Compliant',451,'Very High','Past',9,9,3,3,0,1,0,3,10,8,'0',11,14
+'CS392396','Fail','Fail','Under Review','Compliant',431,'High','Current',7,19,2,2,1,0,1,15,10,9,'4',3,18
+'CS304371','Flag','Fail','Under Review','Compliant',570,'Low','Current',0,7,5,1,1,0,1,13,6,16,'1',27,18
+'CS739476','Flag','Flag','Under Review','Compliant',791,'Low','Current',10,12,3,1,0,0,1,10,10,14,'1',23,29
+'CS583672','Flag','Fail','Under Review','Non-compliant',815,'High','Past',2,13,4,0,1,0,1,11,6,14,'4',8,25
+'CS898237','Fail','Pass','Clear','Non-compliant',714,'Low','Past',5,1,1,3,1,1,2,0,6,4,'0',19,7
+'CS524982','Pass','Pass','Under Review','Non-compliant',849,'Very High','Current',3,10,0,0,0,1,0,11,9,12,'3',19,10
+'CS816910','Fail','Flag','Restricted','Non-compliant',618,'Very High',NULL,6,6,2,3,1,0,0,6,2,9,'5',0,23
+'CS538827','Pass','Pass','Clear','Non-compliant',850,'High',NULL,4,3,3,1,0,0,2,1,0,3,'4',1,20
+'CS543578','Pass','Pass','Under Review','Non-compliant',353,'Very High','Current',2,16,4,2,0,0,1,1,8,4,'5',9,2
+'CS952544','Pass','Pass','Restricted','Compliant',320,'Medium','Current',10,11,1,3,1,1,1,4,0,13,'1',22,25
+'CS959339','Pass','Flag','Restricted','Compliant',724,'Very High','Current',3,12,2,2,0,1,1,12,6,15,'4',23,27
+'CS510271','Flag','Fail','Clear','Compliant',730,'Medium','Current',2,8,1,2,1,1,2,14,10,8,'4',6,24
+'CS195353','Fail','Flag','Under Review','Compliant',739,'High','Current',3,12,0,3,1,0,1,3,5,6,'1',15,13
+'CS308526','Pass','Fail','Under Review','Non-compliant',450,'Medium','Current',2,19,1,1,0,0,1,12,10,13,'0',21,10
+'CS764855','Fail','Fail','Clear','Compliant',374,'Medium',NULL,8,13,0,3,0,1,0,7,9,8,'1',26,24
+'CS238425','Pass','Flag','Restricted','Compliant',390,'Low',NULL,0,17,4,0,1,0,2,1,10,14,'4',8,22
+'CS256704','Fail','Flag','Under Review','Non-compliant',828,'High',NULL,5,6,1,1,1,0,0,3,6,15,'4',24,30
+'CS693588','Pass','Flag','Clear','Non-compliant',765,'Medium',NULL,5,4,5,0,0,0,1,2,9,6,'2',19,21
+'CS164615','Pass','Pass','Restricted','Compliant',614,'Medium','Current',1,9,0,3,1,1,2,13,6,13,'0',7,24
+'CS808769','Flag','Flag','Clear','Non-compliant',354,'High','Current',4,4,0,1,1,1,0,0,6,10,'4',3,9
+'CS520953','Flag','Pass','Restricted','Compliant',757,'High','Past',2,12,2,0,0,0,1,14,0,14,'2',15,10
+'CS275485','Pass','Pass','Restricted','Non-compliant',334,'Low','Current',9,11,3,2,1,1,1,4,7,11,'4',30,18
+'CS181772','Fail','Flag','Under Review','Compliant',577,'High',NULL,7,7,4,2,0,1,2,14,6,5,'3',25,26
+'CS108475','Flag','Flag','Restricted','Compliant',742,'Very High','Current',10,8,5,3,1,1,2,2,5,6,'5',0,25
+'CS650398','Flag','Flag','Under Review','Non-compliant',792,'High','Current',0,1,0,1,1,0,1,13,3,12,'3',5,2
+'CS390256','Pass','Fail','Under Review','Compliant',742,'Medium','Past',5,4,4,0,0,0,0,7,5,6,'4',22,24
+'CS682261','Fail','Pass','Restricted','Non-compliant',774,'High','Current',9,7,4,1,0,0,1,8,2,9,'0',8,28
+'CS640306','Pass','Flag','Under Review','Non-compliant',555,'High','Past',8,16,2,0,0,1,1,5,0,6,'0',9,8
+'CS461657','Flag','Pass','Under Review','Non-compliant',549,'Low',NULL,7,11,1,0,0,0,0,15,4,5,'0',14,26
+'CS220359','Fail','Pass','Restricted','Non-compliant',569,'Low',NULL,8,11,0,0,0,1,0,14,5,3,'5',24,25
+'CS857573','Pass','Pass','Clear','Non-compliant',328,'Very High','Past',3,12,0,0,1,1,2,10,3,4,'1',21,19
+'CS923769','Fail','Pass','Restricted','Non-compliant',369,'Medium','Past',10,17,1,3,0,1,1,10,8,10,'4',22,24
+'CS876024','Pass','Flag','Under Review','Non-compliant',300,'High',NULL,8,17,5,3,1,1,0,2,6,13,'2',4,0
+'CS382901','Pass','Fail','Restricted','Non-compliant',500,'Medium','Past',4,11,3,1,1,0,2,3,1,2,'4',22,10
+'CS874786','Pass','Pass','Restricted','Non-compliant',784,'Medium','Past',1,1,3,3,1,1,2,2,7,5,'0',20,15
+'CS773236','Fail','Fail','Restricted','Compliant',302,'Very High','Past',4,17,2,1,0,0,1,14,7,12,'1',21,24
+'CS211729','Flag','Fail','Clear','Compliant',694,'Medium','Current',5,15,5,3,0,1,1,4,4,5,'0',25,9
+'CS975766','Pass','Flag','Clear','Non-compliant',722,'Low','Current',9,3,2,1,1,1,2,0,5,8,'2',6,5
+'CS750696','Flag','Pass','Restricted','Compliant',625,'Low',NULL,0,20,3,0,1,1,1,9,5,10,'0',4,0
+'CS307397','Flag','Flag','Restricted','Non-compliant',615,'Low','Current',5,0,4,3,1,1,0,2,2,12,'3',9,3
+'CS817189','Fail','Fail','Restricted','Non-compliant',662,'Very High','Past',1,6,4,3,0,0,2,4,9,17,'5',21,21
+'CS885861','Pass','Flag','Clear','Compliant',640,'High','Past',3,15,1,2,0,1,1,10,8,12,'0',30,6
+'CS231320','Fail','Flag','Clear','Non-compliant',674,'Medium',NULL,6,14,0,1,0,1,2,13,2,5,'4',3,2
+'CS580015','Pass','Pass','Under Review','Compliant',836,'High','Past',2,2,1,2,0,1,0,5,3,4,'0',24,12
+'CS839808','Pass','Flag','Restricted','Compliant',850,'Low','Current',8,0,0,0,1,0,1,7,9,10,'3',4,6
+'CS326787','Fail','Pass','Clear','Compliant',345,'Very High','Current',7,13,3,1,1,1,2,9,3,12,'3',27,24
+'CS703402','Flag','Fail','Under Review','Non-compliant',758,'Very High','Current',0,0,1,1,0,1,0,12,6,14,'4',1,20
+'CS439988','Fail','Fail','Under Review','Non-compliant',377,'Low','Past',3,7,1,0,0,1,2,15,3,3,'4',26,22
+'CS359804','Flag','Flag','Under Review','Non-compliant',322,'Medium','Current',6,19,5,0,1,1,2,14,3,8,'4',0,9
+'CS771681','Flag','Flag','Clear','Compliant',419,'High','Current',2,7,5,2,0,1,2,15,10,16,'4',29,24
+'CS465123','Pass','Flag','Restricted','Compliant',651,'High','Current',9,8,4,1,0,1,2,13,3,6,'1',16,18
+'CS933941','Pass','Fail','Restricted','Compliant',828,'Medium',NULL,3,7,4,1,0,0,0,1,1,9,'4',30,15
+'CS849548','Fail','Fail','Restricted','Non-compliant',811,'High',NULL,8,12,4,0,1,1,2,14,8,4,'3',20,13
+'CS742515','Pass','Flag','Restricted','Non-compliant',472,'Very High',NULL,3,17,3,2,0,0,2,8,1,9,'1',21,7
+'CS759308','Flag','Pass','Restricted','Compliant',742,'High','Past',4,12,2,2,0,0,0,9,3,5,'2',22,21
+'CS933548','Flag','Pass','Clear','Compliant',817,'Medium',NULL,6,7,0,3,1,0,0,13,0,13,'3',27,4
+'CS468323','Pass','Pass','Under Review','Compliant',745,'Very High','Current',0,1,3,0,1,1,0,12,5,3,'0',20,18
+'CS897256','Pass','Fail','Under Review','Compliant',609,'Medium','Current',8,15,2,3,0,1,0,15,1,8,'1',19,19
+'CS615603','Pass','Pass','Clear','Non-compliant',743,'Medium',NULL,8,0,5,0,1,1,1,7,6,9,'5',22,23
+'CS795226','Fail','Pass','Under Review','Compliant',666,'Low',NULL,7,9,2,0,1,1,2,1,1,7,'4',23,1
+'CS104169','Fail','Fail','Clear','Non-compliant',824,'Medium',NULL,8,20,2,0,0,1,1,5,7,14,'4',0,0
+'CS341080','Fail','Flag','Clear','Compliant',495,'Medium',NULL,7,19,4,2,1,1,0,11,2,12,'3',27,19
+'CS720155','Fail','Fail','Clear','Compliant',758,'High',NULL,1,6,3,2,1,1,0,4,5,14,'2',8,24
+'CS629576','Pass','Pass','Clear','Non-compliant',782,'Very High','Past',0,0,0,0,1,1,2,6,8,11,'0',11,2
+'CS233350','Flag','Flag','Restricted','Non-compliant',347,'Medium','Current',2,6,2,2,0,0,1,3,1,14,'2',3,6
+'CS468329','Flag','Fail','Clear','Non-compliant',768,'Very High',NULL,4,15,5,0,0,0,2,5,5,20,'0',22,5
+'CS196650','Flag','Fail','Clear','Compliant',383,'Low',NULL,1,12,5,2,1,0,1,15,10,18,'0',10,14
+'CS991582','Flag','Flag','Restricted','Non-compliant',670,'Very High',NULL,7,18,1,0,0,1,2,7,0,15,'0',18,30
+'CS454415','Fail','Fail','Clear','Compliant',355,'Very High',NULL,5,14,4,3,0,1,0,15,9,15,'2',27,23
+'CS873618','Fail','Flag','Clear','Non-compliant',810,'High','Current',8,16,2,3,1,0,1,1,1,10,'0',21,22
+'CS556287','Fail','Flag','Clear','Compliant',304,'Very High','Current',3,2,4,2,0,0,1,14,10,20,'1',22,23
+'CS386593','Flag','Flag','Clear','Non-compliant',771,'Low','Current',3,16,5,2,0,0,1,5,5,11,'2',19,27
+'CS115119','Flag','Flag','Restricted','Non-compliant',477,'Very High','Past',0,9,1,2,1,0,1,3,10,9,'0',6,16
+'CS811817','Pass','Pass','Restricted','Non-compliant',691,'Very High','Current',5,10,1,3,0,1,0,14,3,1,'0',13,5
+'CS377099','Flag','Fail','Restricted','Compliant',405,'Medium','Current',2,18,4,0,0,0,2,8,7,2,'3',4,25
+'CS469162','Flag','Flag','Under Review','Compliant',424,'Low','Current',0,7,3,1,0,1,2,10,3,13,'0',27,24
+'CS255082','Flag','Flag','Restricted','Compliant',315,'Medium',NULL,3,20,1,0,0,1,2,7,0,18,'3',15,22
+'CS493965','Pass','Pass','Clear','Compliant',413,'Low','Past',5,5,3,1,0,1,0,11,1,18,'2',1,23
+'CS397206','Pass','Fail','Clear','Non-compliant',371,'High',NULL,2,10,3,2,0,1,2,9,8,7,'1',6,22
+'CS994890','Pass','Fail','Under Review','Compliant',595,'Low',NULL,4,13,1,3,1,0,0,14,7,17,'5',9,17
+'CS659897','Flag','Pass','Clear','Non-compliant',328,'Low',NULL,1,14,1,2,0,0,1,11,1,12,'1',3,18
+'CS803863','Pass','Pass','Under Review','Non-compliant',574,'Low','Current',10,14,5,3,0,0,0,3,1,17,'2',30,18
+'CS956863','Pass','Pass','Under Review','Compliant',809,'Very High','Current',8,19,4,2,1,0,0,1,2,4,'4',28,23
+'CS462239','Flag','Pass','Restricted','Compliant',726,'Very High','Past',1,5,3,1,1,1,0,10,9,14,'1',8,14
+'CS196550','Flag','Flag','Under Review','Compliant',593,'High','Current',2,10,0,0,1,1,1,10,10,9,'0',28,16
+'CS724947','Fail','Fail','Restricted','Non-compliant',791,'High',NULL,1,14,3,2,0,0,2,3,10,6,'4',24,8
+'CS295675','Fail','Pass','Under Review','Compliant',307,'Medium','Current',1,4,5,3,0,1,2,10,1,14,'5',14,18
+'CS585459','Fail','Fail','Clear','Non-compliant',410,'Medium',NULL,4,13,4,1,0,0,0,3,4,9,'1',7,5
+'CS796234','Flag','Pass','Restricted','Compliant',311,'Low','Current',6,17,1,2,0,1,2,11,5,4,'4',24,21
+'CS761539','Fail','Fail','Restricted','Compliant',801,'Low','Current',9,11,1,1,1,1,0,11,7,2,'2',4,20
+'CS348867','Pass','Flag','Clear','Non-compliant',591,'High',NULL,9,13,5,0,1,0,0,15,4,3,'0',29,3
+'CS912066','Pass','Pass','Restricted','Compliant',656,'Medium',NULL,9,1,3,3,1,1,2,8,3,14,'1',30,19
+'CS172528','Pass','Fail','Clear','Compliant',497,'Medium',NULL,1,8,2,1,0,1,0,6,3,14,'1',18,24
+'CS835429','Flag','Fail','Clear','Non-compliant',822,'Low',NULL,8,4,4,2,0,0,1,3,7,0,'0',10,16
+'CS101678','Fail','Pass','Under Review','Compliant',351,'High',NULL,1,8,2,0,1,1,2,9,9,15,'2',10,20
+'CS726755','Flag','Fail','Restricted','Compliant',717,'High',NULL,2,7,1,1,0,0,0,4,10,2,'0',16,28
+'CS363544','Flag','Flag','Clear','Non-compliant',318,'Low',NULL,3,18,5,3,1,1,2,11,7,18,'1',11,26
+'CS311294','Fail','Pass','Restricted','Compliant',737,'Very High','Past',9,18,1,1,0,1,1,10,10,4,'0',19,9
+'CS832535','Fail','Flag','Clear','Non-compliant',798,'Medium',NULL,5,17,5,0,1,1,2,4,9,2,'3',18,12
+'CS368720','Flag','Fail','Restricted','Compliant',509,'Very High','Current',5,0,5,2,0,0,1,1,1,6,'2',11,24
+'CS215184','Fail','Pass','Restricted','Compliant',718,'Low','Current',1,18,1,3,0,0,2,10,5,4,'3',27,22
+'CS201689','Pass','Fail','Restricted','Non-compliant',377,'Very High','Past',0,15,1,0,1,1,2,15,5,9,'0',28,28
+'CS916728','Flag','Pass','Clear','Compliant',799,'Medium','Current',6,13,0,3,0,0,0,2,10,16,'5',15,25
+'CS372800','Pass','Fail','Restricted','Compliant',587,'Very High',NULL,5,6,1,2,1,1,2,4,4,1,'0',21,20
+'CS147604','Fail','Flag','Clear','Non-compliant',555,'Medium','Current',7,7,3,3,0,0,1,7,8,0,'1',26,13
+'CS141623','Pass','Fail','Clear','Non-compliant',542,'Low','Past',9,16,0,1,0,1,0,2,8,9,'3',25,3
+'CS788483','Fail','Fail','Under Review','Compliant',547,'Low',NULL,3,11,2,0,1,1,0,3,4,11,'0',11,16
+'CS867451','Fail','Fail','Under Review','Non-compliant',648,'High','Current',5,16,2,1,1,0,1,12,4,10,'2',7,14
+'CS411845','Pass','Flag','Restricted','Compliant',642,'Very High','Past',9,13,0,2,0,1,2,4,3,12,'2',22,10
+'CS840710','Pass','Fail','Clear','Compliant',600,'Medium','Past',3,17,5,3,1,0,1,8,9,7,'2',18,22
+'CS239090','Pass','Fail','Restricted','Compliant',655,'Very High',NULL,7,11,5,1,0,1,1,12,2,9,'2',11,4
+'CS528467','Fail','Flag','Under Review','Compliant',734,'Medium',NULL,3,18,1,2,1,1,1,3,8,2,'5',25,5
+'CS557950','Flag','Fail','Restricted','Compliant',770,'Medium',NULL,2,17,3,2,1,0,1,11,10,12,'3',2,19
+'CS339150','Fail','Fail','Under Review','Compliant',785,'Low',NULL,0,19,4,1,0,1,0,10,0,2,'2',9,11
+'CS127497','Pass','Flag','Under Review','Compliant',832,'Low','Past',9,2,1,1,1,0,1,11,3,5,'3',13,26
+'CS469657','Fail','Pass','Clear','Compliant',566,'Medium','Past',5,7,1,0,0,0,1,15,10,11,'3',12,10
+'CS898865','Pass','Pass','Clear','Compliant',657,'Very High','Current',6,13,4,1,0,0,1,11,2,11,'4',17,24
+'CS489852','Fail','Flag','Under Review','Non-compliant',770,'Medium',NULL,1,13,5,0,1,1,2,7,0,3,'5',5,5
+'CS639973','Pass','Pass','Restricted','Non-compliant',751,'High','Current',6,8,3,1,1,0,1,14,1,15,'3',25,10
+'CS768909','Fail','Fail','Under Review','Non-compliant',483,'Low',NULL,3,15,4,2,0,0,1,13,7,11,'3',21,29
+'CS733577','Pass','Fail','Under Review','Compliant',613,'High',NULL,10,13,0,0,1,0,2,13,2,3,'2',16,9
+'CS516594','Fail','Flag','Restricted','Compliant',401,'Medium','Current',5,9,4,2,0,0,0,0,5,15,'3',0,21
+'CS598285','Pass','Fail','Clear','Compliant',636,'Very High','Past',10,8,5,2,1,0,0,1,4,16,'4',20,24
+'CS782925','Flag','Pass','Restricted','Compliant',609,'Medium','Current',8,10,4,3,1,0,2,2,10,3,'1',0,30
+'CS135936','Fail','Flag','Clear','Compliant',756,'Very High',NULL,4,18,0,2,1,0,0,6,2,9,'2',5,15
+'CS486306','Fail','Flag','Clear','Non-compliant',684,'Medium','Past',7,2,5,3,1,0,0,12,0,2,'2',24,6
+'CS588155','Pass','Flag','Restricted','Compliant',738,'High','Past',10,1,1,1,1,0,0,13,5,6,'3',7,8
+'CS266625','Pass','Flag','Under Review','Non-compliant',607,'Medium','Current',0,17,2,1,0,0,0,14,3,4,'0',22,15
+'CS760966','Fail','Pass','Clear','Non-compliant',541,'High','Current',2,7,3,1,1,0,2,4,9,18,'5',17,3
+'CS766990','Fail','Pass','Under Review','Non-compliant',775,'Very High','Current',10,5,2,1,1,0,0,7,2,15,'5',15,23
+'CS929111','Flag','Pass','Restricted','Compliant',645,'Low','Past',5,3,4,3,1,1,1,12,7,12,'3',29,25
+'CS514871','Flag','Fail','Restricted','Compliant',456,'Medium','Current',6,1,5,0,1,0,1,1,6,0,'0',1,11
+'CS303367','Pass','Flag','Clear','Compliant',337,'High','Current',0,1,3,3,0,1,1,5,5,9,'4',16,9
+'CS891937','Fail','Fail','Restricted','Compliant',488,'High',NULL,5,16,3,0,0,0,2,13,2,8,'2',12,27
+'CS594080','Fail','Pass','Under Review','Compliant',424,'Medium','Current',0,5,3,0,1,1,1,13,7,7,'0',14,26
+'CS447583','Pass','Flag','Clear','Non-compliant',613,'High','Past',6,2,2,2,1,1,2,12,0,6,'2',14,3
+'CS584370','Pass','Fail','Restricted','Non-compliant',818,'Very High',NULL,3,17,5,1,0,1,1,2,9,3,'1',7,16
+'CS762804','Pass','Pass','Clear','Compliant',648,'Very High','Past',3,3,5,1,0,1,1,13,9,6,'2',30,13
+'CS626118','Flag','Flag','Restricted','Non-compliant',516,'Very High','Past',10,17,5,1,0,1,0,1,7,3,'5',4,13
+'CS879069','Pass','Pass','Restricted','Compliant',465,'Medium',NULL,1,14,2,0,0,1,0,0,8,2,'5',24,22
+'CS191875','Fail','Flag','Clear','Compliant',444,'Low','Current',7,18,4,0,1,0,1,14,9,15,'0',4,22
+'CS753574','Pass','Flag','Clear','Compliant',514,'Very High',NULL,0,20,3,2,1,1,2,4,1,6,'2',8,10
+'CS562117','Pass','Fail','Under Review','Compliant',317,'Very High',NULL,1,10,4,0,1,0,2,12,0,9,'1',12,29
+'CS190658','Pass','Pass','Under Review','Compliant',316,'Very High',NULL,5,6,3,2,0,1,2,8,4,2,'5',16,9
+'CS871963','Flag','Fail','Under Review','Compliant',350,'Medium','Past',8,2,4,1,0,0,0,3,4,11,'5',26,27
+'CS198325','Fail','Pass','Under Review','Non-compliant',536,'Very High','Past',1,11,1,3,1,0,2,5,0,16,'0',26,20
+'CS888307','Flag','Pass','Under Review','Compliant',360,'High','Past',4,11,2,1,1,0,0,4,0,16,'0',17,3
+'CS601182','Fail','Pass','Restricted','Compliant',743,'Very High','Current',10,10,5,1,1,1,1,3,3,5,'0',6,17
+'CS260047','Pass','Fail','Restricted','Compliant',616,'Low',NULL,3,6,4,2,0,1,2,4,6,1,'5',16,27
+'CS829938','Flag','Fail','Clear','Compliant',450,'High',NULL,8,7,5,3,1,1,1,8,1,17,'2',6,6
+'CS970062','Fail','Pass','Restricted','Non-compliant',586,'Low','Current',3,14,5,0,1,0,2,11,5,14,'3',30,24
+'CS831677','Flag','Fail','Under Review','Compliant',399,'High','Past',8,6,0,0,0,1,1,6,10,0,'0',28,18
+'CS315046','Fail','Flag','Restricted','Non-compliant',635,'High','Current',4,8,5,2,1,1,2,5,5,17,'2',2,9
+'CS391188','Pass','Flag','Clear','Compliant',544,'Medium','Past',4,1,4,1,1,1,2,15,1,13,'4',3,24
+'CS404795','Flag','Flag','Under Review','Compliant',556,'Low','Current',8,6,1,1,0,1,1,10,9,7,'4',23,13
+'CS493077','Pass','Flag','Under Review','Compliant',809,'Low','Past',7,13,4,1,1,1,2,14,8,2,'2',24,5
+'CS491494','Fail','Flag','Clear','Non-compliant',637,'High',NULL,1,3,2,0,0,0,2,5,1,19,'4',13,5
+'CS255224','Pass','Fail','Clear','Non-compliant',437,'Low','Current',5,4,4,3,0,1,0,11,3,6,'3',19,20
+'CS234231','Fail','Flag','Restricted','Non-compliant',345,'Very High','Past',1,17,0,2,0,1,1,9,8,8,'0',12,9
+'CS572973','Pass','Flag','Under Review','Non-compliant',721,'Medium','Past',1,14,3,0,1,1,1,15,10,7,'4',24,21
+'CS409973','Fail','Pass','Restricted','Non-compliant',512,'High','Current',2,4,4,1,1,0,0,12,6,0,'4',20,23
+'CS492643','Fail','Pass','Restricted','Compliant',533,'Very High',NULL,4,6,4,1,1,1,1,2,1,1,'2',6,21
+'CS637327','Pass','Fail','Restricted','Compliant',304,'Medium',NULL,5,11,5,2,1,1,0,1,7,17,'5',5,7
+'CS621727','Fail','Fail','Clear','Non-compliant',337,'High','Current',2,15,2,2,1,0,1,13,8,9,'1',20,30
+'CS670231','Pass','Flag','Restricted','Compliant',361,'Medium','Current',8,0,2,1,0,0,2,13,1,5,'3',21,3
+'CS411516','Flag','Flag','Under Review','Non-compliant',727,'Medium','Past',8,10,1,3,0,1,0,8,3,2,'3',24,28
+'CS952333','Flag','Fail','Restricted','Compliant',816,'Low','Past',7,16,2,1,0,1,1,4,5,5,'4',21,21
+'CS201627','Flag','Flag','Restricted','Non-compliant',805,'Medium','Current',0,6,3,3,1,1,1,3,1,11,'5',18,1
+'CS758942','Flag','Pass','Clear','Compliant',333,'Low','Current',2,16,5,3,1,1,2,4,5,2,'5',23,14
+'CS417455','Flag','Fail','Restricted','Non-compliant',696,'Very High','Past',5,4,0,1,0,1,1,0,8,10,'0',25,20
+'CS433016','Fail','Pass','Clear','Non-compliant',546,'Low','Past',2,4,5,2,0,0,2,14,9,2,'5',26,10
+'CS288925','Pass','Flag','Restricted','Compliant',643,'High','Past',4,4,2,0,1,0,1,12,8,17,'0',28,13
+'CS138232','Flag','Flag','Restricted','Compliant',490,'Medium',NULL,1,17,2,1,1,1,0,1,8,19,'4',25,17
+'CS677563','Flag','Flag','Restricted','Non-compliant',833,'Low',NULL,5,2,0,2,0,1,1,13,3,16,'3',12,14
+'CS573140','Flag','Fail','Under Review','Compliant',416,'Medium','Past',0,4,4,2,1,1,2,15,9,2,'0',29,28
+'CS987368','Fail','Flag','Under Review','Non-compliant',778,'Low',NULL,8,3,3,1,0,1,2,1,1,5,'3',25,6
+'CS668393','Pass','Pass','Clear','Compliant',836,'Low',NULL,1,16,5,0,1,0,0,15,3,0,'5',19,12
+'CS957512','Pass','Pass','Clear','Non-compliant',565,'Medium',NULL,7,4,3,2,0,0,1,10,1,18,'1',23,24
+'CS268518','Flag','Flag','Under Review','Non-compliant',670,'Low','Past',7,11,3,0,1,1,0,0,5,20,'2',4,13
+'CS615705','Fail','Fail','Restricted','Non-compliant',469,'Medium',NULL,8,8,1,2,1,0,1,8,7,15,'0',13,18
+'CS790877','Flag','Flag','Restricted','Non-compliant',787,'Very High','Current',0,9,1,1,0,1,2,7,9,3,'5',8,8
+'CS592081','Fail','Flag','Restricted','Compliant',376,'Low','Past',7,5,2,2,0,1,2,7,5,14,'3',14,24
+'CS590036','Fail','Pass','Under Review','Non-compliant',631,'Very High','Current',1,3,0,0,0,1,2,9,9,3,'0',24,8
+'CS280745','Flag','Fail','Under Review','Non-compliant',632,'Low',NULL,1,3,4,2,0,0,1,14,1,12,'4',6,28
+'CS556272','Pass','Flag','Clear','Compliant',313,'Medium',NULL,10,9,3,2,1,0,1,11,4,10,'5',1,3
+'CS703533','Flag','Flag','Restricted','Non-compliant',381,'Very High',NULL,7,12,4,1,0,0,0,7,9,7,'2',9,21
+'CS488323','Fail','Flag','Restricted','Non-compliant',690,'Low','Current',7,17,3,3,1,0,2,13,6,17,'1',3,13
+'CS876306','Pass','Flag','Restricted','Compliant',394,'Very High','Past',0,4,4,3,0,0,0,3,1,2,'1',9,9
+'CS332305','Flag','Flag','Restricted','Compliant',558,'Low','Current',3,0,1,2,0,1,1,8,6,2,'4',11,16
+'CS694472','Pass','Flag','Clear','Compliant',419,'Very High',NULL,2,7,3,2,1,0,0,0,6,9,'4',18,16
+'CS995959','Flag','Pass','Under Review','Compliant',723,'Medium','Past',9,8,3,2,0,0,2,6,10,15,'5',6,30
+'CS247361','Pass','Flag','Clear','Compliant',468,'Very High','Current',4,20,2,2,1,0,0,0,8,13,'5',21,19
+'CS211086','Pass','Pass','Under Review','Compliant',842,'Medium','Past',1,7,2,0,0,0,2,15,5,7,'5',0,10
+'CS834384','Fail','Flag','Restricted','Compliant',546,'Medium','Past',8,7,5,3,0,1,2,7,1,5,'3',19,0
+'CS374008','Flag','Fail','Restricted','Non-compliant',743,'Very High','Current',9,8,2,0,0,0,1,10,9,0,'1',27,29
+'CS936540','Flag','Fail','Under Review','Compliant',369,'Very High','Past',9,16,0,3,1,0,0,10,5,11,'1',30,5
+'CS933566','Flag','Pass','Restricted','Compliant',372,'Medium',NULL,1,2,5,3,1,1,1,12,5,20,'1',26,6
+'CS307964','Pass','Pass','Under Review','Compliant',690,'High','Past',4,1,1,0,1,1,1,0,1,0,'5',2,26
+'CS377079','Fail','Fail','Under Review','Compliant',612,'Low',NULL,1,6,0,1,1,1,0,14,3,20,'2',18,27
+'CS383540','Flag','Pass','Restricted','Compliant',643,'Low','Current',4,12,4,2,1,0,0,1,4,13,'0',24,0
+'CS794230','Pass','Flag','Clear','Non-compliant',675,'Low',NULL,10,12,4,2,1,0,2,12,0,9,'4',9,22
+'CS885749','Flag','Pass','Under Review','Compliant',844,'High','Past',6,9,4,3,1,1,1,10,3,3,'3',21,16
+'CS869787','Fail','Pass','Clear','Non-compliant',634,'Low',NULL,5,8,1,0,1,1,1,11,7,12,'2',16,22
+'CS892194','Fail','Pass','Under Review','Non-compliant',674,'Low',NULL,8,19,2,3,0,1,2,13,5,0,'0',24,4
+'CS170086','Pass','Flag','Clear','Non-compliant',492,'Low','Current',4,10,4,3,0,1,2,7,3,10,'0',30,14
+'CS143502','Flag','Fail','Clear','Non-compliant',847,'Very High','Past',8,8,4,1,0,1,0,8,9,7,'3',5,21
+'CS530471','Flag','Flag','Under Review','Compliant',689,'Medium','Past',3,17,0,1,0,1,2,9,2,11,'2',29,21
+'CS446881','Flag','Fail','Restricted','Compliant',379,'Medium','Current',10,1,0,2,0,0,1,10,5,3,'1',29,10
+'CS621176','Flag','Flag','Under Review','Compliant',779,'High','Past',1,18,0,0,1,0,0,10,2,13,'2',24,25
+'CS939885','Fail','Fail','Under Review','Non-compliant',743,'Medium','Past',10,8,2,1,0,1,2,11,1,4,'3',11,11
+'CS535955','Flag','Pass','Under Review','Compliant',693,'High','Current',8,6,0,2,1,1,0,3,3,7,'3',1,12
+'CS570438','Fail','Flag','Clear','Non-compliant',628,'High',NULL,7,14,1,3,0,1,0,0,4,18,'4',16,9
+'CS532232','Fail','Flag','Restricted','Non-compliant',669,'Medium','Past',10,7,4,1,0,0,1,12,1,12,'1',13,14
+'CS578962','Flag','Fail','Clear','Non-compliant',402,'Low',NULL,4,19,5,0,0,0,2,5,9,10,'0',20,9
+'CS531642','Pass','Pass','Clear','Non-compliant',728,'Very High',NULL,9,0,0,2,1,0,2,10,10,10,'4',25,8
+'CS544434','Pass','Fail','Clear','Compliant',312,'Very High','Past',5,16,2,1,0,0,2,2,0,18,'0',23,0
+'CS379048','Flag','Flag','Under Review','Non-compliant',469,'Very High',NULL,3,3,3,0,0,1,1,10,3,17,'4',15,23
+'CS715035','Fail','Fail','Clear','Compliant',612,'Very High','Current',4,3,0,2,1,0,2,3,2,0,'4',4,7
+'CS415109','Fail','Fail','Restricted','Non-compliant',509,'Low',NULL,0,5,2,0,0,1,0,6,4,0,'4',1,15
+'CS838555','Fail','Fail','Under Review','Non-compliant',794,'Very High','Past',4,5,2,2,0,1,0,1,2,9,'4',13,15
+'CS354069','Pass','Flag','Restricted','Non-compliant',396,'Low',NULL,3,11,5,1,0,0,0,4,1,8,'2',20,3
+'CS853261','Pass','Pass','Under Review','Non-compliant',560,'Low',NULL,2,6,2,0,1,1,0,7,5,11,'3',25,4
+'CS373012','Pass','Flag','Under Review','Non-compliant',325,'Low',NULL,6,15,5,3,0,1,1,13,3,20,'0',24,25
+'CS991335','Fail','Fail','Under Review','Non-compliant',838,'Medium','Past',7,2,3,1,0,1,2,1,0,19,'1',25,11
+'CS548052','Flag','Fail','Clear','Compliant',845,'Very High','Current',0,19,1,0,1,1,1,12,10,10,'3',21,13
+'CS819071','Flag','Fail','Restricted','Non-compliant',534,'Medium','Current',9,17,5,2,0,1,1,15,3,11,'5',26,14
+'CS145015','Pass','Pass','Clear','Compliant',721,'Very High','Past',2,0,3,2,0,1,2,3,9,8,'3',27,2
+'CS624607','Flag','Flag','Restricted','Non-compliant',844,'Low','Past',5,15,1,2,0,0,1,4,5,16,'0',17,7
+'CS428286','Flag','Fail','Restricted','Non-compliant',808,'High','Past',1,15,3,3,0,0,1,10,2,1,'1',9,18
+'CS189697','Flag','Fail','Restricted','Compliant',607,'Low',NULL,5,19,5,1,0,0,0,14,7,20,'3',17,30
+'CS240880','Fail','Pass','Restricted','Compliant',344,'Medium','Past',2,9,2,1,1,1,2,3,7,4,'0',21,6
+'CS373393','Pass','Pass','Clear','Non-compliant',473,'Low',NULL,3,14,2,3,0,0,0,5,9,0,'4',21,13
+'CS806629','Flag','Flag','Restricted','Non-compliant',578,'Medium',NULL,3,10,2,1,0,0,1,13,0,11,'1',7,20
+'CS343223','Pass','Pass','Clear','Non-compliant',349,'Low','Current',10,16,3,2,1,1,2,8,10,3,'0',8,22
+'CS460145','Pass','Flag','Restricted','Non-compliant',509,'Medium','Current',9,20,2,0,1,1,1,1,4,0,'3',8,26
+'CS727563','Pass','Flag','Restricted','Compliant',780,'Low','Past',1,17,1,3,0,0,1,13,3,18,'5',24,19
+'CS141088','Fail','Pass','Under Review','Non-compliant',388,'Medium','Past',2,8,1,1,1,1,2,6,3,12,'2',3,4
+'CS892133','Fail','Flag','Under Review','Compliant',335,'Low','Past',1,11,2,1,0,0,0,1,7,7,'4',7,12
+'CS387843','Fail','Flag','Restricted','Non-compliant',303,'High',NULL,10,2,0,0,1,1,0,7,5,18,'5',23,3
+'CS914075','Fail','Pass','Clear','Compliant',605,'Very High',NULL,0,7,2,2,0,0,1,15,8,7,'1',21,25
+'CS497192','Flag','Fail','Clear','Compliant',674,'Very High','Past',4,8,5,3,1,0,2,6,1,3,'1',0,15
+'CS134108','Flag','Fail','Restricted','Compliant',755,'Low','Past',10,2,1,1,0,0,2,7,6,13,'0',9,3
+'CS605123','Flag','Pass','Under Review','Compliant',761,'Low',NULL,10,10,5,0,1,0,2,11,5,14,'2',9,1
+'CS335014','Pass','Pass','Clear','Non-compliant',672,'High','Current',3,18,3,3,0,1,2,4,8,11,'3',14,23
+'CS575114','Fail','Flag','Under Review','Non-compliant',608,'Very High','Current',1,1,3,3,0,0,0,1,2,1,'4',12,27
+'CS106874','Fail','Fail','Under Review','Non-compliant',457,'Very High',NULL,10,8,1,3,0,0,0,5,8,1,'3',14,11
+'CS388699','Flag','Fail','Restricted','Compliant',362,'Very High','Past',9,14,3,0,0,1,2,10,7,9,'4',26,26
+'CS643389','Fail','Fail','Clear','Compliant',655,'Low',NULL,5,15,1,2,1,1,2,7,4,2,'4',6,22
+'CS776106','Pass','Flag','Under Review','Compliant',815,'High',NULL,8,2,5,2,1,0,1,0,10,13,'5',14,7
+'CS475650','Fail','Flag','Restricted','Non-compliant',530,'Very High',NULL,5,14,3,3,0,1,1,8,2,10,'1',5,28
+'CS467965','Flag','Fail','Clear','Non-compliant',600,'Medium','Current',8,17,5,2,0,0,0,6,0,20,'5',7,25
+'CS745394','Fail','Flag','Restricted','Compliant',617,'Medium',NULL,3,20,1,0,0,0,0,14,1,17,'5',20,10
+'CS201038','Flag','Pass','Restricted','Compliant',742,'Low','Past',5,18,0,0,1,1,0,11,9,10,'3',24,25
+'CS296367','Flag','Flag','Under Review','Non-compliant',836,'High','Past',1,15,0,2,1,1,1,12,4,15,'5',27,14
+'CS991281','Pass','Flag','Restricted','Non-compliant',793,'Low','Current',5,2,4,2,0,1,2,1,8,20,'1',24,4
+'CS369056','Fail','Fail','Restricted','Non-compliant',422,'Medium','Current',8,8,1,2,1,0,2,13,1,4,'2',18,8
+'CS766477','Pass','Pass','Restricted','Non-compliant',400,'Low','Current',4,15,4,2,0,1,1,13,0,9,'0',10,6
+'CS812612','Fail','Fail','Restricted','Compliant',410,'High',NULL,10,20,1,0,0,0,1,6,6,1,'1',27,11
+'CS868899','Fail','Pass','Under Review','Compliant',832,'Very High','Current',5,7,5,3,0,0,0,4,10,19,'0',28,12
+'CS841317','Fail','Fail','Under Review','Compliant',437,'Very High','Past',9,7,4,3,1,1,2,15,4,2,'3',30,19
+'CS297756','Pass','Fail','Clear','Non-compliant',654,'Low','Past',7,17,5,2,1,0,0,1,9,5,'1',16,3
+'CS503280','Fail','Flag','Restricted','Compliant',842,'Medium','Current',5,16,5,3,1,0,1,7,6,16,'5',3,25
+'CS927606','Pass','Pass','Restricted','Compliant',574,'Medium','Current',9,18,1,1,1,1,1,8,8,15,'2',0,4
+'CS727745','Fail','Flag','Clear','Non-compliant',376,'High','Past',8,9,5,0,1,0,2,13,8,0,'4',3,16
+'CS829715','Flag','Flag','Under Review','Compliant',576,'Very High','Past',5,8,0,0,1,0,0,0,7,13,'0',21,22
+'CS762823','Fail','Pass','Under Review','Non-compliant',692,'Medium',NULL,4,10,4,3,1,0,1,8,3,6,'0',26,4
+'CS128627','Flag','Flag','Clear','Compliant',393,'Very High','Current',0,17,5,1,1,0,0,0,2,3,'5',27,2
+'CS138931','Fail','Flag','Clear','Non-compliant',748,'Medium',NULL,8,1,4,0,0,1,1,3,4,8,'5',21,16
+'CS259126','Flag','Fail','Under Review','Compliant',607,'Very High',NULL,5,12,2,0,0,1,2,5,9,13,'2',20,9
+'CS339484','Fail','Flag','Restricted','Compliant',721,'Low','Current',3,15,1,2,1,0,2,4,6,18,'0',21,3
+'CS400616','Flag','Flag','Restricted','Compliant',657,'Very High','Current',2,4,4,0,0,1,2,4,6,3,'1',29,1
+'CS972305','Flag','Flag','Clear','Compliant',698,'Very High',NULL,4,13,5,1,0,0,2,3,6,5,'4',9,3
+'CS539312','Pass','Fail','Under Review','Non-compliant',430,'High',NULL,7,14,1,1,1,1,0,4,7,17,'2',29,0
+'CS231783','Flag','Flag','Clear','Compliant',850,'High',NULL,2,0,4,2,1,1,2,1,5,13,'2',13,29
+'CS282904','Pass','Pass','Restricted','Compliant',571,'Low',NULL,5,17,4,1,1,1,0,11,6,2,'3',18,18
+'CS800775','Flag','Flag','Restricted','Non-compliant',783,'Low','Past',2,1,3,2,1,0,1,6,2,14,'5',21,0
+'CS864381','Flag','Pass','Restricted','Compliant',463,'Low',NULL,7,11,0,2,0,1,0,10,7,4,'3',19,27
+'CS904113','Pass','Pass','Clear','Compliant',806,'High',NULL,0,15,5,0,0,1,1,4,1,15,'2',22,6
+'CS115562','Fail','Flag','Restricted','Compliant',602,'Low','Current',5,15,5,2,1,0,2,8,2,14,'4',19,22
+'CS448987','Flag','Pass','Restricted','Non-compliant',840,'Low','Past',5,10,3,3,0,1,1,3,1,19,'2',26,25
+'CS456305','Fail','Fail','Clear','Compliant',817,'Very High',NULL,5,19,1,1,1,1,0,15,0,8,'1',14,4
+'CS915697','Fail','Fail','Under Review','Non-compliant',536,'High','Past',3,4,4,1,1,0,1,2,4,18,'0',8,26
+'CS920795','Fail','Pass','Clear','Compliant',314,'Low','Current',8,5,2,3,1,0,1,2,9,2,'1',10,7
+'CS553866','Flag','Flag','Under Review','Non-compliant',415,'Low','Past',6,14,4,0,0,1,1,0,9,2,'0',25,4
+'CS396861','Flag','Flag','Restricted','Compliant',647,'High','Current',2,2,1,2,0,1,0,15,3,20,'0',9,17
+'CS284351','Pass','Flag','Restricted','Non-compliant',626,'Low','Current',8,3,1,2,1,0,1,9,1,8,'4',19,25
+'CS219890','Flag','Pass','Under Review','Compliant',633,'Very High','Past',1,19,0,1,0,0,1,11,10,1,'2',7,7
+'CS673389','Pass','Fail','Under Review','Non-compliant',787,'Low','Current',3,4,0,0,1,0,0,13,8,7,'2',16,25
+'CS762356','Fail','Fail','Under Review','Non-compliant',515,'Low','Past',4,18,1,1,1,1,2,0,8,13,'1',4,23
+'CS271327','Flag','Flag','Clear','Non-compliant',432,'Medium','Current',2,15,0,1,1,0,0,15,7,5,'4',29,10
+'CS778045','Fail','Pass','Under Review','Compliant',385,'Low','Past',7,5,1,1,1,0,2,7,1,1,'3',8,1
+'CS607667','Pass','Fail','Clear','Compliant',302,'High','Current',2,3,2,0,1,1,1,3,2,14,'5',13,6
+'CS809705','Pass','Pass','Under Review','Non-compliant',587,'Very High','Past',4,8,5,0,1,1,0,6,2,13,'1',27,30
+'CS383378','Fail','Fail','Restricted','Compliant',356,'Low',NULL,2,3,0,3,1,0,2,14,10,15,'5',8,17
+'CS868819','Pass','Flag','Restricted','Non-compliant',383,'Very High','Current',2,17,5,1,0,1,1,7,6,3,'5',18,21
+'CS501008','Flag','Pass','Under Review','Compliant',655,'Low','Past',0,15,4,2,0,0,1,7,3,20,'3',15,9
+'CS752644','Pass','Pass','Restricted','Non-compliant',784,'Low',NULL,7,8,4,3,1,0,1,14,2,15,'5',0,30
+'CS755750','Pass','Fail','Clear','Non-compliant',502,'High','Past',5,10,3,3,1,0,1,3,1,18,'1',26,11
+'CS271086','Flag','Fail','Under Review','Compliant',680,'Very High',NULL,9,5,4,2,1,1,1,11,10,12,'5',15,7
+'CS307110','Flag','Pass','Clear','Non-compliant',515,'Medium','Current',2,14,3,2,0,0,2,4,8,2,'5',8,5
+'CS369281','Pass','Fail','Under Review','Non-compliant',617,'Very High','Current',10,7,2,1,1,0,1,4,10,3,'5',25,5
+'CS829635','Pass','Flag','Restricted','Compliant',452,'Low',NULL,9,10,2,3,1,0,2,3,4,8,'4',2,0
+'CS770265','Pass','Fail','Under Review','Non-compliant',650,'High','Current',2,16,4,3,1,1,1,6,5,15,'3',1,26
+'CS864319','Fail','Fail','Under Review','Non-compliant',416,'High',NULL,8,17,1,2,0,0,2,4,5,9,'4',10,20
+'CS401510','Flag','Flag','Restricted','Compliant',643,'Low','Current',8,1,1,3,1,1,0,4,9,20,'5',20,10
+'CS100625','Pass','Fail','Restricted','Non-compliant',795,'Medium',NULL,1,8,2,1,0,1,1,14,9,14,'3',9,6
+'CS345957','Flag','Fail','Under Review','Non-compliant',464,'Low','Past',2,9,1,0,1,0,1,4,4,12,'1',14,1
+'CS585222','Pass','Fail','Clear','Compliant',681,'Medium','Current',1,10,3,1,1,1,2,8,1,5,'5',13,18
+'CS190331','Fail','Pass','Clear','Non-compliant',320,'Medium',NULL,9,18,2,1,0,1,1,1,3,5,'1',15,17
+'CS422479','Pass','Fail','Clear','Non-compliant',301,'Low',NULL,5,0,5,1,1,1,2,2,9,7,'1',10,19
+'CS369701','Pass','Fail','Under Review','Compliant',692,'Very High','Current',4,9,2,1,0,0,2,13,4,1,'5',16,26
+'CS370079','Fail','Pass','Clear','Non-compliant',750,'Very High','Current',8,7,2,2,0,0,0,8,8,14,'3',22,0
+'CS244368','Flag','Pass','Clear','Non-compliant',378,'Very High','Past',1,19,2,0,1,1,2,5,4,10,'1',30,0
+'CS565390','Fail','Pass','Clear','Compliant',845,'High','Past',10,3,2,1,1,1,0,10,6,18,'3',5,6
+'CS171476','Fail','Flag','Under Review','Compliant',356,'Very High','Past',0,13,5,2,0,1,1,9,4,5,'4',14,5
+'CS999369','Fail','Flag','Under Review','Non-compliant',763,'Medium',NULL,3,2,4,3,1,1,1,14,8,20,'1',1,11
+'CS839791','Flag','Flag','Restricted','Non-compliant',484,'High','Current',8,5,4,2,1,0,0,4,6,0,'4',18,19
+'CS590167','Flag','Pass','Clear','Compliant',502,'Low',NULL,9,1,2,3,1,0,2,8,1,3,'3',12,23
+'CS347262','Fail','Pass','Restricted','Non-compliant',797,'High','Current',10,14,1,1,1,0,0,6,8,5,'4',26,21
+'CS514113','Fail','Flag','Restricted','Non-compliant',752,'Low','Current',9,18,1,2,0,1,2,8,3,9,'1',5,17
+'CS582199','Fail','Flag','Clear','Compliant',714,'High',NULL,9,2,3,1,1,1,2,11,5,10,'4',24,0
+'CS800483','Flag','Flag','Clear','Compliant',646,'Very High',NULL,8,16,2,1,0,1,2,14,5,20,'3',17,3
+'CS976414','Fail','Flag','Restricted','Non-compliant',830,'High','Current',0,15,4,3,0,1,1,11,7,1,'1',13,24
+'CS759530','Flag','Fail','Clear','Non-compliant',310,'Very High','Current',2,6,5,2,1,0,0,0,7,1,'0',3,29
+'CS127224','Fail','Flag','Restricted','Compliant',600,'Very High',NULL,2,11,0,2,1,0,0,5,5,9,'0',7,6
+'CS203072','Fail','Fail','Restricted','Compliant',511,'Medium','Past',2,19,4,1,1,0,2,15,6,9,'1',2,13
+'CS149186','Flag','Flag','Restricted','Non-compliant',709,'Very High',NULL,2,6,5,2,1,0,0,2,0,13,'2',20,10
+'CS922097','Fail','Pass','Under Review','Compliant',404,'Medium',NULL,1,3,0,2,0,1,2,11,2,6,'2',16,1
+'CS394110','Flag','Pass','Under Review','Non-compliant',771,'Medium','Past',10,9,3,2,1,1,0,14,1,3,'2',25,26
+'CS163076','Flag','Fail','Clear','Compliant',641,'Low','Past',3,12,3,2,0,0,0,8,0,12,'3',10,22
+'CS560109','Flag','Pass','Restricted','Compliant',742,'Very High','Past',4,8,0,0,0,0,2,10,1,10,'4',2,1
+'CS686063','Fail','Pass','Clear','Non-compliant',387,'Very High',NULL,2,0,2,2,1,1,2,14,0,7,'4',2,12
+'CS380239','Pass','Flag','Clear','Non-compliant',570,'Medium','Past',2,1,0,1,1,1,1,12,10,4,'1',8,25
+'CS971966','Flag','Flag','Restricted','Non-compliant',840,'Low','Current',7,9,0,0,1,1,1,9,0,6,'0',3,11
+'CS880170','Pass','Fail','Restricted','Compliant',500,'Medium',NULL,10,2,2,3,0,0,0,0,7,7,'5',0,19
+'CS563886','Flag','Flag','Restricted','Non-compliant',672,'Medium','Past',10,1,2,3,1,0,0,3,0,7,'1',6,0
+'CS371120','Pass','Flag','Clear','Compliant',716,'Medium','Past',5,16,3,3,0,1,1,2,4,20,'1',8,21
+'CS228336','Fail','Pass','Under Review','Non-compliant',581,'Low','Past',6,20,0,0,0,0,2,1,10,20,'1',28,0
+'CS949744','Fail','Flag','Clear','Compliant',777,'Low',NULL,3,17,5,1,0,0,0,11,1,16,'2',7,23
+'CS897158','Flag','Pass','Restricted','Compliant',457,'High',NULL,1,2,1,2,0,1,1,6,3,10,'3',1,12
+'CS715922','Flag','Flag','Under Review','Non-compliant',761,'Medium','Current',6,2,0,2,1,1,1,1,5,2,'3',7,22
+'CS197925','Fail','Pass','Under Review','Non-compliant',699,'Medium','Past',9,6,0,0,0,1,0,7,7,13,'0',17,15
+'CS449847','Flag','Flag','Restricted','Compliant',430,'Very High',NULL,1,20,0,0,0,0,1,9,9,7,'5',3,14
+'CS198503','Flag','Flag','Under Review','Non-compliant',377,'Very High','Current',6,8,0,3,0,0,1,0,9,11,'3',5,10
+'CS116892','Flag','Flag','Clear','Compliant',823,'Medium','Past',0,3,5,1,0,1,0,3,5,15,'5',29,16
+'CS374786','Flag','Flag','Under Review','Compliant',744,'Medium',NULL,2,12,2,1,0,0,1,10,3,13,'4',13,2
+'CS695355','Pass','Pass','Clear','Non-compliant',348,'Low','Past',1,18,3,2,1,0,2,12,8,2,'1',5,20
+'CS803691','Flag','Pass','Under Review','Non-compliant',705,'Medium','Past',7,20,3,1,0,1,2,7,6,18,'0',2,22
+'CS918647','Fail','Pass','Clear','Non-compliant',581,'Very High','Current',1,19,0,2,1,1,2,12,4,1,'4',6,16
+'CS475126','Fail','Flag','Under Review','Non-compliant',449,'Medium',NULL,2,19,1,0,1,0,2,2,2,0,'0',24,4
+'CS650118','Fail','Pass','Under Review','Compliant',737,'High','Current',2,8,1,3,0,0,0,11,6,17,'3',18,20
+'CS832414','Fail','Pass','Restricted','Non-compliant',717,'Medium',NULL,8,2,2,1,1,1,2,8,6,19,'0',0,6
+'CS185319','Pass','Fail','Clear','Non-compliant',345,'Very High',NULL,10,11,1,0,0,0,1,8,6,2,'3',13,19
+'CS945798','Fail','Pass','Restricted','Non-compliant',407,'Medium',NULL,5,10,4,3,0,0,2,4,7,1,'1',3,20
+'CS913649','Pass','Flag','Under Review','Non-compliant',369,'Low','Current',0,9,3,0,0,1,0,10,1,0,'4',6,29
+'CS540319','Pass','Flag','Clear','Compliant',376,'Low','Current',4,1,3,0,1,0,1,5,3,11,'1',10,29
+'CS998011','Pass','Fail','Under Review','Non-compliant',749,'Very High','Past',6,4,2,1,1,1,2,5,7,14,'4',0,23
+'CS218315','Flag','Fail','Restricted','Non-compliant',592,'Low','Past',6,10,0,1,0,1,0,2,1,12,'3',5,15
+'CS854613','Pass','Fail','Clear','Non-compliant',581,'Medium',NULL,6,12,5,0,0,0,1,14,1,20,'2',10,29
+'CS958555','Flag','Flag','Restricted','Compliant',381,'Low','Past',5,13,0,2,0,0,1,13,2,13,'4',1,23
+'CS469776','Fail','Fail','Under Review','Non-compliant',525,'Medium',NULL,8,8,4,3,0,1,0,3,5,16,'2',9,22
+'CS808951','Pass','Flag','Under Review','Compliant',325,'High',NULL,5,20,3,1,1,0,1,0,10,4,'0',5,20
+'CS853346','Flag','Pass','Under Review','Non-compliant',836,'Low','Past',7,19,5,3,1,1,2,8,9,1,'5',23,2
+'CS721902','Pass','Fail','Restricted','Compliant',629,'Medium',NULL,4,11,0,2,0,1,1,2,0,1,'3',2,6
+'CS807986','Flag','Pass','Under Review','Compliant',600,'Medium','Past',9,4,4,1,0,0,1,8,1,2,'0',25,16
+'CS185238','Fail','Flag','Restricted','Non-compliant',504,'Low',NULL,10,18,2,1,1,0,1,15,0,1,'5',16,29
+'CS114708','Fail','Pass','Restricted','Non-compliant',380,'Very High','Past',6,5,5,2,0,1,1,15,5,4,'2',17,16
+'CS523782','Fail','Flag','Clear','Non-compliant',601,'Medium',NULL,0,10,4,2,0,1,0,1,7,9,'5',26,29
+'CS816405','Pass','Pass','Restricted','Compliant',775,'Low',NULL,4,12,0,0,0,1,1,0,4,18,'0',17,6
+'CS768913','Pass','Fail','Restricted','Compliant',394,'Medium','Past',3,19,0,0,0,0,0,1,9,10,'2',22,9
+'CS992168','Fail','Pass','Under Review','Compliant',531,'High',NULL,3,16,5,0,1,1,2,11,6,9,'4',25,7
+'CS487548','Flag','Flag','Clear','Non-compliant',736,'Low','Past',7,1,0,3,1,1,1,10,3,5,'4',13,25
+'CS822439','Flag','Pass','Clear','Compliant',620,'Medium','Past',2,17,5,1,0,0,0,10,8,15,'0',3,10
+'CS533954','Flag','Pass','Clear','Compliant',302,'High','Current',2,18,0,3,1,1,0,3,8,7,'3',30,11
+'CS438769','Pass','Fail','Clear','Compliant',675,'Medium','Past',9,1,2,2,1,1,1,12,3,19,'0',27,22
+'CS216855','Pass','Pass','Under Review','Compliant',738,'Low','Current',10,11,0,3,0,1,1,5,5,4,'0',26,13
+'CS595551','Pass','Fail','Under Review','Non-compliant',353,'Very High','Current',5,8,3,3,1,0,0,14,9,11,'0',28,0
+'CS677354','Fail','Fail','Restricted','Compliant',418,'Medium','Current',10,17,2,2,1,1,2,2,7,20,'3',24,4
+'CS491816','Pass','Flag','Under Review','Compliant',345,'Low',NULL,8,17,2,1,0,0,2,14,9,10,'4',13,2
+'CS170278','Pass','Flag','Restricted','Non-compliant',848,'High','Current',7,5,2,1,1,1,0,8,6,20,'2',6,12
+'CS601579','Fail','Pass','Restricted','Compliant',360,'High','Past',0,2,4,2,0,1,1,12,5,20,'1',4,20
+'CS865653','Fail','Fail','Under Review','Compliant',797,'Very High','Current',6,5,4,1,1,1,1,12,6,14,'0',14,8
+'CS444985','Fail','Fail','Restricted','Compliant',719,'Medium','Current',3,9,1,1,0,0,2,12,10,9,'2',20,0
+'CS921928','Pass','Flag','Clear','Compliant',758,'Low',NULL,7,19,0,3,0,0,2,6,6,2,'3',7,13
+'CS103479','Fail','Pass','Clear','Compliant',580,'Medium','Current',6,18,5,2,0,1,2,3,2,7,'4',2,0
+'CS637923','Flag','Pass','Restricted','Non-compliant',489,'High','Current',7,16,3,1,0,0,0,13,0,17,'3',23,24
+'CS433048','Flag','Pass','Clear','Compliant',423,'Very High','Current',6,19,3,3,0,1,0,3,6,18,'3',2,20
+'CS190689','Fail','Fail','Clear','Compliant',558,'High','Current',9,19,1,3,0,0,1,3,7,18,'2',1,14
+'CS672132','Pass','Pass','Under Review','Compliant',663,'Very High','Current',7,11,5,1,1,0,0,4,5,0,'5',6,21
+'CS154166','Fail','Fail','Clear','Non-compliant',367,'High','Current',1,9,3,1,0,0,0,4,7,5,'1',28,27
+'CS481566','Fail','Flag','Clear','Non-compliant',456,'High','Current',8,8,5,2,1,1,2,11,7,20,'2',1,9
+'CS474004','Fail','Fail','Clear','Compliant',787,'Medium','Past',3,20,0,2,0,1,0,0,6,18,'3',20,18
+'CS857220','Pass','Fail','Under Review','Compliant',491,'Medium','Past',6,15,3,2,0,1,2,5,5,20,'1',12,22
+'CS364854','Pass','Fail','Under Review','Compliant',750,'Low','Current',4,20,3,3,0,0,2,5,0,8,'3',14,9
+'CS389915','Pass','Fail','Restricted','Non-compliant',530,'Very High','Past',3,14,1,0,1,0,0,13,5,10,'2',0,2
+'CS539467','Pass','Flag','Restricted','Non-compliant',575,'Very High','Current',7,8,2,2,1,1,2,2,10,19,'4',24,30
+'CS133642','Flag','Flag','Restricted','Compliant',704,'High',NULL,8,9,0,0,1,0,2,2,8,20,'1',30,26
+'CS344359','Flag','Fail','Under Review','Compliant',624,'Very High','Past',0,9,2,0,0,1,2,1,1,2,'0',1,25
+'CS525784','Fail','Flag','Clear','Compliant',816,'Low','Current',4,13,4,2,1,0,2,4,6,11,'2',15,1
+'CS711115','Flag','Flag','Restricted','Compliant',548,'Low','Past',5,14,3,3,0,1,1,14,6,14,'5',9,0
+'CS409024','Pass','Pass','Under Review','Compliant',338,'Low',NULL,9,14,0,3,1,0,1,1,0,1,'3',10,28
+'CS875559','Flag','Pass','Clear','Non-compliant',778,'High','Past',10,20,3,0,1,1,2,15,3,16,'0',21,2
+'CS214561','Pass','Fail','Clear','Non-compliant',547,'Low','Past',9,8,5,0,0,0,0,5,10,9,'3',13,27
+'CS554595','Fail','Pass','Restricted','Non-compliant',374,'High',NULL,7,7,5,1,0,0,2,8,6,12,'0',3,3
+'CS932324','Pass','Pass','Under Review','Compliant',490,'Very High',NULL,1,6,4,2,0,1,1,9,0,10,'4',3,20
+'CS923770','Pass','Fail','Under Review','Compliant',412,'Very High',NULL,2,17,4,1,0,0,0,5,2,18,'4',25,23
+'CS940445','Fail','Flag','Restricted','Non-compliant',339,'High','Current',2,10,0,0,0,0,2,11,3,19,'2',21,2
+'CS390793','Pass','Pass','Clear','Non-compliant',768,'Very High',NULL,1,14,2,2,1,1,0,13,5,10,'2',1,10
+'CS109017','Flag','Pass','Under Review','Compliant',342,'Very High',NULL,6,5,5,0,0,0,1,3,5,0,'5',6,24
+'CS567695','Pass','Pass','Clear','Non-compliant',498,'Medium','Current',4,3,0,1,1,0,2,6,2,0,'3',3,24
+'CS634707','Flag','Fail','Restricted','Non-compliant',586,'Medium','Current',5,11,0,2,0,1,1,11,2,0,'5',6,4
+'CS493820','Pass','Fail','Clear','Compliant',493,'High','Past',7,13,1,0,0,1,0,3,6,9,'0',4,9
+'CS922042','Flag','Pass','Restricted','Compliant',702,'Low','Current',2,1,3,1,0,1,0,10,2,13,'2',30,25
+'CS710758','Flag','Flag','Clear','Compliant',484,'High','Past',10,20,4,0,1,1,0,14,0,1,'3',21,15
+'CS158200','Pass','Flag','Under Review','Non-compliant',419,'Medium','Past',4,11,4,1,0,1,2,6,0,6,'3',28,13
+'CS724247','Pass','Fail','Clear','Non-compliant',611,'Medium','Past',3,5,4,2,0,0,0,8,5,3,'0',30,16
+'CS883422','Fail','Pass','Clear','Non-compliant',329,'Medium','Past',8,6,1,3,1,0,2,4,3,16,'1',20,14
+'CS816589','Pass','Pass','Restricted','Non-compliant',588,'Very High','Past',7,2,5,3,0,0,0,10,7,8,'3',22,14
+'CS316481','Fail','Pass','Restricted','Non-compliant',810,'Low','Past',0,13,2,1,0,0,2,15,0,19,'5',21,16
+'CS144498','Flag','Pass','Clear','Non-compliant',611,'Medium','Past',8,5,1,1,1,0,2,14,9,13,'5',30,22
+'CS218700','Pass','Flag','Restricted','Non-compliant',720,'Very High','Past',7,13,5,1,1,1,2,10,3,13,'2',21,0
+'CS516722','Flag','Flag','Restricted','Non-compliant',709,'Medium',NULL,0,1,3,0,0,1,1,5,8,6,'1',5,2
+'CS724459','Fail','Fail','Restricted','Non-compliant',834,'Medium',NULL,9,5,5,2,0,1,2,9,4,1,'1',2,28
+'CS335445','Pass','Flag','Under Review','Non-compliant',405,'Very High','Current',3,15,5,0,0,1,0,0,5,17,'4',4,7
+'CS884667','Pass','Pass','Clear','Compliant',552,'Medium','Current',3,10,0,0,1,0,0,12,1,5,'2',0,25
+'CS835492','Fail','Pass','Clear','Compliant',646,'Low','Past',6,12,4,0,0,0,1,0,8,1,'5',7,10
+'CS703113','Flag','Fail','Clear','Non-compliant',765,'Low','Current',2,13,4,2,1,1,1,10,10,4,'1',21,20
+'CS859176','Flag','Pass','Clear','Non-compliant',687,'Low','Past',8,15,5,1,1,1,1,5,7,20,'4',11,29
+'CS195443','Pass','Pass','Restricted','Compliant',361,'Very High',NULL,10,2,0,1,1,0,2,6,8,19,'1',12,27
+'CS390839','Fail','Pass','Restricted','Non-compliant',621,'Very High','Current',3,1,0,3,1,0,2,13,6,11,'1',10,20
+'CS492371','Fail','Fail','Clear','Compliant',342,'Very High',NULL,6,0,0,2,1,1,1,0,6,1,'5',8,6
+'CS912230','Fail','Fail','Restricted','Non-compliant',443,'Low','Past',4,3,5,0,0,1,2,15,0,16,'0',28,1
+'CS488486','Flag','Flag','Under Review','Compliant',641,'Medium',NULL,10,14,1,0,1,1,2,10,0,10,'3',10,5
+'CS705642','Fail','Fail','Restricted','Compliant',612,'Low','Current',0,10,2,1,0,0,1,6,6,0,'5',7,5
+'CS422641','Fail','Flag','Under Review','Compliant',670,'Very High','Past',9,14,5,0,0,1,1,11,3,9,'4',0,27
+'CS815193','Fail','Pass','Clear','Non-compliant',504,'Low','Current',2,17,2,2,0,1,2,12,4,0,'1',10,13
+'CS281846','Fail','Pass','Under Review','Compliant',592,'High','Current',3,17,0,0,1,1,2,3,2,4,'2',18,12
+'CS505791','Flag','Flag','Clear','Non-compliant',540,'Low',NULL,10,20,3,3,0,0,1,1,7,16,'2',25,9
+'CS493560','Flag','Pass','Restricted','Non-compliant',631,'Low','Current',3,2,3,2,0,0,1,8,4,5,'5',26,14
+'CS606558','Fail','Fail','Under Review','Compliant',745,'Medium','Past',7,0,2,0,0,1,0,4,10,18,'3',4,18
+'CS419778','Pass','Flag','Under Review','Compliant',376,'Low','Past',0,10,5,3,0,1,2,10,10,16,'4',24,27
+'CS378996','Flag','Fail','Under Review','Non-compliant',799,'Low',NULL,7,6,5,3,0,1,1,9,4,10,'3',30,23
+'CS801087','Flag','Pass','Clear','Non-compliant',652,'Very High','Past',5,10,1,1,1,1,0,8,3,2,'5',15,17
+'CS793737','Fail','Fail','Restricted','Compliant',666,'High',NULL,4,4,1,3,1,0,0,5,2,9,'4',20,10
+'CS629731','Pass','Fail','Clear','Non-compliant',402,'Low','Current',1,20,2,3,1,1,0,9,8,15,'2',20,9
+'CS123662','Fail','Flag','Restricted','Non-compliant',363,'Medium',NULL,2,8,4,1,0,1,1,7,3,0,'5',22,25
+'CS662702','Flag','Pass','Under Review','Compliant',405,'High',NULL,10,10,1,1,1,1,0,8,3,13,'2',9,9
+'CS928423','Flag','Pass','Restricted','Non-compliant',601,'Medium',NULL,1,14,0,0,1,1,1,6,4,11,'3',11,28
+'CS900805','Flag','Fail','Clear','Compliant',674,'High','Past',9,16,1,2,0,0,1,10,10,18,'1',26,29
+'CS538020','Flag','Pass','Clear','Compliant',457,'Medium','Past',1,8,1,2,1,1,2,7,1,1,'5',13,24
+'CS467241','Pass','Flag','Restricted','Non-compliant',371,'High','Current',10,0,4,2,1,1,1,3,4,6,'3',12,26
+'CS648314','Flag','Pass','Restricted','Compliant',611,'High',NULL,1,7,0,1,0,0,2,1,6,17,'4',15,8
+'CS357428','Flag','Flag','Restricted','Non-compliant',568,'Very High','Past',2,6,3,3,0,0,0,13,1,10,'0',19,22
+'CS299524','Flag','Fail','Under Review','Compliant',433,'Low','Current',6,4,0,3,0,0,2,9,0,19,'1',26,21
+'CS243481','Flag','Fail','Clear','Compliant',344,'Very High','Current',2,19,4,3,0,0,1,15,0,20,'5',23,12
+'CS246684','Fail','Pass','Under Review','Non-compliant',809,'High','Past',9,20,1,3,0,0,0,15,4,12,'1',26,29
+'CS340974','Fail','Fail','Restricted','Compliant',647,'Low',NULL,7,1,1,1,0,0,2,10,10,7,'3',11,26
+'CS194780','Fail','Pass','Restricted','Non-compliant',542,'Very High',NULL,9,10,5,1,0,0,1,3,7,5,'1',27,30
+'CS225874','Flag','Fail','Restricted','Non-compliant',742,'Medium',NULL,4,2,1,2,0,0,0,14,9,14,'1',27,1
+'CS339004','Flag','Fail','Clear','Non-compliant',845,'Very High',NULL,4,6,2,2,1,0,0,4,8,10,'1',21,3
+'CS283508','Fail','Pass','Under Review','Compliant',415,'Medium','Current',6,7,5,2,1,1,1,3,8,10,'2',27,2
+'CS211884','Fail','Flag','Clear','Compliant',763,'Very High',NULL,6,17,1,3,1,0,2,15,7,3,'2',12,28
+'CS479083','Flag','Pass','Restricted','Non-compliant',736,'Very High',NULL,0,12,2,2,1,1,1,13,8,1,'0',20,19
+'CS716234','Pass','Pass','Clear','Non-compliant',404,'High',NULL,4,10,4,1,1,1,0,10,9,12,'5',17,18
+'CS948447','Fail','Flag','Under Review','Compliant',570,'High','Current',9,20,3,0,0,1,1,11,6,1,'5',11,29
+'CS979721','Pass','Flag','Under Review','Non-compliant',618,'High','Current',7,7,4,0,1,1,0,5,8,4,'1',4,26
+'CS849631','Fail','Fail','Restricted','Non-compliant',556,'Medium','Past',0,3,2,3,0,1,2,2,4,7,'2',12,21
+'CS797734','Fail','Fail','Clear','Compliant',587,'Very High',NULL,5,1,5,2,1,1,0,6,5,2,'5',27,28
+'CS926868','Pass','Pass','Clear','Compliant',697,'Low','Current',8,7,2,0,1,1,2,2,4,15,'3',9,7
+'CS241135','Pass','Fail','Under Review','Non-compliant',810,'Very High',NULL,4,6,0,2,1,1,1,0,8,11,'4',17,24
+'CS726939','Pass','Flag','Under Review','Compliant',330,'Medium','Past',10,17,4,0,1,1,0,4,8,11,'3',26,20
+'CS438740','Flag','Pass','Clear','Non-compliant',622,'Low','Past',10,9,2,1,0,0,1,0,5,9,'0',22,25
+'CS118849','Pass','Fail','Under Review','Compliant',367,'Very High','Past',2,17,2,2,0,0,1,5,2,15,'0',28,2
+'CS632125','Fail','Flag','Restricted','Non-compliant',624,'Medium','Current',8,0,4,3,1,0,0,10,0,16,'2',4,23
+'CS611577','Pass','Flag','Clear','Non-compliant',512,'Very High','Past',9,11,1,1,0,1,1,4,10,4,'3',28,11
+'CS632828','Flag','Pass','Clear','Non-compliant',373,'Medium','Past',4,12,2,1,0,0,2,12,1,18,'1',12,5
+'CS781226','Flag','Flag','Restricted','Compliant',384,'Medium','Current',0,17,2,3,1,1,0,9,6,0,'5',9,7
+'CS618840','Pass','Flag','Clear','Compliant',838,'Medium',NULL,5,0,4,0,0,1,0,6,8,5,'4',13,28
+'CS763043','Fail','Pass','Clear','Compliant',666,'High',NULL,5,1,3,2,0,0,0,0,4,7,'3',12,23
+'CS734570','Flag','Fail','Restricted','Compliant',301,'High','Current',4,12,4,1,0,1,0,12,7,20,'4',5,14
+'CS555178','Pass','Flag','Under Review','Non-compliant',502,'Medium','Current',4,18,0,2,1,1,1,3,4,7,'4',11,26
+'CS391718','Pass','Fail','Under Review','Compliant',740,'Medium','Past',4,1,4,0,1,1,2,8,8,7,'1',25,11
+'CS403456','Flag','Pass','Restricted','Non-compliant',839,'High','Current',9,6,5,0,1,0,0,1,8,5,'4',3,7
+'CS618943','Fail','Flag','Restricted','Compliant',483,'High','Past',0,3,5,3,0,1,2,11,1,9,'3',29,5
+'CS457246','Flag','Flag','Restricted','Compliant',749,'Very High','Current',2,17,2,2,1,0,0,11,1,18,'3',26,26
+'CS163386','Fail','Fail','Clear','Non-compliant',330,'Medium',NULL,6,14,4,1,1,0,1,13,6,8,'0',9,15
+'CS145462','Flag','Flag','Under Review','Non-compliant',716,'Very High','Current',1,3,0,0,0,0,1,8,9,18,'2',29,10
+'CS785834','Pass','Pass','Clear','Compliant',720,'Low','Current',4,9,3,0,1,1,1,7,8,15,'0',7,26
+'CS135663','Flag','Flag','Under Review','Compliant',841,'Very High',NULL,9,19,3,0,0,0,1,15,2,3,'3',25,2
+'CS104627','Fail','Fail','Restricted','Compliant',347,'High',NULL,0,14,1,2,0,0,0,0,7,5,'2',21,22
+'CS800338','Pass','Pass','Under Review','Compliant',486,'High','Past',0,6,0,0,0,0,0,11,0,19,'4',19,8
+'CS254336','Flag','Flag','Clear','Compliant',704,'High','Current',9,7,4,0,0,1,0,11,6,20,'2',10,21
+'CS513848','Fail','Pass','Clear','Non-compliant',739,'Medium','Current',1,15,0,0,0,0,2,15,8,1,'4',5,1
+'CS164181','Flag','Pass','Clear','Non-compliant',516,'Very High',NULL,1,8,3,3,1,1,1,14,0,11,'3',18,11
+'CS495679','Pass','Fail','Under Review','Compliant',469,'High','Current',0,1,4,0,1,1,1,7,7,8,'4',9,8
+'CS160282','Flag','Pass','Under Review','Non-compliant',395,'High',NULL,1,17,4,0,1,1,2,13,6,7,'5',22,23
+'CS644617','Fail','Fail','Restricted','Non-compliant',529,'Medium','Current',2,20,5,3,1,0,0,10,4,9,'0',7,6
+'CS379279','Fail','Flag','Under Review','Compliant',770,'Medium','Current',7,15,2,2,1,1,2,12,8,10,'0',21,7
+'CS624462','Flag','Fail','Under Review','Compliant',423,'High','Past',1,19,3,3,1,1,1,4,0,4,'5',19,28
+'CS802496','Fail','Pass','Under Review','Non-compliant',435,'High','Past',2,17,0,2,0,1,0,5,9,5,'1',12,17
+'CS518522','Pass','Fail','Clear','Non-compliant',430,'Low',NULL,6,16,0,2,0,0,2,3,0,11,'0',2,16
+'CS543505','Fail','Pass','Under Review','Compliant',505,'High',NULL,4,15,3,3,0,0,2,1,2,5,'2',5,27
+'CS149700','Pass','Flag','Clear','Compliant',391,'Very High','Current',8,5,2,1,0,1,0,10,3,7,'4',30,14
+'CS957373','Fail','Fail','Under Review','Non-compliant',538,'Medium','Past',5,16,2,3,1,1,0,14,9,13,'5',25,8
+'CS840243','Flag','Flag','Clear','Compliant',823,'Medium','Current',10,14,4,3,1,1,0,12,1,11,'1',14,26
+'CS657281','Fail','Pass','Under Review','Compliant',451,'High','Past',4,20,4,3,1,1,1,3,8,15,'0',18,19
+'CS140967','Fail','Flag','Restricted','Non-compliant',779,'Medium',NULL,5,16,3,0,0,1,0,8,8,7,'1',13,28
+'CS407301','Flag','Flag','Under Review','Compliant',356,'High','Current',6,1,2,1,0,1,1,4,4,10,'3',24,3
+'CS192024','Fail','Flag','Clear','Non-compliant',525,'Medium',NULL,4,14,0,3,1,0,2,1,0,5,'3',16,15
+'CS232079','Flag','Pass','Restricted','Compliant',633,'Medium',NULL,6,12,2,3,1,0,2,5,3,5,'5',24,3
+'CS714863','Flag','Fail','Under Review','Non-compliant',378,'Low','Current',7,20,4,2,1,1,0,3,0,2,'5',1,19
+'CS716075','Pass','Flag','Clear','Non-compliant',671,'Very High',NULL,0,6,3,1,1,1,1,6,6,4,'2',23,23
+'CS297984','Flag','Fail','Clear','Non-compliant',375,'Low','Past',8,2,0,3,1,1,1,13,2,5,'0',25,30
+'CS171649','Pass','Fail','Under Review','Non-compliant',575,'High','Past',1,0,5,2,1,0,1,4,5,1,'0',24,2
+'CS838212','Flag','Flag','Restricted','Compliant',658,'High',NULL,3,2,1,2,0,0,0,2,4,0,'1',7,21
+'CS857149','Pass','Flag','Under Review','Compliant',422,'Very High','Past',6,10,5,3,0,0,0,15,3,14,'3',29,0
+'CS746190','Flag','Fail','Under Review','Compliant',543,'High',NULL,5,16,5,0,1,1,1,8,5,2,'0',10,17
+'CS904058','Fail','Flag','Restricted','Non-compliant',767,'Medium','Past',2,12,1,0,1,0,0,7,10,19,'0',8,27
+'CS704070','Pass','Fail','Under Review','Non-compliant',352,'Low','Past',10,9,3,0,1,1,2,13,8,15,'2',26,9
+'CS451670','Pass','Fail','Restricted','Compliant',717,'Medium','Current',3,0,2,2,1,1,1,12,10,15,'2',27,18
+'CS956196','Pass','Fail','Restricted','Compliant',806,'Very High','Past',1,8,3,0,0,0,0,0,8,19,'4',25,5
+'CS787031','Pass','Flag','Restricted','Compliant',477,'High','Past',8,13,1,1,0,0,0,15,6,19,'4',19,2
+'CS526902','Pass','Flag','Restricted','Non-compliant',547,'Low',NULL,4,12,3,0,0,0,1,10,4,18,'1',0,28
+'CS606311','Pass','Flag','Under Review','Non-compliant',800,'Low',NULL,0,3,5,0,0,0,1,15,8,3,'1',9,6
+'CS712614','Pass','Fail','Under Review','Non-compliant',351,'High','Past',9,2,3,2,0,1,2,1,10,19,'0',10,1
+'CS127904','Pass','Fail','Under Review','Compliant',711,'Medium','Past',2,14,2,0,1,0,0,13,9,3,'5',24,23
+'CS179092','Fail','Flag','Clear','Compliant',484,'High','Current',4,1,4,0,0,0,2,0,6,16,'4',5,17
+'CS348634','Flag','Fail','Under Review','Compliant',492,'Very High',NULL,0,10,5,2,1,1,2,2,1,8,'3',23,25
+'CS242163','Fail','Pass','Restricted','Non-compliant',712,'Low','Past',10,20,5,3,0,0,1,0,3,4,'1',15,17
+'CS874407','Pass','Fail','Restricted','Non-compliant',559,'Very High','Past',9,11,2,3,0,0,2,7,6,12,'4',24,16
+'CS215950','Fail','Fail','Restricted','Compliant',419,'Medium',NULL,10,1,5,1,1,1,0,10,6,5,'1',16,28
+'CS780642','Fail','Pass','Under Review','Non-compliant',673,'Low','Current',2,17,0,3,1,0,2,11,10,14,'1',8,6
+'CS559246','Fail','Fail','Restricted','Non-compliant',616,'Low','Current',0,3,4,2,0,1,1,7,0,15,'5',9,16
+'CS575711','Pass','Fail','Under Review','Compliant',563,'Medium',NULL,7,20,2,0,0,1,0,8,7,14,'2',17,9
+'CS712227','Flag','Pass','Clear','Compliant',627,'Low',NULL,6,6,0,1,0,0,1,2,1,11,'3',30,2
+'CS419562','Flag','Fail','Under Review','Compliant',302,'High',NULL,0,11,1,0,1,0,0,11,1,19,'2',3,25
+'CS245116','Fail','Fail','Restricted','Compliant',647,'Very High','Current',9,14,2,0,0,0,1,3,7,10,'1',19,17
+'CS962786','Fail','Fail','Under Review','Non-compliant',379,'Medium','Past',2,20,2,0,0,0,0,2,1,7,'0',1,24
+'CS712798','Pass','Fail','Under Review','Compliant',740,'High','Past',2,14,4,3,1,1,1,9,6,7,'5',2,14
+'CS557557','Pass','Fail','Under Review','Non-compliant',494,'High','Past',1,9,5,1,0,0,1,15,4,19,'2',20,18
+'CS292605','Fail','Flag','Under Review','Compliant',712,'Very High','Past',5,6,4,0,0,1,0,14,0,3,'0',9,17
+'CS220315','Fail','Flag','Clear','Compliant',342,'Low','Past',9,11,4,0,0,0,1,9,2,5,'5',28,24
+'CS957399','Fail','Flag','Clear','Compliant',842,'High','Past',0,11,2,2,0,1,2,4,7,13,'2',3,26
+'CS834551','Fail','Pass','Clear','Non-compliant',812,'Low','Current',5,14,1,0,1,1,0,1,3,8,'2',15,29
+'CS512400','Flag','Pass','Clear','Non-compliant',690,'High','Current',5,10,3,3,0,0,2,12,5,13,'1',23,21
+'CS996648','Pass','Pass','Under Review','Non-compliant',591,'Medium',NULL,4,15,2,3,0,0,1,2,3,19,'0',9,0
+'CS881932','Pass','Pass','Restricted','Non-compliant',657,'Low','Past',4,17,5,1,0,1,2,5,8,2,'4',15,21
+'CS454576','Pass','Pass','Under Review','Compliant',304,'Medium','Past',9,2,2,3,0,1,0,11,4,18,'5',26,3
+'CS309397','Pass','Fail','Under Review','Non-compliant',352,'Very High',NULL,1,13,5,1,0,1,0,14,1,9,'5',19,15
+'CS602650','Flag','Flag','Restricted','Non-compliant',737,'Medium','Current',5,0,0,0,1,1,2,5,5,1,'1',25,28
+'CS182853','Pass','Pass','Under Review','Non-compliant',320,'High',NULL,1,6,1,1,1,1,1,8,5,5,'2',0,9
+'CS773232','Flag','Flag','Under Review','Compliant',744,'Medium','Current',0,3,2,2,0,0,1,10,5,13,'3',10,8
+'CS425149','Flag','Fail','Under Review','Compliant',703,'High','Current',9,15,2,3,1,1,0,12,2,4,'3',28,19
+'CS470319','Flag','Fail','Clear','Compliant',719,'Very High','Current',10,10,3,2,0,0,1,5,9,0,'2',30,23
+'CS977546','Pass','Flag','Under Review','Compliant',577,'Very High','Current',2,6,5,2,0,1,1,6,9,10,'2',27,28
+'CS873731','Flag','Flag','Restricted','Compliant',388,'High','Past',3,14,5,3,0,0,0,6,1,9,'2',7,28
+'CS705339','Fail','Flag','Restricted','Non-compliant',733,'Very High','Current',8,5,4,3,0,0,1,11,1,3,'3',15,25
+'CS943901','Fail','Fail','Restricted','Compliant',387,'Low','Current',4,13,5,0,1,1,0,7,0,11,'1',3,14
+'CS980971','Fail','Fail','Clear','Non-compliant',763,'Very High','Past',4,11,3,3,0,0,2,1,3,18,'5',13,1
+'CS621260','Fail','Pass','Restricted','Non-compliant',352,'Medium',NULL,9,12,5,1,0,0,1,5,8,17,'5',8,8
+'CS484093','Flag','Pass','Clear','Compliant',424,'Low',NULL,8,6,1,3,0,0,2,6,1,19,'1',6,24
+'CS526522','Fail','Fail','Clear','Non-compliant',599,'Very High','Past',3,11,2,2,1,0,1,3,9,20,'4',19,28
+'CS730774','Pass','Fail','Clear','Non-compliant',728,'High','Past',1,14,0,3,0,0,1,15,1,5,'0',13,22
+'CS399140','Fail','Fail','Clear','Non-compliant',625,'Low','Past',10,15,5,1,0,0,1,5,10,11,'4',8,27
+'CS368881','Fail','Flag','Restricted','Compliant',670,'Low','Past',0,2,4,1,1,1,1,14,9,6,'1',8,26
+'CS951087','Flag','Pass','Under Review','Compliant',829,'Low',NULL,9,14,2,0,0,1,1,2,4,10,'0',27,27
+'CS435191','Fail','Pass','Clear','Non-compliant',363,'High','Current',0,8,0,0,1,0,0,8,3,14,'5',23,15
+'CS532792','Flag','Fail','Under Review','Non-compliant',517,'Low','Current',0,15,3,1,0,1,1,9,5,1,'0',4,25
+'CS655883','Flag','Fail','Clear','Compliant',412,'High','Past',1,15,5,1,0,0,0,11,1,3,'4',30,20
+'CS215884','Pass','Pass','Under Review','Compliant',672,'Medium',NULL,10,19,2,1,0,0,0,14,1,15,'0',29,2
+'CS727966','Pass','Fail','Under Review','Non-compliant',455,'Low','Current',1,1,3,2,1,0,2,8,9,9,'3',10,23
+'CS264869','Pass','Fail','Under Review','Compliant',781,'Medium','Current',5,4,2,3,0,0,0,10,6,10,'2',8,17
+'CS682585','Pass','Fail','Restricted','Non-compliant',723,'Very High','Current',1,5,3,1,0,1,1,5,8,15,'1',12,29
+'CS729964','Pass','Pass','Clear','Compliant',532,'Very High',NULL,4,5,2,2,1,1,0,13,8,7,'4',28,3
+'CS459621','Fail','Fail','Under Review','Compliant',843,'High','Current',6,5,0,2,1,1,1,4,10,13,'3',11,5
+'CS769340','Pass','Fail','Clear','Compliant',700,'Medium',NULL,7,19,5,2,1,1,1,2,8,6,'5',7,15
+'CS928338','Flag','Fail','Clear','Non-compliant',568,'High','Current',7,6,1,2,1,0,2,6,10,1,'4',1,16
+'CS945522','Fail','Fail','Clear','Compliant',720,'High','Past',8,2,2,3,1,0,1,2,4,6,'1',13,1
+'CS308846','Fail','Fail','Restricted','Non-compliant',358,'High','Current',5,3,3,3,0,1,2,1,10,9,'1',13,16
+'CS158500','Pass','Flag','Clear','Non-compliant',823,'Medium','Current',2,13,2,3,0,1,2,8,6,18,'5',23,2
+'CS863845','Fail','Flag','Clear','Non-compliant',463,'Very High','Past',9,4,1,2,1,1,2,4,10,15,'2',11,21
+'CS826517','Flag','Fail','Clear','Compliant',477,'High','Past',5,11,4,3,0,0,2,4,1,14,'0',12,18
+'CS959151','Pass','Pass','Under Review','Non-compliant',377,'High',NULL,9,5,0,2,0,1,0,5,6,17,'2',0,3
+'CS336177','Fail','Pass','Clear','Compliant',475,'Low','Past',0,16,1,1,1,0,2,4,1,5,'5',23,17
+'CS199058','Pass','Pass','Clear','Non-compliant',617,'High','Current',4,17,3,1,0,0,0,6,4,5,'2',24,18
+'CS397511','Pass','Fail','Clear','Non-compliant',704,'Low','Past',8,1,1,2,1,0,2,2,10,3,'5',11,30
+'CS503282','Pass','Flag','Under Review','Non-compliant',753,'Very High','Current',0,4,5,3,1,1,1,3,7,2,'5',27,24
+'CS539138','Pass','Pass','Restricted','Non-compliant',655,'Very High',NULL,9,3,3,0,0,0,2,1,4,11,'0',24,0
+'CS772355','Fail','Flag','Under Review','Non-compliant',309,'Very High','Current',10,7,1,0,1,1,2,3,3,8,'2',10,13
+'CS443418','Fail','Flag','Under Review','Compliant',357,'Very High','Current',7,13,3,2,1,0,2,10,8,11,'5',25,27
+'CS692392','Fail','Pass','Clear','Non-compliant',332,'Very High',NULL,6,8,3,2,1,0,2,1,10,0,'2',1,8
+'CS664052','Flag','Fail','Restricted','Non-compliant',706,'High',NULL,7,19,0,3,1,0,2,10,1,7,'1',14,3
+'CS180196','Fail','Pass','Clear','Non-compliant',822,'Low','Current',3,6,1,1,1,1,0,11,8,17,'2',24,8
+'CS195186','Pass','Pass','Under Review','Non-compliant',441,'Very High',NULL,1,13,1,0,1,1,0,2,3,12,'4',15,17
+'CS156236','Fail','Flag','Clear','Compliant',537,'Low','Current',1,13,5,0,0,1,2,2,8,5,'3',30,25
+'CS550868','Flag','Pass','Under Review','Compliant',733,'Medium',NULL,6,12,0,2,1,1,0,1,2,17,'1',12,13
+'CS885012','Pass','Flag','Restricted','Non-compliant',801,'High',NULL,5,10,4,3,1,0,2,14,10,5,'5',8,2
+'CS653505','Flag','Fail','Restricted','Non-compliant',740,'Low','Past',0,7,4,2,1,1,1,15,3,0,'3',30,10
+'CS894888','Fail','Flag','Under Review','Compliant',398,'High','Current',6,9,5,2,1,1,1,12,4,10,'4',21,3
+'CS303170','Fail','Flag','Under Review','Non-compliant',647,'Medium','Past',0,18,0,0,1,0,2,2,0,15,'2',7,11
+'CS195204','Flag','Pass','Restricted','Non-compliant',664,'Very High','Past',7,15,2,2,1,0,2,2,8,19,'5',2,20
+'CS239396','Fail','Flag','Under Review','Non-compliant',510,'Very High','Past',7,16,0,0,1,0,0,2,4,0,'2',23,26
+'CS256174','Fail','Flag','Under Review','Compliant',680,'Medium','Past',4,12,5,3,0,0,1,6,6,11,'4',14,10
+'CS546698','Flag','Pass','Restricted','Non-compliant',717,'Very High','Past',10,13,2,2,0,0,2,10,0,17,'4',6,4
+'CS849509','Fail','Pass','Under Review','Non-compliant',431,'Very High','Current',2,14,0,1,1,0,1,3,0,11,'1',10,16
+'CS632018','Fail','Fail','Restricted','Compliant',739,'Low',NULL,9,12,3,2,1,1,1,8,4,17,'2',1,16
+'CS451216','Fail','Flag','Under Review','Non-compliant',355,'Medium','Past',2,17,2,1,0,1,2,11,6,7,'0',8,7
+'CS549829','Pass','Flag','Under Review','Non-compliant',807,'Low','Past',2,9,0,0,1,0,2,12,4,20,'1',13,15
+'CS983388','Fail','Pass','Under Review','Compliant',642,'Low',NULL,7,19,0,3,1,0,2,11,0,16,'0',7,12
+'CS259069','Flag','Fail','Clear','Non-compliant',440,'High','Past',7,19,0,2,0,0,1,15,1,19,'1',15,18
+'CS827872','Pass','Flag','Clear','Non-compliant',637,'High','Past',5,3,4,3,0,0,2,14,3,20,'0',15,3
+'CS537916','Pass','Fail','Restricted','Compliant',687,'Medium','Current',1,13,2,3,0,0,2,10,2,8,'2',6,21
+'CS856832','Pass','Pass','Restricted','Compliant',802,'Medium',NULL,4,0,5,0,1,0,2,11,3,18,'4',21,23
+'CS370053','Flag','Fail','Restricted','Non-compliant',686,'Low','Past',3,6,0,2,0,0,0,11,9,13,'1',28,24
+'CS317854','Flag','Flag','Clear','Compliant',714,'Low',NULL,5,16,4,2,0,1,2,10,0,10,'4',10,10
+'CS485975','Pass','Pass','Clear','Non-compliant',812,'Medium','Current',1,8,5,0,1,0,1,0,9,12,'3',30,19
+'CS449449','Fail','Flag','Clear','Non-compliant',380,'Very High','Past',3,12,5,0,0,0,2,2,0,13,'1',18,6
+'CS584559','Fail','Flag','Under Review','Non-compliant',759,'Very High','Past',5,6,3,2,0,0,2,0,1,14,'2',1,8
+'CS206542','Pass','Pass','Under Review','Compliant',436,'Low','Past',2,17,3,1,1,1,1,0,4,4,'2',11,19
+'CS541822','Pass','Pass','Clear','Compliant',529,'Very High','Current',0,11,1,3,0,0,1,13,2,9,'2',4,23
+'CS217613','Flag','Pass','Restricted','Non-compliant',431,'Very High','Current',5,4,3,2,1,1,1,7,2,19,'2',26,12
+'CS160073','Pass','Pass','Restricted','Non-compliant',813,'Low','Past',9,14,4,3,1,1,0,2,10,15,'4',13,20
+'CS171286','Flag','Flag','Restricted','Compliant',754,'Low','Past',0,19,4,2,0,0,1,15,5,6,'3',27,26
+'CS702591','Pass','Flag','Under Review','Non-compliant',447,'Very High','Past',4,4,1,1,1,0,0,15,7,3,'1',17,21
+'CS163897','Pass','Flag','Restricted','Non-compliant',575,'Low','Current',4,8,2,0,1,1,0,9,8,15,'1',11,9
+'CS422844','Flag','Pass','Clear','Non-compliant',820,'High','Past',8,18,2,1,1,1,0,14,7,18,'2',14,11
+'CS860664','Flag','Flag','Clear','Non-compliant',442,'Low','Past',9,18,5,1,1,1,2,12,4,20,'4',10,22
+'CS709497','Flag','Flag','Restricted','Non-compliant',830,'Medium',NULL,5,14,5,2,0,1,2,9,6,20,'5',16,25
+'CS352741','Fail','Flag','Under Review','Compliant',453,'Medium','Past',9,10,4,2,0,1,1,9,8,9,'0',1,18
+'CS101227','Pass','Fail','Restricted','Non-compliant',648,'High',NULL,1,10,1,2,1,0,1,11,6,6,'3',20,15
+'CS100439','Flag','Flag','Under Review','Non-compliant',508,'Low','Past',9,12,0,3,0,1,1,3,10,18,'1',20,26
+'CS960801','Pass','Fail','Clear','Compliant',368,'Low','Past',2,0,1,0,0,1,2,2,4,3,'5',0,16
+'CS639342','Fail','Fail','Under Review','Non-compliant',315,'Medium',NULL,1,10,0,3,1,0,0,4,0,16,'1',27,21
+'CS521160','Pass','Fail','Clear','Compliant',303,'Medium','Current',0,8,2,0,0,1,2,11,9,0,'2',5,20
+'CS842151','Fail','Pass','Under Review','Compliant',613,'Low',NULL,4,6,5,3,0,1,2,6,1,18,'4',27,17
+'CS285060','Flag','Flag','Under Review','Non-compliant',838,'Low','Past',2,3,3,2,1,1,0,0,5,15,'5',15,0
+'CS387280','Fail','Pass','Restricted','Compliant',370,'Low',NULL,9,15,2,3,1,1,0,4,8,14,'3',11,29
+'CS538980','Flag','Flag','Restricted','Compliant',665,'Medium','Current',7,19,4,1,1,1,1,1,7,10,'3',4,23
+'CS268508','Fail','Fail','Restricted','Compliant',736,'High','Past',10,10,4,2,1,1,0,6,7,8,'4',16,3
+'CS897838','Fail','Flag','Restricted','Compliant',640,'Very High',NULL,5,6,3,1,1,0,2,12,8,16,'0',0,23
+'CS809501','Fail','Pass','Restricted','Non-compliant',515,'Low','Current',9,9,3,0,0,1,0,14,1,10,'4',0,29
+'CS537851','Flag','Pass','Clear','Compliant',507,'High',NULL,6,19,1,0,1,1,2,11,7,6,'1',2,12
+'CS791058','Flag','Pass','Restricted','Non-compliant',321,'Medium',NULL,0,9,5,3,0,1,1,6,8,3,'0',6,14
+'CS274968','Fail','Pass','Clear','Non-compliant',576,'Medium','Past',10,20,1,1,1,1,0,3,6,19,'3',11,10
+'CS562997','Flag','Pass','Restricted','Non-compliant',838,'High',NULL,4,5,2,1,0,1,0,13,4,3,'5',29,4
+'CS584899','Fail','Fail','Clear','Compliant',334,'Medium','Past',10,8,5,1,1,0,0,5,5,16,'3',17,0
+'CS139679','Pass','Fail','Under Review','Non-compliant',336,'Very High','Current',9,20,5,3,1,0,2,1,1,10,'3',27,10
+'CS731236','Flag','Pass','Under Review','Non-compliant',595,'Medium',NULL,0,9,0,0,0,0,1,12,8,7,'2',11,22
+'CS692345','Pass','Flag','Clear','Compliant',480,'Medium','Current',8,9,3,2,0,0,2,11,9,15,'0',18,9
+'CS925263','Fail','Fail','Restricted','Compliant',425,'High','Current',1,5,4,0,1,1,1,2,6,12,'2',8,5
+'CS480549','Flag','Pass','Under Review','Compliant',526,'Medium','Past',10,7,0,0,0,0,0,6,3,19,'4',4,9
+'CS266405','Fail','Pass','Clear','Compliant',410,'Very High','Current',9,14,0,0,0,0,2,4,4,7,'0',20,7
+'CS970010','Pass','Flag','Restricted','Non-compliant',440,'High','Current',8,13,1,2,0,1,0,3,8,14,'0',20,21
+'CS471468','Fail','Flag','Under Review','Compliant',336,'Medium','Past',5,14,2,2,0,1,0,3,6,19,'0',30,21
+'CS590797','Pass','Pass','Under Review','Compliant',327,'Medium','Current',10,19,1,1,0,1,1,11,8,4,'2',14,29
+'CS137278','Pass','Flag','Clear','Non-compliant',429,'High',NULL,3,3,5,3,0,0,1,12,0,10,'4',24,18
+'CS252985','Fail','Pass','Clear','Non-compliant',303,'High',NULL,3,15,3,2,1,0,1,15,10,7,'1',30,3
+'CS800198','Fail','Fail','Under Review','Compliant',735,'Very High','Current',4,6,0,1,1,1,2,13,7,6,'0',30,18
+'CS744289','Fail','Fail','Restricted','Compliant',426,'Very High','Past',6,5,1,0,1,0,1,10,10,7,'0',16,28
+'CS658675','Fail','Flag','Clear','Non-compliant',623,'Medium','Current',2,15,3,2,0,1,1,1,5,13,'5',10,2
+'CS518143','Pass','Pass','Clear','Non-compliant',314,'Very High',NULL,4,10,2,1,1,1,0,2,9,1,'5',25,27
+'CS266064','Pass','Flag','Clear','Non-compliant',509,'Very High',NULL,1,7,5,0,1,1,2,1,7,1,'1',24,29
+'CS340066','Flag','Pass','Restricted','Compliant',832,'High','Current',0,12,2,1,1,1,0,1,2,10,'5',15,7
+'CS876222','Pass','Fail','Clear','Non-compliant',659,'High',NULL,10,11,2,2,1,1,1,1,7,13,'5',8,22
+'CS846547','Pass','Flag','Clear','Compliant',436,'Medium',NULL,8,3,0,2,1,0,1,15,8,1,'3',13,15
+'CS862975','Pass','Fail','Under Review','Non-compliant',663,'Low','Past',10,14,3,1,0,0,0,14,0,6,'3',20,30
+'CS825544','Flag','Pass','Clear','Non-compliant',507,'High','Current',6,4,2,0,1,0,2,9,7,20,'0',21,8
+'CS423139','Pass','Pass','Under Review','Non-compliant',480,'Very High',NULL,6,14,5,2,0,1,0,10,3,7,'4',5,4
+'CS664586','Flag','Pass','Clear','Compliant',391,'Medium','Past',7,10,3,2,1,0,1,0,0,6,'5',1,22
+'CS363482','Pass','Flag','Under Review','Non-compliant',717,'Very High','Current',8,12,3,1,0,1,0,13,9,8,'2',2,12
+'CS278716','Pass','Fail','Restricted','Non-compliant',381,'Medium','Past',1,11,0,2,0,0,2,6,2,10,'5',29,2
+'CS516351','Fail','Flag','Restricted','Compliant',767,'Very High',NULL,9,16,4,1,1,1,1,4,2,4,'1',8,7
+'CS664299','Fail','Fail','Restricted','Non-compliant',755,'Very High','Current',6,9,1,1,0,0,0,11,9,15,'4',6,15
+'CS323393','Pass','Fail','Under Review','Non-compliant',351,'High','Current',9,18,3,1,0,1,1,14,4,8,'3',1,11
+'CS463560','Fail','Fail','Clear','Non-compliant',359,'High','Past',2,15,3,3,0,0,1,12,1,6,'5',1,24
+'CS431093','Flag','Fail','Restricted','Non-compliant',736,'High','Past',1,19,0,3,0,0,1,9,3,2,'0',6,29
+'CS137159','Pass','Flag','Under Review','Non-compliant',673,'High',NULL,8,12,3,0,1,1,2,5,7,7,'2',22,1
+'CS934816','Flag','Pass','Under Review','Non-compliant',387,'Low','Past',5,15,1,1,0,1,0,6,8,10,'4',1,6
+'CS240451','Pass','Fail','Clear','Compliant',673,'Very High','Past',0,2,0,3,0,1,1,2,9,16,'0',8,25
+'CS996545','Pass','Pass','Restricted','Non-compliant',458,'High',NULL,6,15,2,1,1,1,1,8,8,15,'2',6,3
+'CS117703','Fail','Flag','Under Review','Non-compliant',628,'Very High','Current',6,13,4,0,1,0,0,13,9,5,'0',6,14
+'CS139849','Fail','Fail','Under Review','Compliant',594,'Low','Current',9,9,3,0,1,0,0,9,6,8,'0',18,22
+'CS312748','Flag','Flag','Clear','Non-compliant',608,'Medium',NULL,5,17,1,1,1,0,2,8,7,10,'3',14,12
+'CS686107','Flag','Flag','Clear','Non-compliant',755,'High',NULL,7,6,1,3,1,0,0,6,7,19,'5',4,5
+'CS675640','Fail','Fail','Under Review','Compliant',556,'Very High',NULL,2,20,2,3,0,1,1,8,7,3,'1',24,4
+'CS407119','Flag','Pass','Restricted','Non-compliant',615,'Very High','Past',1,1,4,0,1,0,0,14,7,5,'1',25,5
+'CS712274','Flag','Fail','Clear','Compliant',584,'Medium','Past',2,3,0,1,1,0,2,12,4,1,'4',16,1
+'CS483922','Flag','Fail','Restricted','Non-compliant',817,'Low',NULL,10,6,0,0,0,0,1,15,6,18,'5',19,3
+'CS356843','Pass','Pass','Under Review','Compliant',526,'Medium','Current',5,2,1,1,0,0,1,12,9,13,'1',9,2
+'CS210791','Flag','Pass','Under Review','Compliant',787,'Medium',NULL,6,18,1,1,1,0,0,0,6,1,'5',30,9
+'CS118800','Pass','Flag','Restricted','Non-compliant',520,'Very High','Past',2,14,0,3,1,1,0,8,4,3,'0',25,18
+'CS408470','Pass','Fail','Restricted','Compliant',844,'High','Past',7,17,2,3,0,1,1,0,5,4,'1',21,26
+'CS674943','Fail','Fail','Clear','Non-compliant',368,'Very High',NULL,10,16,3,0,1,1,0,10,7,3,'0',6,26
+'CS571956','Flag','Pass','Under Review','Compliant',836,'Low',NULL,0,4,5,0,1,1,1,4,1,19,'0',28,5
+'CS862597','Flag','Fail','Restricted','Compliant',709,'High','Current',10,18,1,2,0,1,2,14,7,2,'3',27,29
+'CS567075','Flag','Flag','Restricted','Non-compliant',484,'Low',NULL,4,2,1,3,1,1,2,10,3,13,'5',22,30
+'CS341619','Flag','Flag','Restricted','Compliant',833,'High','Current',8,3,1,2,0,1,0,2,2,2,'4',15,13

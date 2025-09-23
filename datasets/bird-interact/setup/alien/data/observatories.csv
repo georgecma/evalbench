@@ -1,0 +1,963 @@
+'Observatory-East Darrenport                                 ','Clear','Good',0.040,'First Quarter',125.94,'High','Quiet','17.2762 ',37.60,21.500,26.70,1028.0
+'Observatory-Pearsonstad                                     ','Clear','Poor',0.250,'Full',100.56,'Low','Quiet','17.5804 ',-16.90,67.700,22.00,1022.3
+'Observatory-New Lindastad                                   ','Cloudy','Good',0.210,'Last Quarter',98.09,'High','Storm','10.9481 ',-12.50,25.700,4.40,1011.0
+'Observatory-Port Vanessastad                                ','Partially Cloudy','Excellent',0.280,'Full',69.60,'Moderate','Quiet','19.6423 ',-3.30,61.700,23.80,1008.5
+'Observatory-Oliviachester                                   ','Partially Cloudy','Excellent',0.470,'Last Quarter',108.11,'Moderate','Quiet','2.1064  ',11.80,34.800,6.70,984.6
+'Observatory-Port Carrie                                     ','Cloudy','Good',0.690,'New',30.18,'Low','Storm','18.2093 ',-19.60,70.700,24.50,1019.5
+'Observatory-Port Courtneyborough                            ','Clear','Poor',0.700,'First Quarter',156.24,'Low','Active','21.4975 ',14.50,34.700,27.70,991.7
+'Observatory-Fisherhaven                                     ','Partially Cloudy','Poor',0.570,'New',170.25,'High','Storm','14.7103 ',-19.40,67.100,18.00,1021.6
+'Observatory-Port Lisamouth                                  ','Partially Cloudy','Poor',0.750,'Full',23.22,'Moderate','Active','5.0423  ',25.60,44.200,29.00,991.6
+'Observatory-Morseburgh                                      ','Partially Cloudy','Excellent',0.670,'First Quarter',37.57,'High','Active','1.465   ',13.30,56.800,21.90,986.3
+'Observatory-South Seanshire                                 ','Cloudy','Poor',0.660,'Full',113.35,'Moderate','Quiet','13.0197 ',6.30,94.600,3.40,1021.8
+'Observatory-Tashafurt                                       ','Partially Cloudy','Excellent',0.820,'Full',46.75,'High','Storm','2.359   ',-5.00,80.300,19.80,981.9
+'Observatory-West Heidi                                      ','Clear','Good',0.950,'Full',160.64,'Low','Quiet','9.5095  ',31.40,32.900,17.10,991.3
+'Observatory-Marychester                                     ','Partially Cloudy','Poor',0.750,'First Quarter',62.51,'Moderate','Quiet','17.4286 ',25.60,6.400,5.40,1000.7
+'Observatory-Port Lisatown                                   ','Clear','Good',0.720,'New',68.51,'Moderate','Active','19.5128 ',18.70,79.400,17.40,1018.2
+'Observatory-Michelleberg                                    ','Cloudy','Excellent',0.020,'Last Quarter',151.05,'Moderate','Storm','11.9615 ',-16.50,21.300,14.70,1013.8
+'Observatory-Sullivanmouth                                   ','Clear','Good',0.970,'New',100.08,'Low','Storm','2.3123  ',12.80,86.800,15.30,1021.0
+'Observatory-Carolynfurt                                     ','Clear','Poor',0.140,'Last Quarter',80.68,'High','Active','6.3137  ',19.10,46.700,19.30,1026.2
+'Observatory-New Bernard                                     ','Partially Cloudy','Good',0.500,'Last Quarter',45.93,'Moderate','Quiet','11.1386 ',-12.80,4.400,24.30,1015.2
+'Observatory-Amyfurt                                         ','Clear','Good',0.590,'Full',103.31,'Low','Active','16.6665 ',1.10,42.500,19.30,1025.4
+'Observatory-Lake Rhondatown                                 ','Partially Cloudy','Good',0.310,'First Quarter',166.63,'Moderate','Quiet','20.6141 ',-17.60,72.800,1.10,1023.4
+'Observatory-Pattersonside                                   ','Clear','Excellent',0.200,'First Quarter',86.67,'Low','Quiet','15.6474 ',-8.10,10.000,22.30,1023.7
+'Observatory-Thomasville                                     ','Clear','Good',0.390,'First Quarter',53.08,'High','Quiet','22.6331 ',2.50,72.400,23.10,990.8
+'Observatory-Ericland                                        ','Partially Cloudy','Good',0.210,'New',53.70,'High','Storm','13.1358 ',39.80,2.900,20.80,1005.9
+'Observatory-Hartport                                        ','Cloudy','Excellent',0.950,'Full',107.78,'Low','Active','20.8636 ',-7.70,41.500,19.70,995.4
+'Observatory-Deanfurt                                        ','Partially Cloudy','Excellent',0.230,'Last Quarter',81.63,'Moderate','Quiet','9.6062  ',-16.60,25.000,14.10,985.0
+'Observatory-Thomaschester                                   ','Clear','Good',0.070,'Full',105.26,'Low','Storm','5.7581  ',39.10,38.200,6.40,991.8
+'Observatory-South Georgehaven                               ','Partially Cloudy','Good',0.800,'New',154.00,'High','Active','11.3065 ',10.10,18.700,8.00,1003.7
+'Observatory-Phillipston                                     ','Clear','Excellent',0.310,'Last Quarter',134.83,'Low','Quiet','23.1937 ',10.80,85.000,20.50,992.1
+'Observatory-Leetown                                         ','Cloudy','Good',0.130,'Full',64.83,'High','Storm','10.6069 ',-6.60,52.300,6.00,998.3
+'Observatory-East Jeffrey                                    ','Partially Cloudy','Good',0.940,'Last Quarter',28.93,'High','Quiet','7.8525  ',-16.60,48.100,29.00,1002.4
+'Observatory-South Christopherton                            ','Cloudy','Good',0.260,'New',15.33,'High','Storm','14.6263 ',-9.60,25.700,6.60,992.1
+'Observatory-Port Crystalport                                ','Partially Cloudy','Poor',0.010,'New',93.75,'High','Quiet','18.4035 ',-15.90,75.800,25.40,1001.7
+'Observatory-Rosebury                                        ','Cloudy','Good',0.520,'Last Quarter',80.73,'Moderate','Quiet','6.6802  ',39.50,54.500,7.50,1018.8
+'Observatory-Port Terribury                                  ','Partially Cloudy','Good',0.320,'New',158.43,'High','Quiet','7.2857  ',-17.00,62.100,26.80,1013.8
+'Observatory-South Ricardo                                   ','Partially Cloudy','Poor',0.440,'New',110.66,'High','Storm','13.4702 ',6.10,8.700,21.50,1010.6
+'Observatory-Millerhaven                                     ','Clear','Excellent',0.250,'New',178.40,'Low','Quiet','11.5042 ',17.20,68.800,28.60,1015.8
+'Observatory-East Janetburgh                                 ','Cloudy','Good',0.920,'New',50.07,'High','Storm','20.5253 ',3.40,32.100,17.60,987.5
+'Observatory-Lewischester                                    ','Partially Cloudy','Good',0.750,'Full',81.08,'Low','Quiet','12.7331 ',14.00,55.100,23.10,998.9
+'Observatory-West Katherineport                              ','Partially Cloudy','Good',0.870,'Last Quarter',46.35,'High','Active','19.0785 ',-6.30,90.800,8.80,1006.8
+'Observatory-New Michaelmouth                                ','Cloudy','Excellent',0.090,'Last Quarter',35.86,'High','Quiet','8.4888  ',19.10,42.200,11.90,991.3
+'Observatory-Odonnellville                                   ','Cloudy','Good',0.280,'First Quarter',37.74,'Low','Active','16.296  ',12.70,9.600,20.50,990.8
+'Observatory-Sharonfurt                                      ','Clear','Good',0.140,'New',130.86,'Moderate','Active','14.9344 ',25.20,26.600,2.10,1017.4
+'Observatory-North Kimberly                                  ','Partially Cloudy','Good',0.580,'Last Quarter',143.02,'Low','Quiet','17.9693 ',6.60,78.800,27.90,1006.5
+'Observatory-Guzmanborough                                   ','Cloudy','Excellent',0.310,'New',104.09,'Moderate','Quiet','3.8929  ',-3.80,34.500,2.00,987.0
+'Observatory-Markborough                                     ','Clear','Excellent',0.120,'New',61.08,'Moderate','Quiet','17.6514 ',3.80,60.500,5.90,996.4
+'Observatory-South Janetshire                                ','Partially Cloudy','Poor',0.600,'New',30.64,'Moderate','Active','21.472  ',-18.70,67.000,14.20,1028.1
+'Observatory-Port Sydney                                     ','Partially Cloudy','Poor',0.450,'New',119.60,'Low','Quiet','3.0401  ',15.80,67.800,24.40,1024.1
+'Observatory-Bradmouth                                       ','Cloudy','Good',0.480,'Last Quarter',151.18,'Low','Quiet','19.3682 ',4.70,10.800,11.20,1013.5
+'Observatory-New Laura                                       ','Partially Cloudy','Excellent',0.520,'New',108.99,'Moderate','Quiet','15.7125 ',6.80,47.900,7.20,1003.3
+'Observatory-West Kevinshire                                 ','Partially Cloudy','Excellent',0.610,'New',152.15,'Low','Storm','8.5029  ',15.60,37.300,12.30,1003.0
+'Observatory-Evanfurt                                        ','Partially Cloudy','Good',0.060,'Last Quarter',5.71,'High','Quiet','4.78    ',20.00,69.800,3.70,1018.8
+'Observatory-Mcgeeton                                        ','Clear','Excellent',0.890,'Last Quarter',120.80,'Moderate','Quiet','16.9118 ',-17.10,21.900,18.80,996.0
+'Observatory-North Markland                                  ','Cloudy','Good',0.790,'New',86.23,'High','Quiet','20.4733 ',28.00,47.300,24.70,984.5
+'Observatory-Lake Nathaniel                                  ','Clear','Poor',0.820,'First Quarter',130.34,'Low','Active','15.6326 ',39.10,43.300,11.10,1002.9
+'Observatory-Robertburgh                                     ','Cloudy','Poor',0.100,'New',46.21,'High','Storm','13.0861 ',34.10,44.800,11.50,995.7
+'Observatory-Washingtonton                                   ','Clear','Poor',0.670,'Last Quarter',80.06,'Moderate','Active','3.4047  ',-1.30,99.500,18.00,1013.5
+'Observatory-West Richard                                    ','Partially Cloudy','Poor',0.220,'New',151.61,'High','Quiet','8.1323  ',13.30,15.400,23.60,990.9
+'Observatory-Josephburgh                                     ','Partially Cloudy','Good',0.730,'First Quarter',31.79,'High','Storm','12.0281 ',6.00,94.700,11.20,1023.9
+'Observatory-Derektown                                       ','Clear','Poor',0.590,'New',131.41,'Moderate','Storm','1.9871  ',28.20,68.700,11.30,988.8
+'Observatory-Christianshire                                  ','Partially Cloudy','Good',0.850,'First Quarter',160.94,'Low','Quiet','23.076  ',27.70,92.900,15.30,1017.4
+'Observatory-Vaughnfurt                                      ','Clear','Good',0.580,'New',96.12,'Moderate','Active','10.8697 ',26.20,42.900,21.10,1006.1
+'Observatory-West Toddtown                                   ','Clear','Poor',0.170,'New',24.04,'High','Storm','23.6666 ',35.60,76.100,24.70,995.8
+'Observatory-South Aprilberg                                 ','Clear','Poor',0.510,'First Quarter',90.78,'Moderate','Storm','3.8274  ',18.50,42.400,5.60,997.4
+'Observatory-Raymondborough                                  ','Clear','Poor',0.670,'Full',171.83,'Moderate','Active','2.4023  ',-12.20,30.000,26.90,1003.7
+'Observatory-Port Alyssa                                     ','Cloudy','Poor',0.090,'Last Quarter',4.54,'Low','Active','9.5132  ',6.50,54.300,9.50,1002.0
+'Observatory-New Michael                                     ','Partially Cloudy','Good',0.430,'First Quarter',17.89,'High','Storm','9.6589  ',6.50,32.300,14.40,990.8
+'Observatory-North Michael                                   ','Clear','Excellent',0.870,'New',107.95,'Low','Active','22.3858 ',2.10,2.200,17.30,996.6
+'Observatory-Bennettview                                     ','Partially Cloudy','Poor',0.330,'Full',72.73,'Low','Quiet','22.7426 ',10.90,54.700,29.30,1012.1
+'Observatory-Lake Charles                                    ','Cloudy','Excellent',0.780,'Full',123.18,'Low','Storm','23.2432 ',-14.60,12.600,18.10,981.2
+'Observatory-Carrollville                                    ','Cloudy','Poor',0.360,'Full',85.12,'High','Quiet','14.9792 ',13.20,52.400,21.70,1029.3
+'Observatory-West William                                    ','Clear','Excellent',0.670,'First Quarter',3.78,'High','Storm','19.8723 ',14.00,14.900,23.60,995.1
+'Observatory-Lake Nathanstad                                 ','Clear','Poor',0.830,'Full',21.95,'Low','Storm','22.5732 ',36.40,16.400,29.40,1014.9
+'Observatory-West Stanleymouth                               ','Cloudy','Excellent',0.830,'New',75.02,'High','Quiet','4.1583  ',2.40,19.100,28.10,1021.7
+'Observatory-Finleychester                                   ','Clear','Excellent',0.050,'Full',105.20,'Low','Storm','9.5854  ',33.60,96.600,23.10,1022.9
+'Observatory-Davisstad                                       ','Clear','Good',0.110,'Full',32.63,'High','Storm','12.6217 ',16.50,30.500,1.20,1010.0
+'Observatory-Christinemouth                                  ','Clear','Good',0.310,'Last Quarter',141.88,'Moderate','Quiet','6.4176  ',21.70,78.500,7.70,1004.2
+'Observatory-Angelaside                                      ','Cloudy','Poor',0.890,'New',178.02,'High','Storm','17.9829 ',25.50,49.300,2.20,1024.2
+'Observatory-South Biancaberg                                ','Clear','Good',0.960,'New',63.99,'Moderate','Quiet','12.3879 ',12.50,12.900,5.70,987.0
+'Observatory-West Susanhaven                                 ','Partially Cloudy','Poor',0.640,'New',166.48,'Low','Quiet','10.0912 ',25.50,91.800,4.40,999.8
+'Observatory-Murphystad                                      ','Cloudy','Good',0.940,'First Quarter',65.41,'Moderate','Storm','9.3466  ',25.20,44.700,3.60,990.4
+'Observatory-Walshport                                       ','Cloudy','Good',0.260,'Full',47.18,'Low','Quiet','12.9741 ',-5.40,81.200,17.90,1018.9
+'Observatory-Turnerburgh                                     ','Cloudy','Good',0.330,'Full',175.02,'High','Active','23.1045 ',11.70,65.400,8.80,1002.9
+'Observatory-South Lindachester                              ','Clear','Good',0.320,'First Quarter',131.19,'High','Storm','5.657   ',16.50,10.600,1.60,981.3
+'Observatory-North Tammymouth                                ','Cloudy','Poor',0.090,'Full',3.51,'High','Active','11.095  ',30.10,41.400,24.60,1023.4
+'Observatory-Hofurt                                          ','Clear','Good',0.160,'First Quarter',132.81,'High','Active','16.9724 ',-13.50,62.900,8.70,1017.7
+'Observatory-New Yolanda                                     ','Clear','Poor',0.600,'Last Quarter',55.63,'Low','Active','13.3615 ',5.70,78.100,12.10,1010.9
+'Observatory-North Thomasshire                               ','Cloudy','Poor',0.890,'First Quarter',115.69,'Low','Active','17.7497 ',33.70,63.700,24.00,1025.8
+'Observatory-Stewartstad                                     ','Cloudy','Poor',0.140,'Last Quarter',56.74,'Moderate','Quiet','8.5293  ',31.40,64.000,5.20,1015.0
+'Observatory-Natashaland                                     ','Partially Cloudy','Poor',0.080,'Last Quarter',108.27,'Moderate','Active','8.291   ',23.10,49.500,17.30,993.8
+'Observatory-Charlesland                                     ','Partially Cloudy','Good',0.550,'New',88.49,'High','Quiet','19.5779 ',-8.30,46.200,20.00,1012.4
+'Observatory-Alexandrafort                                   ','Partially Cloudy','Poor',0.470,'Last Quarter',92.78,'High','Quiet','2.876   ',30.30,2.400,12.10,987.8
+'Observatory-West Katherine                                  ','Cloudy','Excellent',0.130,'Last Quarter',80.17,'Low','Quiet','21.9531 ',-6.70,43.200,4.50,994.1
+'Observatory-North Suzanneside                               ','Clear','Good',0.330,'Full',142.42,'Low','Quiet','0.7808  ',12.10,22.600,21.60,983.8
+'Observatory-Rachelborough                                   ','Clear','Poor',0.940,'Full',95.60,'High','Storm','4.3002  ',6.00,82.100,25.40,980.0
+'Observatory-South Marychester                               ','Cloudy','Excellent',0.840,'Full',64.56,'Low','Storm','7.0897  ',18.50,90.300,5.70,997.8
+'Observatory-Richardview                                     ','Cloudy','Excellent',0.950,'Full',164.61,'Moderate','Storm','12.7223 ',15.20,16.700,1.90,1019.5
+'Observatory-Elizabethville                                  ','Partially Cloudy','Excellent',0.200,'Last Quarter',128.83,'High','Storm','14.4709 ',-5.90,36.600,24.10,1025.7
+'Observatory-West Paula                                      ','Partially Cloudy','Poor',0.650,'First Quarter',129.09,'High','Quiet','10.2031 ',23.90,65.200,19.20,1001.4
+'Observatory-East Anthonyton                                 ','Partially Cloudy','Poor',0.310,'Full',46.33,'High','Quiet','19.6352 ',-2.50,93.800,17.10,1004.0
+'Observatory-West Thomas                                     ','Clear','Good',0.560,'Last Quarter',78.70,'High','Active','6.3045  ',-13.00,82.400,26.80,1020.1
+'Observatory-West Jennifer                                   ','Partially Cloudy','Poor',0.310,'First Quarter',83.68,'Moderate','Active','5.6829  ',14.00,38.200,22.40,1010.9
+'Observatory-New Robert                                      ','Clear','Poor',0.300,'Last Quarter',157.84,'High','Storm','15.009  ',6.60,15.600,12.40,1018.9
+'Observatory-Lake Kenneth                                    ','Partially Cloudy','Good',0.140,'New',65.86,'High','Quiet','12.2451 ',-9.50,14.800,18.30,1025.4
+'Observatory-South Annetteland                               ','Partially Cloudy','Good',0.830,'New',68.74,'Moderate','Active','2.8668  ',12.50,31.200,15.80,1017.2
+'Observatory-Michaelton                                      ','Cloudy','Excellent',0.510,'Last Quarter',141.06,'Moderate','Storm','8.9131  ',-3.70,95.900,29.60,992.0
+'Observatory-Andersonfort                                    ','Clear','Good',0.820,'First Quarter',152.27,'High','Quiet','9.1887  ',9.50,17.500,5.90,1019.2
+'Observatory-Francischester                                  ','Partially Cloudy','Good',0.810,'New',32.07,'Low','Storm','12.5714 ',-12.70,11.100,13.80,996.9
+'Observatory-West Jonathanside                               ','Cloudy','Poor',0.960,'New',43.21,'High','Quiet','12.0752 ',-6.10,88.300,12.40,1003.6
+'Observatory-Wendymouth                                      ','Partially Cloudy','Excellent',0.250,'Last Quarter',40.81,'High','Quiet','1.667   ',-10.80,64.600,12.70,1020.2
+'Observatory-New Taylorfurt                                  ','Partially Cloudy','Good',0.300,'Last Quarter',174.46,'Low','Active','12.8229 ',-6.30,8.900,8.50,996.2
+'Observatory-Lake Wendyville                                 ','Clear','Poor',0.040,'First Quarter',38.67,'Low','Active','1.4022  ',13.10,58.200,22.70,982.3
+'Observatory-Patriciahaven                                   ','Clear','Good',0.770,'Full',138.12,'High','Storm','4.3563  ',-12.20,3.300,25.70,1028.1
+'Observatory-Andrewborough                                   ','Cloudy','Poor',0.890,'New',154.76,'Low','Quiet','19.6037 ',-2.60,88.800,20.60,1007.1
+'Observatory-Onealburgh                                      ','Clear','Poor',0.430,'First Quarter',18.50,'Low','Quiet','0.9236  ',15.90,79.000,18.10,1028.5
+'Observatory-Rodneyton                                       ','Cloudy','Poor',0.940,'Last Quarter',29.47,'Moderate','Quiet','9.066   ',-13.10,26.400,1.00,1010.2
+'Observatory-Wernermouth                                     ','Partially Cloudy','Poor',0.440,'Last Quarter',123.90,'Low','Quiet','7.7999  ',36.80,78.100,13.60,998.1
+'Observatory-Bassborough                                     ','Cloudy','Poor',0.250,'New',99.87,'Moderate','Quiet','4.4043  ',24.60,82.300,8.20,995.8
+'Observatory-East Kevin                                      ','Cloudy','Poor',0.090,'First Quarter',29.22,'High','Active','21.2775 ',17.30,81.300,5.00,991.8
+'Observatory-Anthonyberg                                     ','Partially Cloudy','Good',0.150,'First Quarter',129.55,'Moderate','Storm','10.9058 ',9.80,76.400,5.80,1023.3
+'Observatory-South Michaelborough                            ','Clear','Poor',0.550,'New',129.91,'High','Active','13.3026 ',9.80,2.000,23.80,1007.0
+'Observatory-Lake Jamie                                      ','Partially Cloudy','Good',0.730,'Last Quarter',52.09,'Moderate','Quiet','8.0549  ',-17.60,67.100,0.20,1013.8
+'Observatory-Kennethtown                                     ','Cloudy','Poor',0.060,'First Quarter',28.70,'High','Storm','2.3657  ',29.00,88.000,3.50,996.1
+'Observatory-New Lisa                                        ','Clear','Excellent',0.970,'New',80.06,'High','Quiet','21.2006 ',34.30,54.200,3.90,1020.9
+'Observatory-East Robertmouth                                ','Cloudy','Good',0.980,'Full',126.35,'Moderate','Active','23.837  ',33.50,73.200,12.40,1025.2
+'Observatory-Nathanshire                                     ','Clear','Excellent',0.530,'First Quarter',49.59,'High','Quiet','23.2881 ',-12.40,55.200,19.90,1001.9
+'Observatory-Moralesburgh                                    ','Clear','Poor',0.100,'First Quarter',50.63,'Low','Quiet','0.2623  ',28.10,66.500,5.30,980.6
+'Observatory-New Jenny                                       ','Partially Cloudy','Good',0.260,'Last Quarter',61.16,'Moderate','Active','10.2762 ',7.00,39.600,19.00,985.8
+'Observatory-East Samantha                                   ','Clear','Poor',0.910,'Full',29.63,'Moderate','Quiet','5.0881  ',-9.50,15.200,20.20,999.3
+'Observatory-New Keithshire                                  ','Clear','Poor',0.640,'Last Quarter',130.96,'High','Quiet','6.3572  ',31.90,0.800,27.00,1016.2
+'Observatory-Port Amandabury                                 ','Cloudy','Good',0.340,'Full',57.29,'Low','Storm','17.0673 ',-14.60,91.700,10.20,1016.5
+'Observatory-Mauricechester                                  ','Clear','Poor',0.040,'First Quarter',22.13,'Moderate','Quiet','14.4706 ',27.80,72.900,1.90,996.6
+'Observatory-Paulchester                                     ','Cloudy','Good',0.770,'New',173.54,'Low','Quiet','14.6262 ',34.30,67.300,8.70,1001.5
+'Observatory-Lake Jacob                                      ','Clear','Poor',0.960,'First Quarter',164.87,'Moderate','Quiet','0.9004  ',-5.20,92.600,9.60,981.2
+'Observatory-Donaldview                                      ','Partially Cloudy','Poor',0.420,'First Quarter',67.62,'Moderate','Quiet','11.8718 ',37.50,62.400,13.10,1028.4
+'Observatory-Randymouth                                      ','Partially Cloudy','Good',0.080,'First Quarter',95.46,'High','Storm','7.8875  ',23.20,4.300,0.30,1004.9
+'Observatory-Justinfort                                      ','Cloudy','Poor',0.390,'Last Quarter',48.60,'Low','Quiet','9.0757  ',2.20,37.000,8.30,995.4
+'Observatory-Port Emily                                      ','Partially Cloudy','Good',0.780,'Last Quarter',26.86,'High','Storm','23.1449 ',-7.40,76.800,23.50,1011.1
+'Observatory-South Marie                                     ','Clear','Good',0.840,'Full',71.27,'High','Storm','14.2474 ',13.60,4.300,21.20,986.9
+'Observatory-Ericaside                                       ','Clear','Good',0.280,'Last Quarter',93.43,'High','Storm','8.0895  ',-8.10,73.700,16.30,1023.5
+'Observatory-Kimchester                                      ','Clear','Excellent',0.970,'First Quarter',107.30,'Low','Active','2.5373  ',31.70,26.800,22.90,989.6
+'Observatory-Taylorshire                                     ','Partially Cloudy','Poor',0.510,'New',71.80,'High','Quiet','9.4311  ',26.40,18.000,21.00,983.6
+'Observatory-Lake Rebecca                                    ','Clear','Good',0.800,'New',44.19,'High','Storm','18.4341 ',15.50,6.700,26.50,1020.6
+'Observatory-Keithborough                                    ','Cloudy','Poor',0.020,'New',154.82,'Low','Storm','23.9455 ',-4.70,91.500,6.10,1022.7
+'Observatory-Port Michaelton                                 ','Clear','Excellent',0.550,'Full',60.96,'Low','Active','19.0748 ',8.90,24.100,0.30,983.2
+'Observatory-Leslieside                                      ','Partially Cloudy','Excellent',0.790,'Full',163.98,'Low','Active','12.1048 ',-11.20,92.900,17.50,1007.8
+'Observatory-West Michael                                    ','Partially Cloudy','Excellent',0.780,'Full',55.45,'High','Active','5.8165  ',5.60,8.400,18.20,983.3
+'Observatory-Douglastown                                     ','Cloudy','Excellent',0.250,'Last Quarter',115.71,'Low','Storm','10.1153 ',8.60,54.700,20.20,992.4
+'Observatory-Baxterchester                                   ','Clear','Excellent',0.120,'Last Quarter',107.31,'High','Quiet','19.2918 ',-13.40,78.400,2.90,993.0
+'Observatory-New Matthew                                     ','Cloudy','Good',0.990,'First Quarter',158.90,'Low','Active','21.9727 ',8.20,36.500,29.80,1022.0
+'Observatory-South Melinda                                   ','Clear','Poor',0.900,'New',25.68,'Moderate','Storm','6.437   ',-12.90,81.000,28.20,1029.4
+'Observatory-East Jessica                                    ','Cloudy','Good',0.880,'New',47.34,'High','Active','10.2149 ',23.10,11.100,28.70,1024.5
+'Observatory-South Rachel                                    ','Clear','Excellent',0.120,'New',115.72,'High','Storm','2.5591  ',23.20,33.900,6.50,996.1
+'Observatory-East Michael                                    ','Cloudy','Poor',0.660,'Last Quarter',73.23,'Low','Active','3.3774  ',24.70,30.500,14.20,1022.9
+'Observatory-Michellechester                                 ','Cloudy','Excellent',0.390,'New',128.15,'Low','Storm','6.8143  ',8.30,79.600,26.90,1029.2
+'Observatory-Kellyside                                       ','Clear','Excellent',0.510,'Last Quarter',102.31,'High','Active','10.4979 ',7.50,21.700,18.90,990.6
+'Observatory-North April                                     ','Partially Cloudy','Poor',0.790,'Last Quarter',150.77,'Low','Storm','19.3208 ',-4.40,79.400,16.40,995.9
+'Observatory-Port Patrick                                    ','Partially Cloudy','Good',0.880,'First Quarter',171.74,'High','Active','21.8908 ',14.40,74.000,10.60,1003.4
+'Observatory-New Kurtstad                                    ','Partially Cloudy','Excellent',0.790,'First Quarter',67.38,'Moderate','Storm','13.7934 ',27.00,29.100,15.60,995.3
+'Observatory-Smithview                                       ','Clear','Good',0.110,'Last Quarter',30.10,'High','Active','8.673   ',14.30,17.000,25.80,1002.3
+'Observatory-Howardton                                       ','Partially Cloudy','Poor',0.140,'Full',51.96,'Low','Storm','13.5253 ',28.30,26.200,17.70,988.3
+'Observatory-Scottfurt                                       ','Clear','Good',0.100,'First Quarter',99.64,'Low','Storm','16.3231 ',7.80,37.000,7.30,1005.3
+'Observatory-Staceyview                                      ','Clear','Good',0.690,'First Quarter',143.19,'High','Storm','18.2426 ',27.60,8.800,18.70,1014.0
+'Observatory-South Preston                                   ','Cloudy','Poor',0.760,'First Quarter',110.78,'High','Storm','15.8338 ',37.10,70.800,23.30,1011.5
+'Observatory-Port Rachel                                     ','Clear','Good',0.620,'First Quarter',96.95,'Moderate','Quiet','21.8396 ',1.40,88.500,2.40,1005.3
+'Observatory-North Jesseland                                 ','Cloudy','Good',0.520,'Full',81.70,'Low','Active','12.7888 ',16.40,31.600,17.10,1027.4
+'Observatory-Lake William                                    ','Clear','Poor',0.440,'Full',81.90,'Moderate','Quiet','20.3618 ',-5.00,51.800,12.40,988.4
+'Observatory-Browntown                                       ','Cloudy','Excellent',0.700,'Last Quarter',99.40,'Moderate','Quiet','8.0168  ',-4.30,39.500,0.10,1010.6
+'Observatory-Kathleenburgh                                   ','Clear','Excellent',0.140,'First Quarter',113.17,'Low','Quiet','18.5498 ',29.20,55.800,11.50,1007.7
+'Observatory-East Janetbury                                  ','Partially Cloudy','Excellent',0.940,'First Quarter',45.39,'Moderate','Quiet','3.7058  ',38.90,74.400,0.90,987.7
+'Observatory-North Tinaville                                 ','Cloudy','Good',0.180,'First Quarter',76.89,'Moderate','Active','12.8942 ',-7.20,55.800,22.00,984.9
+'Observatory-West Tylertown                                  ','Clear','Good',0.100,'Full',50.71,'Low','Storm','20.7938 ',24.90,17.800,13.00,1001.4
+'Observatory-Christianstad                                   ','Partially Cloudy','Poor',0.460,'Last Quarter',142.12,'Low','Quiet','5.0521  ',7.50,98.500,14.10,986.2
+'Observatory-East Aliciabury                                 ','Cloudy','Good',0.910,'First Quarter',26.55,'Moderate','Active','10.8799 ',23.70,38.800,21.70,985.2
+'Observatory-South Karenborough                              ','Partially Cloudy','Good',0.340,'First Quarter',9.16,'Low','Active','0.3052  ',31.70,68.100,13.40,1018.2
+'Observatory-East Christopher                                ','Partially Cloudy','Poor',0.980,'First Quarter',106.00,'Low','Quiet','18.97   ',19.60,96.400,5.90,1004.3
+'Observatory-Joneston                                        ','Cloudy','Good',0.660,'New',24.10,'Low','Storm','21.4463 ',1.90,63.000,27.50,1029.5
+'Observatory-East Samanthaland                               ','Partially Cloudy','Good',0.300,'Last Quarter',169.20,'Moderate','Active','1.3272  ',-19.10,29.900,5.50,1004.3
+'Observatory-Davidtown                                       ','Partially Cloudy','Excellent',0.080,'First Quarter',129.88,'Low','Quiet','5.6482  ',-5.40,15.600,12.50,1019.7
+'Observatory-New Christinefort                               ','Cloudy','Poor',0.850,'First Quarter',30.83,'High','Storm','17.0108 ',26.70,82.300,1.40,997.0
+'Observatory-West Briannachester                             ','Clear','Excellent',0.920,'First Quarter',4.02,'High','Quiet','2.9794  ',27.30,4.500,6.90,1018.8
+'Observatory-East Brett                                      ','Clear','Poor',0.140,'First Quarter',2.89,'Low','Storm','1.2534  ',3.00,5.400,25.60,1018.6
+'Observatory-New Steve                                       ','Clear','Good',0.920,'First Quarter',32.57,'Moderate','Active','23.1631 ',-0.50,84.100,26.10,1022.6
+'Observatory-Port Nathan                                     ','Cloudy','Poor',0.690,'Full',26.50,'High','Quiet','6.2416  ',10.00,13.200,28.10,1027.7
+'Observatory-Allenport                                       ','Partially Cloudy','Excellent',0.460,'New',57.50,'Moderate','Storm','18.8103 ',-12.80,79.700,5.20,985.3
+'Observatory-Kelleystad                                      ','Partially Cloudy','Good',0.590,'Last Quarter',140.89,'Low','Storm','10.6949 ',17.80,55.000,29.30,1009.0
+'Observatory-Arthurmouth                                     ','Clear','Good',0.180,'New',92.06,'Moderate','Storm','20.6115 ',8.10,90.600,2.70,991.4
+'Observatory-New Kaylastad                                   ','Clear','Excellent',0.210,'First Quarter',147.63,'High','Storm','11.7477 ',28.60,92.500,10.50,984.8
+'Observatory-Raymondfurt                                     ','Partially Cloudy','Poor',0.170,'Full',96.48,'Low','Quiet','11.9925 ',-8.20,3.100,18.80,982.0
+'Observatory-North Teresa                                    ','Clear','Poor',0.260,'First Quarter',174.40,'Moderate','Active','9.3105  ',-11.40,42.900,29.70,989.0
+'Observatory-Mercadomouth                                    ','Partially Cloudy','Excellent',0.130,'Last Quarter',167.54,'Low','Quiet','18.447  ',-18.00,91.700,17.20,998.5
+'Observatory-Port Nicholas                                   ','Partially Cloudy','Poor',0.030,'Full',75.94,'Low','Storm','18.6187 ',9.90,58.400,4.50,1007.8
+'Observatory-Adriantown                                      ','Partially Cloudy','Good',0.350,'New',53.66,'High','Active','12.0143 ',21.20,60.700,22.60,1017.3
+'Observatory-Lake Heather                                    ','Clear','Excellent',0.710,'New',74.58,'Moderate','Storm','20.5915 ',16.70,4.100,18.10,983.9
+'Observatory-Sergioton                                       ','Clear','Excellent',0.490,'New',14.94,'High','Active','1.9515  ',7.80,67.100,15.50,1000.6
+'Observatory-New Stephaniehaven                              ','Cloudy','Good',0.710,'Full',157.29,'Moderate','Active','9.1923  ',27.30,41.600,1.10,1002.7
+'Observatory-Melissahaven                                    ','Clear','Excellent',0.360,'Last Quarter',12.54,'High','Storm','23.3873 ',-6.60,93.100,8.80,1027.2
+'Observatory-Ericburgh                                       ','Partially Cloudy','Excellent',0.650,'New',173.77,'Moderate','Quiet','20.6712 ',24.30,30.900,19.20,1023.3
+'Observatory-Port Jesse                                      ','Clear','Good',0.140,'Last Quarter',86.38,'High','Quiet','10.7475 ',-2.70,34.900,24.00,1004.9
+'Observatory-Kimborough                                      ','Clear','Excellent',0.730,'Full',155.96,'Low','Storm','20.3309 ',32.70,83.000,2.40,1020.5
+'Observatory-Kimberlyborough                                 ','Partially Cloudy','Good',0.340,'First Quarter',97.67,'Moderate','Storm','0.8552  ',20.60,51.200,8.60,1023.1
+'Observatory-Jamesberg                                       ','Clear','Excellent',0.800,'Full',31.98,'Moderate','Quiet','23.2591 ',-3.10,0.600,5.80,999.1
+'Observatory-East Pamelaburgh                                ','Partially Cloudy','Excellent',0.120,'Full',163.04,'Low','Active','18.0144 ',6.00,66.400,21.30,997.4
+'Observatory-South Alexandra                                 ','Clear','Good',0.140,'Last Quarter',144.92,'Low','Active','15.4454 ',-5.00,0.000,2.40,1001.9
+'Observatory-South Amberbury                                 ','Cloudy','Poor',0.230,'Last Quarter',111.13,'High','Quiet','15.7418 ',-2.30,93.900,12.20,1018.3
+'Observatory-Christopherside                                 ','Partially Cloudy','Poor',0.270,'Last Quarter',94.66,'Moderate','Active','2.3864  ',0.50,16.900,1.50,1011.1
+'Observatory-Lake Courtneyfurt                               ','Clear','Excellent',0.420,'Last Quarter',4.10,'High','Storm','9.17    ',-3.60,94.600,10.50,1029.4
+'Observatory-Fergusonborough                                 ','Partially Cloudy','Poor',0.290,'Full',28.20,'Moderate','Active','14.0861 ',-7.20,95.300,6.70,1009.9
+'Observatory-Christinaside                                   ','Clear','Excellent',0.230,'First Quarter',45.70,'Moderate','Storm','18.1073 ',-7.20,18.400,10.80,984.5
+'Observatory-East Ryanburgh                                  ','Cloudy','Poor',0.720,'First Quarter',148.29,'Moderate','Active','16.0782 ',-14.90,1.800,28.30,1000.5
+'Observatory-Jasonbury                                       ','Cloudy','Poor',0.790,'Last Quarter',34.56,'Low','Active','6.1294  ',12.00,53.400,26.50,991.2
+'Observatory-Wagnerfort                                      ','Cloudy','Poor',0.860,'Full',39.42,'Moderate','Quiet','21.9439 ',9.20,72.700,19.90,1017.2
+'Observatory-Jeffberg                                        ','Partially Cloudy','Excellent',0.630,'Full',128.43,'Low','Storm','17.6889 ',24.40,45.900,15.40,1013.0
+'Observatory-Allisonstad                                     ','Cloudy','Excellent',0.840,'New',131.39,'High','Storm','16.6096 ',23.90,16.100,29.60,996.9
+'Observatory-Robertton                                       ','Clear','Excellent',0.130,'New',124.34,'Moderate','Storm','8.3914  ',1.10,56.000,4.60,992.2
+'Observatory-North Michaelbury                               ','Cloudy','Good',0.840,'Last Quarter',75.20,'Moderate','Active','2.2897  ',0.70,32.200,22.20,1013.4
+'Observatory-Sandraberg                                      ','Clear','Excellent',0.450,'Last Quarter',56.28,'High','Quiet','23.1824 ',24.90,81.600,27.00,1004.1
+'Observatory-Chenview                                        ','Clear','Poor',0.670,'First Quarter',121.88,'Low','Quiet','0.4126  ',-5.00,45.700,26.60,1020.2
+'Observatory-South Wayne                                     ','Partially Cloudy','Poor',0.050,'Full',56.42,'Moderate','Active','3.4881  ',23.40,18.100,18.00,999.1
+'Observatory-North Elizabethfort                             ','Cloudy','Poor',0.300,'New',78.30,'High','Active','10.6052 ',13.00,75.600,28.90,1012.4
+'Observatory-Robinsonshire                                   ','Cloudy','Excellent',0.460,'First Quarter',19.97,'Moderate','Quiet','20.0423 ',-16.30,13.400,21.90,991.9
+'Observatory-Port Shannonmouth                               ','Cloudy','Good',0.530,'Last Quarter',119.54,'Moderate','Quiet','5.2242  ',17.90,52.100,11.60,1022.3
+'Observatory-Tracyfurt                                       ','Cloudy','Excellent',0.260,'Last Quarter',62.52,'Moderate','Storm','18.958  ',3.10,16.800,7.30,991.5
+'Observatory-South Williamstad                               ','Clear','Good',0.270,'Last Quarter',48.98,'Moderate','Quiet','14.5251 ',-6.00,7.300,27.40,1015.1
+'Observatory-Port Beverly                                    ','Clear','Good',0.920,'New',11.00,'High','Quiet','22.1506 ',6.40,25.300,7.10,985.5
+'Observatory-Hansentown                                      ','Cloudy','Poor',0.960,'Last Quarter',70.30,'Moderate','Storm','8.6549  ',-0.30,86.800,20.50,985.8
+'Observatory-Port Nathaniel                                  ','Clear','Excellent',0.700,'New',72.91,'Moderate','Storm','6.2814  ',27.00,95.200,14.00,982.6
+'Observatory-Michaelville                                    ','Clear','Excellent',0.970,'Last Quarter',65.26,'Moderate','Quiet','16.3686 ',7.30,20.600,13.10,1024.0
+'Observatory-Sheilahaven                                     ','Clear','Good',0.150,'Last Quarter',62.69,'Low','Storm','18.2233 ',-8.30,36.300,29.80,1022.7
+'Observatory-New Catherine                                   ','Cloudy','Good',0.920,'First Quarter',40.99,'Low','Active','4.6413  ',18.60,79.300,11.20,981.3
+'Observatory-Rodriguezshire                                  ','Cloudy','Poor',0.690,'Full',92.26,'Moderate','Quiet','22.4424 ',12.90,34.200,2.80,1002.6
+'Observatory-West Juan                                       ','Clear','Excellent',0.160,'New',26.09,'Low','Quiet','3.3181  ',39.80,81.600,13.80,1020.5
+'Observatory-Rodriguezview                                   ','Cloudy','Poor',0.670,'New',39.96,'Low','Active','0.2703  ',32.50,41.500,19.30,1009.2
+'Observatory-Evelynland                                      ','Cloudy','Good',0.950,'Last Quarter',112.98,'Low','Quiet','6.0602  ',35.50,70.800,24.40,1016.9
+'Observatory-New Briannashire                                ','Clear','Good',0.100,'First Quarter',70.85,'High','Active','12.6729 ',34.30,83.800,28.90,1023.3
+'Observatory-West Matthewberg                                ','Clear','Excellent',0.880,'Full',137.28,'High','Quiet','20.8516 ',-18.60,34.200,21.20,981.5
+'Observatory-Vincentberg                                     ','Partially Cloudy','Good',0.480,'First Quarter',165.17,'Moderate','Active','8.6128  ',-10.90,1.400,16.50,995.8
+'Observatory-Houstonmouth                                    ','Partially Cloudy','Good',0.270,'New',120.05,'High','Quiet','4.6357  ',-4.80,2.400,0.20,1012.7
+'Observatory-East Ryanfurt                                   ','Cloudy','Good',0.710,'Last Quarter',118.98,'Moderate','Storm','9.7993  ',-7.80,19.700,18.00,1010.9
+'Observatory-Kristyland                                      ','Cloudy','Good',0.030,'New',119.19,'Low','Quiet','1.2626  ',11.00,69.000,13.00,981.1
+'Observatory-New Ashleymouth                                 ','Clear','Poor',0.340,'New',154.95,'Low','Active','12.4365 ',10.70,62.400,14.70,1006.2
+'Observatory-Lake Kathryn                                    ','Clear','Excellent',0.080,'Full',16.05,'Low','Storm','0.388   ',16.70,49.600,8.90,990.4
+'Observatory-West Kenneth                                    ','Partially Cloudy','Excellent',0.760,'First Quarter',15.72,'Moderate','Storm','19.9871 ',34.00,16.000,22.50,999.7
+'Observatory-Riveraberg                                      ','Cloudy','Excellent',0.690,'Full',125.10,'High','Quiet','8.2834  ',21.50,39.700,28.50,980.9
+'Observatory-Changfort                                       ','Cloudy','Excellent',0.910,'First Quarter',157.72,'Moderate','Quiet','11.7608 ',34.90,77.300,16.50,1003.0
+'Observatory-Deannafort                                      ','Clear','Poor',0.570,'Last Quarter',178.72,'Low','Storm','14.0586 ',-6.10,22.700,15.70,1024.0
+'Observatory-Elizabethbury                                   ','Clear','Poor',0.420,'Last Quarter',128.65,'Low','Storm','9.916   ',0.80,45.800,27.60,1006.7
+'Observatory-Lake Karen                                      ','Clear','Excellent',0.450,'Last Quarter',134.50,'High','Quiet','12.9601 ',15.60,89.000,10.70,1001.3
+'Observatory-North Jamesfort                                 ','Clear','Excellent',0.450,'Full',177.54,'High','Active','19.228  ',6.20,51.900,7.20,982.3
+'Observatory-Stewartville                                    ','Cloudy','Excellent',0.870,'Last Quarter',178.75,'Moderate','Storm','8.144   ',-7.60,98.700,20.20,980.5
+'Observatory-Harrellland                                     ','Cloudy','Excellent',0.420,'Full',10.58,'High','Active','13.2019 ',14.30,34.900,8.20,1002.5
+'Observatory-Port Joseph                                     ','Clear','Good',0.110,'New',53.86,'Moderate','Active','14.207  ',-13.70,9.200,24.30,982.2
+'Observatory-Tonyville                                       ','Cloudy','Good',0.780,'Full',168.03,'Moderate','Storm','5.6593  ',32.40,0.400,10.10,986.6
+'Observatory-Port Daniellefort                               ','Clear','Excellent',0.770,'New',48.66,'Moderate','Storm','11.3249 ',14.90,80.400,9.10,1003.1
+'Observatory-Lake Brandon                                    ','Partially Cloudy','Good',0.400,'Last Quarter',137.06,'High','Storm','11.854  ',14.80,16.300,12.90,987.4
+'Observatory-Emilyborough                                    ','Cloudy','Good',0.450,'Last Quarter',106.19,'Low','Storm','19.2825 ',10.40,60.500,25.30,980.5
+'Observatory-Port Linda                                      ','Partially Cloudy','Poor',0.060,'First Quarter',146.60,'Moderate','Storm','12.1705 ',6.20,96.800,18.80,1020.0
+'Observatory-Kennethbury                                     ','Clear','Poor',0.950,'Full',124.93,'Moderate','Quiet','17.6033 ',15.20,51.800,19.60,1007.8
+'Observatory-Tylerberg                                       ','Clear','Good',0.440,'Last Quarter',99.95,'High','Storm','17.2516 ',32.00,24.800,1.60,1019.6
+'Observatory-New Timothyhaven                                ','Partially Cloudy','Excellent',0.060,'Full',35.10,'High','Quiet','7.4455  ',36.90,16.400,17.70,990.8
+'Observatory-North Tamaraport                                ','Clear','Excellent',0.550,'Last Quarter',167.16,'Low','Quiet','1.291   ',6.40,3.400,29.80,1003.6
+'Observatory-South Teresahaven                               ','Partially Cloudy','Poor',0.750,'New',167.10,'Low','Active','14.1561 ',38.70,32.800,3.20,1009.0
+'Observatory-Kelseyshire                                     ','Clear','Good',0.260,'Last Quarter',21.18,'Moderate','Quiet','8.1434  ',-7.30,85.600,16.60,1001.8
+'Observatory-Lake Christopher                                ','Partially Cloudy','Excellent',0.640,'Last Quarter',160.15,'Low','Active','2.0749  ',-5.20,41.900,22.00,997.1
+'Observatory-North Michelleside                              ','Cloudy','Poor',0.740,'Full',50.08,'Moderate','Active','4.9362  ',-7.50,45.500,24.90,1020.5
+'Observatory-Port Matthew                                    ','Partially Cloudy','Excellent',0.360,'Last Quarter',114.45,'Low','Storm','20.5016 ',-9.60,11.200,21.00,1006.2
+'Observatory-Bennetthaven                                    ','Partially Cloudy','Poor',0.750,'Full',119.91,'High','Active','11.706  ',0.70,98.000,29.20,1022.7
+'Observatory-Stephenbury                                     ','Clear','Good',0.280,'Last Quarter',93.31,'Low','Quiet','2.6445  ',23.20,98.700,2.20,988.6
+'Observatory-Robertmouth                                     ','Cloudy','Good',0.500,'New',54.00,'Moderate','Active','8.1582  ',23.00,95.400,5.40,1020.2
+'Observatory-Colemanshire                                    ','Cloudy','Good',0.890,'Full',142.91,'Low','Storm','19.4368 ',3.00,34.700,14.90,992.0
+'Observatory-East Christopherberg                            ','Clear','Good',0.690,'Last Quarter',160.33,'Low','Active','18.9307 ',31.80,74.500,24.10,987.0
+'Observatory-South Renee                                     ','Partially Cloudy','Excellent',0.570,'First Quarter',49.91,'Moderate','Active','7.0479  ',35.20,48.800,26.70,1016.3
+'Observatory-North Steven                                    ','Cloudy','Good',0.130,'Full',143.62,'Moderate','Quiet','20.2227 ',3.50,67.700,6.00,1006.8
+'Observatory-New Scottland                                   ','Partially Cloudy','Good',0.720,'Last Quarter',80.36,'High','Active','10.6707 ',14.50,44.300,2.70,992.2
+'Observatory-Costamouth                                      ','Clear','Excellent',0.990,'Full',36.74,'Low','Active','14.5139 ',23.40,25.400,20.10,989.2
+'Observatory-East Sierra                                     ','Clear','Good',0.900,'Last Quarter',139.99,'Low','Storm','15.3291 ',13.60,11.900,21.50,995.8
+'Observatory-Melissastad                                     ','Cloudy','Good',0.630,'Full',98.45,'Moderate','Quiet','23.7129 ',38.00,35.900,1.10,996.2
+'Observatory-Mendezmouth                                     ','Cloudy','Excellent',0.420,'First Quarter',27.48,'High','Storm','10.7477 ',37.90,54.200,15.60,985.2
+'Observatory-West Christopher                                ','Partially Cloudy','Poor',0.090,'Last Quarter',173.60,'High','Storm','16.1431 ',9.80,24.900,18.00,985.5
+'Observatory-North Sophiaport                                ','Cloudy','Excellent',0.010,'New',89.35,'Moderate','Storm','4.5339  ',13.00,93.900,14.30,1024.6
+'Observatory-Robinsonbury                                    ','Clear','Good',0.230,'Last Quarter',134.96,'High','Quiet','5.4713  ',25.10,6.200,6.10,999.2
+'Observatory-Maryberg                                        ','Cloudy','Excellent',0.720,'Full',27.00,'High','Quiet','10.9241 ',25.70,70.400,14.90,1000.5
+'Observatory-Charleston                                      ','Clear','Excellent',0.210,'First Quarter',168.08,'Low','Storm','7.5719  ',3.20,31.000,9.20,1019.7
+'Observatory-West Brianfurt                                  ','Cloudy','Good',0.870,'Last Quarter',7.81,'High','Active','10.8342 ',16.10,55.700,20.30,987.9
+'Observatory-West Timothyhaven                               ','Partially Cloudy','Good',0.420,'Last Quarter',0.07,'High','Quiet','16.6703 ',11.30,80.600,24.10,995.1
+'Observatory-Samuelchester                                   ','Clear','Poor',0.420,'First Quarter',23.43,'High','Active','9.5238  ',34.50,84.400,19.40,1009.0
+'Observatory-West Pamelatown                                 ','Clear','Excellent',0.560,'Full',17.05,'Moderate','Active','1.3725  ',30.80,5.900,21.60,1001.7
+'Observatory-Rebeccashire                                    ','Cloudy','Poor',0.090,'Last Quarter',73.91,'High','Quiet','4.3166  ',23.80,6.500,13.40,991.4
+'Observatory-South Belindashire                              ','Clear','Good',0.350,'First Quarter',84.79,'Moderate','Storm','23.4244 ',13.10,69.600,14.90,1027.3
+'Observatory-Johnschester                                    ','Clear','Excellent',0.400,'Last Quarter',24.33,'Moderate','Storm','10.4601 ',-0.50,54.400,27.70,1021.1
+'Observatory-Davidton                                        ','Cloudy','Excellent',0.730,'First Quarter',132.70,'High','Active','10.2198 ',29.10,3.100,4.90,1022.5
+'Observatory-Andersonstad                                    ','Clear','Poor',0.050,'Full',32.74,'High','Storm','8.2893  ',-15.90,74.100,7.50,990.7
+'Observatory-North Kathryn                                   ','Clear','Good',0.780,'Last Quarter',89.30,'High','Quiet','9.4927  ',6.30,34.200,21.90,1029.9
+'Observatory-Allenshire                                      ','Cloudy','Excellent',0.240,'Last Quarter',88.36,'Moderate','Active','15.3673 ',30.10,49.400,18.80,986.2
+'Observatory-North Darius                                    ','Partially Cloudy','Good',0.590,'Last Quarter',31.51,'High','Quiet','1.7861  ',24.30,29.500,1.30,1020.7
+'Observatory-Sanderston                                      ','Cloudy','Good',0.960,'Last Quarter',80.87,'Moderate','Quiet','20.9488 ',-1.90,54.600,23.20,994.2
+'Observatory-West Natashastad                                ','Clear','Excellent',0.760,'Full',112.69,'High','Quiet','18.8861 ',36.50,60.500,14.40,1023.3
+'Observatory-East Sean                                       ','Clear','Poor',0.740,'Last Quarter',56.54,'Low','Active','18.8037 ',21.60,47.700,19.00,1000.2
+'Observatory-Clarkborough                                    ','Cloudy','Excellent',0.710,'Last Quarter',152.78,'High','Active','17.9016 ',-10.20,88.400,29.20,1026.7
+'Observatory-North Rebeccachester                            ','Partially Cloudy','Good',0.040,'Full',146.81,'Moderate','Storm','8.2904  ',-6.70,60.100,4.50,1016.7
+'Observatory-West Laurenstad                                 ','Partially Cloudy','Excellent',0.360,'Last Quarter',34.84,'Low','Active','19.9691 ',4.70,77.200,19.70,1018.8
+'Observatory-Dixonshire                                      ','Clear','Good',0.290,'Last Quarter',3.68,'High','Storm','1.702   ',31.80,43.900,11.80,1006.8
+'Observatory-Nguyentown                                      ','Cloudy','Good',0.070,'Full',69.06,'High','Storm','11.1213 ',9.30,28.200,26.40,1005.4
+'Observatory-Lake Michelleshire                              ','Partially Cloudy','Good',0.620,'Full',118.18,'Low','Quiet','12.13   ',2.30,19.000,5.10,986.2
+'Observatory-Wilsonborough                                   ','Cloudy','Good',0.320,'First Quarter',89.44,'Low','Active','22.8276 ',-15.80,7.400,15.70,983.3
+'Observatory-Jerryfurt                                       ','Cloudy','Good',0.800,'New',163.89,'Moderate','Quiet','9.6747  ',-0.60,85.300,18.10,1019.0
+'Observatory-New Alex                                        ','Clear','Good',0.350,'Last Quarter',125.50,'High','Storm','22.5123 ',-3.40,48.700,18.50,1010.2
+'Observatory-East Brianatown                                 ','Partially Cloudy','Poor',0.700,'Full',100.50,'High','Storm','4.4686  ',33.70,69.100,15.00,981.6
+'Observatory-Port Emilyview                                  ','Cloudy','Good',0.140,'Full',158.11,'Low','Quiet','15.4858 ',29.60,50.900,17.80,1003.8
+'Observatory-Rebeccaton                                      ','Clear','Poor',0.610,'Last Quarter',121.82,'Moderate','Storm','2.9002  ',33.80,76.700,18.40,1002.9
+'Observatory-North James                                     ','Clear','Poor',0.530,'New',120.45,'High','Quiet','5.5168  ',-16.50,80.700,8.80,990.4
+'Observatory-Greenburgh                                      ','Clear','Excellent',0.450,'Full',91.85,'High','Active','11.6942 ',6.90,87.300,6.80,1005.6
+'Observatory-Stephenmouth                                    ','Cloudy','Excellent',0.530,'Full',65.23,'Low','Quiet','3.5399  ',36.70,44.000,22.20,996.0
+'Observatory-Port Justinchester                              ','Partially Cloudy','Good',0.850,'Full',32.98,'High','Active','1.5438  ',15.50,7.200,7.10,993.6
+'Observatory-Lake Juan                                       ','Clear','Poor',0.100,'First Quarter',94.59,'Low','Active','8.5487  ',2.90,54.000,19.30,1020.3
+'Observatory-New Tiffanyport                                 ','Partially Cloudy','Good',0.780,'First Quarter',19.49,'Low','Storm','21.6727 ',23.00,28.000,3.90,1004.0
+'Observatory-South Justinstad                                ','Cloudy','Poor',0.240,'Full',109.49,'High','Storm','6.961   ',15.80,30.900,2.70,998.2
+'Observatory-Lake Jackberg                                   ','Partially Cloudy','Poor',0.990,'New',130.67,'Low','Storm','7.8146  ',5.20,34.400,11.80,1015.5
+'Observatory-Christopherbury                                 ','Cloudy','Poor',0.500,'New',17.12,'High','Quiet','5.1697  ',-13.20,13.400,16.50,990.7
+'Observatory-Susanstad                                       ','Clear','Good',0.800,'First Quarter',7.74,'High','Active','4.355   ',-9.00,54.100,4.50,995.0
+'Observatory-Alexanderville                                  ','Cloudy','Poor',0.170,'New',82.44,'Low','Quiet','2.8145  ',14.50,10.300,10.50,1018.1
+'Observatory-Meltonport                                      ','Clear','Poor',0.750,'Last Quarter',112.33,'Low','Storm','9.8197  ',15.30,56.100,1.60,994.5
+'Observatory-Port Peter                                      ','Cloudy','Poor',0.320,'Last Quarter',120.28,'Moderate','Quiet','2.6351  ',23.60,20.100,11.20,1021.2
+'Observatory-Port Andrew                                     ','Clear','Excellent',0.490,'First Quarter',157.93,'Moderate','Quiet','23.4066 ',28.40,12.900,27.50,1028.6
+'Observatory-Harmonburgh                                     ','Cloudy','Good',0.820,'First Quarter',62.85,'High','Active','8.3689  ',25.90,2.200,13.00,991.7
+'Observatory-Port Amyview                                    ','Partially Cloudy','Excellent',0.300,'Last Quarter',61.72,'Low','Active','5.9732  ',25.30,13.600,11.60,1015.4
+'Observatory-West David                                      ','Partially Cloudy','Excellent',0.300,'Full',169.29,'Low','Active','7.6647  ',8.20,43.900,19.90,988.7
+'Observatory-Port Samuel                                     ','Partially Cloudy','Good',0.720,'Last Quarter',177.03,'Low','Quiet','23.825  ',-19.60,4.100,12.10,999.3
+'Observatory-Kempton                                         ','Partially Cloudy','Poor',0.540,'First Quarter',96.22,'Moderate','Storm','11.4785 ',10.10,4.300,15.70,1022.7
+'Observatory-Kellyview                                       ','Clear','Excellent',0.800,'Last Quarter',86.26,'Low','Quiet','13.1077 ',27.40,64.300,9.80,1027.9
+'Observatory-Miguelbury                                      ','Cloudy','Excellent',0.870,'Last Quarter',82.92,'High','Active','13.5988 ',-3.80,23.300,19.40,990.8
+'Observatory-Bradleystad                                     ','Clear','Good',0.720,'Last Quarter',109.72,'Low','Storm','10.4632 ',-19.50,65.900,28.90,1004.4
+'Observatory-Ryanland                                        ','Clear','Poor',0.360,'Full',166.56,'Low','Quiet','19.6815 ',37.10,2.700,15.20,995.8
+'Observatory-Johnsonchester                                  ','Cloudy','Good',0.960,'First Quarter',128.38,'Low','Quiet','8.3663  ',-5.80,65.600,12.30,984.2
+'Observatory-Lake Kathyland                                  ','Partially Cloudy','Excellent',0.980,'First Quarter',73.14,'Low','Quiet','4.1196  ',-16.20,0.800,27.10,988.9
+'Observatory-Yangside                                        ','Clear','Excellent',0.340,'Last Quarter',73.00,'Moderate','Active','5.0158  ',38.90,47.900,6.70,992.8
+'Observatory-Jamesland                                       ','Clear','Excellent',0.610,'First Quarter',162.16,'High','Active','13.6222 ',28.10,59.400,26.00,1016.7
+'Observatory-Tracyberg                                       ','Cloudy','Good',0.940,'Last Quarter',103.33,'Moderate','Active','7.4721  ',0.50,44.300,26.40,1016.1
+'Observatory-Thomasmouth                                     ','Cloudy','Excellent',0.510,'First Quarter',11.70,'Low','Active','3.8606  ',17.60,31.400,5.90,994.1
+'Observatory-Jocelynfort                                     ','Cloudy','Poor',0.930,'New',87.36,'High','Quiet','18.9051 ',23.00,85.500,10.60,1023.2
+'Observatory-South Megan                                     ','Clear','Poor',0.120,'First Quarter',144.39,'Low','Storm','8.3294  ',5.60,0.200,3.00,995.8
+'Observatory-North Patricia                                  ','Partially Cloudy','Good',0.510,'Full',65.72,'Low','Storm','12.2026 ',20.10,21.900,13.50,1010.4
+'Observatory-Mannberg                                        ','Clear','Excellent',0.890,'Full',84.72,'Low','Storm','17.8546 ',-11.50,47.300,16.70,999.4
+'Observatory-Davidmouth                                      ','Clear','Good',0.130,'First Quarter',75.90,'Low','Storm','2.2826  ',-3.10,69.800,25.40,1025.6
+'Observatory-East Dwayne                                     ','Clear','Poor',0.470,'Last Quarter',148.92,'Low','Active','23.4511 ',12.00,87.500,23.00,983.4
+'Observatory-West Keithfort                                  ','Cloudy','Excellent',0.510,'New',133.72,'Low','Quiet','16.6132 ',28.80,18.900,10.60,1022.8
+'Observatory-Kennethview                                     ','Clear','Excellent',0.350,'Last Quarter',109.64,'Low','Quiet','13.0169 ',31.00,67.800,26.80,1012.7
+'Observatory-Carolynview                                     ','Cloudy','Excellent',0.570,'First Quarter',17.84,'Moderate','Storm','15.4524 ',4.10,30.900,16.80,1013.1
+'Observatory-Marissahaven                                    ','Cloudy','Good',0.490,'Last Quarter',141.97,'High','Storm','15.8677 ',34.60,94.900,3.20,997.3
+'Observatory-Jenniferhaven                                   ','Partially Cloudy','Good',0.000,'Full',25.58,'Low','Quiet','21.2003 ',28.40,27.500,22.20,1020.1
+'Observatory-North Alexanderburgh                            ','Partially Cloudy','Good',0.210,'First Quarter',31.41,'High','Active','2.5299  ',-12.80,3.200,7.90,1007.5
+'Observatory-New Allen                                       ','Partially Cloudy','Good',0.410,'Full',56.73,'Moderate','Active','5.0404  ',3.00,17.800,10.00,1019.7
+'Observatory-Lake Kiara                                      ','Cloudy','Poor',0.980,'Last Quarter',56.36,'Moderate','Quiet','13.2953 ',3.60,12.900,13.80,1024.2
+'Observatory-Robertstad                                      ','Clear','Good',0.910,'First Quarter',74.96,'Moderate','Quiet','18.251  ',-7.60,60.800,29.00,1027.1
+'Observatory-Barryburgh                                      ','Cloudy','Excellent',0.700,'New',119.63,'Moderate','Quiet','22.9485 ',19.30,3.300,14.50,994.6
+'Observatory-Vincentbury                                     ','Cloudy','Poor',0.090,'Full',51.80,'Low','Storm','4.6609  ',-13.70,15.000,6.60,992.3
+'Observatory-East Christopherland                            ','Clear','Good',0.960,'New',119.00,'Moderate','Storm','8.3766  ',20.20,23.600,22.60,994.7
+'Observatory-North Paulabury                                 ','Clear','Good',0.930,'Full',94.00,'Low','Quiet','17.9741 ',-3.70,9.500,5.80,980.7
+'Observatory-Justinland                                      ','Partially Cloudy','Excellent',0.750,'New',112.58,'High','Storm','1.843   ',23.60,42.400,6.90,1023.4
+'Observatory-West Stacy                                      ','Partially Cloudy','Excellent',0.780,'Last Quarter',32.05,'Moderate','Active','15.6356 ',26.60,72.500,22.40,1000.9
+'Observatory-Lake Aliciaville                                ','Clear','Poor',0.340,'New',8.38,'Moderate','Storm','11.83   ',33.60,30.400,12.50,1019.8
+'Observatory-Port Shane                                      ','Clear','Good',0.820,'First Quarter',123.99,'High','Storm','1.7515  ',-14.40,31.600,27.70,1019.5
+'Observatory-East Richardhaven                               ','Clear','Poor',0.920,'Full',163.05,'High','Active','3.579   ',38.10,21.000,25.50,1004.3
+'Observatory-Port Jennifertown                               ','Partially Cloudy','Poor',0.050,'First Quarter',33.17,'Low','Quiet','16.9606 ',-9.00,56.300,5.80,1023.3
+'Observatory-Lake Janetchester                               ','Cloudy','Poor',0.820,'Full',104.76,'Moderate','Quiet','1.0528  ',15.40,41.300,8.60,1010.5
+'Observatory-New Michaelville                                ','Cloudy','Excellent',0.480,'First Quarter',21.36,'Low','Active','16.9723 ',-2.10,79.400,3.70,1008.6
+'Observatory-New Kathyland                                   ','Clear','Excellent',0.530,'New',85.27,'High','Quiet','21.4067 ',30.30,10.200,23.30,1006.4
+'Observatory-Gomezshire                                      ','Clear','Good',0.040,'First Quarter',140.74,'Low','Quiet','22.506  ',10.00,98.700,11.90,982.2
+'Observatory-West Pamela                                     ','Partially Cloudy','Poor',0.820,'New',173.08,'High','Storm','1.0122  ',-5.80,52.000,8.60,1021.4
+'Observatory-West Scottmouth                                 ','Partially Cloudy','Excellent',0.660,'New',69.79,'Low','Active','17.8549 ',14.90,90.500,4.20,1022.7
+'Observatory-North Donnahaven                                ','Cloudy','Poor',0.740,'Last Quarter',54.05,'High','Active','17.8778 ',21.40,95.500,15.80,1018.8
+'Observatory-Lake Austinmouth                                ','Clear','Good',0.780,'Full',178.63,'High','Storm','2.8266  ',39.90,49.900,22.90,986.3
+'Observatory-West Joshua                                     ','Cloudy','Good',0.900,'Full',121.67,'Low','Quiet','3.0054  ',-13.90,77.200,5.00,1018.7
+'Observatory-Lanceville                                      ','Clear','Excellent',0.470,'Last Quarter',22.93,'Moderate','Quiet','7.3492  ',39.60,88.500,0.80,1005.0
+'Observatory-Robertborough                                   ','Partially Cloudy','Poor',0.550,'Last Quarter',131.33,'Low','Quiet','1.8946  ',12.20,44.400,23.40,1001.0
+'Observatory-Port Kendra                                     ','Partially Cloudy','Excellent',0.270,'First Quarter',128.74,'High','Active','5.543   ',36.40,24.900,5.40,1006.9
+'Observatory-Sandraport                                      ','Clear','Good',0.520,'New',115.99,'High','Storm','3.6075  ',32.10,15.400,23.30,1018.2
+'Observatory-North Sara                                      ','Cloudy','Good',0.340,'First Quarter',129.43,'Low','Active','19.6924 ',36.00,29.300,12.40,1026.3
+'Observatory-Lake Donald                                     ','Cloudy','Poor',0.150,'First Quarter',139.28,'Moderate','Quiet','3.3571  ',12.40,59.000,23.20,992.2
+'Observatory-Marcside                                        ','Cloudy','Excellent',0.800,'First Quarter',110.93,'Low','Storm','6.4779  ',24.80,87.500,8.50,1014.9
+'Observatory-Stokesview                                      ','Cloudy','Excellent',0.160,'New',19.94,'High','Active','22.2396 ',-7.80,40.500,6.40,1021.6
+'Observatory-West Tammybury                                  ','Cloudy','Excellent',0.680,'New',68.91,'Moderate','Active','7.8784  ',15.40,50.500,0.50,990.2
+'Observatory-Port Tiffanyhaven                               ','Cloudy','Excellent',0.020,'Full',122.66,'Low','Quiet','18.9178 ',-14.10,6.400,15.50,1005.6
+'Observatory-Andersonburgh                                   ','Clear','Good',0.220,'Last Quarter',109.00,'Low','Quiet','13.2913 ',-18.40,74.400,2.40,1026.3
+'Observatory-Lake Anthonyside                                ','Clear','Excellent',0.220,'First Quarter',119.59,'Low','Active','8.4244  ',-17.70,96.900,3.90,1014.9
+'Observatory-Ericabury                                       ','Cloudy','Excellent',0.510,'First Quarter',124.82,'High','Storm','15.6113 ',-11.70,31.600,2.90,997.7
+'Observatory-West Johnside                                   ','Cloudy','Good',0.870,'First Quarter',133.20,'Low','Quiet','19.2969 ',16.40,13.400,28.30,1000.1
+'Observatory-South Jesse                                     ','Clear','Excellent',0.700,'Last Quarter',58.65,'High','Quiet','14.0533 ',-14.40,59.500,6.40,1002.8
+'Observatory-Thompsonshire                                   ','Clear','Poor',0.600,'First Quarter',57.77,'Moderate','Quiet','9.0854  ',7.80,16.600,16.20,1001.0
+'Observatory-Pearsonview                                     ','Partially Cloudy','Poor',0.830,'Full',36.30,'Moderate','Quiet','18.6483 ',-17.80,70.000,15.50,1003.9
+'Observatory-New Brenda                                      ','Cloudy','Good',0.260,'First Quarter',69.19,'Moderate','Active','8.6925  ',13.60,89.600,22.20,1012.0
+'Observatory-Phamfort                                        ','Clear','Poor',0.380,'Full',1.83,'High','Quiet','21.9574 ',5.40,15.000,2.60,993.7
+'Observatory-West Tannerton                                  ','Cloudy','Good',0.860,'First Quarter',46.25,'High','Active','19.4541 ',-1.90,36.800,8.30,1010.6
+'Observatory-Jenkinsborough                                  ','Cloudy','Poor',0.770,'Full',155.50,'High','Active','22.3939 ',2.00,57.900,26.60,993.6
+'Observatory-Welchton                                        ','Cloudy','Good',0.590,'Last Quarter',91.45,'Moderate','Active','7.4053  ',-12.00,85.200,18.60,1011.4
+'Observatory-Tuckerborough                                   ','Partially Cloudy','Excellent',0.810,'First Quarter',112.32,'Low','Active','5.5045  ',30.50,49.300,9.60,1017.5
+'Observatory-South Jessicashire                              ','Partially Cloudy','Good',0.850,'New',17.56,'Moderate','Storm','12.5601 ',14.70,72.300,4.10,1011.9
+'Observatory-Jasmineton                                      ','Cloudy','Excellent',0.280,'Last Quarter',153.64,'Low','Storm','21.1207 ',-4.40,86.200,3.10,1010.6
+'Observatory-Carrollchester                                  ','Clear','Excellent',0.130,'Full',35.01,'High','Active','23.538  ',32.70,35.300,17.10,990.6
+'Observatory-West Lauriemouth                                ','Cloudy','Good',0.130,'Full',127.53,'Moderate','Storm','22.5132 ',-16.10,55.800,2.20,1020.2
+'Observatory-Melissaland                                     ','Cloudy','Poor',0.500,'First Quarter',55.20,'High','Quiet','11.6425 ',-9.20,75.600,22.80,988.2
+'Observatory-East James                                      ','Cloudy','Good',0.010,'New',80.69,'Moderate','Active','23.2699 ',17.70,58.100,11.60,994.5
+'Observatory-Pageton                                         ','Clear','Poor',0.250,'Last Quarter',88.10,'Low','Active','10.9755 ',9.90,12.200,11.60,987.0
+'Observatory-East Rebecca                                    ','Cloudy','Good',0.690,'Full',159.13,'High','Active','18.5007 ',-18.70,61.900,4.30,989.6
+'Observatory-West Catherineland                              ','Partially Cloudy','Good',0.330,'Last Quarter',134.28,'High','Quiet','5.7395  ',11.40,82.600,4.80,1022.2
+'Observatory-Lorettaton                                      ','Clear','Good',0.270,'Full',107.73,'High','Quiet','13.4233 ',17.70,99.500,6.90,1001.2
+'Observatory-North Patrick                                   ','Clear','Poor',0.940,'Full',111.24,'Low','Storm','22.9654 ',6.70,62.200,20.20,1000.7
+'Observatory-Ericfort                                        ','Cloudy','Poor',0.010,'First Quarter',50.72,'High','Quiet','19.6602 ',0.20,87.600,17.10,1019.7
+'Observatory-Paulport                                        ','Partially Cloudy','Good',0.210,'Full',64.22,'High','Active','5.9663  ',-2.10,89.400,28.00,982.7
+'Observatory-Stephenton                                      ','Cloudy','Poor',0.380,'First Quarter',21.84,'High','Storm','13.7844 ',23.90,60.800,8.90,986.1
+'Observatory-New James                                       ','Cloudy','Poor',0.240,'First Quarter',153.53,'High','Active','19.8349 ',17.20,37.500,24.50,996.4
+'Observatory-South Tamara                                    ','Cloudy','Excellent',0.440,'Full',126.49,'Moderate','Active','20.8522 ',10.80,0.300,22.30,1011.6
+'Observatory-South Ericaville                                ','Clear','Excellent',0.610,'First Quarter',96.74,'Moderate','Quiet','22.4481 ',23.80,72.900,24.00,1005.7
+'Observatory-Jamesshire                                      ','Cloudy','Poor',0.410,'New',90.16,'High','Storm','15.9179 ',3.60,32.300,10.10,993.7
+'Observatory-Reynoldsstad                                    ','Clear','Excellent',0.000,'First Quarter',88.79,'Low','Active','2.8036  ',9.20,0.300,29.50,980.1
+'Observatory-North Dominicfurt                               ','Partially Cloudy','Excellent',0.890,'Full',114.86,'Low','Quiet','2.9503  ',7.20,70.200,1.80,1004.9
+'Observatory-Jamesstad                                       ','Partially Cloudy','Excellent',0.460,'Last Quarter',4.03,'Moderate','Quiet','0.4753  ',-19.40,20.800,7.80,980.9
+'Observatory-Velasquezville                                  ','Clear','Excellent',0.340,'First Quarter',7.50,'High','Storm','20.0619 ',8.20,27.500,5.60,1003.0
+'Observatory-West Connorton                                  ','Cloudy','Good',0.490,'First Quarter',34.43,'Low','Storm','3.4712  ',15.80,52.400,19.70,993.6
+'Observatory-North Davidside                                 ','Clear','Good',0.160,'Full',149.32,'Low','Active','16.2376 ',-7.80,86.300,10.30,1001.1
+'Observatory-Patrickville                                    ','Clear','Poor',0.810,'Last Quarter',45.13,'Moderate','Storm','9.3939  ',9.20,27.500,21.20,995.2
+'Observatory-North Jamesmouth                                ','Cloudy','Excellent',0.240,'Last Quarter',56.43,'High','Active','17.2518 ',-17.90,97.400,27.70,1025.7
+'Observatory-New Jefferybury                                 ','Partially Cloudy','Excellent',0.970,'Last Quarter',78.94,'Low','Active','15.2223 ',-8.70,69.700,9.50,1015.9
+'Observatory-Knighthaven                                     ','Cloudy','Good',0.850,'First Quarter',38.40,'High','Quiet','18.0339 ',18.10,50.700,18.10,1027.7
+'Observatory-Thompsonfurt                                    ','Clear','Good',0.430,'Full',49.90,'High','Storm','7.0377  ',-6.00,53.500,8.80,980.1
+'Observatory-Montgomeryport                                  ','Cloudy','Poor',0.790,'Last Quarter',164.21,'Moderate','Active','8.6606  ',-19.10,79.500,2.40,1002.8
+'Observatory-Lake Holly                                      ','Cloudy','Poor',0.430,'Full',175.66,'High','Active','8.3349  ',-14.90,96.600,10.20,991.5
+'Observatory-Rossfort                                        ','Cloudy','Excellent',0.150,'Last Quarter',128.33,'High','Storm','23.9798 ',31.20,81.600,10.30,1009.2
+'Observatory-Rebeccabury                                     ','Clear','Good',0.840,'First Quarter',20.94,'Moderate','Active','22.6788 ',33.40,49.200,27.20,1027.1
+'Observatory-New Jessica                                     ','Partially Cloudy','Excellent',0.320,'Last Quarter',115.66,'High','Storm','15.8628 ',38.50,84.300,12.10,1009.9
+'Observatory-Port Ericbury                                   ','Partially Cloudy','Excellent',0.460,'New',115.56,'High','Quiet','17.5651 ',-18.80,84.900,12.40,1025.7
+'Observatory-East Victoria                                   ','Partially Cloudy','Good',0.730,'Full',17.36,'High','Quiet','3.8189  ',14.50,3.100,7.80,997.0
+'Observatory-South Douglas                                   ','Partially Cloudy','Good',0.610,'Full',77.98,'Low','Storm','2.9741  ',31.30,72.100,6.20,995.4
+'Observatory-Williamville                                    ','Clear','Good',0.390,'Last Quarter',15.47,'High','Storm','14.8003 ',36.00,18.300,27.80,1011.7
+'Observatory-East Kimberlyport                               ','Cloudy','Good',0.230,'First Quarter',27.22,'High','Storm','2.1556  ',7.00,22.200,2.10,1017.1
+'Observatory-New Theresa                                     ','Clear','Excellent',0.720,'Last Quarter',134.80,'Moderate','Storm','3.8964  ',30.00,91.600,26.50,990.9
+'Observatory-East Austin                                     ','Cloudy','Excellent',0.440,'New',34.98,'High','Storm','18.1144 ',28.60,21.500,0.30,1007.9
+'Observatory-Lake Lori                                       ','Clear','Good',0.380,'Full',143.19,'Low','Active','17.9438 ',-12.90,41.000,19.70,989.7
+'Observatory-Lake Todd                                       ','Partially Cloudy','Excellent',0.180,'First Quarter',33.89,'Low','Quiet','6.477   ',36.90,44.300,10.40,1005.1
+'Observatory-Martinmouth                                     ','Partially Cloudy','Good',0.380,'New',75.56,'High','Active','13.0544 ',-2.50,75.700,25.90,1014.4
+'Observatory-Briggsport                                      ','Partially Cloudy','Poor',0.940,'Last Quarter',125.23,'High','Active','18.3921 ',-18.70,98.400,22.40,1021.8
+'Observatory-New Tommy                                       ','Cloudy','Poor',0.890,'First Quarter',127.01,'Moderate','Storm','3.5273  ',20.40,73.800,10.00,1021.8
+'Observatory-Matthewside                                     ','Clear','Poor',0.300,'New',80.59,'Low','Storm','20.2724 ',-18.90,14.500,23.70,1000.4
+'Observatory-West Blakeport                                  ','Partially Cloudy','Excellent',0.980,'First Quarter',11.94,'High','Quiet','23.5357 ',-12.80,5.000,6.80,982.4
+'Observatory-North Melissa                                   ','Cloudy','Poor',0.530,'Last Quarter',175.76,'High','Quiet','7.8103  ',13.40,20.900,12.30,1018.8
+'Observatory-South Bruce                                     ','Clear','Poor',0.900,'Full',151.70,'Low','Quiet','0.6355  ',-8.70,51.700,1.70,994.1
+'Observatory-Port Francesmouth                               ','Clear','Good',0.010,'Full',167.69,'Low','Quiet','2.2138  ',7.60,39.000,15.30,1023.2
+'Observatory-Port Fredside                                   ','Cloudy','Excellent',0.290,'Full',139.88,'Moderate','Active','12.5612 ',39.10,9.500,10.20,1005.5
+'Observatory-East Yolanda                                    ','Partially Cloudy','Poor',0.640,'New',155.97,'High','Storm','16.3368 ',-2.60,2.100,3.90,1012.8
+'Observatory-Natalieton                                      ','Partially Cloudy','Good',0.580,'First Quarter',91.27,'Moderate','Quiet','19.7321 ',-14.50,47.800,16.40,994.7
+'Observatory-Edwardsport                                     ','Partially Cloudy','Poor',0.400,'Full',103.67,'Low','Storm','16.867  ',33.60,7.700,1.40,1004.6
+'Observatory-Lake Nicoleport                                 ','Clear','Good',0.050,'Full',52.13,'Moderate','Storm','17.526  ',-17.10,38.900,27.80,1008.9
+'Observatory-Port Pamela                                     ','Clear','Good',0.480,'Full',77.92,'High','Quiet','18.721  ',6.80,99.800,21.90,986.2
+'Observatory-Billyview                                       ','Partially Cloudy','Excellent',0.230,'Last Quarter',27.34,'High','Storm','4.7079  ',-5.80,13.400,27.50,1027.4
+'Observatory-Lawsonport                                      ','Partially Cloudy','Excellent',0.720,'First Quarter',40.69,'Low','Quiet','16.9414 ',13.40,73.400,18.80,982.1
+'Observatory-Antonioland                                     ','Cloudy','Good',0.400,'First Quarter',138.30,'Moderate','Storm','15.5428 ',27.80,33.600,20.50,1013.1
+'Observatory-East Nicholas                                   ','Clear','Good',0.730,'New',51.43,'Low','Storm','11.7473 ',-13.50,90.700,1.90,996.9
+'Observatory-Wilsonside                                      ','Partially Cloudy','Good',0.670,'New',5.58,'High','Active','23.8067 ',36.80,82.900,13.00,991.3
+'Observatory-Lewisview                                       ','Clear','Excellent',0.870,'Last Quarter',176.12,'Moderate','Quiet','22.7953 ',2.20,96.000,22.20,988.6
+'Observatory-Paulfort                                        ','Clear','Poor',0.890,'Last Quarter',17.08,'Low','Storm','19.0722 ',35.80,37.700,15.10,981.1
+'Observatory-Samuelborough                                   ','Cloudy','Poor',0.470,'Last Quarter',171.38,'High','Storm','5.8823  ',-14.80,52.200,26.80,990.8
+'Observatory-West Lindsey                                    ','Clear','Good',0.110,'First Quarter',149.89,'High','Active','21.7751 ',10.50,80.000,16.10,1025.6
+'Observatory-Gracemouth                                      ','Clear','Poor',0.280,'First Quarter',54.50,'Low','Quiet','21.9441 ',14.30,24.500,25.70,1018.5
+'Observatory-Hallmouth                                       ','Partially Cloudy','Good',0.630,'Full',108.81,'Low','Quiet','15.5964 ',33.30,25.500,10.60,1020.1
+'Observatory-New Willie                                      ','Cloudy','Excellent',0.590,'Full',101.04,'High','Quiet','11.4284 ',20.70,80.300,21.30,1016.4
+'Observatory-New Mandyfurt                                   ','Clear','Excellent',0.120,'First Quarter',154.01,'High','Quiet','13.6545 ',1.40,97.400,24.10,1025.7
+'Observatory-West Todd                                       ','Cloudy','Poor',0.220,'Last Quarter',82.81,'Moderate','Quiet','13.4432 ',2.30,26.800,13.10,1003.5
+'Observatory-North Timothy                                   ','Cloudy','Poor',0.420,'First Quarter',104.32,'Low','Active','20.7969 ',3.50,37.400,8.60,995.6
+'Observatory-East Danielberg                                 ','Clear','Excellent',0.520,'First Quarter',146.00,'High','Storm','12.3499 ',-18.90,34.800,27.20,1016.7
+'Observatory-Brooksshire                                     ','Cloudy','Excellent',0.600,'New',56.66,'High','Active','12.4574 ',-1.20,47.500,15.30,1001.0
+'Observatory-Johnsonberg                                     ','Partially Cloudy','Poor',0.070,'Full',50.04,'High','Quiet','9.1536  ',32.60,3.900,0.20,984.6
+'Observatory-Danielbury                                      ','Clear','Poor',0.890,'New',146.51,'Low','Storm','13.4214 ',25.20,60.700,7.50,981.9
+'Observatory-New Susanview                                   ','Partially Cloudy','Good',0.750,'First Quarter',136.83,'Low','Storm','2.2196  ',-6.70,5.500,14.90,998.7
+'Observatory-East Andrew                                     ','Cloudy','Good',0.580,'First Quarter',161.26,'Low','Active','10.0383 ',17.00,19.000,12.10,1026.4
+'Observatory-Haroldburgh                                     ','Cloudy','Poor',0.090,'Last Quarter',151.18,'High','Active','15.2172 ',16.30,93.900,16.90,982.0
+'Observatory-West Savannah                                   ','Partially Cloudy','Poor',0.330,'New',100.45,'High','Quiet','14.4997 ',13.60,75.100,14.20,1005.3
+'Observatory-Wallaceview                                     ','Cloudy','Excellent',0.850,'Last Quarter',24.46,'Moderate','Active','7.886   ',22.30,58.300,18.10,1020.6
+'Observatory-Brendaburgh                                     ','Clear','Excellent',0.900,'Full',160.29,'High','Active','14.1916 ',15.80,90.900,10.40,1008.1
+'Observatory-Smallburgh                                      ','Partially Cloudy','Excellent',0.500,'Last Quarter',29.01,'Moderate','Storm','5.5715  ',16.80,96.800,26.00,999.4
+'Observatory-Cassandrafort                                   ','Clear','Excellent',0.230,'New',44.20,'Low','Storm','18.4579 ',7.50,34.900,24.50,1004.0
+'Observatory-New Mistymouth                                  ','Cloudy','Good',0.750,'Full',68.77,'High','Active','10.5529 ',21.30,88.300,8.60,996.1
+'Observatory-East Anthony                                    ','Cloudy','Good',0.170,'New',132.98,'High','Quiet','12.5529 ',-6.70,30.500,25.90,998.0
+'Observatory-South Adamburgh                                 ','Clear','Poor',0.130,'Last Quarter',73.66,'High','Storm','4.8184  ',24.30,24.200,29.80,1024.4
+'Observatory-New Rebecca                                     ','Clear','Good',0.020,'Last Quarter',68.21,'Low','Quiet','6.4885  ',9.80,62.000,21.70,981.6
+'Observatory-Bakerchester                                    ','Cloudy','Excellent',0.570,'Last Quarter',114.37,'Low','Quiet','12.7921 ',31.80,52.500,28.50,1003.2
+'Observatory-New Frankton                                    ','Partially Cloudy','Excellent',0.510,'New',134.98,'High','Storm','15.953  ',5.40,46.800,16.90,1015.5
+'Observatory-Davidsonborough                                 ','Cloudy','Good',0.450,'New',10.11,'Low','Storm','19.4252 ',-7.70,65.900,24.20,1017.9
+'Observatory-West Joseph                                     ','Cloudy','Good',0.660,'Full',138.03,'Moderate','Storm','19.3576 ',24.50,21.100,6.60,1022.1
+'Observatory-South Jenniferfort                              ','Clear','Excellent',0.890,'First Quarter',158.58,'High','Active','19.9539 ',-10.40,27.900,20.10,996.8
+'Observatory-Jenningsstad                                    ','Partially Cloudy','Excellent',0.150,'First Quarter',144.08,'Moderate','Storm','19.0946 ',-5.80,79.300,26.70,1006.5
+'Observatory-Port Jaredton                                   ','Clear','Good',0.660,'First Quarter',166.63,'Moderate','Quiet','17.3461 ',36.20,60.300,19.30,1018.7
+'Observatory-Carterport                                      ','Clear','Good',0.930,'First Quarter',11.52,'High','Storm','3.3159  ',30.10,11.800,18.70,1007.5
+'Observatory-North Lance                                     ','Cloudy','Excellent',0.170,'First Quarter',89.75,'Low','Storm','5.7442  ',19.20,63.700,21.40,1007.1
+'Observatory-Schwartzberg                                    ','Partially Cloudy','Good',0.060,'Last Quarter',103.59,'Low','Active','8.1532  ',20.70,79.400,0.40,1002.1
+'Observatory-North Andrew                                    ','Cloudy','Excellent',0.420,'Last Quarter',49.05,'High','Active','15.6513 ',33.80,16.600,8.90,985.3
+'Observatory-South Jefferyview                               ','Cloudy','Poor',0.010,'New',160.41,'High','Quiet','22.2421 ',37.80,27.000,7.10,996.9
+'Observatory-Mcdanielmouth                                   ','Cloudy','Good',0.670,'Full',120.91,'Moderate','Quiet','8.6306  ',-11.10,22.200,14.50,1028.6
+'Observatory-South Jasonburgh                                ','Partially Cloudy','Poor',0.810,'Last Quarter',105.86,'Low','Storm','9.8684  ',25.70,26.500,6.90,1003.7
+'Observatory-Taylorborough                                   ','Cloudy','Excellent',0.960,'First Quarter',63.30,'High','Quiet','12.7308 ',24.50,7.100,7.80,1017.0
+'Observatory-Stevenburgh                                     ','Partially Cloudy','Excellent',0.100,'Full',25.17,'Low','Quiet','20.2544 ',0.70,10.800,2.70,1011.2
+'Observatory-West Susanfurt                                  ','Partially Cloudy','Poor',0.770,'Last Quarter',142.40,'High','Quiet','18.1957 ',28.70,42.600,0.80,1008.0
+'Observatory-Saraton                                         ','Partially Cloudy','Good',0.980,'New',12.21,'Moderate','Storm','17.6914 ',-14.40,52.600,6.10,995.5
+'Observatory-North Logan                                     ','Cloudy','Good',0.850,'Full',100.07,'Moderate','Quiet','23.949  ',35.10,68.200,0.40,1027.6
+'Observatory-South Rebecca                                   ','Partially Cloudy','Good',0.880,'New',80.42,'Moderate','Quiet','16.7379 ',-19.30,11.700,7.90,1017.0
+'Observatory-Jasonhaven                                      ','Clear','Good',0.040,'First Quarter',178.96,'Low','Quiet','8.661   ',38.80,72.900,25.30,989.4
+'Observatory-North Jennifershire                             ','Cloudy','Excellent',0.430,'Last Quarter',166.86,'High','Quiet','22.9926 ',20.40,39.500,3.90,1004.2
+'Observatory-East Edward                                     ','Cloudy','Good',0.480,'New',80.51,'Moderate','Storm','7.8504  ',1.60,47.700,17.90,980.9
+'Observatory-East Robert                                     ','Cloudy','Excellent',0.110,'First Quarter',115.32,'High','Active','18.2242 ',32.00,36.400,20.10,994.5
+'Observatory-Morganbury                                      ','Partially Cloudy','Good',0.180,'Last Quarter',68.45,'High','Active','10.5552 ',21.30,17.800,26.30,1010.0
+'Observatory-South Jeffreyland                               ','Clear','Poor',0.130,'First Quarter',171.23,'Moderate','Active','19.6307 ',25.50,67.900,28.90,1017.3
+'Observatory-Jefferyfurt                                     ','Partially Cloudy','Good',0.310,'New',77.96,'High','Active','5.1109  ',15.20,36.500,0.50,997.3
+'Observatory-Aguirreside                                     ','Clear','Excellent',0.730,'Last Quarter',85.65,'Low','Active','10.6007 ',-11.10,87.200,19.70,1024.4
+'Observatory-Ellisonville                                    ','Cloudy','Excellent',0.880,'Full',164.89,'Moderate','Quiet','17.8171 ',14.40,91.700,15.60,1014.5
+'Observatory-Christinashire                                  ','Cloudy','Poor',0.270,'First Quarter',143.16,'High','Active','23.973  ',5.50,37.800,18.00,991.9
+'Observatory-New Shannon                                     ','Cloudy','Poor',0.350,'Last Quarter',26.28,'Low','Storm','6.8206  ',2.90,72.400,2.50,991.8
+'Observatory-Mckenzieland                                    ','Partially Cloudy','Excellent',0.890,'New',145.02,'Low','Storm','19.4762 ',2.10,47.900,25.40,994.4
+'Observatory-Johnside                                        ','Partially Cloudy','Excellent',0.260,'First Quarter',31.43,'Low','Active','20.2251 ',-14.40,18.300,2.60,994.5
+'Observatory-Gordonside                                      ','Cloudy','Good',0.550,'New',141.02,'High','Quiet','1.4786  ',22.90,79.100,19.80,1027.4
+'Observatory-East Bryanshire                                 ','Clear','Good',0.150,'First Quarter',97.07,'Low','Quiet','0.4459  ',-7.40,20.100,28.10,981.7
+'Observatory-Cunninghamfort                                  ','Partially Cloudy','Poor',0.180,'Last Quarter',177.52,'High','Storm','8.7971  ',-7.30,83.600,14.30,1006.5
+'Observatory-Serranotown                                     ','Cloudy','Poor',0.980,'Full',5.67,'High','Storm','7.4362  ',34.20,36.300,23.70,1022.5
+'Observatory-Millertown                                      ','Partially Cloudy','Good',0.240,'New',148.24,'Low','Storm','17.2223 ',0.00,18.400,24.10,1026.0
+'Observatory-Floresborough                                   ','Clear','Poor',0.040,'Full',161.06,'Moderate','Storm','4.0343  ',9.70,47.600,10.60,981.2
+'Observatory-Brandonstad                                     ','Clear','Excellent',0.280,'New',68.50,'Low','Active','10.0535 ',-8.70,91.700,9.10,1003.8
+'Observatory-Pittsview                                       ','Cloudy','Good',0.800,'Full',63.00,'Moderate','Storm','20.2097 ',27.80,68.700,24.60,1016.2
+'Observatory-Hartborough                                     ','Partially Cloudy','Poor',0.830,'Full',17.49,'High','Active','2.3975  ',9.90,12.900,12.30,1014.2
+'Observatory-Aguilarmouth                                    ','Clear','Poor',0.300,'New',57.13,'Low','Storm','16.9901 ',39.90,0.800,8.30,1020.5
+'Observatory-Patrickside                                     ','Cloudy','Good',0.260,'First Quarter',160.95,'Moderate','Quiet','15.536  ',3.50,7.200,19.80,981.5
+'Observatory-New Karinaville                                 ','Clear','Excellent',0.330,'First Quarter',164.82,'Low','Quiet','4.2315  ',-12.40,0.400,4.90,985.3
+'Observatory-North Sarafurt                                  ','Cloudy','Poor',0.430,'New',83.01,'High','Active','4.1456  ',-9.10,72.700,1.50,1019.7
+'Observatory-Port Michaelburgh                               ','Clear','Poor',0.300,'Full',44.65,'Moderate','Quiet','15.7874 ',4.20,62.200,15.90,1002.7
+'Observatory-Michaelview                                     ','Clear','Excellent',0.030,'New',43.74,'High','Storm','3.0793  ',25.60,88.900,5.40,992.7
+'Observatory-Chaseshire                                      ','Cloudy','Poor',0.860,'Last Quarter',42.67,'Moderate','Quiet','3.813   ',-7.30,12.000,10.00,1010.0
+'Observatory-New Mark                                        ','Cloudy','Good',0.400,'Full',22.30,'High','Active','12.1747 ',-9.10,6.000,20.90,1015.9
+'Observatory-Dorothyfort                                     ','Cloudy','Poor',0.810,'New',7.47,'High','Active','13.0496 ',-19.50,90.400,10.20,1008.4
+'Observatory-Charlesberg                                     ','Cloudy','Good',0.750,'First Quarter',179.16,'Low','Storm','16.9799 ',38.10,84.100,22.90,1019.9
+'Observatory-South William                                   ','Partially Cloudy','Excellent',0.520,'First Quarter',169.54,'Moderate','Active','11.144  ',1.80,73.200,12.20,1000.3
+'Observatory-North Haley                                     ','Clear','Good',0.190,'Full',51.38,'High','Active','14.9009 ',-13.50,9.500,24.50,1021.7
+'Observatory-Santiagoside                                    ','Cloudy','Poor',0.400,'First Quarter',175.22,'Moderate','Quiet','12.2245 ',-0.40,79.100,18.60,1011.4
+'Observatory-East Bradley                                    ','Partially Cloudy','Good',0.480,'Last Quarter',133.80,'Moderate','Quiet','6.5405  ',-14.90,1.100,26.00,1021.8
+'Observatory-Hayeshaven                                      ','Clear','Excellent',0.740,'Full',49.86,'Low','Storm','11.7963 ',-6.10,23.900,23.70,1029.6
+'Observatory-West Shelleyton                                 ','Clear','Excellent',0.590,'First Quarter',156.57,'High','Storm','4.1869  ',2.50,64.600,5.30,997.7
+'Observatory-Whitneyhaven                                    ','Cloudy','Good',0.040,'New',114.50,'Moderate','Active','1.5322  ',5.40,26.400,26.30,1001.9
+'Observatory-Stonechester                                    ','Partially Cloudy','Poor',0.260,'Last Quarter',80.56,'Moderate','Active','7.4089  ',-13.80,53.600,23.90,1025.8
+'Observatory-North Robertton                                 ','Cloudy','Excellent',0.250,'New',38.46,'Moderate','Active','5.5556  ',-1.80,14.100,5.50,1026.8
+'Observatory-Port Coreyview                                  ','Clear','Excellent',0.120,'Last Quarter',80.37,'High','Active','6.4363  ',28.90,24.700,19.80,986.7
+'Observatory-East Veronica                                   ','Partially Cloudy','Poor',0.030,'Last Quarter',101.50,'Moderate','Quiet','2.1048  ',-5.40,60.200,26.00,1023.0
+'Observatory-North Eugene                                    ','Clear','Poor',0.220,'New',37.73,'Low','Quiet','0.2418  ',33.00,36.100,21.80,1023.5
+'Observatory-Brendastad                                      ','Partially Cloudy','Good',0.070,'New',132.50,'Low','Active','4.9378  ',-15.30,20.000,28.40,1008.3
+'Observatory-Lake Jeffreybury                                ','Partially Cloudy','Excellent',0.510,'First Quarter',110.33,'Low','Storm','15.0221 ',-19.80,73.900,8.50,997.4
+'Observatory-East Lucasbury                                  ','Clear','Poor',0.650,'New',61.73,'High','Quiet','13.4427 ',-10.60,19.900,7.40,998.9
+'Observatory-Port Derrickborough                             ','Partially Cloudy','Excellent',0.610,'New',68.71,'Moderate','Active','11.9839 ',-10.40,8.000,7.10,1005.7
+'Observatory-Timothychester                                  ','Partially Cloudy','Good',0.160,'New',162.70,'Low','Active','22.3931 ',23.30,57.700,19.70,1000.0
+'Observatory-Kaylaton                                        ','Partially Cloudy','Good',0.080,'Full',11.16,'Low','Quiet','15.6326 ',9.30,74.100,9.40,1011.6
+'Observatory-East Michaelhaven                               ','Partially Cloudy','Poor',0.990,'New',25.90,'High','Quiet','17.4426 ',4.90,15.600,0.00,1010.3
+'Observatory-Davisbury                                       ','Clear','Good',0.950,'New',7.17,'Low','Storm','12.0248 ',20.30,50.500,24.10,1004.1
+'Observatory-Sarashire                                       ','Partially Cloudy','Poor',0.120,'Last Quarter',73.38,'High','Quiet','2.1594  ',-3.60,84.200,24.80,983.6
+'Observatory-Michelleview                                    ','Clear','Good',0.100,'Full',164.65,'Moderate','Quiet','12.9195 ',38.60,34.300,15.10,1022.3
+'Observatory-East Heatherchester                             ','Clear','Poor',0.950,'New',6.79,'Low','Active','15.0192 ',-2.40,11.000,29.90,1022.6
+'Observatory-Lauraberg                                       ','Cloudy','Good',0.770,'New',94.97,'Moderate','Active','6.6311  ',24.30,4.100,11.60,981.0
+'Observatory-South Jonathan                                  ','Partially Cloudy','Good',0.550,'First Quarter',52.75,'Moderate','Active','23.8265 ',5.70,50.900,14.20,981.1
+'Observatory-Leehaven                                        ','Partially Cloudy','Good',0.990,'Full',94.31,'High','Storm','15.0765 ',0.90,96.500,8.90,1025.7
+'Observatory-Smithstad                                       ','Clear','Good',0.730,'First Quarter',117.78,'Moderate','Quiet','13.4917 ',-13.20,74.400,4.00,983.0
+'Observatory-North Jimmy                                     ','Partially Cloudy','Good',0.710,'New',147.44,'High','Active','0.1996  ',17.40,95.100,9.90,985.4
+'Observatory-Lake Joannaberg                                 ','Cloudy','Good',0.130,'Full',91.23,'Low','Storm','19.662  ',-12.90,71.300,24.20,987.3
+'Observatory-New Antonio                                     ','Cloudy','Good',0.250,'Full',151.25,'High','Quiet','16.1708 ',6.80,47.300,1.90,984.2
+'Observatory-Lake Josephview                                 ','Cloudy','Excellent',0.950,'First Quarter',120.70,'Low','Storm','7.4359  ',21.20,58.500,22.60,1021.9
+'Observatory-Stoneton                                        ','Cloudy','Excellent',0.560,'Full',172.57,'Moderate','Active','8.3945  ',-17.20,98.000,26.10,981.9
+'Observatory-Port Ryan                                       ','Partially Cloudy','Poor',0.070,'Last Quarter',138.05,'Low','Active','14.3377 ',10.80,97.200,15.20,1012.9
+'Observatory-South Joshua                                    ','Clear','Excellent',0.490,'Last Quarter',39.00,'High','Quiet','5.5844  ',0.90,25.300,3.10,1019.5
+'Observatory-Mendozahaven                                    ','Cloudy','Excellent',0.850,'Last Quarter',93.48,'High','Active','18.2736 ',-12.50,26.200,7.40,991.4
+'Observatory-West Christopherton                             ','Cloudy','Poor',0.900,'First Quarter',106.69,'High','Storm','18.1508 ',2.20,82.900,15.40,1008.4
+'Observatory-Ericashire                                      ','Partially Cloudy','Excellent',0.700,'Full',163.41,'High','Storm','9.5255  ',28.80,13.200,29.80,1025.8
+'Observatory-Jessicabury                                     ','Partially Cloudy','Poor',0.680,'New',71.11,'Low','Active','15.5774 ',24.60,18.000,19.60,1020.9
+'Observatory-Rodriguezmouth                                  ','Partially Cloudy','Excellent',1.000,'First Quarter',88.52,'Moderate','Storm','7.8164  ',-17.60,42.600,6.20,1019.7
+'Observatory-Lake Jimmyfurt                                  ','Cloudy','Good',0.780,'Last Quarter',122.84,'Low','Storm','10.1033 ',27.40,11.800,23.00,980.8
+'Observatory-Lake Joshua                                     ','Partially Cloudy','Excellent',0.700,'Last Quarter',126.26,'High','Active','23.5474 ',20.90,12.100,2.20,982.7
+'Observatory-East Alexander                                  ','Cloudy','Good',0.770,'New',112.60,'Moderate','Storm','19.0368 ',4.60,86.600,27.90,980.6
+'Observatory-Brandonborough                                  ','Cloudy','Good',0.480,'New',24.86,'High','Active','16.6314 ',-11.50,50.100,24.40,1001.5
+'Observatory-West Briannaville                               ','Cloudy','Poor',0.740,'Full',86.48,'Moderate','Storm','22.0672 ',25.50,42.900,14.90,1025.5
+'Observatory-Griffithhaven                                   ','Clear','Good',0.800,'First Quarter',69.62,'Moderate','Storm','7.5462  ',0.90,78.600,5.20,994.2
+'Observatory-Gallegosborough                                 ','Partially Cloudy','Excellent',0.260,'First Quarter',168.52,'Low','Quiet','23.877  ',-5.20,34.000,24.70,1020.4
+'Observatory-North Kevin                                     ','Clear','Good',0.920,'Last Quarter',21.72,'Moderate','Active','10.5968 ',-13.50,2.100,23.70,1002.4
+'Observatory-New Jeanette                                    ','Clear','Good',0.370,'New',7.82,'Low','Active','17.7208 ',17.80,92.700,27.80,980.6
+'Observatory-Jamesport                                       ','Clear','Excellent',0.350,'Full',96.98,'Moderate','Storm','21.4795 ',-16.70,17.700,12.20,1004.5
+'Observatory-Scottland                                       ','Clear','Poor',0.810,'Full',88.72,'Low','Storm','5.5944  ',-10.70,28.300,27.30,1005.4
+'Observatory-Mitchellberg                                    ','Partially Cloudy','Excellent',0.540,'Last Quarter',121.69,'Low','Quiet','4.0813  ',22.10,51.300,15.10,995.4
+'Observatory-Michaelfort                                     ','Partially Cloudy','Good',0.810,'Last Quarter',147.74,'Moderate','Storm','14.6023 ',14.10,60.200,22.40,1021.1
+'Observatory-West Nicholasville                              ','Cloudy','Poor',0.740,'New',65.30,'High','Quiet','7.5806  ',35.10,41.500,29.40,1015.5
+'Observatory-Smithfurt                                       ','Clear','Good',0.840,'Last Quarter',140.05,'High','Active','17.0651 ',-18.80,31.400,8.80,991.5
+'Observatory-Anthonyside                                     ','Clear','Poor',0.240,'Full',3.86,'High','Active','10.4843 ',39.90,1.700,3.60,993.4
+'Observatory-Watsonville                                     ','Cloudy','Good',0.680,'New',12.95,'Moderate','Storm','8.1197  ',-7.30,4.800,10.70,1007.0
+'Observatory-Timothymouth                                    ','Cloudy','Excellent',0.100,'First Quarter',21.16,'Low','Quiet','17.8872 ',38.60,13.800,9.00,1027.1
+'Observatory-Jacksonside                                     ','Cloudy','Excellent',0.740,'Last Quarter',100.76,'Low','Quiet','20.0312 ',24.60,1.000,1.30,1000.4
+'Observatory-North Savannahmouth                             ','Clear','Excellent',0.420,'First Quarter',57.51,'High','Storm','0.0395  ',25.70,32.500,27.30,1025.8
+'Observatory-Derekchester                                    ','Partially Cloudy','Good',0.680,'Last Quarter',11.99,'High','Quiet','7.7194  ',-0.80,61.800,24.80,1001.6
+'Observatory-Port Stephenside                                ','Partially Cloudy','Poor',0.600,'First Quarter',93.59,'High','Active','7.3028  ',20.30,31.100,9.50,1020.5
+'Observatory-Richardtown                                     ','Cloudy','Excellent',0.560,'Last Quarter',4.71,'Moderate','Active','13.8326 ',34.00,74.300,16.80,1011.5
+'Observatory-South Tracy                                     ','Cloudy','Excellent',0.180,'First Quarter',176.63,'Low','Active','0.5768  ',35.10,94.000,3.80,1021.5
+'Observatory-Lake Pamelachester                              ','Clear','Poor',0.450,'New',120.54,'Low','Active','2.4251  ',-20.00,64.400,27.80,1021.6
+'Observatory-Juanville                                       ','Clear','Good',0.380,'New',151.66,'Moderate','Storm','4.5041  ',10.40,47.000,22.90,1001.9
+'Observatory-Port Stacey                                     ','Cloudy','Good',0.780,'Full',168.46,'Moderate','Quiet','19.2625 ',18.90,33.700,15.70,1013.4
+'Observatory-East Stevenmouth                                ','Cloudy','Poor',0.190,'First Quarter',18.58,'Moderate','Quiet','3.3632  ',-9.80,71.500,22.70,1012.5
+'Observatory-Armstrongfort                                   ','Partially Cloudy','Good',0.110,'Full',71.04,'High','Active','7.0309  ',30.10,21.200,7.80,1023.9
+'Observatory-Port Christophermouth                           ','Clear','Good',0.090,'New',152.84,'High','Quiet','11.6301 ',39.20,36.700,7.30,986.2
+'Observatory-Angelastad                                      ','Clear','Poor',0.410,'Last Quarter',114.30,'Low','Storm','19.4987 ',-2.40,89.100,16.50,1001.0
+'Observatory-Lake Alexberg                                   ','Partially Cloudy','Excellent',0.140,'New',162.37,'Low','Quiet','10.3374 ',39.20,30.900,6.40,993.1
+'Observatory-Nicoleberg                                      ','Cloudy','Poor',0.950,'Full',140.68,'High','Storm','11.7757 ',-12.60,70.000,5.90,1026.8
+'Observatory-Brownborough                                    ','Partially Cloudy','Excellent',0.390,'Full',88.12,'High','Active','0.257   ',10.30,67.700,3.90,987.9
+'Observatory-Lake Michaelland                                ','Clear','Poor',0.590,'Full',14.92,'High','Storm','16.9354 ',30.00,32.000,9.30,988.7
+'Observatory-East Destiny                                    ','Cloudy','Excellent',0.160,'Full',174.88,'High','Storm','8.2579  ',30.50,47.400,21.10,981.7
+'Observatory-East Lacey                                      ','Partially Cloudy','Good',0.110,'Full',35.04,'High','Active','20.3654 ',-9.60,36.500,4.90,988.7
+'Observatory-Melissaview                                     ','Cloudy','Excellent',0.100,'Full',89.43,'Low','Quiet','9.1562  ',12.60,10.800,16.10,1022.1
+'Observatory-South Robert                                    ','Cloudy','Good',0.620,'Full',76.95,'Low','Quiet','5.1393  ',17.70,65.000,20.10,1014.8
+'Observatory-Bradleyland                                     ','Cloudy','Excellent',0.050,'New',132.19,'High','Quiet','12.3295 ',7.30,76.700,0.00,1006.5
+'Observatory-South Derrick                                   ','Clear','Excellent',0.750,'Full',169.34,'Low','Quiet','2.5435  ',27.00,33.500,23.70,1001.9
+'Observatory-East Juanhaven                                  ','Clear','Excellent',0.150,'Last Quarter',29.91,'Low','Quiet','20.0454 ',-0.40,70.800,9.00,1012.5
+'Observatory-Lake Dana                                       ','Cloudy','Excellent',0.590,'Full',161.75,'Moderate','Quiet','13.795  ',-16.00,44.400,22.80,993.5
+'Observatory-Patrickview                                     ','Partially Cloudy','Excellent',0.270,'First Quarter',4.34,'Low','Quiet','11.8767 ',-16.10,25.900,17.50,1002.6
+'Observatory-West Josephburgh                                ','Clear','Poor',0.020,'Full',132.19,'Low','Quiet','0.635   ',33.30,92.000,22.20,991.5
+'Observatory-Underwoodshire                                  ','Partially Cloudy','Excellent',0.560,'First Quarter',80.35,'High','Storm','4.6465  ',15.40,8.000,29.40,980.3
+'Observatory-Erikberg                                        ','Cloudy','Poor',0.050,'Last Quarter',29.80,'High','Active','11.2537 ',10.00,61.300,6.20,1002.8
+'Observatory-Lake Paul                                       ','Clear','Good',0.140,'Full',115.90,'Low','Quiet','8.7197  ',15.80,66.100,18.50,1026.9
+'Observatory-Aguilarfurt                                     ','Clear','Good',0.940,'First Quarter',155.86,'Low','Active','4.0783  ',31.80,90.800,4.10,1024.5
+'Observatory-East Jerry                                      ','Cloudy','Excellent',0.300,'Full',126.24,'High','Quiet','0.3088  ',-12.60,1.000,12.70,1010.1
+'Observatory-Michaelfurt                                     ','Clear','Poor',0.870,'Full',15.09,'Low','Quiet','14.5984 ',-12.10,90.900,24.50,994.5
+'Observatory-Griffinborough                                  ','Clear','Good',0.580,'First Quarter',145.78,'Moderate','Storm','19.1016 ',13.80,4.500,15.10,990.3
+'Observatory-Kimberlybury                                    ','Cloudy','Good',0.900,'Last Quarter',178.38,'Moderate','Active','23.5453 ',-4.60,68.600,27.40,1023.7
+'Observatory-Port Melissa                                    ','Partially Cloudy','Good',0.660,'First Quarter',121.73,'Moderate','Active','6.6634  ',26.40,60.500,16.20,1003.2
+'Observatory-South Leeborough                                ','Cloudy','Excellent',0.580,'Full',139.62,'Low','Quiet','11.3132 ',-12.10,57.000,4.20,988.8
+'Observatory-Vangmouth                                       ','Partially Cloudy','Poor',0.880,'Full',134.64,'Low','Quiet','7.8991  ',12.00,48.400,12.10,1016.3
+'Observatory-North Derekview                                 ','Clear','Poor',0.970,'New',110.21,'Low','Storm','2.788   ',31.20,3.300,14.90,1003.1
+'Observatory-Herreraberg                                     ','Clear','Good',0.090,'First Quarter',21.02,'Low','Active','15.8478 ',13.20,21.100,24.30,985.6
+'Observatory-East Davidshire                                 ','Partially Cloudy','Excellent',0.690,'Full',78.63,'High','Storm','5.6869  ',11.40,58.800,23.40,980.5
+'Observatory-New Nicholas                                    ','Partially Cloudy','Excellent',0.960,'Full',155.71,'Moderate','Active','7.0997  ',-17.30,50.900,23.90,1001.3
+'Observatory-Jasonborough                                    ','Partially Cloudy','Good',0.770,'First Quarter',178.59,'Low','Quiet','14.6579 ',4.90,53.500,9.50,993.7
+'Observatory-North Juliemouth                                ','Cloudy','Excellent',0.880,'Full',146.93,'Moderate','Quiet','4.5725  ',21.10,9.200,16.10,989.0
+'Observatory-East Aimeetown                                  ','Partially Cloudy','Excellent',0.310,'Last Quarter',173.33,'Moderate','Active','6.6277  ',-9.80,31.000,6.50,1003.1
+'Observatory-Bennettmouth                                    ','Cloudy','Excellent',0.080,'New',83.23,'Low','Quiet','11.2544 ',35.20,95.100,3.60,981.3
+'Observatory-Tammyton                                        ','Partially Cloudy','Good',0.870,'Last Quarter',104.50,'High','Active','18.6746 ',15.30,62.700,26.30,1001.5
+'Observatory-New Stephanie                                   ','Partially Cloudy','Good',0.120,'Last Quarter',128.29,'Low','Quiet','7.6222  ',8.10,31.600,15.10,1020.8
+'Observatory-Doughertyberg                                   ','Cloudy','Excellent',0.410,'New',17.77,'Moderate','Quiet','9.9121  ',32.10,23.600,6.50,1015.8
+'Observatory-Davisland                                       ','Partially Cloudy','Good',0.010,'First Quarter',138.21,'Moderate','Active','0.092   ',29.40,46.500,13.60,1003.6
+'Observatory-South Kevin                                     ','Partially Cloudy','Excellent',0.970,'Full',28.71,'Low','Storm','11.5613 ',-8.70,28.200,8.40,1002.7
+'Observatory-East Malloryside                                ','Cloudy','Excellent',0.030,'First Quarter',53.72,'Moderate','Storm','3.559   ',-9.70,55.600,2.50,1001.8
+'Observatory-Lopezfurt                                       ','Partially Cloudy','Poor',0.000,'New',49.32,'Moderate','Storm','16.6719 ',7.20,73.100,9.40,982.6
+'Observatory-West Christopherville                           ','Partially Cloudy','Good',0.690,'Full',165.45,'Moderate','Quiet','0.2536  ',17.40,56.000,29.00,1012.8
+'Observatory-Parrishmouth                                    ','Clear','Excellent',0.300,'Last Quarter',124.56,'Moderate','Quiet','3.2383  ',18.30,79.900,25.60,990.0
+'Observatory-New Karenview                                   ','Partially Cloudy','Good',0.620,'Last Quarter',1.47,'Moderate','Quiet','14.597  ',-10.30,31.100,23.40,1019.9
+'Observatory-North Meganchester                              ','Partially Cloudy','Good',0.610,'Last Quarter',78.58,'High','Quiet','20.2688 ',39.40,97.300,16.80,998.7
+'Observatory-West Gary                                       ','Cloudy','Good',0.030,'Last Quarter',64.24,'High','Active','1.9885  ',-9.90,51.700,12.70,1003.9
+'Observatory-East Brendamouth                                ','Clear','Poor',0.610,'First Quarter',49.40,'High','Quiet','10.7807 ',9.30,30.600,7.40,986.7
+'Observatory-South Elizabeth                                 ','Partially Cloudy','Excellent',0.840,'First Quarter',124.19,'Moderate','Active','15.2498 ',2.80,8.900,13.90,1018.6
+'Observatory-Port Ronald                                     ','Partially Cloudy','Excellent',0.910,'Last Quarter',75.33,'High','Active','4.6623  ',11.00,80.400,21.90,1000.5
+'Observatory-North Joseberg                                  ','Clear','Poor',0.990,'Full',57.70,'Moderate','Active','13.262  ',-16.50,86.600,15.80,1001.7
+'Observatory-South Andreahaven                               ','Clear','Excellent',0.530,'Full',77.07,'Moderate','Storm','4.9535  ',-1.50,94.200,18.80,1004.5
+'Observatory-Michaelstad                                     ','Clear','Good',0.900,'First Quarter',68.43,'High','Storm','0.8087  ',18.20,49.500,4.00,990.9
+'Observatory-East Markchester                                ','Cloudy','Poor',0.550,'Full',95.26,'Moderate','Storm','20.9889 ',35.20,82.100,7.10,1021.3
+'Observatory-Jonathanville                                   ','Partially Cloudy','Good',0.870,'Last Quarter',53.82,'Moderate','Quiet','9.004   ',7.60,21.400,0.60,986.1
+'Observatory-Port Johnstad                                   ','Clear','Good',0.300,'New',30.97,'High','Storm','17.9892 ',16.70,76.400,5.80,1014.8
+'Observatory-Travisfort                                      ','Partially Cloudy','Good',0.010,'New',143.72,'Low','Storm','2.3463  ',19.00,2.600,9.70,1028.4
+'Observatory-Thomasborough                                   ','Cloudy','Poor',0.380,'Last Quarter',67.80,'High','Active','2.8145  ',32.30,76.400,8.50,1014.1
+'Observatory-East Seanfurt                                   ','Partially Cloudy','Good',0.810,'First Quarter',122.20,'High','Storm','11.5484 ',-13.00,12.100,21.90,1007.7
+'Observatory-South Michele                                   ','Partially Cloudy','Excellent',0.640,'Full',160.53,'Low','Active','12.3496 ',2.50,59.800,17.50,1002.6
+'Observatory-Allenview                                       ','Cloudy','Excellent',0.070,'First Quarter',78.55,'High','Storm','10.2332 ',-4.30,78.800,4.90,1028.1
+'Observatory-Robertland                                      ','Cloudy','Excellent',0.400,'First Quarter',105.58,'High','Quiet','3.7822  ',26.60,95.200,9.80,997.5
+'Observatory-North Douglas                                   ','Partially Cloudy','Good',0.280,'First Quarter',88.00,'Moderate','Storm','5.0646  ',25.60,32.600,29.00,989.7
+'Observatory-Lake David                                      ','Partially Cloudy','Good',0.990,'Full',169.57,'High','Quiet','21.9021 ',-8.20,93.700,27.60,993.7
+'Observatory-Lindseymouth                                    ','Cloudy','Excellent',0.670,'Last Quarter',114.72,'High','Active','17.4518 ',-8.20,12.800,27.10,991.3
+'Observatory-New Stevenberg                                  ','Partially Cloudy','Good',0.160,'New',134.80,'Moderate','Storm','3.8561  ',2.50,77.700,28.10,994.9
+'Observatory-South Matthewhaven                              ','Clear','Excellent',0.370,'Full',179.46,'Low','Quiet','10.6524 ',-13.60,82.100,10.00,1006.0
+'Observatory-Michaelberg                                     ','Partially Cloudy','Excellent',0.500,'Last Quarter',179.54,'Low','Storm','14.7306 ',-3.60,11.800,19.10,1013.8
+'Observatory-Adammouth                                       ','Cloudy','Excellent',0.010,'Last Quarter',64.79,'Low','Quiet','2.4346  ',34.30,90.100,29.20,987.8
+'Observatory-Andersonberg                                    ','Clear','Excellent',0.710,'Full',163.01,'High','Active','14.3823 ',24.90,79.800,11.60,998.5
+'Observatory-New Michaelton                                  ','Partially Cloudy','Good',0.160,'New',118.69,'Low','Storm','7.634   ',-5.70,35.700,0.90,987.2
+'Observatory-Michaelport                                     ','Clear','Good',0.650,'First Quarter',62.01,'Low','Storm','4.1385  ',-0.40,56.000,22.70,1009.6
+'Observatory-Jillmouth                                       ','Partially Cloudy','Excellent',0.380,'First Quarter',130.61,'High','Active','7.9333  ',32.30,89.800,19.40,1017.6
+'Observatory-Ashleychester                                   ','Cloudy','Poor',0.010,'New',72.19,'Moderate','Active','7.7132  ',11.00,31.400,11.20,1000.0
+'Observatory-Port Davidton                                   ','Partially Cloudy','Poor',0.180,'First Quarter',75.45,'Moderate','Quiet','9.7553  ',-8.70,48.900,18.30,992.1
+'Observatory-Watsonland                                      ','Partially Cloudy','Excellent',0.710,'Full',96.12,'Moderate','Storm','3.2118  ',-13.10,85.700,7.80,1002.4
+'Observatory-New Margarethaven                               ','Clear','Good',0.730,'Last Quarter',27.24,'High','Quiet','4.6841  ',16.20,20.800,28.60,995.5
+'Observatory-South Makaylafurt                               ','Clear','Good',0.960,'First Quarter',170.10,'Moderate','Active','8.1697  ',14.30,59.300,7.60,1025.0
+'Observatory-Kellyburgh                                      ','Cloudy','Good',0.600,'Last Quarter',113.31,'Moderate','Quiet','14.4484 ',28.20,6.800,18.80,1012.8
+'Observatory-Michelleport                                    ','Clear','Poor',0.790,'Last Quarter',45.32,'High','Active','4.7495  ',25.10,46.500,13.30,1025.8
+'Observatory-Michaelmouth                                    ','Partially Cloudy','Poor',0.540,'Full',154.11,'High','Quiet','4.5769  ',30.00,96.200,11.80,982.2
+'Observatory-Kellybury                                       ','Partially Cloudy','Poor',0.520,'Full',93.02,'High','Storm','5.5697  ',9.00,53.900,19.10,1007.5
+'Observatory-New Douglas                                     ','Cloudy','Good',0.640,'Last Quarter',97.09,'High','Quiet','4.9328  ',22.70,63.500,2.90,1001.9
+'Observatory-South Mary                                      ','Partially Cloudy','Good',0.190,'Full',63.71,'Low','Active','21.2304 ',3.20,65.900,18.80,1011.9
+'Observatory-Chaseland                                       ','Cloudy','Good',0.870,'Last Quarter',174.99,'Moderate','Storm','17.5037 ',-18.80,34.900,21.30,985.3
+'Observatory-South Shirley                                   ','Partially Cloudy','Poor',0.320,'First Quarter',74.45,'High','Storm','18.6379 ',35.00,21.000,27.00,1019.2
+'Observatory-Mckenziestad                                    ','Clear','Poor',0.880,'New',3.53,'Moderate','Quiet','8.562   ',26.20,60.300,24.20,1007.0
+'Observatory-North Maria                                     ','Partially Cloudy','Good',0.350,'Full',25.40,'Low','Quiet','2.9346  ',28.10,8.000,0.70,980.6
+'Observatory-Manuelview                                      ','Clear','Excellent',0.640,'Last Quarter',140.98,'Low','Active','22.6452 ',-4.90,77.400,16.80,989.8
+'Observatory-Hineshaven                                      ','Cloudy','Good',0.920,'First Quarter',2.24,'Low','Active','17.938  ',-4.00,94.900,0.50,1024.1
+'Observatory-North Patriciaberg                              ','Cloudy','Excellent',0.930,'First Quarter',12.91,'Moderate','Active','15.2573 ',-5.00,20.500,3.30,987.2
+'Observatory-Lake Mariahland                                 ','Clear','Excellent',0.570,'New',65.52,'Low','Quiet','16.4727 ',29.10,85.800,10.90,997.0
+'Observatory-Donaldland                                      ','Clear','Excellent',0.070,'Full',128.49,'High','Active','6.0433  ',-10.20,50.100,17.20,1003.0
+'Observatory-Lake Timothy                                    ','Partially Cloudy','Good',0.160,'New',6.59,'High','Storm','6.9233  ',6.00,75.100,4.10,982.7
+'Observatory-Mooretown                                       ','Partially Cloudy','Good',0.640,'New',65.25,'Low','Quiet','10.8054 ',23.90,17.500,8.80,984.7
+'Observatory-Wallacestad                                     ','Clear','Poor',0.690,'First Quarter',52.64,'High','Active','22.9894 ',-14.00,65.000,22.80,986.0
+'Observatory-Dianeland                                       ','Clear','Poor',0.210,'New',41.99,'Moderate','Quiet','20.4698 ',17.50,93.700,11.10,992.3
+'Observatory-East Stephentown                                ','Partially Cloudy','Good',0.800,'Full',157.75,'Moderate','Active','8.4876  ',23.50,24.800,15.90,1022.6
+'Observatory-West Elizabethport                              ','Partially Cloudy','Good',0.010,'Full',175.99,'Low','Storm','10.4465 ',-2.80,78.100,12.90,1001.1
+'Observatory-Stricklandstad                                  ','Cloudy','Good',0.940,'New',115.62,'Moderate','Quiet','17.2008 ',-5.80,54.600,17.00,1007.5
+'Observatory-Meganview                                       ','Partially Cloudy','Excellent',0.890,'First Quarter',10.29,'Moderate','Quiet','7.5679  ',36.80,54.600,7.70,1016.4
+'Observatory-New Javier                                      ','Clear','Poor',0.500,'Last Quarter',102.79,'Moderate','Active','15.2549 ',16.70,1.300,24.90,995.8
+'Observatory-Port John                                       ','Clear','Excellent',0.370,'Last Quarter',35.48,'Low','Active','0.5659  ',11.20,73.300,2.90,998.3
+'Observatory-South Margaretton                               ','Cloudy','Poor',0.110,'Last Quarter',116.32,'High','Active','12.08   ',31.30,34.700,21.60,1011.7
+'Observatory-South Jennifer                                  ','Clear','Poor',0.220,'New',82.16,'Moderate','Storm','7.2414  ',-11.50,45.500,9.10,1017.1
+'Observatory-New Stacyhaven                                  ','Cloudy','Poor',0.100,'New',131.86,'High','Active','22.115  ',-12.50,24.900,19.70,983.7
+'Observatory-Riverastad                                      ','Partially Cloudy','Excellent',0.290,'First Quarter',45.79,'High','Storm','10.2095 ',17.70,35.600,8.50,1020.8
+'Observatory-West Rachelchester                              ','Clear','Excellent',0.900,'Last Quarter',123.05,'Moderate','Storm','12.2483 ',-9.70,67.800,3.30,981.1
+'Observatory-Smithmouth                                      ','Partially Cloudy','Good',0.650,'Last Quarter',99.33,'Low','Active','23.3719 ',-17.10,17.900,12.20,991.5
+'Observatory-South Susanburgh                                ','Cloudy','Poor',0.610,'New',83.30,'Moderate','Active','13.7123 ',-11.00,22.700,17.00,994.1
+'Observatory-East Douglas                                    ','Clear','Poor',0.320,'Full',144.97,'Low','Active','6.7083  ',1.20,53.100,1.30,1012.1
+'Observatory-Westberg                                        ','Partially Cloudy','Good',0.070,'First Quarter',137.12,'High','Quiet','18.0306 ',-12.70,12.100,15.50,990.7
+'Observatory-Loriport                                        ','Partially Cloudy','Excellent',0.840,'New',39.99,'High','Active','4.6912  ',36.60,24.800,26.50,1026.3
+'Observatory-New Tamarafort                                  ','Cloudy','Poor',0.610,'First Quarter',53.09,'Low','Active','6.0494  ',-13.10,40.500,2.30,1028.9
+'Observatory-Robertport                                      ','Clear','Excellent',0.610,'Full',44.80,'Moderate','Quiet','11.6381 ',-13.40,51.600,20.50,995.1
+'Observatory-Fullerland                                      ','Clear','Good',0.190,'New',40.86,'Low','Storm','1.3191  ',33.60,21.900,17.90,988.5
+'Observatory-Port Amy                                        ','Clear','Good',0.600,'First Quarter',1.24,'High','Storm','3.0027  ',10.30,30.200,19.90,997.2
+'Observatory-East Brandyfurt                                 ','Partially Cloudy','Excellent',0.610,'Full',134.27,'Moderate','Storm','15.1084 ',34.70,45.500,3.10,1021.6
+'Observatory-Jacobsland                                      ','Partially Cloudy','Good',0.210,'Last Quarter',113.29,'Low','Storm','22.8347 ',9.80,91.200,19.30,982.6
+'Observatory-Brookemouth                                     ','Partially Cloudy','Good',0.270,'First Quarter',170.43,'Low','Active','13.984  ',37.40,90.600,19.30,1025.4
+'Observatory-Jacobfort                                       ','Clear','Excellent',0.600,'New',147.35,'Low','Storm','3.984   ',1.10,25.000,0.70,1004.9
+'Observatory-Port Michelleport                               ','Partially Cloudy','Excellent',0.380,'First Quarter',76.30,'Low','Active','10.8135 ',-5.10,3.400,6.80,1003.9
+'Observatory-New Lorichester                                 ','Clear','Poor',0.840,'Last Quarter',148.07,'Moderate','Active','17.1063 ',5.50,12.000,1.30,1005.7
+'Observatory-Port Kimberlyhaven                              ','Cloudy','Poor',0.910,'New',128.65,'Low','Quiet','4.1736  ',5.60,21.400,26.90,1000.6
+'Observatory-North Lauren                                    ','Partially Cloudy','Poor',0.320,'First Quarter',175.63,'High','Storm','21.9109 ',2.10,20.500,15.20,1005.1
+'Observatory-Jadeburgh                                       ','Cloudy','Poor',0.130,'New',28.07,'Low','Active','7.9254  ',18.00,48.700,28.60,982.6
+'Observatory-West Timothy                                    ','Partially Cloudy','Excellent',0.640,'Full',55.82,'High','Quiet','6.5264  ',29.30,65.700,1.70,1027.5
+'Observatory-West Angela                                     ','Clear','Good',0.040,'Last Quarter',113.59,'Moderate','Active','4.5814  ',-6.00,75.200,10.90,1008.6
+'Observatory-East Mariafurt                                  ','Cloudy','Poor',0.990,'Last Quarter',31.74,'High','Active','12.2301 ',-14.60,65.800,19.70,1014.4
+'Observatory-East Randy                                      ','Partially Cloudy','Poor',0.340,'New',24.75,'Low','Quiet','8.772   ',8.50,39.100,24.70,1028.5
+'Observatory-Hubbardstad                                     ','Partially Cloudy','Good',0.960,'Last Quarter',171.05,'Moderate','Quiet','5.2667  ',10.10,86.600,2.10,1004.2
+'Observatory-South Kara                                      ','Cloudy','Good',0.670,'First Quarter',161.18,'Moderate','Active','22.3735 ',9.70,32.700,20.60,1002.9
+'Observatory-East Teresa                                     ','Clear','Excellent',0.080,'New',177.05,'High','Active','17.455  ',12.50,42.600,22.20,1028.8
+'Observatory-East Mallory                                    ','Cloudy','Good',0.240,'First Quarter',150.18,'High','Storm','3.1599  ',-4.00,74.200,10.90,980.9
+'Observatory-South Danielle                                  ','Partially Cloudy','Poor',0.020,'Last Quarter',28.13,'Moderate','Active','20.4619 ',35.80,45.800,14.30,1024.1
+'Observatory-Isaiahchester                                   ','Cloudy','Poor',0.880,'First Quarter',64.43,'Low','Quiet','0.4507  ',20.40,72.800,23.90,1026.1
+'Observatory-Port Laurenville                                ','Cloudy','Excellent',0.210,'New',9.82,'Moderate','Storm','20.6373 ',26.00,15.000,3.20,981.1
+'Observatory-New Lucas                                       ','Clear','Good',0.830,'Last Quarter',45.02,'Moderate','Active','8.7655  ',28.70,41.400,10.60,1009.8
+'Observatory-East Adamburgh                                  ','Clear','Poor',0.970,'First Quarter',117.98,'Moderate','Storm','11.9952 ',28.50,86.100,2.20,1029.6
+'Observatory-Danielsfort                                     ','Partially Cloudy','Good',0.630,'First Quarter',140.88,'Low','Quiet','11.8501 ',32.10,1.300,11.60,1000.3
+'Observatory-Randolphfurt                                    ','Partially Cloudy','Poor',0.040,'Last Quarter',79.03,'Low','Active','18.7359 ',-0.80,2.100,29.50,982.1
+'Observatory-Shanemouth                                      ','Partially Cloudy','Poor',0.610,'New',44.24,'Moderate','Storm','11.7765 ',30.20,89.600,19.30,1022.3
+'Observatory-Nicholasbury                                    ','Cloudy','Excellent',0.630,'Full',129.84,'Moderate','Storm','17.185  ',14.60,39.900,26.30,995.2
+'Observatory-East Mikehaven                                  ','Partially Cloudy','Excellent',0.850,'First Quarter',91.14,'Low','Active','23.1482 ',26.30,2.000,23.00,1006.5
+'Observatory-Susantown                                       ','Partially Cloudy','Poor',0.780,'New',93.33,'High','Active','18.7825 ',-8.10,32.900,28.10,1019.5
+'Observatory-Robertfurt                                      ','Partially Cloudy','Excellent',0.490,'Full',17.81,'High','Storm','11.1963 ',34.30,28.900,27.40,1003.8
+'Observatory-Brittanyfort                                    ','Clear','Poor',0.260,'First Quarter',81.97,'High','Quiet','10.6164 ',1.80,73.700,9.10,987.7
+'Observatory-South Tammy                                     ','Partially Cloudy','Good',0.640,'Full',1.67,'High','Storm','2.9116  ',-3.80,91.100,18.30,1027.9
+'Observatory-East Johnathan                                  ','Clear','Excellent',0.430,'First Quarter',2.03,'Moderate','Active','4.4308  ',2.00,31.300,5.50,989.6
+'Observatory-Lake Patriciaport                               ','Partially Cloudy','Poor',0.660,'Last Quarter',83.07,'Low','Storm','0.9904  ',19.10,76.400,16.30,1029.0
+'Observatory-Lake Justinbury                                 ','Clear','Excellent',0.230,'First Quarter',2.66,'Low','Quiet','21.5131 ',11.70,30.900,18.80,992.0
+'Observatory-Audreytown                                      ','Clear','Good',0.010,'First Quarter',40.19,'High','Storm','15.0682 ',20.50,13.100,17.10,980.6
+'Observatory-South Cynthia                                   ','Cloudy','Excellent',0.780,'Full',125.56,'Moderate','Storm','16.3699 ',11.00,81.700,22.70,1027.1
+'Observatory-West Lisa                                       ','Partially Cloudy','Excellent',0.760,'New',144.87,'High','Active','11.8757 ',-7.50,29.900,29.40,1028.7
+'Observatory-New Megan                                       ','Clear','Poor',0.060,'Full',175.49,'Low','Quiet','6.0629  ',9.50,14.800,24.80,1020.2
+'Observatory-New Jamiefort                                   ','Partially Cloudy','Excellent',0.260,'First Quarter',157.17,'High','Active','17.5037 ',1.90,47.200,17.80,1016.2
+'Observatory-East Darinville                                 ','Clear','Excellent',0.640,'Last Quarter',140.65,'Low','Active','20.7414 ',2.50,69.000,7.00,999.4
+'Observatory-Port Charlesside                                ','Partially Cloudy','Excellent',0.800,'First Quarter',0.98,'Low','Storm','6.9121  ',20.90,26.900,28.20,1014.1
+'Observatory-Christophershire                                ','Clear','Excellent',0.870,'Full',55.80,'High','Active','3.037   ',-5.90,10.900,0.90,984.5
+'Observatory-Barbarachester                                  ','Partially Cloudy','Good',0.690,'New',2.00,'Moderate','Quiet','17.223  ',24.90,35.700,2.10,1002.8
+'Observatory-North Jacobberg                                 ','Cloudy','Excellent',0.070,'First Quarter',49.25,'Moderate','Quiet','14.9099 ',1.40,8.000,15.30,1017.6
+'Observatory-Boonefurt                                       ','Partially Cloudy','Good',0.090,'New',161.59,'Low','Storm','0.2021  ',6.50,48.100,29.40,1003.2
+'Observatory-Nicolemouth                                     ','Cloudy','Poor',0.060,'First Quarter',39.86,'Low','Active','10.6159 ',13.10,24.700,14.30,991.5
+'Observatory-Mooreview                                       ','Partially Cloudy','Excellent',0.610,'New',2.23,'High','Quiet','1.8446  ',-5.20,77.200,23.40,988.1
+'Observatory-Johnsonside                                     ','Cloudy','Excellent',0.180,'First Quarter',14.14,'Low','Quiet','23.809  ',31.80,26.700,29.50,1017.7
+'Observatory-East Wendy                                      ','Clear','Excellent',0.040,'New',83.87,'Moderate','Storm','3.6288  ',-19.90,61.000,21.30,1007.6
+'Observatory-Lake Donnaville                                 ','Clear','Good',0.800,'Full',102.63,'Moderate','Active','1.1064  ',36.40,43.300,17.80,1005.7
+'Observatory-Elizabethfort                                   ','Cloudy','Poor',0.440,'Full',71.24,'High','Active','4.7952  ',24.40,79.600,1.00,1004.9
+'Observatory-Margaretborough                                 ','Cloudy','Excellent',0.310,'Last Quarter',115.14,'Moderate','Active','15.4223 ',32.20,90.900,1.70,996.0
+'Observatory-Port Mark                                       ','Clear','Poor',0.830,'New',1.19,'High','Storm','22.352  ',24.90,22.300,1.70,1006.3
+'Observatory-Sheaview                                        ','Cloudy','Poor',0.810,'New',161.18,'High','Storm','20.5799 ',31.20,81.400,9.70,981.6
+'Observatory-Javiertown                                      ','Partially Cloudy','Poor',0.870,'Last Quarter',39.56,'Low','Storm','0.4436  ',35.20,70.200,3.70,985.3
+'Observatory-Hugheston                                       ','Cloudy','Good',0.860,'Last Quarter',74.36,'High','Quiet','13.3863 ',27.90,42.000,12.50,1006.4
+'Observatory-Youngland                                       ','Partially Cloudy','Good',0.050,'Full',133.43,'Moderate','Storm','21.8205 ',-9.00,75.900,11.00,1027.8
+'Observatory-West Annette                                    ','Clear','Good',0.760,'New',117.12,'Moderate','Quiet','5.1442  ',26.20,69.100,22.50,1006.6
+'Observatory-Harrismouth                                     ','Clear','Poor',0.090,'Full',147.52,'High','Storm','23.5597 ',25.70,39.100,29.80,1007.1
+'Observatory-Lake Sandra                                     ','Partially Cloudy','Good',0.170,'New',27.57,'Moderate','Active','17.285  ',13.70,44.700,19.10,981.6
+'Observatory-Lovebury                                        ','Partially Cloudy','Excellent',0.900,'Last Quarter',160.69,'High','Active','0.3027  ',23.20,26.200,4.90,1003.8
+'Observatory-Stevenville                                     ','Cloudy','Good',0.740,'Last Quarter',40.16,'Low','Active','2.5831  ',-14.50,32.400,18.70,1001.0
+'Observatory-Port Laura                                      ','Cloudy','Excellent',0.280,'Last Quarter',72.44,'Moderate','Quiet','7.2271  ',-2.70,56.000,4.40,1010.8
+'Observatory-Suestad                                         ','Partially Cloudy','Excellent',0.140,'New',5.53,'Moderate','Storm','18.5366 ',27.70,5.700,28.30,984.4
+'Observatory-Jesusville                                      ','Cloudy','Excellent',0.370,'Last Quarter',170.26,'Low','Quiet','3.8474  ',13.60,43.100,21.00,1006.1
+'Observatory-Rodrigueztown                                   ','Clear','Good',0.530,'Last Quarter',123.09,'Moderate','Active','8.3212  ',-17.00,65.200,1.50,1012.7
+'Observatory-West Melissaland                                ','Cloudy','Poor',0.310,'New',126.54,'Moderate','Storm','6.8128  ',11.70,1.300,12.70,994.3
+'Observatory-Mariebury                                       ','Partially Cloudy','Poor',0.710,'First Quarter',129.78,'High','Storm','8.0548  ',29.70,28.100,18.90,992.7
+'Observatory-Lake Kevinberg                                  ','Partially Cloudy','Excellent',0.060,'First Quarter',103.06,'Low','Quiet','8.4755  ',33.70,81.200,26.90,985.7
+'Observatory-East Mollyfort                                  ','Cloudy','Poor',0.800,'Last Quarter',154.74,'Low','Active','10.0409 ',-6.10,38.300,10.10,998.8
+'Observatory-Matthewhaven                                    ','Cloudy','Poor',0.790,'Full',18.28,'High','Active','3.851   ',32.00,90.400,24.40,1012.1
+'Observatory-Lake Nancy                                      ','Cloudy','Poor',0.220,'First Quarter',13.44,'High','Quiet','17.7018 ',-6.40,59.300,15.10,1021.5
+'Observatory-Ericastad                                       ','Clear','Excellent',0.060,'First Quarter',160.21,'High','Storm','9.0876  ',20.70,65.700,3.80,1012.6
+'Observatory-Pamelaburgh                                     ','Clear','Good',0.850,'New',105.98,'High','Storm','16.1973 ',-11.20,87.600,6.60,988.9
+'Observatory-Andretown                                       ','Cloudy','Excellent',0.840,'First Quarter',2.93,'High','Active','13.1761 ',5.60,33.500,8.00,1000.1
+'Observatory-Danielstad                                      ','Clear','Good',0.880,'First Quarter',37.14,'Low','Active','10.3197 ',-8.90,67.400,19.30,1017.7
+'Observatory-North Cathy                                     ','Cloudy','Good',0.770,'Last Quarter',59.33,'Low','Storm','5.6461  ',20.00,62.600,20.00,1023.6
+'Observatory-Jamesfort                                       ','Partially Cloudy','Good',0.520,'Full',168.02,'Moderate','Quiet','5.3813  ',24.70,49.300,16.50,982.4
+'Observatory-Lake Nicholashaven                              ','Partially Cloudy','Excellent',0.480,'Full',88.97,'Moderate','Quiet','4.6917  ',1.80,42.200,27.80,1024.5
+'Observatory-Tylerport                                       ','Clear','Good',0.140,'New',99.83,'High','Storm','2.5751  ',33.60,99.600,29.30,1018.2
+'Observatory-Charlesbury                                     ','Partially Cloudy','Good',0.960,'New',175.60,'High','Storm','14.9095 ',3.20,82.100,10.20,994.6
+'Observatory-South Amandafort                                ','Cloudy','Poor',0.170,'New',151.22,'High','Active','0.6935  ',32.70,42.800,3.60,1015.0
+'Observatory-Kristinshire                                    ','Clear','Poor',0.240,'First Quarter',27.39,'Low','Quiet','9.6578  ',-14.00,48.500,25.40,989.6
+'Observatory-Lake Lynn                                       ','Partially Cloudy','Good',0.390,'New',91.02,'High','Quiet','5.6499  ',-18.90,18.200,29.40,1010.5
+'Observatory-Jillbury                                        ','Clear','Poor',0.770,'First Quarter',25.47,'High','Quiet','13.1059 ',5.50,3.000,5.00,1029.3
+'Observatory-South Jennifershire                             ','Clear','Excellent',0.230,'Full',166.20,'Moderate','Active','1.2444  ',-0.20,62.800,21.40,985.3
+'Observatory-Burnsville                                      ','Partially Cloudy','Poor',0.390,'First Quarter',118.54,'High','Quiet','10.0343 ',36.50,56.500,25.20,997.8
+'Observatory-South Johnfort                                  ','Partially Cloudy','Good',0.740,'New',84.90,'Low','Storm','11.2876 ',3.20,4.500,5.10,995.2
+'Observatory-Williamsborough                                 ','Partially Cloudy','Excellent',0.620,'Full',110.53,'Moderate','Storm','16.6862 ',14.90,92.600,19.90,1028.1
+'Observatory-North Stephanie                                 ','Cloudy','Poor',0.190,'New',87.68,'Low','Active','9.4859  ',23.00,84.500,4.50,985.7
+'Observatory-Lewisbury                                       ','Clear','Excellent',0.310,'New',88.06,'Low','Active','7.9919  ',32.20,61.200,4.50,1002.3
+'Observatory-Port Calvin                                     ','Cloudy','Poor',0.150,'Full',10.47,'High','Active','11.3892 ',34.70,98.300,12.90,989.6
+'Observatory-Marcusview                                      ','Partially Cloudy','Good',0.400,'New',65.47,'Moderate','Storm','23.2661 ',7.90,21.000,9.80,1029.7
+'Observatory-North Lisahaven                                 ','Cloudy','Excellent',0.500,'Full',57.04,'Moderate','Storm','19.3068 ',23.60,37.200,16.30,1021.0
+'Observatory-Mcmillanfort                                    ','Partially Cloudy','Good',0.020,'First Quarter',67.72,'Low','Storm','17.8069 ',32.20,61.300,9.80,1012.3
+'Observatory-Port Karen                                      ','Cloudy','Poor',0.890,'Last Quarter',7.90,'Low','Active','20.544  ',7.60,61.600,22.70,980.2
+'Observatory-Watkinsfurt                                     ','Clear','Good',0.320,'New',60.57,'Low','Quiet','0.4368  ',19.10,50.600,15.50,981.8
+'Observatory-Luisside                                        ','Partially Cloudy','Good',0.090,'First Quarter',102.81,'Moderate','Active','14.4826 ',-19.40,68.000,5.70,1024.1
+'Observatory-North Kathleenview                              ','Clear','Poor',0.900,'New',130.90,'Moderate','Active','23.8134 ',6.30,9.900,17.40,992.0
+'Observatory-East Terriville                                 ','Cloudy','Excellent',0.350,'Last Quarter',175.46,'Moderate','Quiet','13.7639 ',11.40,70.000,11.10,982.0
+'Observatory-Mosleyfurt                                      ','Partially Cloudy','Good',0.360,'First Quarter',66.79,'Moderate','Active','6.3191  ',22.50,73.800,25.00,1020.8
+'Observatory-Lindaland                                       ','Partially Cloudy','Excellent',0.860,'Full',122.41,'Low','Quiet','3.3694  ',2.10,64.800,3.30,981.3
+'Observatory-Weaverport                                      ','Partially Cloudy','Excellent',0.950,'Full',19.49,'High','Active','21.799  ',8.60,79.200,10.40,988.3
+'Observatory-Codyton                                         ','Clear','Excellent',0.910,'New',68.57,'High','Quiet','7.1852  ',38.20,81.900,17.80,996.1
+'Observatory-Stewartmouth                                    ','Cloudy','Excellent',0.000,'First Quarter',142.54,'Low','Active','1.0823  ',27.60,38.100,3.80,1007.4
+'Observatory-East Edwardborough                              ','Clear','Good',0.490,'Full',25.87,'Moderate','Active','19.504  ',31.10,31.700,25.10,1020.6
+'Observatory-Pamelaberg                                      ','Cloudy','Poor',0.990,'Full',153.83,'High','Quiet','8.0311  ',14.80,2.000,1.10,1026.7
+'Observatory-Mooremouth                                      ','Cloudy','Good',0.950,'First Quarter',19.06,'Low','Quiet','23.9545 ',15.00,35.900,26.50,995.5
+'Observatory-Brownland                                       ','Clear','Poor',0.920,'Full',156.25,'Low','Active','5.3335  ',-9.80,90.700,14.30,1009.0
+'Observatory-New David                                       ','Partially Cloudy','Good',0.670,'New',35.54,'Low','Active','20.7275 ',36.00,60.100,27.40,1010.1
+'Observatory-Port Donna                                      ','Cloudy','Excellent',0.900,'New',160.78,'Low','Active','17.2031 ',38.70,46.000,10.60,1005.0
+'Observatory-Masonmouth                                      ','Clear','Excellent',0.870,'Last Quarter',166.60,'Low','Active','3.5924  ',29.50,40.400,25.20,991.6
+'Observatory-New Brianaberg                                  ','Partially Cloudy','Poor',0.140,'New',111.23,'Low','Active','0.9472  ',-4.50,99.900,11.90,1028.6
+'Observatory-New Lauraland                                   ','Cloudy','Poor',0.540,'Last Quarter',137.12,'Low','Quiet','22.3457 ',-13.20,50.700,19.10,999.5
+'Observatory-Sanchezstad                                     ','Cloudy','Good',0.870,'Full',16.36,'Low','Active','21.5382 ',0.10,24.600,28.90,998.0
+'Observatory-South Marvinborough                             ','Clear','Excellent',0.210,'New',160.64,'Low','Quiet','21.8425 ',13.40,33.000,12.30,1028.4
+'Observatory-Elizabethhaven                                  ','Cloudy','Good',0.690,'First Quarter',142.37,'High','Storm','7.9899  ',8.60,76.200,1.20,999.2
+'Observatory-Wellstown                                       ','Partially Cloudy','Excellent',0.150,'Last Quarter',52.99,'Moderate','Active','23.4398 ',-7.50,81.300,25.50,1029.0
+'Observatory-North Julia                                     ','Clear','Good',0.740,'New',172.68,'Moderate','Quiet','7.3231  ',26.50,54.800,27.60,983.5
+'Observatory-Garcialand                                      ','Partially Cloudy','Poor',0.660,'Full',19.53,'Moderate','Storm','6.1214  ',38.70,93.600,27.30,996.6
+'Observatory-New Emilymouth                                  ','Partially Cloudy','Excellent',0.720,'First Quarter',70.38,'High','Quiet','4.6218  ',14.40,32.200,10.10,1001.8
+'Observatory-Nathantown                                      ','Partially Cloudy','Good',0.800,'Last Quarter',36.10,'Moderate','Active','16.7329 ',-17.50,73.900,24.20,990.8
+'Observatory-Lake Zachary                                    ','Cloudy','Good',0.230,'Full',2.19,'High','Active','5.6343  ',25.20,60.400,27.40,1005.3
+'Observatory-North Marieton                                  ','Clear','Poor',0.560,'Full',7.86,'Low','Quiet','22.602  ',16.30,84.800,14.90,982.4
+'Observatory-Lake Rogerchester                               ','Cloudy','Excellent',0.320,'Full',131.12,'Low','Quiet','5.2479  ',13.20,19.700,11.90,999.0
+'Observatory-New Terry                                       ','Partially Cloudy','Good',0.030,'First Quarter',115.10,'Low','Active','22.4327 ',29.70,65.500,18.20,1018.7
+'Observatory-Barrettside                                     ','Cloudy','Good',0.070,'New',146.80,'Moderate','Active','20.4228 ',18.90,65.000,10.00,1004.5
+'Observatory-North Haleyville                                ','Clear','Poor',0.490,'Last Quarter',4.96,'Moderate','Active','1.5539  ',-0.20,9.500,19.30,984.3
+'Observatory-Snyderhaven                                     ','Cloudy','Poor',0.470,'First Quarter',115.59,'Moderate','Quiet','15.0397 ',6.10,89.700,21.80,984.9
+'Observatory-Ricardofort                                     ','Cloudy','Excellent',0.220,'New',136.26,'High','Active','1.7652  ',-18.00,89.500,3.70,1028.6
+'Observatory-Tammyfort                                       ','Clear','Excellent',0.250,'First Quarter',145.09,'Moderate','Quiet','15.0443 ',3.20,23.600,26.30,1028.7
+'Observatory-Lake Christopherchester                         ','Partially Cloudy','Excellent',0.500,'New',103.56,'High','Quiet','19.4759 ',21.10,49.100,22.00,1019.9
+'Observatory-Arnoldberg                                      ','Partially Cloudy','Good',0.780,'First Quarter',9.25,'Low','Active','2.0257  ',38.70,90.400,15.90,1015.9
+'Observatory-Port Tinaville                                  ','Partially Cloudy','Excellent',0.860,'New',59.42,'Low','Active','0.1388  ',-16.20,12.300,28.00,1007.0
+'Observatory-Erinview                                        ','Clear','Good',0.280,'Full',32.99,'Moderate','Quiet','15.4395 ',-18.20,40.600,10.60,993.3
+'Observatory-Lake Kathleen                                   ','Partially Cloudy','Good',0.890,'First Quarter',123.87,'Moderate','Quiet','7.0736  ',10.40,7.200,24.70,986.1
+'Observatory-North Edward                                    ','Partially Cloudy','Good',0.040,'New',30.17,'High','Quiet','15.6286 ',35.50,94.500,18.50,990.5
+'Observatory-Andersontown                                    ','Partially Cloudy','Excellent',0.410,'Full',19.78,'Low','Quiet','10.5434 ',-16.10,15.900,22.70,982.9
+'Observatory-Port Jamesport                                  ','Partially Cloudy','Good',0.340,'Last Quarter',77.99,'Low','Quiet','7.9517  ',20.30,27.400,7.20,1017.7
+'Observatory-Traceymouth                                     ','Partially Cloudy','Good',0.580,'New',172.40,'Low','Storm','2.0604  ',34.30,40.600,6.30,997.3
+'Observatory-West Kelly                                      ','Partially Cloudy','Poor',0.680,'New',13.93,'High','Active','20.2763 ',-3.90,54.900,4.10,1009.5
+'Observatory-West Davidburgh                                 ','Partially Cloudy','Excellent',0.020,'Full',41.30,'High','Storm','0.8177  ',23.30,72.000,17.30,1007.3
+'Observatory-South Jerry                                     ','Clear','Good',0.400,'New',24.48,'High','Quiet','12.7858 ',-14.40,58.200,4.70,1025.7
+'Observatory-Parrishport                                     ','Partially Cloudy','Good',0.940,'Last Quarter',102.52,'Moderate','Active','18.0903 ',4.00,75.200,11.30,980.6
+'Observatory-Rebeccaview                                     ','Clear','Poor',0.600,'Last Quarter',134.81,'High','Quiet','3.3389  ',22.40,34.800,25.20,1008.0
+'Observatory-Veronicatown                                    ','Clear','Poor',0.820,'Last Quarter',104.39,'Moderate','Storm','20.9361 ',29.40,49.500,23.60,998.1
+'Observatory-East Hannah                                     ','Clear','Good',0.570,'Last Quarter',51.75,'Moderate','Active','0.1745  ',-6.90,72.200,7.00,1028.3
+'Observatory-Richardberg                                     ','Cloudy','Excellent',0.910,'Full',61.99,'Moderate','Quiet','9.6197  ',19.30,13.400,8.30,1014.1
+'Observatory-Martinshire                                     ','Cloudy','Excellent',0.260,'Last Quarter',98.95,'Low','Storm','5.4963  ',-18.80,3.500,6.60,998.9
+'Observatory-New Jacob                                       ','Cloudy','Poor',0.170,'New',159.00,'Moderate','Storm','17.7889 ',-7.90,91.000,5.60,983.1
+'Observatory-Lake Mark                                       ','Clear','Good',0.750,'Last Quarter',45.67,'Low','Storm','6.537   ',26.50,41.500,15.30,998.6
+'Observatory-New Juliefurt                                   ','Partially Cloudy','Poor',0.170,'Full',128.10,'Low','Storm','23.7384 ',9.80,29.000,13.80,995.8
+'Observatory-East Lisastad                                   ','Cloudy','Good',0.910,'New',142.75,'Moderate','Storm','4.9296  ',24.20,67.400,18.20,986.5
+'Observatory-Lake Cherylchester                              ','Clear','Excellent',0.720,'New',89.09,'Low','Storm','9.7115  ',9.80,22.800,13.30,999.9
+'Observatory-Bartlettburgh                                   ','Cloudy','Excellent',0.910,'First Quarter',153.25,'High','Quiet','19.3296 ',25.10,98.200,28.20,1012.4
+'Observatory-East Robertberg                                 ','Partially Cloudy','Good',0.630,'Last Quarter',121.79,'Low','Active','0.6567  ',-18.90,35.900,22.10,1020.4
+'Observatory-West Dannyland                                  ','Cloudy','Poor',0.920,'New',103.94,'High','Active','14.0423 ',25.20,7.500,22.20,999.1
+'Observatory-Kennethstad                                     ','Partially Cloudy','Poor',0.670,'New',130.76,'Moderate','Storm','9.6877  ',37.10,62.000,21.00,1009.8
+'Observatory-Andradeport                                     ','Clear','Excellent',0.900,'New',35.87,'High','Storm','16.4709 ',6.80,37.400,2.80,994.3
+'Observatory-Williamschester                                 ','Partially Cloudy','Good',0.420,'New',58.50,'High','Storm','13.6983 ',-7.40,77.000,9.30,980.1
+'Observatory-South Katie                                     ','Partially Cloudy','Excellent',0.960,'Last Quarter',167.50,'High','Storm','12.696  ',17.60,41.700,25.80,1028.6
+'Observatory-East Haley                                      ','Clear','Good',0.260,'Last Quarter',41.51,'Moderate','Quiet','13.3029 ',32.20,98.300,0.00,990.9
+'Observatory-West Eric                                       ','Cloudy','Poor',0.360,'New',62.01,'Moderate','Active','13.1697 ',-19.80,63.100,4.80,1001.2
+'Observatory-East Eric                                       ','Clear','Poor',0.590,'Last Quarter',39.63,'High','Quiet','22.7491 ',6.40,14.500,27.30,985.3
+'Observatory-Michaelside                                     ','Cloudy','Poor',0.010,'Full',152.79,'High','Active','13.9944 ',7.60,76.100,18.70,1014.3
+'Observatory-Port Roy                                        ','Cloudy','Excellent',0.510,'New',1.70,'Moderate','Storm','23.2198 ',29.60,5.500,17.30,1021.4
+'Observatory-West Dawnville                                  ','Partially Cloudy','Good',0.950,'Last Quarter',35.26,'Moderate','Storm','12.6716 ',1.80,19.600,22.60,1022.3
+'Observatory-Hallhaven                                       ','Partially Cloudy','Good',0.040,'New',84.32,'Moderate','Active','13.0479 ',-0.50,68.300,4.60,1003.1
+'Observatory-Stephanieborough                                ','Partially Cloudy','Good',0.660,'New',85.60,'Low','Storm','22.4369 ',17.90,75.100,18.10,1006.3
+'Observatory-Andersonview                                    ','Cloudy','Poor',0.150,'First Quarter',140.89,'High','Storm','6.2457  ',34.10,81.100,9.20,1016.5
+'Observatory-Brianside                                       ','Clear','Good',0.870,'Last Quarter',123.55,'Low','Active','20.9439 ',-15.80,44.600,27.10,989.6
+'Observatory-Maddenport                                      ','Clear','Poor',0.400,'Full',97.12,'Low','Active','10.1758 ',-7.80,4.000,27.00,1000.5
+'Observatory-Timothyburgh                                    ','Clear','Good',0.260,'New',145.84,'High','Storm','16.0806 ',-7.40,19.000,14.40,1028.5
+'Observatory-South Karenhaven                                ','Cloudy','Good',0.890,'New',87.24,'Moderate','Quiet','2.5105  ',-11.90,91.800,12.60,1024.3
+'Observatory-South Amandaton                                 ','Cloudy','Poor',0.600,'Full',16.38,'Low','Active','13.4077 ',27.40,31.400,23.50,1016.9
+'Observatory-South Melvin                                    ','Partially Cloudy','Poor',0.960,'Full',86.80,'Low','Active','21.394  ',-1.90,99.100,13.70,1020.0
+'Observatory-Davistown                                       ','Clear','Excellent',0.570,'Last Quarter',11.45,'Low','Quiet','3.6706  ',36.40,67.900,20.90,984.9
+'Observatory-Williamsburgh                                   ','Partially Cloudy','Excellent',0.530,'First Quarter',76.14,'High','Storm','18.364  ',-8.70,55.000,24.60,1015.8
+'Observatory-Brooksburgh                                     ','Cloudy','Good',0.270,'New',153.06,'Low','Storm','0.8374  ',-6.00,27.200,9.90,990.8
+'Observatory-Jonathanborough                                 ','Cloudy','Poor',0.310,'New',43.61,'Low','Storm','15.1646 ',34.80,77.500,22.40,996.1
+'Observatory-New Kaitlynfurt                                 ','Partially Cloudy','Excellent',0.680,'First Quarter',9.51,'Low','Active','13.3    ',25.00,29.900,13.70,1013.3
+'Observatory-West Dennis                                     ','Partially Cloudy','Poor',0.790,'New',172.49,'Moderate','Storm','18.2418 ',24.50,84.100,4.90,1028.6
+'Observatory-Lake Katherineview                              ','Cloudy','Excellent',0.150,'Full',124.55,'High','Active','13.0887 ',-7.20,90.900,20.00,1012.0
+'Observatory-New Elaine                                      ','Partially Cloudy','Good',0.410,'Last Quarter',42.27,'High','Storm','14.8553 ',17.50,42.400,14.60,992.0
+'Observatory-New Bobby                                       ','Cloudy','Poor',0.530,'New',10.99,'Moderate','Active','2.6369  ',-12.50,93.100,11.90,990.5
+'Observatory-Lake Suzanne                                    ','Clear','Excellent',0.950,'Full',129.11,'High','Storm','23.925  ',-12.30,45.400,24.90,1018.3
+'Observatory-Benjaminstad                                    ','Cloudy','Good',0.350,'Last Quarter',23.00,'High','Quiet','13.8644 ',20.50,65.200,2.40,980.4
+'Observatory-Port Thomashaven                                ','Cloudy','Poor',0.240,'Full',144.02,'Moderate','Storm','20.6273 ',33.70,3.800,15.00,986.2
+'Observatory-North Rhondaton                                 ','Clear','Excellent',0.700,'Full',38.70,'Low','Quiet','19.2358 ',15.80,35.900,10.60,982.2
+'Observatory-East Crystal                                    ','Cloudy','Good',0.140,'Last Quarter',125.73,'Moderate','Active','14.6625 ',-12.10,12.600,14.20,1010.9
+'Observatory-Youngburgh                                      ','Cloudy','Poor',0.020,'New',98.06,'Moderate','Active','17.351  ',37.70,67.700,4.80,992.2
+'Observatory-North Lori                                      ','Partially Cloudy','Poor',0.970,'Full',20.37,'Moderate','Active','8.9688  ',-13.30,83.300,14.90,1009.5
+'Observatory-Port Kimberlychester                            ','Clear','Poor',0.660,'Full',10.73,'Low','Active','19.7611 ',-12.80,78.500,14.40,1007.6
+'Observatory-Jamesside                                       ','Partially Cloudy','Good',0.370,'First Quarter',89.89,'Low','Active','10.8323 ',3.30,94.500,9.10,1012.8
+'Observatory-Adrianfurt                                      ','Partially Cloudy','Poor',0.470,'First Quarter',74.96,'Low','Quiet','21.1169 ',23.70,33.000,7.60,1001.6
+'Observatory-South Sharon                                    ','Clear','Excellent',0.410,'Full',44.83,'Low','Quiet','17.1432 ',-16.40,77.400,2.80,1029.5
+'Observatory-Lake Kara                                       ','Partially Cloudy','Good',0.120,'Full',139.10,'Moderate','Quiet','3.6791  ',23.80,8.500,1.30,1019.8
+'Observatory-North Adam                                      ','Cloudy','Poor',0.200,'New',120.75,'Low','Active','6.9666  ',23.70,55.000,13.10,1009.8
+'Observatory-West Patriciashire                              ','Cloudy','Poor',0.090,'First Quarter',86.69,'Low','Quiet','10.9508 ',15.30,63.600,13.30,985.9
+'Observatory-Munozland                                       ','Cloudy','Excellent',0.990,'New',63.40,'Low','Storm','17.5831 ',32.50,75.800,18.60,993.4
+'Observatory-New Christopher                                 ','Cloudy','Good',0.530,'Full',177.53,'High','Active','8.7368  ',13.40,32.200,0.90,998.8
+'Observatory-Port Scott                                      ','Clear','Good',0.920,'Full',168.11,'High','Storm','19.2922 ',-7.00,54.800,13.40,992.5
+'Observatory-East Jamie                                      ','Clear','Excellent',0.600,'Full',100.76,'Low','Storm','20.3572 ',-11.50,85.000,10.30,993.9
+'Observatory-Davisport                                       ','Clear','Good',0.360,'First Quarter',96.69,'Low','Storm','10.9381 ',30.50,76.100,2.70,997.7
+'Observatory-Kendrachester                                   ','Cloudy','Excellent',0.850,'Last Quarter',50.67,'Moderate','Quiet','15.7731 ',11.60,74.600,11.50,1009.3
+'Observatory-North Lydiaville                                ','Clear','Excellent',0.720,'Full',141.32,'High','Active','2.9197  ',-9.40,63.400,26.90,1010.2
+'Observatory-Boydview                                        ','Cloudy','Good',0.970,'New',49.56,'High','Storm','8.8658  ',-7.10,36.900,12.60,1006.4
+'Observatory-East Kristineberg                               ','Clear','Poor',0.420,'First Quarter',103.04,'High','Active','16.9858 ',3.10,1.000,2.70,998.0
+'Observatory-Danielleberg                                    ','Clear','Poor',0.760,'Full',106.04,'Moderate','Active','21.5785 ',17.20,42.500,17.10,991.9
+'Observatory-Alanshire                                       ','Clear','Good',0.400,'Last Quarter',16.74,'Moderate','Quiet','0.6216  ',39.30,56.300,7.90,1026.7
+'Observatory-Johnstonland                                    ','Partially Cloudy','Poor',0.990,'Last Quarter',27.41,'Moderate','Storm','9.9891  ',24.10,8.200,23.50,1017.3
+'Observatory-Brentfurt                                       ','Cloudy','Excellent',0.940,'Full',148.07,'Low','Storm','5.1521  ',27.40,13.000,26.70,1022.3
+'Observatory-Hallborough                                     ','Cloudy','Excellent',0.340,'Last Quarter',37.46,'Moderate','Storm','2.2743  ',-7.80,49.200,14.30,986.8
+'Observatory-New Michelleberg                                ','Cloudy','Good',0.830,'Full',3.21,'Low','Storm','19.0753 ',-14.30,91.800,26.70,980.6
+'Observatory-Lake Marietown                                  ','Cloudy','Poor',0.100,'New',164.58,'Low','Storm','1.5147  ',-9.50,50.600,8.70,1011.6
+'Observatory-West Justin                                     ','Partially Cloudy','Poor',0.670,'New',39.51,'High','Storm','8.4194  ',4.90,26.900,5.80,998.8
+'Observatory-West Judyburgh                                  ','Cloudy','Excellent',0.960,'New',36.82,'Moderate','Active','22.9897 ',1.20,48.100,26.70,1021.1
+'Observatory-Kaylaport                                       ','Clear','Excellent',0.140,'New',167.32,'Moderate','Storm','15.9269 ',-12.00,81.300,7.10,1016.7
+'Observatory-South Donnaburgh                                ','Clear','Good',0.160,'Full',170.58,'Moderate','Active','2.0751  ',6.40,20.300,23.40,1013.1
+'Observatory-Sotoville                                       ','Cloudy','Excellent',0.110,'Full',23.10,'Low','Active','21.175  ',21.10,87.000,28.20,1017.3
+'Observatory-Lake James                                      ','Clear','Poor',0.690,'First Quarter',73.45,'Low','Quiet','1.6005  ',3.30,72.400,3.00,980.4
+'Observatory-Ryanburgh                                       ','Partially Cloudy','Excellent',0.040,'Last Quarter',49.48,'Moderate','Quiet','1.6933  ',-0.50,73.700,5.40,995.6
+'Observatory-Lake Alyssa                                     ','Cloudy','Good',0.830,'Last Quarter',107.78,'Low','Storm','23.4832 ',9.60,80.800,30.00,1021.9
+'Observatory-Hannahhaven                                     ','Clear','Poor',0.830,'Full',126.88,'Moderate','Active','6.8979  ',-10.20,77.100,19.90,1027.6
+'Observatory-East Isaac                                      ','Clear','Good',0.520,'Full',53.28,'Moderate','Active','10.558  ',31.00,87.900,0.00,1015.8
+'Observatory-East Saramouth                                  ','Partially Cloudy','Good',0.420,'Full',21.69,'Moderate','Active','2.3003  ',6.50,79.300,3.40,1021.3
+'Observatory-Port Erinport                                   ','Partially Cloudy','Poor',0.440,'First Quarter',47.88,'High','Quiet','8.8297  ',-9.40,28.700,21.80,1004.0
+'Observatory-South Emilymouth                                ','Partially Cloudy','Excellent',0.530,'New',177.56,'High','Storm','11.2386 ',24.00,41.300,27.50,1025.2
+'Observatory-New Eric                                        ','Cloudy','Excellent',0.330,'First Quarter',106.35,'Moderate','Quiet','10.7362 ',36.40,88.000,26.30,980.0
+'Observatory-Brownton                                        ','Cloudy','Poor',0.250,'Last Quarter',4.10,'Moderate','Storm','1.4974  ',24.40,24.700,5.30,1015.0
+'Observatory-North Jordanville                               ','Partially Cloudy','Good',0.810,'First Quarter',105.72,'Moderate','Quiet','22.1169 ',-1.70,59.900,21.40,1020.9
+'Observatory-Laurenville                                     ','Clear','Good',0.700,'First Quarter',50.66,'Low','Active','4.382   ',26.90,34.600,5.90,998.1
+'Observatory-Priceborough                                    ','Partially Cloudy','Poor',0.830,'New',79.05,'Moderate','Active','22.9734 ',-7.10,58.400,21.30,1012.2
+'Observatory-Mooreland                                       ','Partially Cloudy','Excellent',0.700,'Full',29.32,'High','Storm','10.7722 ',35.40,71.300,5.40,1011.9
+'Observatory-Smithfort                                       ','Cloudy','Poor',0.430,'Last Quarter',116.65,'Low','Storm','15.5189 ',-5.00,37.400,28.30,1000.6
+'Observatory-Port Robert                                     ','Partially Cloudy','Poor',0.500,'Full',108.52,'High','Active','20.6507 ',-1.20,48.300,23.50,1014.2
+'Observatory-East Markmouth                                  ','Partially Cloudy','Good',0.970,'New',138.22,'Low','Quiet','17.5557 ',0.20,33.900,22.20,990.1
+'Observatory-South Thomas                                    ','Clear','Good',0.590,'Full',3.47,'Low','Active','22.3466 ',-16.40,21.000,12.50,1009.2
+'Observatory-Carrieburgh                                     ','Cloudy','Excellent',0.260,'First Quarter',96.34,'High','Quiet','2.1882  ',31.40,76.800,6.10,981.5
+'Observatory-West Leviland                                   ','Partially Cloudy','Poor',0.100,'First Quarter',16.82,'Moderate','Storm','13.8867 ',27.30,67.000,4.50,1016.5
+'Observatory-Danielberg                                      ','Clear','Good',0.340,'New',86.15,'High','Active','7.8937  ',33.80,5.000,2.60,981.3
+'Observatory-Lake Kaitlynland                                ','Clear','Excellent',0.190,'First Quarter',59.03,'High','Active','9.6722  ',30.20,22.900,8.60,1029.1
