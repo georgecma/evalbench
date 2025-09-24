@@ -40,6 +40,7 @@ class EvalInteractInputRequest:
         self.query_type = query_type
         self.database = database
         self.dialects = dialects
+        self.eval_query = eval_query
         self.tags = tags
         self.payload = payload
         self.job_id = job_id
