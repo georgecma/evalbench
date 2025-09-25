@@ -29,7 +29,7 @@ NOTE: If you think you have asked enough questions or used up all turns, you MUS
 # User Task:
 [[user_query]]
 
-### Turn 1 ([[max_turn]] turns left): 
+### Turn 1 ([[max_turn]] turns left):
 # Format: "<s>[YOUR-ONLY-ONE-QUESTION]</s>" if you choose to ask for clarification; or "<t>```postgresql [FILL-YOUR-SQL] ```</t>" if you choose to generate final SQL.
 - You: """
 

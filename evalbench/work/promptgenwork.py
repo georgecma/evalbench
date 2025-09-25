@@ -25,7 +25,6 @@ class SQLPromptGenWork(Work):
         try:
             generated_prompt = self.generator.generate(self.eval_result)
         except Exception as e:
-            print(e)
             prompt_generator_error = str(e)
 
         self.eval_result["generated_prompt"] = generated_prompt
