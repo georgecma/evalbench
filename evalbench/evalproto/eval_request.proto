@@ -59,3 +59,15 @@ message EvalCodeInputRequest {
   string golden_code = 12;
   string build_command = 13;
 }
+
+message EvalInteractInputRequest {
+  int64 id = 1;
+  string amb_user_query = 2;
+  string query_type = 3;
+  string database = 4;
+  repeated string dialects = 5;
+  repeated string tags = 6;
+  string payload = 7; 
+  string job_id = 8;
+  string trace_id = 9;
+}

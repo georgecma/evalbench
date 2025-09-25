@@ -10,7 +10,6 @@ except ImportError:
 
 
 class EvalInputRequest:
-
     def __init__(
         self,
         id: str,
@@ -137,3 +136,33 @@ def _get_dialect_based_sql(dialect_based_sql):
         dialect: sqls["sqlStatements"] if "sqlStatements" in sqls else []
         for dialect, sqls in dialect_based_sql.items()
     }
+
+
+def breakdown_datasets(total_dataset: list[EvalInputRequest]):
+    """
+    The shape of the output will be dict[str, dict[str, list[EvalInputRequest]]]
+    in the following format:
+    {
+      dialect (str):
+      -> database (str):
+          -> query_type (str; [dql,dml,ddl]):
+              -> list[EvalInputRequest]
+    }
+    """
+    total_dataset_len = 0
+    total_db_len = 0
+    datasets: dict[str, dict[str, dict[str, list[EvalInputRequest]]]] = {}
+    for input in total_dataset:
+        for dialect in input.dialects:
+            if dialect not in datasets:
+                datasets[dialect] = {}
+        if input.database not in datasets[dialect]:
+            datasets[dialect][input.database] = {}
+        if input.query_type not in datasets[dialect][input.database]:
+            datasets[dialect][input.database][input.query_type] = []
+            total_db_len += 1
+        datasets[dialect][input.database][input.query_type].append(
+            input.copy_for_dialect(dialect)
+        )
+        total_dataset_len += 1
+    return datasets, total_dataset_len, total_db_len
