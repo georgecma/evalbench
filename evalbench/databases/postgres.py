@@ -36,7 +36,6 @@ GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA public TO {DML_USER
 
 
 class PGDB(DB):
-
     #####################################################
     #####################################################
     # Database Connection Setup Logic
@@ -75,7 +74,6 @@ class PGDB(DB):
 
     def close_connections(self):
         try:
-            self.engine.dispose()
             self.connector.close()
         except Exception:
             logging.warning(
@@ -207,7 +205,9 @@ class PGDB(DB):
         if error:
             raise RuntimeError(error)
 
-    def insert_data(self, data: dict[str, List[str]], setup: Optional[List[str]] = None):
+    def insert_data(
+        self, data: dict[str, List[str]], setup: Optional[List[str]] = None
+    ):
         if not data:
             return
         insertion_statements = []

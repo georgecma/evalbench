@@ -161,12 +161,11 @@ _PROMPTS_BY_DIALECT = {
     "postgres": PG_PROMPT_TEMPLATE_WITH_RULES,
     "mysql": MYSQL_PROMPT_TEMPLATE_WITH_RULES,
     "sqlserver": SQLSERVER_PROMPT_TEMPLATE_WITH_RULES,
-    "bigquery": BIGQUERY_PROMPT_TEMPLATE_WITH_RULES
+    "bigquery": BIGQUERY_PROMPT_TEMPLATE_WITH_RULES,
 }
 
 
 class SQLGenBasePromptGenerator(PromptGenerator):
-
     def __init__(self, db: DB, promptgenerator_config):
         super().__init__(db, promptgenerator_config)
         self.db = db
@@ -175,5 +174,7 @@ class SQLGenBasePromptGenerator(PromptGenerator):
     def setup(self):
         self.schema = self.db.get_ddl_from_db()
 
-    def generate(self, prompt):
-        return self.base_prompt.format(SCHEMA=self.schema, USER_PROMPT=prompt)
+    def generate(self, item):
+        return self.base_prompt.format(
+            SCHEMA=self.schema, USER_PROMPT=item["nl_prompt"]
+        )
