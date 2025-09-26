@@ -9,4 +9,5 @@ class NOOPGenerator(PromptGenerator):
         pass
 
     def generate(self, item):
+        item["prompt"] = item["nl_prompt"]
         return item

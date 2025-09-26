@@ -10,7 +10,8 @@ import yaml
 import grpc
 import pathlib
 from dataset.dataset import load_json
-from evaluator.orchestrator import Orchestrator
+from evaluator import get_orchestrator
+
 import reporting.report as report
 from reporting import get_reporters
 import reporting.analyzer as analyzer
@@ -114,7 +115,10 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         config, db_configs, model_config, setup_config = load_session_configs(session)
         dataset = await get_dataset_from_request(request_iterator)
 
-        evaluator = Orchestrator(config, db_configs, setup_config)
+        evaluator = get_orchestrator(
+            config, db_configs, setup_config, report_progress=True
+        )
+        
         evaluator.evaluate(dataset)
 
         job_id, run_time, results_tf, scores_tf = evaluator.process()
