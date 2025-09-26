@@ -118,7 +118,6 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
         evaluator = get_orchestrator(
             config, db_configs, setup_config, report_progress=True
         )
-        
         evaluator.evaluate(dataset)
 
         job_id, run_time, results_tf, scores_tf = evaluator.process()
