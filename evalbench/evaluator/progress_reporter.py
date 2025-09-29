@@ -200,7 +200,6 @@ def skip_database(sub_datasets, progress_reporting, query_type):
         )
     with progress_reporting["lock"]:
         progress_reporting["total_dbs"] -= total_dbs
-        progress_reporting["total"] -= evals_in_db
 
 
 def record_successful_prompt_gen(progress_reporting):
