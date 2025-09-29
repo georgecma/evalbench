@@ -175,6 +175,10 @@ class SQLGenBasePromptGenerator(PromptGenerator):
         self.schema = self.db.get_ddl_from_db()
 
     def generate(self, item):
+        item["prompt"] = self.get_prompt(item)
+        return item
+
+    def get_prompt(self, item):
         return self.base_prompt.format(
             SCHEMA=self.schema, USER_PROMPT=item["nl_prompt"]
         )
