@@ -8,6 +8,7 @@ import redis
 import re
 from dataclasses import dataclass, field
 
+CLIENT=secretmanager_v1.SecretManagerServiceClient()
 
 @dataclass
 class Column:
@@ -47,14 +48,13 @@ def get_db_secret(secret):
             "secret manager path not parsable. Could not recover password for DB."
         )
     secret_path = secret
-    # Create a client
-    client = secretmanager_v1.SecretManagerServiceClient()
     # Initialize request argument(s)
     request = secretmanager_v1.AccessSecretVersionRequest(
         name=secret_path,
     )
     # Make the request
-    response = client.access_secret_version(request=request)
+    response = CLIENT.access_secret_version(request=request)
+
     # Return the secret
     return response.payload.data.decode("utf-8")
 

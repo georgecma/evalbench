@@ -27,3 +27,4 @@ sqlparse
 redis
 anthropic[vertex]
 sqlglot
+pystack

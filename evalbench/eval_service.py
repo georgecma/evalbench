@@ -28,6 +28,7 @@ from util.service import (
     get_dataset_from_request,
 )
 
+import threading
 
 SESSIONMANAGER = get_SessionManager()
 rpc_id_var = contextvars.ContextVar("rpc_id", default="default")
@@ -132,6 +133,7 @@ class EvalServicer(eval_service_pb2_grpc.EvalServiceServicer):
             model_config,
             db_configs,
         )
+        logging.info(f"Finished Job ID {job_id} Thread count:{threading.active_count()}")
         return eval_response_pb2.EvalResponse(response=f"{job_id}")
 
 
