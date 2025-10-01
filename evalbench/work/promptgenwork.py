@@ -20,7 +20,6 @@ class SQLPromptGenWork(Work):
         Returns:
 
         """
-        generated_prompt = None
         prompt_generator_error = None
         try:
             self.generator.generate(self.eval_result)

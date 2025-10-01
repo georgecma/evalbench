@@ -38,7 +38,7 @@ setup_directory: datasets/bat/setup
 scorers:
   exact_match: null
   llmrater:
-    model_config: datasets/model_configs/gemini_1.5-pro-002_model.yaml
+    model_config: datasets/model_configs/gemini_2.5_pro_model.yaml
   returned_sql: null
   set_match: null
   executable_sql: null
