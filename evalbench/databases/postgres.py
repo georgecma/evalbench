@@ -34,6 +34,8 @@ GRANT USAGE ON SCHEMA public TO {DML_USERNAME};
 GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA public TO {DML_USERNAME};
 """
 
+CONNECTOR = Connector()
+
 
 class PGDB(DB):
     #####################################################
@@ -44,10 +46,9 @@ class PGDB(DB):
 
     def __init__(self, db_config):
         super().__init__(db_config)
-        self.connector = Connector()
 
         def get_conn():
-            conn = self.connector.connect(
+            conn = CONNECTOR.connect(
                 self.db_path,
                 "pg8000",
                 user=self.username,
@@ -74,7 +75,7 @@ class PGDB(DB):
 
     def close_connections(self):
         try:
-            self.connector.close()
+            self.engine.dispose()
         except Exception:
             logging.warning(
                 f"Failed to close connections. This may result in idle unused connections."
