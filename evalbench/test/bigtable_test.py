@@ -3,7 +3,9 @@ import pytest
 from databases import get_database
 from util import get_SessionManager
 
+
 TABLE_ID = "unit_test_table"
+
 
 @pytest.fixture(scope="session")
 def client():
@@ -17,7 +19,7 @@ def client():
         "max_executions_per_minute": 100,
         "secret_manager_path": "",
     }
-    db_name = "unit_test_db" 
+    db_name = "unit_test_db"
     client = get_database(db_config, db_name)
     yield client
     session_manager = get_SessionManager()
@@ -52,7 +54,7 @@ class TestBigtable:
         assert error is None
         assert result is not None
         assert eval_result is None
-        
+
         # Test with eval_query
         result, eval_result, error = client.execute(
             query=f"SELECT * FROM {TABLE_ID} LIMIT 1",
