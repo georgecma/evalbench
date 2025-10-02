@@ -20,17 +20,16 @@ class SQLGenInteractWork(Work):
         Returns:
 
         """
-        generated = None
         sql_generator_error = None
         item = self.eval_result["payload"]
+        self.eval_result["generated"] = None
         if self.eval_result["prompt_generator_error"] is None:
             try:
                 generated = self.generator.generate(item["prompt"])
                 item[f"prediction_turn_{item['turn']}"] = generated
+                self.eval_result["generated"] = generated
             except Exception as e:
-                print(e)
                 sql_generator_error = str(e)
 
-        self.eval_result["generated"] = generated
         self.eval_result["sql_generator_error"] = sql_generator_error
         return self.eval_result

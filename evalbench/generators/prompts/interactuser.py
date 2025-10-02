@@ -101,7 +101,7 @@ class InteractUserGenerator(PromptGenerator):
         pass
 
     def generate(self, eval_output):
-        step_type = eval_output["payload"]["step_type"]
+        step_type = eval_output["step_type"]
         if step_type == InteractionType.VUSER_ENCODE:
             return self.generate_encoder(eval_output)
         elif step_type == InteractionType.VUSER_DECODE:
@@ -182,4 +182,5 @@ class InteractUserGenerator(PromptGenerator):
 
         item["prompt"] = prompt
         item[f"prompt_decoder_{turn_i}"] = prompt
+        eval_output["prompt"] = item["prompt"]
         return item

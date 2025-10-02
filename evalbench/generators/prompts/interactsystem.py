@@ -51,7 +51,6 @@ class InteractSystemGenerator(PromptGenerator):
         item = eval_output["payload"]
         turn_i = item["turn"]
         if turn_i == 1:
-            item["step_type"] = InteractionType.LLM_QUESTION
             knowledge = item["knowledge"]
             schema = item["schema"]
             question = item.get("amb_user_query", "")
@@ -64,7 +63,6 @@ class InteractSystemGenerator(PromptGenerator):
             item["prompt"] = prompt
             item[f"prompt_turn_{turn_i}"] = prompt
         else:
-            item["step_type"] = InteractionType.LLM_ANSWER
             max_turn = item["max_turn"]
             prompt = item[f"prompt_turn_{turn_i - 1}"]
             response_prev = item[f"prediction_turn_{turn_i - 1}"]
@@ -85,4 +83,5 @@ class InteractSystemGenerator(PromptGenerator):
                 )
                 item["prompt"] = prompt
                 item[f"prompt_turn_{turn_i}"] = prompt
-        return item
+        eval_output["prompt"] = item["prompt"]
+        return eval_output

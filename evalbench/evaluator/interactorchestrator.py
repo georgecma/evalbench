@@ -102,7 +102,6 @@ class InteractOrchestrator(Orchestrator):
                                     global_models,
                                 )
                                 futures.append(future)
-                                break  # TODO: Delete
                     for future in concurrent.futures.as_completed(futures):
                         eval_outputs, scoring_results = future.result()
                         self.total_eval_outputs.extend(eval_outputs)
