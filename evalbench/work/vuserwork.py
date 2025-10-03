@@ -25,8 +25,8 @@ class VUserWork(Work):
         if self.eval_result["sql_generator_error"] is None:
             try:
                 generated = self.vuser.disambiguate(self.eval_result)
+                self.eval_result["generated"] = generated
             except Exception as e:
                 vuser_error = str(e)
         self.eval_result["vuser_error"] = vuser_error
-        self.eval_result["generated"] = generated
         return self.eval_result

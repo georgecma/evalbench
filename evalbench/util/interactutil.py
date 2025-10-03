@@ -126,7 +126,6 @@ def get_generated_sql(item: dict):
 
 
 def write_item(item):
-    del item["step_type"]
     with open("item.json", "w") as json_file:
         json.dump(item, json_file, indent=4)
 

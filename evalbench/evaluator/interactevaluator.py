@@ -97,75 +97,92 @@ class InteractEvaluator:
         eval_outputs,
         scoring_results,
     ):
-        terminate_flag = False
+        eval_output["terminate_flag"] = False
         max_turn = eval_output["payload"]["max_turn"]
-        eval_output["payload"]["step_type"] = InteractionType.LLM_QUESTION
+        eval_output["step_type"] = InteractionType.INIT
 
-        while eval_output["payload"]["turn"] < max_turn and not terminate_flag:
-            eval_output["payload"]["turn"] = eval_output["payload"]["turn"] + 1
-            logging.info(
-                "**************** Instance: "
-                + str(eval_output["payload"]["instance_id"])
-                + ":Turn:"
-                + str(eval_output["payload"]["turn"])
-                + " ****************"
-            )
+        while (
+            eval_output["payload"]["turn"] < max_turn
+            and not eval_output["terminate_flag"]
+        ):
+            next_step = self.next_step(eval_output)
 
-            # Make us an LLM side prompt
-            work = promptgenwork.SQLPromptGenWork(prompt_generator, eval_output)
-            self.promptrunner.execute_work(work)
+            if next_step == InteractionType.LLM_QUESTION_PROMPT:
+                eval_output["payload"]["turn"] = eval_output["payload"]["turn"] + 1
+                eval_output["step_type"] = next_step
+                work = promptgenwork.SQLPromptGenWork(prompt_generator, eval_output)
+                eval_output = work.run()
 
-            # Generate SQL or question
-            for future in concurrent.futures.as_completed(self.promptrunner.futures):
-                self.promptrunner.futures.remove(future)
-                eval_output = future.result()
-                record_successful_prompt_gen(progress_reporting)
+            if next_step == InteractionType.LLM_SQLGEN:
+                eval_output["step_type"] = next_step
                 work = sqlgeninteractwork.SQLGenInteractWork(
                     model_generator, eval_output
                 )
-                self.genrunner.execute_work(work)
+                eval_output = work.run()
 
-            # Disambiguate question
-            for future in concurrent.futures.as_completed(self.genrunner.futures):
-                self.genrunner.futures.remove(future)
-                eval_output = future.result()
-                record_successful_sql_gen(progress_reporting)
-                # Check if we got SQL
-                extracted_response, terminate_flag = check_response(
-                    eval_output["payload"]
+            if next_step == InteractionType.DISAMBIGUATE:
+                eval_output["step_type"] = next_step
+                work = vuserwork.VUserWork(self.vuser, eval_output)
+                eval_output = work.run()
+
+            if next_step == InteractionType.SQL_EXEC:
+                eval_output["step_type"] = next_step
+                work = interactsqlexecwork.InteractSQLExecWork(
+                    core_db, self.config, eval_output, db_queue
                 )
-                if terminate_flag:
-                    work = interactsqlexecwork.InteractSQLExecWork(
-                        core_db, self.config, eval_output, db_queue
-                    )
-                    self.sqlrunner.execute_work(work)
-                else:
-                    work = vuserwork.VUserWork(self.vuser, eval_output)
-                    self.vuser_runner.execute_work(work)
+                eval_output = work.run()
 
-            # Execute SQL
-            for future in concurrent.futures.as_completed(self.vuser_runner.futures):
-                self.vuser_runner.futures.remove(future)
-                eval_output = future.result()
-                record_successful_sql_exec(progress_reporting)
-                eval_output["payload"]["step_type"] = InteractionType.LLM_ANSWER
-
-            for future in concurrent.futures.as_completed(self.sqlrunner.futures):
-                self.sqlrunner.futures.remove(future)
-                eval_output = future.result()
-                record_successful_sql_exec(progress_reporting)
+            if next_step == InteractionType.SCORE:
+                eval_output["step_type"] = next_step
                 work = scorework.ScorerWork(
                     self.config, eval_output, scoring_results, global_models
                 )
-                self.scoringrunner.execute_work(work)
+                eval_output = work.run()
 
-            for future in concurrent.futures.as_completed(self.scoringrunner.futures):
-                eval_output = future.result()
-                logging.info(f"Scoring {eval_output['payload']['instance_id']}")
-
-                record_successful_scoring(progress_reporting)
+            if next_step == InteractionType.SCORE:
                 truncateExecutionOutputs(
                     eval_output,
                     self.config,
                 )
                 eval_outputs.append(eval_output)
+
+    def next_step(self, eval_output):
+        current_step = eval_output["step_type"]
+        if current_step == InteractionType.INIT:
+            next_step = InteractionType.LLM_QUESTION_PROMPT
+
+        elif current_step == InteractionType.LLM_QUESTION_PROMPT:
+            next_step = InteractionType.LLM_SQLGEN
+
+        elif current_step == InteractionType.LLM_SQLGEN:
+            extracted_response, terminate_flag = check_response(eval_output["payload"])
+            if not terminate_flag:
+                next_step = InteractionType.DISAMBIGUATE
+            else:
+                next_step = InteractionType.SQL_EXEC
+
+        elif current_step == InteractionType.VUSER_DECODE:
+            next_step = InteractionType.LLM_QUESTION_PROMPT
+
+        elif current_step == InteractionType.DISAMBIGUATE:
+            next_step = InteractionType.LLM_QUESTION_PROMPT
+
+        elif current_step == InteractionType.SQL_EXEC:
+            next_step = InteractionType.SCORE
+
+        elif current_step == InteractionType.SCORE:
+            next_step = InteractionType.COMPLETE
+            eval_output["terminate_flag"] = True
+
+        logging.info(
+            "Instance: "
+            + str(eval_output["payload"]["instance_id"])
+            + " Turn:"
+            + str(eval_output["payload"]["turn"])
+            + " Current Step:"
+            + str(eval_output["step_type"])
+            + " Next Step:"
+            + str(next_step)
+        )
+
+        return next_step

@@ -11,10 +11,15 @@ except ImportError:
 
 
 class InteractionType(Enum):
-    LLM_QUESTION = 1
-    VUSER_ENCODE = 2
-    VUSER_DECODE = 3
-    LLM_ANSWER = 4
+    INIT = 0
+    LLM_QUESTION_PROMPT = 1
+    LLM_SQLGEN = 2
+    DISAMBIGUATE = 3
+    VUSER_ENCODE = 4
+    VUSER_DECODE = 5
+    SQL_EXEC = 6
+    SCORE = 7
+    COMPLETE = 8
 
 
 class EvalInteractInputRequest:
