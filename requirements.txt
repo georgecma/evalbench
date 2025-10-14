@@ -5,6 +5,7 @@ cloud-sql-python-connector[pytds]
 sqlalchemy-pytds
 google-genai
 google-cloud-secret-manager
+google-cloud-bigtable
 google-cloud-spanner
 sqlalchemy-spanner
 pandas
