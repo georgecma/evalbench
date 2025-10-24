@@ -1,4 +1,3 @@
-
 import logging
 from unittest import result
 from .db import DB
@@ -25,12 +24,14 @@ class BigtableDB(DB):
 
         # admin client
         self.client: bigtable.Client = bigtable.Client(
-            project=db_config["gcp_project_id"], admin=True)
+            project=db_config["gcp_project_id"], admin=True
+        )
         self.instance = self.client.instance(db_config["instance_id"])
 
         # data client for executing queries
         self.data_client = BigtableDataClient(
-            project=db_config["gcp_project_id"], admin=True)
+            project=db_config["gcp_project_id"], admin=True
+        )
 
     def close_connections(self):
         self.data_client.close()
@@ -51,13 +52,7 @@ class BigtableDB(DB):
     ) -> Tuple[Any, Any, Any]:
         if query.strip() == "":
             return None, None, None
-
-        if rollback:
-            return None, None, "Rollback not supported in Bigtable."
-
-        if use_cache or self.cache_client:
-            return None, None, "Caching not implemented for Bigtable."
-
+        # Note: BT Does not support cache or rollback
         return self._execute(query, eval_query)
 
     def _execute_query(self, query: str) -> Tuple[List, Optional[str]]:
@@ -67,8 +62,7 @@ class BigtableDB(DB):
         result: List = []
         try:
             execute_query_iterator = self.data_client.execute_query(
-                query=query,
-                instance_id=self.instance.instance_id
+                query=query, instance_id=self.instance.instance_id
             )
             for row in execute_query_iterator:
                 result.append(row)
@@ -114,8 +108,7 @@ class BigtableDB(DB):
                     {"name": cf, "type": COLUMN_FAMILY_TYPE} for cf in column_families
                 ]
             except Exception:
-                logging.error(
-                    f"Failed to get metadata for table {table.table_id}")
+                logging.error(f"Failed to get metadata for table {table.table_id}")
         return db_metadata
 
     def generate_ddl(
