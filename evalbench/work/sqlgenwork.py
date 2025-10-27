@@ -2,6 +2,7 @@
 
 from typing import Any
 from work import Work
+import time
 
 
 class SQLGenWork(Work):
@@ -32,9 +33,12 @@ class SQLGenWork(Work):
                     sql_generator_error = self.eval_result["sql_generator_error"]
             else:
                 try:
+                    start_time = time.time()
                     generated_sql = self.generator.generate(
                         self.eval_result["generated_prompt"]
                     )
+                    end_time = time.time()
+                    self.eval_result["sql_generator_time"] = end_time - start_time
                 except Exception as e:
                     sql_generator_error = str(e)
 
