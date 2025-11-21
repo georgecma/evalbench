@@ -10,6 +10,7 @@ from google.cloud.bigtable.instance import Instance
 from google.cloud.bigtable_admin_v2 import BigtableInstanceAdminClient, LogicalView
 from google.api_core.exceptions import NotFound
 from google.cloud.bigtable.row import DirectRow
+from google.cloud.bigtable.batcher import MutationsBatcher
 from google.cloud.bigtable_v2.services.bigtable.client import BigtableClient
 from uuid import uuid4
 
@@ -115,6 +116,9 @@ class BigtableRelationalTable:
         )
 
     def insert_rows(self, rows):
+        mutations_batcher: MutationsBatcher = self.table.mutations_batcher()
+        print("Inserting", len(rows), "rows.")
+        row_count = 0
         for row in rows:
             row_key = str(uuid4())  # default to uuid4
             direct_row: DirectRow = self.table.direct_row(row_key)
@@ -126,8 +130,12 @@ class BigtableRelationalTable:
                 direct_row.set_cell(
                     DEFAULT_COLUMN_FAMILY, col_name, str(value).encode("utf-8")
                 )
-            # Commit the row to Bigtable
-            direct_row.commit()
+            mutations_batcher.mutate(direct_row)
+
+            row_count += 1
+            if row_count % 100 == 0:
+                print("Inserted ", row_count, "rows.")
+        mutations_batcher.flush()
 
 
 @contextlib.contextmanager
@@ -148,7 +156,7 @@ def get_all_tables_and_columns(cur: sqlite3.Cursor) -> dict:
     tables = [row[0] for row in cur.fetchall()]
     db_schema = {}
     for table in tables:
-        cur.execute(f"PRAGMA table_info({table})")
+        cur.execute(f'PRAGMA table_info("{table}")')
         columns = [(col[1], col[2]) for col in cur.fetchall()]  # (name, type)
         db_schema[table] = columns
     return db_schema
