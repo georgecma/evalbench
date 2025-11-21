@@ -77,7 +77,7 @@ class BigtableRelationalTable:
             part = f"{cast_col} AS `{sanitized_col_name}`, "
             query_string += part
         query_string = query_string[:-2]  # remove last comma
-        query_string += f" FROM {self.backing_table_id}"
+        query_string += f" FROM `{self.backing_table_id}`"
         self.logical_view.query = query_string
 
     def delete(self):
@@ -97,10 +97,14 @@ class BigtableRelationalTable:
     def rebuild(self):
         self.delete()
 
+        print("Rebuilding table", self.table.name)
         # create table
         self.table.create()
         self.table.column_family(DEFAULT_COLUMN_FAMILY).create()
         # create logical view
+
+        print("Rebuilding logical view", self.logical_view_name)
+        print("View: ", self.logical_view)
         self.instance_admin_client.create_logical_view(
             parent=f"projects/{self.gcp_project_id}/instances/{self.instance_id}",
             logical_view_id=self.table_id,
@@ -120,8 +124,13 @@ class BigtableRelationalTable:
         print("Inserting", len(rows), "rows.")
         row_count = 0
         for row in rows:
-            row_key = str(uuid4())  # default to uuid4
-            direct_row: DirectRow = self.table.direct_row(row_key)
+            # deterministic row keys to prevent duplicate rows
+            row_key_elements: list = []
+            for i, col_name in enumerate(self.columns):
+                row_key_elements.append(f"#{col_name}#{row[i]}")
+            row_key: str = "".join(row_key_elements)
+
+            direct_row: DirectRow = self.table.direct_row(row_key.encode("utf-8"))
             for i, col_name in enumerate(self.columns):
                 value = row[i]
                 if value is None:
@@ -133,7 +142,7 @@ class BigtableRelationalTable:
             mutations_batcher.mutate(direct_row)
 
             row_count += 1
-            if row_count % 100 == 0:
+            if row_count % 200 == 0:
                 print("Inserted ", row_count, "rows.")
         mutations_batcher.flush()
 
@@ -162,8 +171,8 @@ def get_all_tables_and_columns(cur: sqlite3.Cursor) -> dict:
     return db_schema
 
 
-def get_rows_from_sqlite(cur: sqlite3.Cursor, table_name, limit):
-    cur.execute(f"SELECT * FROM {table_name}")
+def get_rows_from_sqlite(cur: sqlite3.Cursor, table_name, limit) -> list:
+    cur.execute(f"SELECT * FROM `{table_name}`")
     if limit > 0:
         rows = cur.fetchmany(limit)
     else:
