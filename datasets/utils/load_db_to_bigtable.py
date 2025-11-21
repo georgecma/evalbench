@@ -1,8 +1,8 @@
-
 import argparse
 import contextlib
 import os
 import sqlite3
+import glob
 from pathlib import Path
 from google.cloud import bigtable
 from google.cloud.bigtable.table import Table
@@ -21,7 +21,7 @@ One-time setup helper to load a sqllite database into Bigtable with ADK.
 Command from project root:
 
 $ python ./datasets/utils/load_db_to_bigtable.py
---db_path=./db_connections/bird/california_schools.sqlite 
+--db_path=./db_connections/bird/.* 
 --rebuild
 --limit 10
 """
@@ -38,13 +38,23 @@ class BigtableRelationalTable:
     logical_view: LogicalView
     instance_admin_client: BigtableInstanceAdminClient
 
-    def __init__(self, instance_admin_client: BigtableInstanceAdminClient, instance: Instance, table_id: str, columns: dict, gcp_project_id: str, instance_id: str):
+    def __init__(
+        self,
+        instance_admin_client: BigtableInstanceAdminClient,
+        instance: Instance,
+        table_id: str,
+        columns: dict,
+        gcp_project_id: str,
+        instance_id: str,
+    ):
         # initialize backing table
         self.instance_admin_client = instance_admin_client
         self.gcp_project_id = gcp_project_id
         self.instance_id = instance_id
         self.table_id = table_id  # this is actually the logical view id
-        self.logical_view_name = f"projects/{gcp_project_id}/instances/{instance_id}/logicalViews/{table_id}"
+        self.logical_view_name = (
+            f"projects/{gcp_project_id}/instances/{instance_id}/logicalViews/{table_id}"
+        )
         self.backing_table_id = table_id + "-bt"
         self.table = Table(self.backing_table_id, instance)
         self.columns = {}
@@ -59,7 +69,7 @@ class BigtableRelationalTable:
             sanitized_col_name = "".join([c for c in col_name if c.isalnum()])
 
             # Cast as type because the default is bytes - which we can't do operations on.
-            cast_col = f"CAST({DEFAULT_COLUMN_FAMILY}[\"{col_name}\"] AS STRING)"
+            cast_col = f'CAST({DEFAULT_COLUMN_FAMILY}["{col_name}"] AS STRING)'
             col_type = self.columns[col_name]
             if col_type in ("INTEGER", "REAL"):
                 cast_col = f"CAST({cast_col} AS FLOAT64)"
@@ -72,8 +82,7 @@ class BigtableRelationalTable:
     def delete(self):
         # delete resources if they exist
         try:
-            self.instance_admin_client.delete_logical_view(
-                name=self.logical_view_name)
+            self.instance_admin_client.delete_logical_view(name=self.logical_view_name)
             print("Deleted", self.logical_view_name)
         except NotFound:
             pass
@@ -94,7 +103,7 @@ class BigtableRelationalTable:
         self.instance_admin_client.create_logical_view(
             parent=f"projects/{self.gcp_project_id}/instances/{self.instance_id}",
             logical_view_id=self.table_id,
-            logical_view=self.logical_view
+            logical_view=self.logical_view,
         )
 
     def test_connection(self) -> None | Exception:
@@ -108,16 +117,14 @@ class BigtableRelationalTable:
     def insert_rows(self, rows):
         for row in rows:
             row_key = str(uuid4())  # default to uuid4
-            direct_row: DirectRow = bt_table.table.direct_row(row_key)
+            direct_row: DirectRow = self.table.direct_row(row_key)
             for i, col_name in enumerate(self.columns):
                 value = row[i]
                 if value is None:
                     continue  # skip nulls
                 # Write into the column family (sanitized name) with qualifier b'value'
                 direct_row.set_cell(
-                    DEFAULT_COLUMN_FAMILY,
-                    col_name,
-                    str(value).encode('utf-8')
+                    DEFAULT_COLUMN_FAMILY, col_name, str(value).encode("utf-8")
                 )
             # Commit the row to Bigtable
             direct_row.commit()
@@ -136,20 +143,19 @@ def get_db_cursor(db_path):
 
 def get_all_tables_and_columns(cur: sqlite3.Cursor) -> dict:
     cur.execute(
-        "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%'")
+        "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%'"
+    )
     tables = [row[0] for row in cur.fetchall()]
     db_schema = {}
     for table in tables:
         cur.execute(f"PRAGMA table_info({table})")
-        columns = [(col[1], col[2])
-                   for col in cur.fetchall()]  # (name, type)
+        columns = [(col[1], col[2]) for col in cur.fetchall()]  # (name, type)
         db_schema[table] = columns
     return db_schema
 
 
 def get_rows_from_sqlite(cur: sqlite3.Cursor, table_name, limit):
-    cur.execute(
-        f"SELECT * FROM {table_name}")
+    cur.execute(f"SELECT * FROM {table_name}")
     if limit > 0:
         rows = cur.fetchmany(limit)
     else:
@@ -159,71 +165,111 @@ def get_rows_from_sqlite(cur: sqlite3.Cursor, table_name, limit):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Load a sqlite database into Bigtable.")
-    parser.add_argument("--db_path", type=str,
-                        help="Path to the sqlite database.")
-    parser.add_argument("--gcp_project_id", type=str,
-                        default="cloud-db-nl2sql", help="GCP project ID.")
-    parser.add_argument("--instance_id", type=str,
-                        default="evalbench", help="Bigtable instance ID.")
-    parser.add_argument("--table", type=str, default=None,
-                        help="Table name to inspect.")
-    parser.add_argument("--limit", type=int, default=0,
-                        help="Limit the number of rows to fetch. Unprovided or a value of 0 means no limit.")
-    parser.add_argument("--rebuild", action="store_true", default=False,
-                        help="Whether to rebuild the Bigtable tables if they exist.")
-    parser.add_argument('--delete', action="store_true", default=False,
-                        help="Whether to delete the Bigtable tables.")
+        description="Load a sqlite database into Bigtable."
+    )
+    parser.add_argument(
+        "--db_path", type=str, help="Path or glob pattern for the sqlite database(s)."
+    )
+    parser.add_argument(
+        "--gcp_project_id", type=str, default="cloud-db-nl2sql", help="GCP project ID."
+    )
+    parser.add_argument(
+        "--instance_id", type=str, default="evalbench", help="Bigtable instance ID."
+    )
+    parser.add_argument(
+        "--table", type=str, default=None, help="Table name to inspect."
+    )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=0,
+        help="Limit the number of rows to fetch. Unprovided or a value of 0 means no limit.",
+    )
+    parser.add_argument(
+        "--rebuild",
+        action="store_true",
+        default=False,
+        help="Whether to rebuild the Bigtable tables if they exist.",
+    )
+    parser.add_argument(
+        "--delete",
+        action="store_true",
+        default=False,
+        help="Whether to delete the Bigtable tables.",
+    )
     # explicitly look for tables, comma separated
-    parser.add_argument("--tables", type=str, default=None,
-                        help="A comma-separated list of tables to load.")
+    parser.add_argument(
+        "--tables",
+        type=str,
+        default=None,
+        help="A comma-separated list of tables to load.",
+    )
     args = parser.parse_args()
 
     # Initialize Bigtable clients
     admin_client: bigtable.Client = bigtable.Client(
-        project=args.gcp_project_id, admin=True)
+        project=args.gcp_project_id, admin=True
+    )
     data_client: BigtableClient = BigtableClient()
     instance: Instance = admin_client.instance(args.instance_id)
 
     # filter by tables if the arg is provided.
     allowed_tables = None
     if args.tables:
-        allowed_tables = {t.strip() for t in args.tables.split(',')}
+        allowed_tables = {t.strip() for t in args.tables.split(",")}
 
-    with get_db_cursor(db_path=Path(os.path.expanduser(args.db_path))) as cur:
-        # fetch database schema
-        db_schema = get_all_tables_and_columns(cur)
+    # get all .sqlite database file paths that match db_path regex
+    db_paths = [
+        path
+        for path in glob.glob(os.path.expanduser(args.db_path))
+        if path.endswith(".sqlite")
+    ]
 
-        print("Fetched database schema:")
-        for table_id in db_schema.keys():
-            print("Table:", table_id)
-            for col, col_type in db_schema[table_id]:
-                print(f"  {col}: {col_type}")
+    if not db_paths:
+        print(f"No databases found matching path: {args.db_path}")
+        exit()
+    print(f"Found {len(db_paths)} databases to load.")
 
-        for tbl in db_schema.keys():
-            if allowed_tables and tbl not in allowed_tables:
-                continue
+    for db_path in db_paths:
+        print(f"--- Processing database: {db_path} ---")
+        with get_db_cursor(db_path=Path(db_path)) as cur:
+            # fetch database schema
+            db_schema = get_all_tables_and_columns(cur)
 
-            cols = db_schema[tbl]
-            # Connect or create the bigtable object
-            bt_table = BigtableRelationalTable(admin_client.instance_admin_client, instance, tbl, {
-                col_name: col_type for col_name, col_type in cols},
-                gcp_project_id=args.gcp_project_id,
-                instance_id=args.instance_id)
+            print("Fetched database schema:")
+            for table_id in db_schema.keys():
+                print("Table:", table_id)
+                for col, col_type in db_schema[table_id]:
+                    print(f"  {col}: {col_type}")
 
-            if args.delete:
-                bt_table.delete()
-                continue
+            for tbl in db_schema.keys():
+                if allowed_tables and tbl not in allowed_tables:
+                    continue
 
-            # (re)build resources if they exist
-            elif args.rebuild:
-                bt_table.rebuild()
+                cols = db_schema[tbl]
+                # Connect or create the bigtable object
+                bt_table = BigtableRelationalTable(
+                    admin_client.instance_admin_client,
+                    instance,
+                    tbl,
+                    {col_name: col_type for col_name, col_type in cols},
+                    gcp_project_id=args.gcp_project_id,
+                    instance_id=args.instance_id,
+                )
 
-            bt_table.test_connection()
+                if args.delete:
+                    bt_table.delete()
+                    continue
 
-            # get and insert rows
-            rows = get_rows_from_sqlite(cur, tbl, limit=args.limit)
-            print(f"Fetched {len(rows)} rows from sqlite table", tbl)
-            bt_table.insert_rows(rows)
+                # (re)build resources if they exist
+                elif args.rebuild:
+                    bt_table.rebuild()
 
-            print("Inserted rows into Bigtable.")
+                bt_table.test_connection()
+
+                # get and insert rows
+                rows = get_rows_from_sqlite(cur, tbl, limit=args.limit)
+                print(f"Fetched {len(rows)} rows from sqlite table", tbl)
+                bt_table.insert_rows(rows)
+
+                print("Inserted rows into Bigtable.")
