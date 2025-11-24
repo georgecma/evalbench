@@ -13,6 +13,7 @@ from google.cloud.bigtable.row import DirectRow
 from google.cloud.bigtable.batcher import MutationsBatcher
 from google.cloud.bigtable_v2.services.bigtable.client import BigtableClient
 from uuid import uuid4
+import hashlib
 
 DEFAULT_COLUMN_FAMILY = "columns"
 
@@ -25,6 +26,13 @@ $ python ./datasets/utils/load_db_to_bigtable.py
 --db_path=./db_connections/bird/.* 
 --rebuild
 --limit 10
+
+Dryrun mode:
+$ python ./datasets/utils/load_db_to_bigtable.py
+--db_path=./db_connections/bird/.* 
+--dry_run
+--limit 10
+
 """
 
 
@@ -38,6 +46,7 @@ class BigtableRelationalTable:
     table: Table
     logical_view: LogicalView
     instance_admin_client: BigtableInstanceAdminClient
+    dry_run: bool
 
     def __init__(
         self,
@@ -47,6 +56,7 @@ class BigtableRelationalTable:
         columns: dict,
         gcp_project_id: str,
         instance_id: str,
+        dry_run: bool,
     ):
         # initialize backing table
         self.instance_admin_client = instance_admin_client
@@ -80,6 +90,8 @@ class BigtableRelationalTable:
         query_string += f" FROM `{self.backing_table_id}`"
         self.logical_view.query = query_string
 
+        self.dry_run = dry_run
+
     def delete(self):
         # delete resources if they exist
         try:
@@ -95,6 +107,14 @@ class BigtableRelationalTable:
             pass
 
     def rebuild(self):
+        if self.dry_run:
+            print("Dry run mode, table to create:")
+            print(self.table.name)
+            print()
+            print("Dry run mode, logical view to create:")
+            print("View: ", self.logical_view)
+            return
+
         self.delete()
 
         print("Rebuilding table", self.table.name)
@@ -112,6 +132,12 @@ class BigtableRelationalTable:
         )
 
     def test_connection(self) -> None | Exception:
+        if self.dry_run:
+            print("Dry run mode. Not testing connection to:")
+            print("Table:", self.table.name)
+            print("Logical view:", self.logical_view_name)
+            return
+
         if not self.table.exists():
             raise NotFound(f"Table {self.backing_table_id} does not exist.")
 
@@ -120,6 +146,10 @@ class BigtableRelationalTable:
         )
 
     def insert_rows(self, rows):
+        if self.dry_run:
+            print("Dry run mode, not inserting", len(rows), "rows.")
+            return
+
         mutations_batcher: MutationsBatcher = self.table.mutations_batcher()
         print("Inserting", len(rows), "rows.")
         row_count = 0
@@ -128,7 +158,10 @@ class BigtableRelationalTable:
             row_key_elements: list = []
             for i, col_name in enumerate(self.columns):
                 row_key_elements.append(f"#{col_name}#{row[i]}")
-            row_key: str = "".join(row_key_elements)
+
+            # hash rowkey to be less than 4096 bytes
+            long_row_key: str = "".join(row_key_elements)
+            row_key = hashlib.sha256(long_row_key.encode("utf-8")).hexdigest()
 
             direct_row: DirectRow = self.table.direct_row(row_key.encode("utf-8"))
             for i, col_name in enumerate(self.columns):
@@ -221,6 +254,13 @@ if __name__ == "__main__":
         default=None,
         help="A comma-separated list of tables to load.",
     )
+    parser.add_argument(
+        "--dry_run",
+        action="store_true",
+        default=False,
+        help="Dry run mode - parse and print sqllite table schemas and equivalent Bigtable schemas but don't make any change.",
+    )
+
     args = parser.parse_args()
 
     # Initialize Bigtable clients
@@ -272,6 +312,7 @@ if __name__ == "__main__":
                     {col_name: col_type for col_name, col_type in cols},
                     gcp_project_id=args.gcp_project_id,
                     instance_id=args.instance_id,
+                    dry_run=args.dry_run,
                 )
 
                 if args.delete:
