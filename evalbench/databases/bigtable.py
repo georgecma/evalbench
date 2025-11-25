@@ -72,7 +72,6 @@ class BigtableDB(DB):
             row: QueryResultRow
             for row in execute_query_iterator:
                 result.append(dict(row.fields))
-
         except Exception as e:
             error = str(e)
 
