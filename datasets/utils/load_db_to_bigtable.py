@@ -14,66 +14,123 @@ from google.cloud.bigtable.batcher import MutationsBatcher
 from google.cloud.bigtable_v2.services.bigtable.client import BigtableClient
 from uuid import uuid4
 import hashlib
+from abc import ABC, abstractmethod
+from enum import Enum
 
 DEFAULT_COLUMN_FAMILY = "columns"
 
+
+def bigtable_table_id(sqlite_table_id: str) -> str:
+    return sqlite_table_id + "-bt"
+
+
+class TableOp(str, Enum):
+    REBUILD = "REBUILD"  # rebuild the entire table and insert data
+    DELETE_ONLY = "DELETE_ONLY"  # delete table only
+    NO_ACTION = "NO_ACTION"  # don't do anything
+
+
+class LogicalViewType(str, Enum):
+    TYPED = "TYPED"
+    UNTYPED = "UNTYPED"
+    NO_ACTION = "NO_ACTION"
+
+
 """
-One-time setup helper to load a sqllite database into Bigtable with ADK. 
+One-time setup helper to load a sqlite database into Bigtable.
 
-Command from project root:
+This script can:
+- Rebuild Bigtable tables from sqlite tables (--table_op=REBUILD).
+- Delete Bigtable tables (--table_op=DELETE_ONLY).
+- Create typed or untyped logical views on top of Bigtable tables (--view_op).
 
-$ python ./datasets/utils/load_db_to_bigtable.py
---db_path=./db_connections/bird/.* 
---rebuild
---limit 10
+Example commands from the project root:
 
-Dryrun mode:
-$ python ./datasets/utils/load_db_to_bigtable.py
---db_path=./db_connections/bird/.* 
---dry_run
---limit 10
+# Rebuild all tables and create typed views for all sqlite dbs in a directory
+$ python ./datasets/utils/load_db_to_bigtable.py /
+    --db_path="./path/to/your/databases/*.sqlite" /
+    --table_op=REBUILD /
+    --view_op=TYPED
+
+# Only rebuild specific tables and create untyped views, with a row limit
+$ python ./datasets/utils/load_db_to_bigtable.py /
+    --db_path="./path/to/your/database.sqlite" /
+    --tables="table1,table2" /
+    --table_op=REBUILD /
+    --view_op=UNTYPED /
+    --limit=1000
+
+# Delete all bigtable tables associated with a database
+$ python ./datasets/utils/load_db_to_bigtable.py /
+    --db_path="./path/to/your/database.sqlite" /
+    --table_op=DELETE_ONLY
+
+# "Dry run" - just print the schema of the sqlite databases without changing Bigtable
+$ python ./datasets/utils/load_db_to_bigtable.py /
+    --db_path="./path/to/your/databases/*.sqlite"
 
 """
 
 
-class BigtableRelationalTable:
-    # A logical view with a hidden Bigtable table backing it to simulate a relational table
-
-    columns: dict
-    table_id: str
-    backing_table_id: str
-
-    table: Table
+class LogicalViewBuilder(ABC):
     logical_view: LogicalView
-    instance_admin_client: BigtableInstanceAdminClient
-    dry_run: bool
 
     def __init__(
         self,
         instance_admin_client: BigtableInstanceAdminClient,
-        instance: Instance,
-        table_id: str,
-        columns: dict,
         gcp_project_id: str,
         instance_id: str,
-        dry_run: bool,
+        from_table: str,
+        columns: dict,
+        logical_view_id: str,
     ):
-        # initialize backing table
         self.instance_admin_client = instance_admin_client
         self.gcp_project_id = gcp_project_id
         self.instance_id = instance_id
-        self.table_id = table_id  # this is actually the logical view id
-        self.logical_view_name = (
-            f"projects/{gcp_project_id}/instances/{instance_id}/logicalViews/{table_id}"
-        )
-        self.backing_table_id = table_id + "-bt"
-        self.table = Table(self.backing_table_id, instance)
-        self.columns = {}
-        for col in columns.keys():
-            self.columns[col] = columns[col]
-
-        # create logical view to represent the table
+        self.from_table = from_table
+        self.columns = columns
+        self.logical_view_id = logical_view_id
         self.logical_view = LogicalView()
+
+    @abstractmethod
+    def query(self) -> str:
+        pass
+
+    def parent(self) -> str:
+        return f"projects/{self.gcp_project_id}/instances/{self.instance_id}"
+
+    def name(self) -> str:
+        return self.parent() + f"/logicalViews/{self.logical_view_id}"
+
+    def test_connection(self):
+        self.instance_admin_client.get_logical_view(name=self.name())
+
+    def delete(self):
+        print(f"Deleting logical view: {self.logical_view_id}...")
+        try:
+            self.instance_admin_client.delete_logical_view(name=self.name())
+            print(f"Deleted logical view: {self.logical_view_id}")
+        except NotFound:
+            print(f"Logical view {self.logical_view_id} not found, skipping deletion.")
+            pass
+
+    def build(self):
+        self.logical_view.name = self.name()
+        self.logical_view.query = self.query()
+
+        print(f"Creating logical view: {self.logical_view_id}...")
+        self.instance_admin_client.create_logical_view(
+            parent=self.parent(),
+            logical_view_id=self.logical_view_id,
+            logical_view=self.logical_view,
+        )
+        print(f"Created logical view: {self.logical_view_id}")
+
+        self.test_connection()
+
+
+class TypedLogicalViewBuilder(LogicalViewBuilder):
+    def query(self):
         query_string = "SELECT "
         for col_name in self.columns.keys():
             # sanitize the col to just an alphanumeric string
@@ -87,69 +144,72 @@ class BigtableRelationalTable:
             part = f"{cast_col} AS `{sanitized_col_name}`, "
             query_string += part
         query_string = query_string[:-2]  # remove last comma
-        query_string += f" FROM `{self.backing_table_id}`"
-        self.logical_view.query = query_string
+        query_string += f" FROM `{self.from_table}`"
+        return query_string
 
-        self.dry_run = dry_run
+
+class UntypedLogicalViewBuilder(LogicalViewBuilder):
+    def query(self):
+        query_string = "SELECT "
+        for col_name in self.columns.keys():
+            # sanitize the col to just an alphanumeric string
+            sanitized_col_name = "".join([c for c in col_name if c.isalnum()])
+            part = f'{DEFAULT_COLUMN_FAMILY}["{col_name}"] AS `{sanitized_col_name}`, '
+            query_string += part
+        query_string = query_string[:-2]  # remove last comma
+        query_string += f" FROM `{self.from_table}`"
+        return query_string
+
+
+class BigtableTableBuilder:
+    columns: dict
+    table_id: str
+    backing_table_id: str
+
+    table: Table
+    instance_admin_client: BigtableInstanceAdminClient
+
+    def __init__(
+        self,
+        instance_admin_client: BigtableInstanceAdminClient,
+        instance: Instance,
+        table_id: str,
+        columns: dict,
+        gcp_project_id: str,
+        instance_id: str,
+    ):
+        # initialize backing table
+        self.instance_admin_client = instance_admin_client
+        self.gcp_project_id = gcp_project_id
+        self.instance_id = instance_id
+        self.backing_table_id = bigtable_table_id(table_id)
+        self.table = Table(self.backing_table_id, instance)
+        self.columns = {}
+        for col in columns.keys():
+            self.columns[col] = columns[col]
 
     def delete(self):
-        # delete resources if they exist
-        try:
-            self.instance_admin_client.delete_logical_view(name=self.logical_view_name)
-            print("Deleted", self.logical_view_name)
-        except NotFound:
-            pass
-
+        print(f"Deleting Bigtable table: {self.backing_table_id}...")
         try:
             self.table.delete()
             print("Deleted", self.table.name)
         except NotFound:
+            print(f"Table {self.backing_table_id} not found, skipping deletion.")
             pass
 
-    def rebuild(self):
-        if self.dry_run:
-            print("Dry run mode, table to create:")
-            print(self.table.name)
-            print()
-            print("Dry run mode, logical view to create:")
-            print("View: ", self.logical_view)
-            return
-
-        self.delete()
-
-        print("Rebuilding table", self.table.name)
+    def create(self):
         # create table
+        print(f"Creating Bigtable table: {self.backing_table_id}...")
         self.table.create()
         self.table.column_family(DEFAULT_COLUMN_FAMILY).create()
-        # create logical view
-
-        print("Rebuilding logical view", self.logical_view_name)
-        print("View: ", self.logical_view)
-        self.instance_admin_client.create_logical_view(
-            parent=f"projects/{self.gcp_project_id}/instances/{self.instance_id}",
-            logical_view_id=self.table_id,
-            logical_view=self.logical_view,
-        )
+        print(f"Created Bigtable table: {self.backing_table_id}")
 
     def test_connection(self) -> None | Exception:
-        if self.dry_run:
-            print("Dry run mode. Not testing connection to:")
-            print("Table:", self.table.name)
-            print("Logical view:", self.logical_view_name)
-            return
 
         if not self.table.exists():
             raise NotFound(f"Table {self.backing_table_id} does not exist.")
 
-        self.instance_admin_client.get_logical_view(
-            name=f"projects/{self.gcp_project_id}/instances/{self.instance_id}/logicalViews/{self.table_id}"
-        )
-
     def insert_rows(self, rows):
-        if self.dry_run:
-            print("Dry run mode, not inserting", len(rows), "rows.")
-            return
-
         mutations_batcher: MutationsBatcher = self.table.mutations_batcher()
         print("Inserting", len(rows), "rows.")
         row_count = 0
@@ -235,18 +295,6 @@ if __name__ == "__main__":
         default=0,
         help="Limit the number of rows to fetch. Unprovided or a value of 0 means no limit.",
     )
-    parser.add_argument(
-        "--rebuild",
-        action="store_true",
-        default=False,
-        help="Whether to rebuild the Bigtable tables if they exist.",
-    )
-    parser.add_argument(
-        "--delete",
-        action="store_true",
-        default=False,
-        help="Whether to delete the Bigtable tables.",
-    )
     # explicitly look for tables, comma separated
     parser.add_argument(
         "--tables",
@@ -255,10 +303,18 @@ if __name__ == "__main__":
         help="A comma-separated list of tables to load.",
     )
     parser.add_argument(
-        "--dry_run",
-        action="store_true",
-        default=False,
-        help="Dry run mode - parse and print sqllite table schemas and equivalent Bigtable schemas but don't make any change.",
+        "--table_op",
+        type=str,
+        choices=[e.value for e in TableOp],
+        default=TableOp.NO_ACTION.value,
+        help="Choose a table operation, defaults to doing nothing.",
+    )
+    parser.add_argument(
+        "--view_op",
+        type=str,
+        choices=[e.value for e in LogicalViewType],
+        default=LogicalViewType.NO_ACTION.value,
+        help="Choose a view operation, defaults to doing nothing.",
     )
 
     args = parser.parse_args()
@@ -296,38 +352,74 @@ if __name__ == "__main__":
             print("Fetched database schema:")
             for table_id in db_schema.keys():
                 print("Table:", table_id)
-                for col, col_type in db_schema[table_id]:
+                columns = db_schema[table_id]
+                count = 2
+                for col, col_type in columns[:count]:
                     print(f"  {col}: {col_type}")
+                if len(columns) > count:
+                    print(f"  ... ({len(columns) - count} more columns)")
+            print()
 
             for tbl in db_schema.keys():
+                print("Processing table: ", tbl)
+
                 if allowed_tables and tbl not in allowed_tables:
                     continue
 
                 cols = db_schema[tbl]
                 # Connect or create the bigtable object
-                bt_table = BigtableRelationalTable(
+                bt_table = BigtableTableBuilder(
                     admin_client.instance_admin_client,
                     instance,
                     tbl,
                     {col_name: col_type for col_name, col_type in cols},
                     gcp_project_id=args.gcp_project_id,
                     instance_id=args.instance_id,
-                    dry_run=args.dry_run,
                 )
 
-                if args.delete:
+                # table operations
+                if args.table_op == TableOp.DELETE_ONLY:
                     bt_table.delete()
                     continue
+                elif args.table_op == TableOp.REBUILD:
+                    bt_table.delete()
+                    bt_table.create()
+                    # get and insert rows
+                    rows = get_rows_from_sqlite(cur, tbl, limit=args.limit)
+                    print(f"Fetched {len(rows)} rows from sqlite table", tbl)
+                    bt_table.insert_rows(rows)
+                    print("Inserted rows into Bigtable.")
 
-                # (re)build resources if they exist
-                elif args.rebuild:
-                    bt_table.rebuild()
+                # logical view operations
+                try:
+                    bt_table.test_connection()
+                except NotFound:
+                    print(
+                        f"Table {bt_table.backing_table_id} not found. "
+                        "Use --table_op=REBUILD to create it."
+                    )
+                    continue
 
-                bt_table.test_connection()
+                logical_view_builder_args = dict(
+                    instance_admin_client=admin_client.instance_admin_client,
+                    gcp_project_id=args.gcp_project_id,
+                    instance_id=args.instance_id,
+                    from_table=bt_table.backing_table_id,
+                    columns={col_name: col_type for col_name, col_type in cols},
+                )
 
-                # get and insert rows
-                rows = get_rows_from_sqlite(cur, tbl, limit=args.limit)
-                print(f"Fetched {len(rows)} rows from sqlite table", tbl)
-                bt_table.insert_rows(rows)
-
-                print("Inserted rows into Bigtable.")
+                if args.view_op == LogicalViewType.TYPED:
+                    # logical view has the same name as the sqlite table
+                    logical_view_id = tbl
+                    view_builder = TypedLogicalViewBuilder(
+                        **logical_view_builder_args, logical_view_id=logical_view_id
+                    )
+                    view_builder.delete()
+                    view_builder.build()
+                elif args.view_op == LogicalViewType.UNTYPED:
+                    logical_view_id = tbl + "-untyped"
+                    view_builder = UntypedLogicalViewBuilder(
+                        **logical_view_builder_args, logical_view_id=logical_view_id
+                    )
+                    view_builder.delete()
+                    view_builder.build()
