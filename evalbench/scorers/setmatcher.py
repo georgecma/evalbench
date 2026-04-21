@@ -44,6 +44,11 @@ class SetMatcher(comparator.Comparator):
         if golden_error or generated_error:
             return 0, None
         else:
+            # Handle negative examples where execution was skipped due to empty SQL.
+            # If either is None, they are only a match if BOTH are None.
+            if golden_execution_result is None or generated_execution_result is None:
+                score = 100 if golden_execution_result == generated_execution_result else 0
+                return score, None
             try:
                 def _is_document_structure(data):
                     if not isinstance(data, list):
